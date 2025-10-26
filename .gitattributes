@@ -1,2 +1,4 @@
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
 repository/*.jsonl filter=lfs diff=lfs merge=lfs -text
 util/*.jar filter=lfs diff=lfs merge=lfs -text

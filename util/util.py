@@ -9,7 +9,6 @@ class CONSTANTS:
     ddg_max_hop = 1
     max_statement = 10
     graph_database_save_dir = "./graph_database"
-    context_save_dir = "./context_database"
     repository_dir='./repository'
 def set_default(obj):
     if isinstance(obj, set):
