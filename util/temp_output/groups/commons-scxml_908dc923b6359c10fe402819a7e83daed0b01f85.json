@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/ELEvaluator.java",
+			"leftBegin":136,
+			"leftEnd":136,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/ELEvaluator.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/ELEvaluator.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/ELEvaluator.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

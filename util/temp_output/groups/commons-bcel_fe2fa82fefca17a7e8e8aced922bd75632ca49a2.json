@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/statics/Pass2Verifier.java",
+			"leftBegin":1344,
+			"leftEnd":1344,
+			"rightPath":"src/java/org/apache/bcel/verifier/statics/Pass2Verifier.java",
+			"rightBegin":1344,
+			"rightEnd":1344
+		}
+	]
+]

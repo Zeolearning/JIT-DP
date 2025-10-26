@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/org/apache/commons/vfs/cache/NullFilesCacheTests.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/VisitNode.java",
+			"leftBegin":312,
+			"leftEnd":314,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/VisitNode.java",
+			"rightBegin":312,
+			"rightEnd":314
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":774,
+			"leftEnd":774,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":774,
+			"rightEnd":774
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/IvyNodeCallers.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/IvyNodeCallers.java",
+			"rightBegin":141,
+			"rightEnd":141
+		}
+	]
+]

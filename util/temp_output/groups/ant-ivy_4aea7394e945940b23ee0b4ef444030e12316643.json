@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshRepository.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshRepository.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"leftBegin":495,
+			"leftEnd":495,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"rightBegin":499,
+			"rightEnd":502
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"leftBegin":303,
+			"leftEnd":303,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"rightBegin":303,
+			"rightEnd":307
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"leftBegin":470,
+			"leftEnd":469,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"rightBegin":443,
+			"rightEnd":443
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"leftBegin":236,
+			"leftEnd":253,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"rightBegin":227,
+			"rightEnd":226
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"leftBegin":218,
+			"leftEnd":226,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"rightBegin":218,
+			"rightEnd":217
+		}
+	]
+]

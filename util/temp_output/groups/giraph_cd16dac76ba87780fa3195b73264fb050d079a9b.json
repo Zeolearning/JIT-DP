@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/EdgeStore.java",
+			"leftBegin":166,
+			"leftEnd":165,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/EdgeStore.java",
+			"rightBegin":166,
+			"rightEnd":172
+		}
+	]
+]

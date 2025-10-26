@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"rightBegin":138,
+			"rightEnd":138
+		}
+	]
+]

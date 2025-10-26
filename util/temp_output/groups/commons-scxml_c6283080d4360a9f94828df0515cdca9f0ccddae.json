@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jsp/ELEvaluator.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

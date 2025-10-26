@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/ssh/AbstractSshBasedRepository.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/ssh/AbstractSshBasedRepository.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-common/src/test/java/org/apache/parquet/VersionTest.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"parquet-common/src/test/java/org/apache/parquet/VersionTest.java",
+			"rightBegin":82,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-common/src/main/java/org/apache/parquet/VersionParser.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"parquet-common/src/main/java/org/apache/parquet/VersionParser.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-common/src/main/java/org/apache/parquet/VersionParser.java",
+			"leftBegin":116,
+			"leftEnd":117,
+			"rightPath":"parquet-common/src/main/java/org/apache/parquet/VersionParser.java",
+			"rightBegin":116,
+			"rightEnd":117
+		}
+	]
+]

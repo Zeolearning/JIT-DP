@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/test/java/parquet/pig/TestPigSchemaConverter.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"parquet-pig/src/test/java/parquet/pig/TestPigSchemaConverter.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

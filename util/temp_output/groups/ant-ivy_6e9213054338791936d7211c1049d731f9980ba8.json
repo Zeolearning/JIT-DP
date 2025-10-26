@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/namespace/Namespace.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/ivy/plugins/namespace/Namespace.java",
+			"rightBegin":40,
+			"rightEnd":42
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/namespace/Namespace.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/ivy/plugins/namespace/Namespace.java",
+			"rightBegin":62,
+			"rightEnd":64
+		}
+	]
+]

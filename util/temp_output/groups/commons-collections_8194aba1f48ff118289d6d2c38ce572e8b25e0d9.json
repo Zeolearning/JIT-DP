@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/map/IdentityMapTest.java",
+			"leftBegin":1,
+			"leftEnd":153,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/map/IdentityMap.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/test/java/org/apache/commons/collections/map/IdentityMap.java",
+			"rightBegin":39,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/map/package-info.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/collections/map/package-info.java",
+			"rightBegin":31,
+			"rightEnd":30
+		}
+	]
+]

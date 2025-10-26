@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/RangeTest.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/lang/RangeTest.java",
+			"rightBegin":69,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/RangeTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/lang/RangeTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":239,
+			"leftEnd":239,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":240,
+			"rightEnd":240
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

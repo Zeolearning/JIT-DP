@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/org/apache/parquet/format/converter/TestParquetMetadataConverter.java",
+			"leftBegin":298,
+			"leftEnd":298,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/format/converter/TestParquetMetadataConverter.java",
+			"rightBegin":298,
+			"rightEnd":298
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/org/apache/parquet/format/converter/TestParquetMetadataConverter.java",
+			"leftBegin":292,
+			"leftEnd":292,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/format/converter/TestParquetMetadataConverter.java",
+			"rightBegin":292,
+			"rightEnd":292
+		}
+	]
+]

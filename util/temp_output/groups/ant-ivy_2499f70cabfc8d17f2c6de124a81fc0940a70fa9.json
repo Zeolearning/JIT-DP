@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"leftBegin":986,
+			"leftEnd":985,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"rightBegin":987,
+			"rightEnd":994
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"leftBegin":940,
+			"leftEnd":940,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"rightBegin":941,
+			"rightEnd":941
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"leftBegin":939,
+			"leftEnd":938,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"rightBegin":939,
+			"rightEnd":939
+		}
+	]
+]

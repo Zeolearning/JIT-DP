@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"leftBegin":309,
+			"leftEnd":308,
+			"rightPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"rightBegin":231,
+			"rightEnd":308
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"leftBegin":109,
+			"leftEnd":117,
+			"rightPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"rightBegin":40,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"leftBegin":27,
+			"leftEnd":95,
+			"rightPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

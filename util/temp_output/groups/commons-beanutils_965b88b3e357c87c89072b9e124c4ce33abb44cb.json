@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/FastHashMap.java",
+			"rightBegin":1,
+			"rightEnd":714
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/BufferUnderflowException.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/Buffer.java",
+			"rightBegin":1,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":1,
+			"rightEnd":199
+		}
+	]
+]

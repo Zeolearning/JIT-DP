@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/beanutils2/bugs/Jira509TestCase.java",
+			"rightBegin":1,
+			"rightEnd":87
+		}
+	]
+]

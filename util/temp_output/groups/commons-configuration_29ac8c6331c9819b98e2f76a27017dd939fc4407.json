@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"rightBegin":68,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"leftBegin":26,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

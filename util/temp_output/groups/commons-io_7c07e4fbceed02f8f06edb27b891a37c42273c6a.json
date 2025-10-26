@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/CharsetsTestCase.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/io/CharsetsTestCase.java",
+			"rightBegin":34,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/CharsetsTestCase.java",
+			"leftBegin":40,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/commons/io/CharsetsTestCase.java",
+			"rightBegin":45,
+			"rightEnd":44
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/ProviderTestSuite.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/test/org/apache/commons/vfs/test/ProviderTestSuite.java",
+			"rightBegin":200,
+			"rightEnd":200
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/ProviderTestSuite.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/vfs/test/ProviderTestSuite.java",
+			"rightBegin":78,
+			"rightEnd":79
+		}
+	]
+]

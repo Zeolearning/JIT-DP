@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestEventSource.java",
+			"leftBegin":364,
+			"leftEnd":363,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestEventSource.java",
+			"rightBegin":364,
+			"rightEnd":395
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/BaseEventSource.java",
+			"leftBegin":252,
+			"leftEnd":251,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/BaseEventSource.java",
+			"rightBegin":252,
+			"rightEnd":270
+		}
+	]
+]

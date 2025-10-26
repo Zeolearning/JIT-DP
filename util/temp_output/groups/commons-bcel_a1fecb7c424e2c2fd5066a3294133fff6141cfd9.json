@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/Signature.java",
+			"leftBegin":268,
+			"leftEnd":268,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/Signature.java",
+			"rightBegin":268,
+			"rightEnd":268
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/PMGClass.java",
+			"leftBegin":172,
+			"leftEnd":172,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/PMGClass.java",
+			"rightBegin":172,
+			"rightEnd":172
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/SourceFile.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/SourceFile.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	]
+]

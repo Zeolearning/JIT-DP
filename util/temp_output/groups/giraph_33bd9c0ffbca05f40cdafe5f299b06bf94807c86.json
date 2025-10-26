@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

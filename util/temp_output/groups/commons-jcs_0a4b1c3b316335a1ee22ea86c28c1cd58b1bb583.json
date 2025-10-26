@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"rightBegin":54,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"leftBegin":3,
+			"leftEnd":22,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"rightBegin":3,
+			"rightEnd":2
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheNoWaitFacade.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

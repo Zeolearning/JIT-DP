@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/StackMessageLog.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/StackMessageLog.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

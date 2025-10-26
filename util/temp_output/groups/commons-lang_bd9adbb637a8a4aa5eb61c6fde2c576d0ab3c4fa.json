@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"leftBegin":687,
+			"leftEnd":693,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"rightBegin":687,
+			"rightEnd":737
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"leftBegin":695,
+			"leftEnd":699,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"rightBegin":739,
+			"rightEnd":743
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"leftBegin":701,
+			"leftEnd":703,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"rightBegin":745,
+			"rightEnd":748
+		}
+	]
+]

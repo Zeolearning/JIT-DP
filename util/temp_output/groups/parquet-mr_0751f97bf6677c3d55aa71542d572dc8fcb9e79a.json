@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/format/converter/TestParquetMetadataConverter.java",
+			"leftBegin":247,
+			"leftEnd":247,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/format/converter/TestParquetMetadataConverter.java",
+			"rightBegin":247,
+			"rightEnd":247
+		}
+	]
+]

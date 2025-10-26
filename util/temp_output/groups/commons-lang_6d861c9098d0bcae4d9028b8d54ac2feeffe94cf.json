@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/Interpolation.java",
+			"leftBegin":9,
+			"leftEnd":8,
+			"rightPath":"src/java/org/apache/commons/lang/text/Interpolation.java",
+			"rightBegin":9,
+			"rightEnd":10
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/MappedMessageFormat.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/java/org/apache/commons/lang/text/MappedMessageFormat.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	]
+]

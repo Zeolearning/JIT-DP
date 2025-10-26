@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/PerfTestUtils.java",
+			"leftBegin":165,
+			"leftEnd":165,
+			"rightPath":"src/test/java/org/apache/commons/math/PerfTestUtils.java",
+			"rightBegin":166,
+			"rightEnd":166
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/PerfTestUtils.java",
+			"leftBegin":90,
+			"leftEnd":93,
+			"rightPath":"src/test/java/org/apache/commons/math/PerfTestUtils.java",
+			"rightBegin":90,
+			"rightEnd":94
+		}
+	]
+]

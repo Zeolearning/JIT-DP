@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/NumericEntityEscaper.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/NumericEntityEscaper.java",
+			"rightBegin":38,
+			"rightEnd":41
+		}
+	]
+]

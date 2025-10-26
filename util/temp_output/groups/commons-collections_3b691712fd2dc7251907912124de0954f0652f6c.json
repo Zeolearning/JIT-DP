@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/trie/PatriciaTrieTest.java",
+			"leftBegin":348,
+			"leftEnd":347,
+			"rightPath":"src/test/java/org/apache/commons/collections4/trie/PatriciaTrieTest.java",
+			"rightBegin":348,
+			"rightEnd":367
+		}
+	]
+]

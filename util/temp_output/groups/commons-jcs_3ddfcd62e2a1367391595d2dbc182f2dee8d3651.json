@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheClientTester.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheClientTester.java",
+			"rightBegin":147,
+			"rightEnd":147
+		}
+	]
+]

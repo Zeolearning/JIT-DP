@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractHierarchicalConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":896
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestAbstractHierarchicalConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":888
+		}
+	]
+]

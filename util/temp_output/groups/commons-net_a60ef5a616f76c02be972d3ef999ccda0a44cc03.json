@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"leftBegin":61,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"rightBegin":61,
+			"rightEnd":70
+		}
+	]
+]

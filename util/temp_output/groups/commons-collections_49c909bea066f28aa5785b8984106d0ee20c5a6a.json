@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"rightBegin":60,
+			"rightEnd":60
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/collections/functors/InvokerTransformer.java",
+			"rightBegin":46,
+			"rightEnd":59
+		}
+	]
+]

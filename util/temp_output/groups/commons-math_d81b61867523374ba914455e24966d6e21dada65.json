@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/util/OpenIntToFieldTest.java",
+			"rightBegin":1,
+			"rightEnd":300
+		}
+	]
+]

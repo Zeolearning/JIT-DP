@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/Verifier.java",
+			"leftBegin":238,
+			"leftEnd":238,
+			"rightPath":"src/java/org/apache/bcel/verifier/Verifier.java",
+			"rightBegin":238,
+			"rightEnd":238
+		}
+	]
+]

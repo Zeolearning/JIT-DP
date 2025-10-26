@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClustererTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClustererTest.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+			"rightBegin":99,
+			"rightEnd":152
+		}
+	]
+]

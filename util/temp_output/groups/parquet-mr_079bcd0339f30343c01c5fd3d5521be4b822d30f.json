@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-common/src/test/java/org/apache/parquet/VersionTest.java",
+			"rightBegin":1,
+			"rightEnd":62
+		}
+	]
+]

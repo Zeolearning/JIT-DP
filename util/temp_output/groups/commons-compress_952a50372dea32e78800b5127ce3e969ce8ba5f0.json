@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"leftBegin":479,
+			"leftEnd":479,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"rightBegin":479,
+			"rightEnd":479
+		}
+	]
+]

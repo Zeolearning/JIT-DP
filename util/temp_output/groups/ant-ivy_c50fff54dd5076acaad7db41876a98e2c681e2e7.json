@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"rightBegin":306,
+			"rightEnd":305
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"leftBegin":250,
+			"leftEnd":249,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"rightBegin":265,
+			"rightEnd":268
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"leftBegin":201,
+			"leftEnd":211,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"rightBegin":224,
+			"rightEnd":226
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"rightBegin":174,
+			"rightEnd":196
+		}
+	]
+]

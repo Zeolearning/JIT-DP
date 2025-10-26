@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/Flat3Map.java",
+			"rightBegin":1,
+			"rightEnd":1101
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestFlat3Map.java",
+			"rightBegin":1,
+			"rightEnd":214
+		}
+	]
+]

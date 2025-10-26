@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/LateralTCPDiscoveryListenerUnitTest.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/LateralTCPDiscoveryListenerUnitTest.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

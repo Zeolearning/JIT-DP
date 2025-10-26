@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ConstantPool.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ConstantPool.java",
+			"rightBegin":146,
+			"rightEnd":157
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/Constants.java",
+			"leftBegin":1514,
+			"leftEnd":1513,
+			"rightPath":"src/main/java/org/apache/bcel/Constants.java",
+			"rightBegin":1514,
+			"rightEnd":1532
+		}
+	]
+]

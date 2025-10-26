@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"rightBegin":77,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	]
+]

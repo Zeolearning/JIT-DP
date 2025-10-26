@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"leftBegin":134,
+			"leftEnd":133,
+			"rightPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"rightBegin":134,
+			"rightEnd":134
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/access/SystemPropetyUnitTest.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/org/apache/commons/jcs/access/SystemPropertyUnitTest.java",
+			"rightBegin":33,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/access/SystemPropetyUnitTest.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/org/apache/commons/jcs/access/SystemPropertyUnitTest.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/AbstractURLHandler.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/ivy/util/url/AbstractURLHandler.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"leftBegin":203,
+			"leftEnd":203,
+			"rightPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"rightBegin":204,
+			"rightEnd":204
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"leftBegin":190,
+			"leftEnd":189,
+			"rightPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"rightBegin":190,
+			"rightEnd":190
+		}
+	]
+]

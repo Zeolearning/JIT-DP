@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/mysql/MySQLTableOptimizer.java",
+			"leftBegin":194,
+			"leftEnd":193,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/mysql/MySQLTableOptimizer.java",
+			"rightBegin":194,
+			"rightEnd":197
+		}
+	]
+]

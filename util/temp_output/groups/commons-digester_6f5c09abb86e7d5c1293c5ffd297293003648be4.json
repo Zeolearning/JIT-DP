@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/DigesterLoader.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/DigesterLoader.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"leftBegin":261,
+			"leftEnd":261,
+			"rightPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"rightBegin":261,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"leftBegin":259,
+			"leftEnd":259,
+			"rightPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"rightBegin":259,
+			"rightEnd":259
+		}
+	]
+]

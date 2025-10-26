@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyAntSettingsBuildFileTest.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	]
+]

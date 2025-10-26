@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/BigMatrixImplTest.java",
+			"leftBegin":412,
+			"leftEnd":413,
+			"rightPath":"src/test/org/apache/commons/math/linear/BigMatrixImplTest.java",
+			"rightBegin":414,
+			"rightEnd":415
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/BigMatrixImplTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/org/apache/commons/math/linear/BigMatrixImplTest.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	]
+]

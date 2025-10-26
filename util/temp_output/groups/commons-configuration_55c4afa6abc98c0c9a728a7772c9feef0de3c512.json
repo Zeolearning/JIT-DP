@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/combined/CombinedConfigurationBuilder.java",
+			"leftBegin":1463,
+			"leftEnd":1464,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/combined/CombinedConfigurationBuilder.java",
+			"rightBegin":1463,
+			"rightEnd":1472
+		}
+	]
+]

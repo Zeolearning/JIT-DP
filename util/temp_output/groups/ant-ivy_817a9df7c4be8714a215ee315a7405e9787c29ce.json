@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyBuildNumberTest.java",
+			"rightBegin":1,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildNumber.java",
+			"rightBegin":1,
+			"rightEnd":202
+		}
+	]
+]

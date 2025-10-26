@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"leftBegin":419,
+			"leftEnd":418,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"rightBegin":420,
+			"rightEnd":426
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"leftBegin":417,
+			"leftEnd":417,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"rightBegin":417,
+			"rightEnd":418
+		}
+	]
+]

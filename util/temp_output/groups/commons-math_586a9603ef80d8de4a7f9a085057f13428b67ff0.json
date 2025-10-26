@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/FixedElapsedTimeTest.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/FixedElapsedTimeTest.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	]
+]

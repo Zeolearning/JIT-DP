@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/INVOKEDYNAMIC.java",
+			"leftBegin":130,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/bcel/generic/INVOKEDYNAMIC.java",
+			"rightBegin":130,
+			"rightEnd":143
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"leftBegin":234,
+			"leftEnd":234,
+			"rightPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"rightBegin":234,
+			"rightEnd":234
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"rightBegin":251,
+			"rightEnd":251
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"leftBegin":135,
+			"leftEnd":144,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"rightBegin":154,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"rightBegin":128,
+			"rightEnd":146
+		}
+	]
+]

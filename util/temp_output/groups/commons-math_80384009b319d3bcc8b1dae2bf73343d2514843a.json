@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"leftBegin":535,
+			"leftEnd":535,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"rightBegin":535,
+			"rightEnd":535
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"leftBegin":527,
+			"leftEnd":527,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"rightBegin":527,
+			"rightEnd":527
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"leftBegin":324,
+			"leftEnd":324,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/DfpMath.java",
+			"rightBegin":324,
+			"rightEnd":324
+		}
+	]
+]

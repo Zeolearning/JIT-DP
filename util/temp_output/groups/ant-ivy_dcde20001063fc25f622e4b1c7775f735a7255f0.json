@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/report/ResolveReportTest.java",
+			"leftBegin":82,
+			"leftEnd":83,
+			"rightPath":"test/java/org/apache/ivy/core/report/ResolveReportTest.java",
+			"rightBegin":83,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/core/report/ResolveReportTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"test/java/org/apache/ivy/core/report/ResolveReportTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheStore.java",
+			"leftBegin":161,
+			"leftEnd":160,
+			"rightPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheStore.java",
+			"rightBegin":163,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheStore.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheStore.java",
+			"rightBegin":158,
+			"rightEnd":159
+		}
+	],
+	[
+		{
+			"leftPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheCacheWriterFactory.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"gora-jcache/src/main/java/org/apache/gora/jcache/store/JCacheCacheWriterFactory.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

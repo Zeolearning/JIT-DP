@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerEvaluatorTest.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/DummyLemmatizer.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/DummyLemmaSampleStream.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	]
+]

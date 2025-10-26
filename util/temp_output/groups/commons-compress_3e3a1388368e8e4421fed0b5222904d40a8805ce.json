@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/HasCharset.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/CharsetAccessor.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"leftBegin":59,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

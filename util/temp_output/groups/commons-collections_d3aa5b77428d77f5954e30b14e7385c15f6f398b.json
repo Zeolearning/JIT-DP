@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/MapBackedSet.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/MapBackedSet.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/MapBackedSet.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/MapBackedSet.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/NumberTransformer.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/java/org/apache/commons/math/util/NumberTransformer.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/NumberTransformer.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/java/org/apache/commons/math/util/NumberTransformer.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

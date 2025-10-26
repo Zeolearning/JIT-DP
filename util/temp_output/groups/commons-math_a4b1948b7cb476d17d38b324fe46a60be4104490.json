@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"leftBegin":366,
+			"leftEnd":365,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"rightBegin":366,
+			"rightEnd":398
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":419,
+			"leftEnd":418,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":422,
+			"rightEnd":575
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":85,
+			"rightEnd":87
+		}
+	]
+]

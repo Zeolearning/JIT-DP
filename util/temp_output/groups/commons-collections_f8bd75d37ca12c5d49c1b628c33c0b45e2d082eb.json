@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java",
+			"leftBegin":257,
+			"leftEnd":256,
+			"rightPath":"src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java",
+			"rightBegin":257,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java",
+			"leftBegin":277,
+			"leftEnd":277,
+			"rightPath":"src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java",
+			"rightBegin":277,
+			"rightEnd":277
+		}
+	]
+]

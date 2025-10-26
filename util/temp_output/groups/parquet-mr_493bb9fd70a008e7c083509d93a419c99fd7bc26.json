@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"leftBegin":211,
+			"leftEnd":212,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"rightBegin":212,
+			"rightEnd":213
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"leftBegin":189,
+			"leftEnd":190,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"rightBegin":190,
+			"rightEnd":191
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

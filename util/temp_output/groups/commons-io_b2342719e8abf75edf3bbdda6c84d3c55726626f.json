@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1849,
+			"leftEnd":1849,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1850,
+			"rightEnd":1851
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1775,
+			"leftEnd":1775,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1775,
+			"rightEnd":1776
+		}
+	]
+]

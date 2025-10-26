@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/examples/Mini/MiniParser.java",
+			"leftBegin":1103,
+			"leftEnd":1103,
+			"rightPath":"src/examples/Mini/MiniParser.java",
+			"rightBegin":1103,
+			"rightEnd":1103
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/Mini/MiniParser.java",
+			"leftBegin":1045,
+			"leftEnd":1046,
+			"rightPath":"src/examples/Mini/MiniParser.java",
+			"rightBegin":1045,
+			"rightEnd":1046
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/Mini/MiniParser.java",
+			"leftBegin":1027,
+			"leftEnd":1027,
+			"rightPath":"src/examples/Mini/MiniParser.java",
+			"rightBegin":1027,
+			"rightEnd":1027
+		}
+	]
+]

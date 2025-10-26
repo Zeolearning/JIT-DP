@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/digester3/binder/BinderClassLoader.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"core/src/main/java/org/apache/commons/digester3/binder/BinderClassLoader.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

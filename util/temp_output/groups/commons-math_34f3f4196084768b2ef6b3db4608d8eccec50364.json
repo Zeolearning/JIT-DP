@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

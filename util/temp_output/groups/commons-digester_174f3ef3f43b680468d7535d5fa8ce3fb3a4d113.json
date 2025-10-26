@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"leftBegin":84,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/SetPropertiesIgnoreRule.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/SetPropertiesIgnoreRule.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

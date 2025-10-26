@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/BintrayResolverTest.java",
+			"rightBegin":1,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/BintrayResolver.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	]
+]

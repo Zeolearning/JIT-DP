@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/DefaultToStringStyleTest.java",
+			"leftBegin":90,
+			"leftEnd":93,
+			"rightPath":"src/test/org/apache/commons/lang/builder/DefaultToStringStyleTest.java",
+			"rightBegin":90,
+			"rightEnd":93
+		}
+	]
+]

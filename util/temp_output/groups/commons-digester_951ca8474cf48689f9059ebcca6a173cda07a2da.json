@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/LinkedRuleBuilder.java",
+			"leftBegin":219,
+			"leftEnd":218,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/LinkedRuleBuilder.java",
+			"rightBegin":219,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/PluginDeclarationRuleBuilder.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	]
+]

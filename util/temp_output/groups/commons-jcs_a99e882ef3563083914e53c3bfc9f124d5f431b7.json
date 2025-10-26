@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"leftBegin":6,
+			"leftEnd":5,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"rightBegin":6,
+			"rightEnd":6
+		},
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"rightBegin":57,
+			"rightEnd":58
+		}
+	]
+]

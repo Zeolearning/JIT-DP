@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/FieldLUDecompositionImpl.java",
+			"leftBegin":346,
+			"leftEnd":346,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/FieldLUDecompositionImpl.java",
+			"rightBegin":307,
+			"rightEnd":342
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/FieldLUDecompositionImpl.java",
+			"leftBegin":256,
+			"leftEnd":294,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/FieldLUDecompositionImpl.java",
+			"rightBegin":256,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/FieldDecompositionSolver.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/FieldDecompositionSolver.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":265,
+			"rightEnd":265
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":247,
+			"leftEnd":247,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":247,
+			"rightEnd":246
+		}
+	]
+]

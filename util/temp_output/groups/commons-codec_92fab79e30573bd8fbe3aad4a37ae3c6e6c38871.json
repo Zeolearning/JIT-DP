@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"leftBegin":74,
+			"leftEnd":80,
+			"rightPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"rightBegin":75,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"rightBegin":34,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"leftBegin":52,
+			"leftEnd":60,
+			"rightPath":"src/test/org/apache/commons/codec/language/bm/RuleTest.java",
+			"rightBegin":62,
+			"rightEnd":61
+		}
+	]
+]

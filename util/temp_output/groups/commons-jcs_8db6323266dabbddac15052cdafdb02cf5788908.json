@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"leftBegin":484,
+			"leftEnd":484,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"rightBegin":484,
+			"rightEnd":484
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"leftBegin":451,
+			"leftEnd":451,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"rightBegin":451,
+			"rightEnd":451
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"leftBegin":392,
+			"leftEnd":392,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java",
+			"rightBegin":392,
+			"rightEnd":392
+		}
+	]
+]

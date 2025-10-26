@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/collections4/splitmap/AbstractIterableGetMapDecorator.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java",
+			"leftBegin":48,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java",
+			"rightBegin":48,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	]
+]

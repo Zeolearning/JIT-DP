@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/jexl/EnvJexlTestSuite.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/jexl/EnvJexlTestSuite.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/jexl/StaticMethodTest.java",
+			"rightBegin":1,
+			"rightEnd":74
+		}
+	]
+]

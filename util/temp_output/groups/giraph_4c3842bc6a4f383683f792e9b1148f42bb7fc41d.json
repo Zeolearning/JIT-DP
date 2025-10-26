@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/giraph/TestPredicateLock.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

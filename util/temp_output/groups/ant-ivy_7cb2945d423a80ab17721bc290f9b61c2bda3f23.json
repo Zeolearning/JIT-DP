@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/event/download/EndArtifactDownloadEvent.java",
+			"leftBegin":10,
+			"leftEnd":9,
+			"rightPath":"src/java/fr/jayasoft/ivy/event/download/EndArtifactDownloadEvent.java",
+			"rightBegin":10,
+			"rightEnd":10
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/event/download/EndArtifactDownloadEvent.java",
+			"leftBegin":27,
+			"leftEnd":28,
+			"rightPath":"src/java/fr/jayasoft/ivy/event/download/EndArtifactDownloadEvent.java",
+			"rightBegin":28,
+			"rightEnd":35
+		}
+	]
+]

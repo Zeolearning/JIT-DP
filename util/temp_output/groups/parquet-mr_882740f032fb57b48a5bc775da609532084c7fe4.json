@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"rightBegin":49,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"rightBegin":19,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"leftBegin":41,
+			"leftEnd":43,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/counters/mapred/MapRedCounterLoader.java",
+			"rightBegin":42,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/test/java/org/apache/parquet/pig/TestPigSchemaConverter.java",
+			"leftBegin":247,
+			"leftEnd":246,
+			"rightPath":"parquet-pig/src/test/java/org/apache/parquet/pig/TestPigSchemaConverter.java",
+			"rightBegin":247,
+			"rightEnd":274
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/org/apache/parquet/pig/PigSchemaConverter.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"parquet-pig/src/main/java/org/apache/parquet/pig/PigSchemaConverter.java",
+			"rightBegin":287,
+			"rightEnd":287
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/org/apache/parquet/pig/PigSchemaConverter.java",
+			"leftBegin":242,
+			"leftEnd":242,
+			"rightPath":"parquet-pig/src/main/java/org/apache/parquet/pig/PigSchemaConverter.java",
+			"rightBegin":242,
+			"rightEnd":243
+		}
+	]
+]

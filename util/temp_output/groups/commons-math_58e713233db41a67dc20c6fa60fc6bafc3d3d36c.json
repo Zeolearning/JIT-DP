@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/GillFieldStepInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":157
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/GillFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/Metaphone.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/Metaphone.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/Metaphone.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/Metaphone.java",
+			"rightBegin":94,
+			"rightEnd":95
+		}
+	]
+]

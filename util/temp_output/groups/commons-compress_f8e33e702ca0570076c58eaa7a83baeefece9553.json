@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java",
+			"leftBegin":181,
+			"leftEnd":182,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java",
+			"rightBegin":181,
+			"rightEnd":181
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"leftBegin":248,
+			"leftEnd":249,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"rightBegin":248,
+			"rightEnd":248
+		}
+	]
+]

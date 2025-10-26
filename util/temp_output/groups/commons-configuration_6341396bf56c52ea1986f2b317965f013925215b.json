@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationRuntimeException.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationRuntimeException.java",
+			"rightBegin":20,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationRuntimeException.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationRuntimeException.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

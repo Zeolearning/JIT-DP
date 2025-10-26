@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"rightBegin":182,
+			"rightEnd":182
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"rightBegin":180,
+			"rightEnd":180
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/commons/lang/math/NumberRange.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	]
+]

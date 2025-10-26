@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"rightBegin":54,
+			"rightEnd":56
+		}
+	]
+]

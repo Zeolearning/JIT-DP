@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java",
+			"leftBegin":736,
+			"leftEnd":736,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java",
+			"rightBegin":736,
+			"rightEnd":736
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java",
+			"leftBegin":738,
+			"leftEnd":739,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java",
+			"rightBegin":738,
+			"rightEnd":737
+		}
+	]
+]

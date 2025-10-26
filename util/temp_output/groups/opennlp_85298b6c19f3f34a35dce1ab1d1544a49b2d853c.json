@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"leftBegin":60,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"rightBegin":64,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"leftBegin":55,
+			"leftEnd":56,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"rightBegin":55,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DictionaryNameFinder.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	]
+]

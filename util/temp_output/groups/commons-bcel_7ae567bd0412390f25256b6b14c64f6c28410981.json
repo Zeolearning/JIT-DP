@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"leftBegin":469,
+			"leftEnd":471,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"rightBegin":469,
+			"rightEnd":471
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	]
+]

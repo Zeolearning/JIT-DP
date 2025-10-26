@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/tar/BigFilesIT.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/BigFilesIT.java",
+			"rightBegin":33,
+			"rightEnd":42
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/tar/BigFilesIT.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/BigFilesIT.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

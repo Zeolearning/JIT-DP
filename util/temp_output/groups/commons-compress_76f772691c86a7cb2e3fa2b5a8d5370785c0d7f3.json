@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream.java",
+			"leftBegin":104,
+			"leftEnd":103,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream.java",
+			"rightBegin":104,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorRoundtripTest.java",
+			"leftBegin":42,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorRoundtripTest.java",
+			"rightBegin":42,
+			"rightEnd":44
+		}
+	]
+]

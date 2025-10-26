@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/sftp/test/SftpProviderTestCase.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	]
+]

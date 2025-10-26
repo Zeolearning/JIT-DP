@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira61TestCase.java",
+			"leftBegin":440,
+			"leftEnd":440,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira61TestCase.java",
+			"rightBegin":440,
+			"rightEnd":440
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira61TestCase.java",
+			"leftBegin":406,
+			"leftEnd":406,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira61TestCase.java",
+			"rightBegin":406,
+			"rightEnd":406
+		}
+	]
+]

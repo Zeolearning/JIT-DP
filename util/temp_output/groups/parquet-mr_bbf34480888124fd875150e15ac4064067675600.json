@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"leftBegin":130,
+			"leftEnd":129,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"rightBegin":131,
+			"rightEnd":158
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

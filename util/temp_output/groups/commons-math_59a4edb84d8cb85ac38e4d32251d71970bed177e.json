@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"leftBegin":91,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"rightBegin":102,
+			"rightEnd":102
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"rightBegin":93,
+			"rightEnd":96
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"leftBegin":74,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"rightBegin":74,
+			"rightEnd":82
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"leftBegin":79,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"rightBegin":84,
+			"rightEnd":91
+		}
+	]
+]

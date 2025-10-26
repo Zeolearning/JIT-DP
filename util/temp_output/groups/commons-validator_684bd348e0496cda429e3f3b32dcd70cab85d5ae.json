@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"rightBegin":287,
+			"rightEnd":287
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"leftBegin":281,
+			"leftEnd":281,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"rightBegin":281,
+			"rightEnd":281
+		}
+	]
+]

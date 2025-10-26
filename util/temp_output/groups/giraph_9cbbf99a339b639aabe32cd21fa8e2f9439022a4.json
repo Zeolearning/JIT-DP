@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-hbase/src/test/java/org/apache/giraph/io/hbase/TestHBaseRootMarkerVertextFormat.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"giraph-hbase/src/test/java/org/apache/giraph/io/hbase/TestHBaseRootMarkerVertextFormat.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

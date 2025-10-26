@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestAbstractConfigurationBasicFeatures.java",
+			"leftBegin":1029,
+			"leftEnd":1028,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestAbstractConfigurationBasicFeatures.java",
+			"rightBegin":1029,
+			"rightEnd":1043
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"leftBegin":1060,
+			"leftEnd":1061,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"rightBegin":1069,
+			"rightEnd":1074
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"leftBegin":1058,
+			"leftEnd":1057,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"rightBegin":1058,
+			"rightEnd":1066
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"rightBegin":34,
+			"rightEnd":34
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"rightBegin":20,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualsProperty.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

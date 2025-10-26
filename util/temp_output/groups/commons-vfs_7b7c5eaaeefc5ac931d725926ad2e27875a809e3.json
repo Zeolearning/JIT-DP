@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"rightBegin":117,
+			"rightEnd":116
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/auth/StaticUserAuthenticator.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

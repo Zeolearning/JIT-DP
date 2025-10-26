@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/xml/XmlIvyConfigurationParser.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/java/fr/jayasoft/ivy/xml/XmlIvyConfigurationParser.java",
+			"rightBegin":184,
+			"rightEnd":188
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/xml/XmlIvyConfigurationParser.java",
+			"leftBegin":182,
+			"leftEnd":182,
+			"rightPath":"src/java/fr/jayasoft/ivy/xml/XmlIvyConfigurationParser.java",
+			"rightBegin":182,
+			"rightEnd":182
+		}
+	]
+]

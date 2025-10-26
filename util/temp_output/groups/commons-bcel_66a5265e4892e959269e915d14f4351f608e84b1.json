@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ConstantPoolGen.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/java/org/apache/bcel/generic/ConstantPoolGen.java",
+			"rightBegin":135,
+			"rightEnd":137
+		}
+	]
+]

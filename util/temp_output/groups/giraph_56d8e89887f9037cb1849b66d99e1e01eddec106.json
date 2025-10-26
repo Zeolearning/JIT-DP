@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/edge/SimpleHiveToEdge.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/edge/SimpleHiveToEdge.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

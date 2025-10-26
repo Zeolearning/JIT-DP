@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"leftBegin":126,
+			"leftEnd":125,
+			"rightPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"rightBegin":129,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	]
+]

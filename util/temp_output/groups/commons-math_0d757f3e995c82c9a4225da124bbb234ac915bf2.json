@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"leftBegin":193,
+			"leftEnd":196,
+			"rightPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"rightBegin":223,
+			"rightEnd":222
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"leftBegin":193,
+			"leftEnd":192,
+			"rightPath":"src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+			"rightBegin":193,
+			"rightEnd":222
+		}
+	]
+]

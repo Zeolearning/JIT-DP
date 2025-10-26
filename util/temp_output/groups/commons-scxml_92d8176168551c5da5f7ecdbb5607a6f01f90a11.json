@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":150,
+			"rightEnd":151
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":143,
+			"leftEnd":142,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":141,
+			"rightEnd":141
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":140,
+			"rightEnd":139
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":36,
+			"rightEnd":35
+		}
+	]
+]

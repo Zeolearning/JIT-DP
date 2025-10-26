@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelWriter.java",
+			"leftBegin":71,
+			"leftEnd":70,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelWriter.java",
+			"rightBegin":71,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelReader.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelReader.java",
+			"rightBegin":68,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelReader.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/io/GISModelReader.java",
+			"rightBegin":88,
+			"rightEnd":87
+		}
+	]
+]

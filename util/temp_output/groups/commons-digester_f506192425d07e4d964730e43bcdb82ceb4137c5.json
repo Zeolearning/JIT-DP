@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/AbstractParamTypeBuilder.java",
+			"leftBegin":60,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/AbstractParamTypeBuilder.java",
+			"rightBegin":60,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/AbstractParamTypeBuilder.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/AbstractParamTypeBuilder.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/sampling/AbstractFieldStepInterpolator.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/sampling/AbstractFieldStepInterpolator.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

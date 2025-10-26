@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/util/DelegatingFileSystemOptionsBuilderTest.java",
+			"rightBegin":1,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/util/DelegatingFileSystemOptionsBuilder.java",
+			"rightBegin":1,
+			"rightEnd":461
+		}
+	]
+]

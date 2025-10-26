@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestBaseProxyIntCollection.java",
+			"rightBegin":1,
+			"rightEnd":328
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"rightBegin":1,
+			"rightEnd":87
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/decorators/BaseProxyIntList.java",
+			"rightBegin":1,
+			"rightEnd":121
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/decorators/BaseProxyIntCollection.java",
+			"rightBegin":1,
+			"rightEnd":144
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/TypeUtilsTest.java",
+			"leftBegin":719,
+			"leftEnd":718,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/TypeUtilsTest.java",
+			"rightBegin":719,
+			"rightEnd":724
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java",
+			"leftBegin":1543,
+			"leftEnd":1542,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java",
+			"rightBegin":1543,
+			"rightEnd":1558
+		}
+	]
+]

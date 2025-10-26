@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"leftBegin":235,
+			"leftEnd":234,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"rightBegin":236,
+			"rightEnd":246
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"leftBegin":231,
+			"leftEnd":230,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"rightBegin":231,
+			"rightEnd":231
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

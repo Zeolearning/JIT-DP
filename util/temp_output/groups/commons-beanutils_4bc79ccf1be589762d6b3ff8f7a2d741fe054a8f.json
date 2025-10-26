@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/RowSetDynaClass.java",
+			"rightBegin":1,
+			"rightEnd":428
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaRowSetTestCase.java",
+			"rightBegin":1,
+			"rightEnd":284
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"leftBegin":215,
+			"leftEnd":215,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"rightBegin":215,
+			"rightEnd":215
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"leftBegin":213,
+			"leftEnd":213,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"rightBegin":213,
+			"rightEnd":213
+		}
+	]
+]

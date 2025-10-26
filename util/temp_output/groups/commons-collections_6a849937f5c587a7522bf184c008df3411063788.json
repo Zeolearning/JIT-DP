@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/set/TransformedSortedSet.java",
+			"leftBegin":73,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/collections/set/TransformedSortedSet.java",
+			"rightBegin":73,
+			"rightEnd":74
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/set/TransformedSortedSet.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/collections/set/TransformedSortedSet.java",
+			"rightBegin":76,
+			"rightEnd":77
+		}
+	]
+]

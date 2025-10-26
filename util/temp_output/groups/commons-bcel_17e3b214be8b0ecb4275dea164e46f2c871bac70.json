@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"leftBegin":487,
+			"leftEnd":487,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"rightBegin":481,
+			"rightEnd":480
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"leftBegin":482,
+			"leftEnd":486,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"rightBegin":481,
+			"rightEnd":480
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"leftBegin":73,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/JavaClass.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

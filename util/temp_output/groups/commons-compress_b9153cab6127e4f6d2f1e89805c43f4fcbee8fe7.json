@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"rightBegin":129,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"rightBegin":147,
+			"rightEnd":149
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"leftBegin":134,
+			"leftEnd":135,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"rightBegin":134,
+			"rightEnd":134
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"leftBegin":137,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java",
+			"rightBegin":136,
+			"rightEnd":144
+		}
+	]
+]

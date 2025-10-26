@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GrahamScanTest.java",
+			"leftBegin":40,
+			"leftEnd":52,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GrahamScanTest.java",
+			"rightBegin":39,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"leftBegin":102,
+			"leftEnd":101,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"rightBegin":102,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GrahamScanTest.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GrahamScanTest.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	]
+]

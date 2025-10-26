@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/unix/finger.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/main/java/examples/unix/finger.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/unix/fwhois.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/examples/unix/fwhois.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

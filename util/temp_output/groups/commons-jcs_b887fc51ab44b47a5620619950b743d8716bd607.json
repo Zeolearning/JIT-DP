@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/PooledCacheEventQueue.java",
+			"leftBegin":93,
+			"leftEnd":97,
+			"rightPath":"src/java/org/apache/jcs/engine/PooledCacheEventQueue.java",
+			"rightBegin":93,
+			"rightEnd":94
+		}
+	]
+]

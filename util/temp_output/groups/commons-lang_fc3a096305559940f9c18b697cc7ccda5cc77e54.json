@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":414,
+			"leftEnd":413,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":417,
+			"rightEnd":417
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":409,
+			"leftEnd":408,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":411,
+			"rightEnd":411
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":404,
+			"leftEnd":403,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":405,
+			"rightEnd":405
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":394,
+			"leftEnd":393,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":394,
+			"rightEnd":394
+		}
+	]
+]

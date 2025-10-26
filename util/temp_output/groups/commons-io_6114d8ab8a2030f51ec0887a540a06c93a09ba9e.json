@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"rightBegin":62,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/io/testtools/FileBasedTestCase.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

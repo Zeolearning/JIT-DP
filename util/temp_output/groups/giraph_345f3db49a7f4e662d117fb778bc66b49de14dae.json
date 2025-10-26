@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"leftBegin":267,
+			"leftEnd":267,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"rightBegin":267,
+			"rightEnd":267
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"rightBegin":175,
+			"rightEnd":175
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	]
+]

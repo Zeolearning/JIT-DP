@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromDfltResource.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromDfltResource.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

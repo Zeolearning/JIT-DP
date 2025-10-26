@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"rightBegin":79,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"rightBegin":25,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/Persistent.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

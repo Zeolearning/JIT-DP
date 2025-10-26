@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/compressed/CompressedFileFileSystem.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/compressed/CompressedFileFileProvider.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/compressed/CompressedFileFileObject.java",
+			"rightBegin":1,
+			"rightEnd":105
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/version/ChainVersionMatcher.java",
+			"leftBegin":14,
+			"leftEnd":13,
+			"rightPath":"src/java/fr/jayasoft/ivy/version/ChainVersionMatcher.java",
+			"rightBegin":14,
+			"rightEnd":15
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/version/ChainVersionMatcher.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/java/fr/jayasoft/ivy/version/ChainVersionMatcher.java",
+			"rightBegin":28,
+			"rightEnd":40
+		}
+	]
+]

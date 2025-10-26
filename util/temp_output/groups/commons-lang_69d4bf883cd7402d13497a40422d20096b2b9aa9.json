@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+			"leftBegin":1101,
+			"leftEnd":1105,
+			"rightPath":"src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+			"rightBegin":1101,
+			"rightEnd":1101
+		}
+	]
+]

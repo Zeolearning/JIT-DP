@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/BCELifierTestCase.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/bcel/util/BCELifierTestCase.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/BCELifierTestCase.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/bcel/util/BCELifierTestCase.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

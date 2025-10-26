@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":1027,
+			"leftEnd":1027,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":1027,
+			"rightEnd":1027
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":65,
+			"rightEnd":70
+		}
+	]
+]

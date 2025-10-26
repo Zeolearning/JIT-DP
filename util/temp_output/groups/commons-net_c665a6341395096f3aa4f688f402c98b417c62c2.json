@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"leftBegin":48,
+			"leftEnd":72,
+			"rightPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"rightBegin":45,
+			"rightEnd":49
+		},
+		{
+			"leftPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"rightBegin":44,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/examples/nntp/NNTPUtils.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	]
+]

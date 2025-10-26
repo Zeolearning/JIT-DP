@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/MultiMap.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/collections/MultiMap.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/MultiMap.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/collections/MultiMap.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

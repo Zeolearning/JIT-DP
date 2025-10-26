@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyBuildList.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"rightBegin":66,
+			"rightEnd":78
+		}
+	]
+]

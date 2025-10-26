@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTestCase.java",
+			"rightBegin":1,
+			"rightEnd":160
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":2549,
+			"leftEnd":2548,
+			"rightPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":2598,
+			"rightEnd":2598
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1433,
+			"leftEnd":1432,
+			"rightPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1433,
+			"rightEnd":1481
+		}
+	]
+]

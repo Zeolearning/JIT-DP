@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileDAO.java",
+			"rightBegin":1,
+			"rightEnd":152
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileUtils.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileContentType.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileContent.java",
+			"rightBegin":1,
+			"rightEnd":151
+		}
+	]
+]

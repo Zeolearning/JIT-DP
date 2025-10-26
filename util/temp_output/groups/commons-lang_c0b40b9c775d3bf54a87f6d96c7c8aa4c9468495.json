@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"leftBegin":218,
+			"leftEnd":218,
+			"rightPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"rightBegin":218,
+			"rightEnd":218
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/lang/exception/NestableRuntimeExceptionTestCase.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatistics.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatistics.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

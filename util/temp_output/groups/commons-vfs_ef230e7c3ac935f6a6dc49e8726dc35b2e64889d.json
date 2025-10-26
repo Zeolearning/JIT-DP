@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/PermissionsTests.java",
+			"leftBegin":125,
+			"leftEnd":125,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/PermissionsTests.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	]
+]

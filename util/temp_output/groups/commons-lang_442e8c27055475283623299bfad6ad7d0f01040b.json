@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTimeZonesTest.java",
+			"rightBegin":1,
+			"rightEnd":49
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"leftBegin":275,
+			"leftEnd":282,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"rightBegin":263,
+			"rightEnd":262
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"leftBegin":262,
+			"leftEnd":273,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"rightBegin":262,
+			"rightEnd":261
+		}
+	]
+]

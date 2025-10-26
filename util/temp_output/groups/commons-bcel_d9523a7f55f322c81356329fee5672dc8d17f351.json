@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/BCELFactory.java",
+			"leftBegin":344,
+			"leftEnd":344,
+			"rightPath":"src/java/org/apache/bcel/util/BCELFactory.java",
+			"rightBegin":346,
+			"rightEnd":346
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/util/BCELFactory.java",
+			"leftBegin":338,
+			"leftEnd":338,
+			"rightPath":"src/java/org/apache/bcel/util/BCELFactory.java",
+			"rightBegin":338,
+			"rightEnd":340
+		}
+	]
+]

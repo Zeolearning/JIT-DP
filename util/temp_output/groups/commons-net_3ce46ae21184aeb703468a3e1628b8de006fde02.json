@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"rightBegin":92,
+			"rightEnd":93
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"leftBegin":66,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"rightBegin":66,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"leftBegin":89,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/net/io/CopyStreamAdapter.java",
+			"rightBegin":90,
+			"rightEnd":89
+		}
+	]
+]

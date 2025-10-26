@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestBaseProxyIntList.java",
+			"rightBegin":1,
+			"rightEnd":244
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"rightBegin":82,
+			"rightEnd":82
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"rightBegin":2,
+			"rightEnd":2
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/decorators/TestAll.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

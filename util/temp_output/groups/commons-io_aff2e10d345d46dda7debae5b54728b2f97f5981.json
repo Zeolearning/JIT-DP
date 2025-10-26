@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/ByteOrderMarkTestCase.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/io/ByteOrderMarkTestCase.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/ByteOrderMarkTestCase.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/io/ByteOrderMarkTestCase.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

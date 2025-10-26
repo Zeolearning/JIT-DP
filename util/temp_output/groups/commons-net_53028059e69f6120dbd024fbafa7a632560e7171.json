@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPHTTPClient.java",
+			"leftBegin":80,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPHTTPClient.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

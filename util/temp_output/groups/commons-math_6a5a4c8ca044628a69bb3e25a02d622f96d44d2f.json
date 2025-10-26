@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathArrays.java",
+			"leftBegin":370,
+			"leftEnd":370,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathArrays.java",
+			"rightBegin":370,
+			"rightEnd":370
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"leftBegin":50,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"rightBegin":50,
+			"rightEnd":52
+		}
+	]
+]

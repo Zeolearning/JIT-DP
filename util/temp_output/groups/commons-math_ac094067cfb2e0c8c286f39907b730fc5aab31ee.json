@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+			"leftBegin":673,
+			"leftEnd":675,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+			"rightBegin":673,
+			"rightEnd":674
+		}
+	]
+]

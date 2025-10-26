@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrTokenizer.java",
+			"leftBegin":708,
+			"leftEnd":707,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrTokenizer.java",
+			"rightBegin":708,
+			"rightEnd":708
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrTokenizer.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrTokenizer.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

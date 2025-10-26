@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExplodingInputStream.java",
+			"leftBegin":139,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExplodingInputStream.java",
+			"rightBegin":139,
+			"rightEnd":146
+		}
+	]
+]

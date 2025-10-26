@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"rightBegin":38,
+			"rightEnd":44
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/SetPropertiesHandler.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

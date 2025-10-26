@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/control/CompositeCache.java",
+			"leftBegin":650,
+			"leftEnd":649,
+			"rightPath":"src/java/org/apache/jcs/engine/control/CompositeCache.java",
+			"rightBegin":652,
+			"rightEnd":653
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/control/CompositeCache.java",
+			"leftBegin":632,
+			"leftEnd":631,
+			"rightPath":"src/java/org/apache/jcs/engine/control/CompositeCache.java",
+			"rightBegin":632,
+			"rightEnd":633
+		}
+	]
+]

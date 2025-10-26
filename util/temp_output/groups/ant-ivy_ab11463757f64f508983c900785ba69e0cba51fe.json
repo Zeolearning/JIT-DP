@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"leftBegin":94,
+			"leftEnd":95,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"rightBegin":94,
+			"rightEnd":97
+		}
+	]
+]

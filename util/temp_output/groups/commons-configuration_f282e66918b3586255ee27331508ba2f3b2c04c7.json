@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiFileBuilderParametersImpl.java",
+			"rightBegin":1,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiFileBuilderProperties.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiFileBuilderParametersImplBeanInfo.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiFileBuilderParametersImpl.java",
+			"rightBegin":1,
+			"rightEnd":155
+		}
+	]
+]

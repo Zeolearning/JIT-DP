@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/splitmap/TestTransformedMap.java",
+			"rightBegin":1,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/splitmap/TestSplitMapUtils.java",
+			"rightBegin":1,
+			"rightEnd":241
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/splitmap/TestAll.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	]
+]

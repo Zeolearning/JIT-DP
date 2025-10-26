@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"rightBegin":28,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/math/optimization/PointCostPair.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

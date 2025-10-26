@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"rightBegin":53,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

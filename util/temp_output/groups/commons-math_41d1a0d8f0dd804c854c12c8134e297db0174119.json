@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/RandomDataImpl.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"src/java/org/apache/commons/math/RandomDataImpl.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/RandomDataImpl.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/java/org/apache/commons/math/RandomDataImpl.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	]
+]

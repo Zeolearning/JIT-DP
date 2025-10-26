@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"leftBegin":476,
+			"leftEnd":479,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"rightBegin":477,
+			"rightEnd":476
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"leftBegin":401,
+			"leftEnd":401,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"rightBegin":401,
+			"rightEnd":402
+		}
+	]
+]

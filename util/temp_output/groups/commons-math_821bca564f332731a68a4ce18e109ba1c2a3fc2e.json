@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/SummaryStatisticsAbstractTest.java",
+			"leftBegin":205,
+			"leftEnd":204,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/SummaryStatisticsAbstractTest.java",
+			"rightBegin":204,
+			"rightEnd":204
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/SummaryStatisticsAbstractTest.java",
+			"leftBegin":201,
+			"leftEnd":201,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/SummaryStatisticsAbstractTest.java",
+			"rightBegin":201,
+			"rightEnd":200
+		}
+	]
+]

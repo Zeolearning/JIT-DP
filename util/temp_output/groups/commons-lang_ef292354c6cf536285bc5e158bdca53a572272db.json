@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/util/UtilTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/util/BitFieldTest.java",
+			"rightBegin":1,
+			"rightEnd":337
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/util/BitField.java",
+			"rightBegin":1,
+			"rightEnd":340
+		}
+	]
+]

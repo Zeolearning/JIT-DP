@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/jcs/engine/CacheEventQueue.java",
+			"rightBegin":1,
+			"rightEnd":675
+		}
+	]
+]

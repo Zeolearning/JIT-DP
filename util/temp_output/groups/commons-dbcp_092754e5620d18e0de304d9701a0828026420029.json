@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/PStmtKeyCPDS.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/PStmtKeyCPDS.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/PStmtKeyCPDS.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/PStmtKeyCPDS.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

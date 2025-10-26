@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/geometry/euclidean/threed/LineTest.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/math/geometry/euclidean/threed/LineTest.java",
+			"rightBegin":73,
+			"rightEnd":127
+		}
+	]
+]

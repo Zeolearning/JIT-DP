@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"leftBegin":395,
+			"leftEnd":395,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"rightBegin":395,
+			"rightEnd":395
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

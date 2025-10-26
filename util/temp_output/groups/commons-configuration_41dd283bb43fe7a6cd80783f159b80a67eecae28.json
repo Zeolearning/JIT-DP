@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/NodeTracker.java",
+			"leftBegin":320,
+			"leftEnd":320,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/NodeTracker.java",
+			"rightBegin":320,
+			"rightEnd":334
+		}
+	]
+]

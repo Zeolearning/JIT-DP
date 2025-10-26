@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java",
+			"rightBegin":115,
+			"rightEnd":115
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolatingFunction.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolatingFunction.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	]
+]

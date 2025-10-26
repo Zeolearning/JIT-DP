@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":987,
+			"leftEnd":986,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":990,
+			"rightEnd":991
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":981,
+			"leftEnd":980,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":982,
+			"rightEnd":983
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":968,
+			"leftEnd":967,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":968,
+			"rightEnd":968
+		}
+	]
+]

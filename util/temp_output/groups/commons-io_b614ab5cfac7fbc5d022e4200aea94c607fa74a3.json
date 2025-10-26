@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/ClassLoaderObjectInputStreamTest.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/test/java/org/apache/commons/io/input/ClassLoaderObjectInputStreamTest.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	]
+]

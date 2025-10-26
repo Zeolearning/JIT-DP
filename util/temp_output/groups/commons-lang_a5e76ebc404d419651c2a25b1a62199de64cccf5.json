@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/annotation/Contract.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/annotation/ThreadingBehavior.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	]
+]

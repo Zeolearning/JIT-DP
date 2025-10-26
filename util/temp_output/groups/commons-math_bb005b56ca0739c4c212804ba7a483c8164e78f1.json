@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/correlation/PearsonsCorrelationTest.java",
+			"leftBegin":163,
+			"leftEnd":162,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/correlation/PearsonsCorrelationTest.java",
+			"rightBegin":163,
+			"rightEnd":183
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+			"leftBegin":171,
+			"leftEnd":171,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+			"rightBegin":171,
+			"rightEnd":171
+		}
+	]
+]

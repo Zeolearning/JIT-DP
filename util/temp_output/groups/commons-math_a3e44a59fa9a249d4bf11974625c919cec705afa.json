@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"rightBegin":123,
+			"rightEnd":123
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"rightBegin":117,
+			"rightEnd":117
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"leftBegin":120,
+			"leftEnd":120,
+			"rightPath":"src/test/java/org/apache/commons/math3/primes/PrimesTest.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	]
+]

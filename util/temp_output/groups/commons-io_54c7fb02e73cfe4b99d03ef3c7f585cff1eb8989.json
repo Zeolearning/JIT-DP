@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/LockableFileWriter.java",
+			"leftBegin":274,
+			"leftEnd":279,
+			"rightPath":"src/main/java/org/apache/commons/io/output/LockableFileWriter.java",
+			"rightBegin":274,
+			"rightEnd":275
+		}
+	]
+]

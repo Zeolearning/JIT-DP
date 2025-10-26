@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"leftBegin":175,
+			"leftEnd":189,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"rightBegin":175,
+			"rightEnd":184
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"leftBegin":172,
+			"leftEnd":173,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"rightBegin":172,
+			"rightEnd":173
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"leftBegin":162,
+			"leftEnd":162,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"rightBegin":162,
+			"rightEnd":162
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/imap/IMAPTest.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/net/imap/IMAPTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

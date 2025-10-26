@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/solvers/LaguerreSolver.java",
+			"leftBegin":147,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/solvers/LaguerreSolver.java",
+			"rightBegin":149,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/solvers/LaguerreSolver.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/solvers/LaguerreSolver.java",
+			"rightBegin":146,
+			"rightEnd":147
+		}
+	]
+]

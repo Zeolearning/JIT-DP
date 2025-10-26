@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpClientFactory.java",
+			"leftBegin":149,
+			"leftEnd":150,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpClientFactory.java",
+			"rightBegin":149,
+			"rightEnd":148
+		}
+	]
+]

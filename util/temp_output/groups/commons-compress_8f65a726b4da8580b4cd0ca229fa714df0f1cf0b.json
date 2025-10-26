@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/ArchiverFactory.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/java/org/apache/commons/compress/ArchiverFactory.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/CompressorFactory.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/java/org/apache/commons/compress/CompressorFactory.java",
+			"rightBegin":138,
+			"rightEnd":138
+		}
+	]
+]

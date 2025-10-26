@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"leftBegin":350,
+			"leftEnd":351,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"rightBegin":350,
+			"rightEnd":351
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"leftBegin":343,
+			"leftEnd":344,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"rightBegin":343,
+			"rightEnd":344
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"leftBegin":354,
+			"leftEnd":354,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java",
+			"rightBegin":354,
+			"rightEnd":354
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"leftBegin":36,
+			"leftEnd":40,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedSoftReference.java",
+			"rightBegin":35,
+			"rightEnd":40
+		}
+	]
+]

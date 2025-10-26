@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZUtils.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZUtils.java",
+			"rightBegin":47,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"leftBegin":120,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"rightBegin":121,
+			"rightEnd":122
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

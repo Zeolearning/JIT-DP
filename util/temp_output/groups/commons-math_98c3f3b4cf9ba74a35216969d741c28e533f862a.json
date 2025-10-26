@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/MathExceptionTest.java",
+			"leftBegin":1,
+			"leftEnd":118,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MathException.java",
+			"leftBegin":1,
+			"leftEnd":209,
+			"rightPath":null
+		}
+	]
+]

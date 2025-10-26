@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ObjectCreateBuilder.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ObjectCreateBuilder.java",
+			"rightBegin":163,
+			"rightEnd":164
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ObjectCreateBuilder.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ObjectCreateBuilder.java",
+			"rightBegin":184,
+			"rightEnd":185
+		}
+	]
+]

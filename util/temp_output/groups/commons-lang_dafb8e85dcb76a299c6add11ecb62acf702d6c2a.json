@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang3/StringUtilsTrimEmptyTest.java",
+			"leftBegin":267,
+			"leftEnd":266,
+			"rightPath":"src/test/org/apache/commons/lang3/StringUtilsTrimEmptyTest.java",
+			"rightBegin":267,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":610,
+			"leftEnd":609,
+			"rightPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":610,
+			"rightEnd":673
+		}
+	]
+]

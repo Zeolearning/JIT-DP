@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/SimplexOptimizer.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/SimplexOptimizer.java",
+			"rightBegin":147,
+			"rightEnd":149
+		}
+	]
+]

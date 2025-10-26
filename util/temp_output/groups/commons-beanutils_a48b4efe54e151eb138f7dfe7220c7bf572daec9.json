@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"leftBegin":426,
+			"leftEnd":429,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"rightBegin":423,
+			"rightEnd":424
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"leftBegin":421,
+			"leftEnd":424,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"rightBegin":421,
+			"rightEnd":421
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"leftBegin":559,
+			"leftEnd":565,
+			"rightPath":"src/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"rightBegin":559,
+			"rightEnd":559
+		}
+	]
+]

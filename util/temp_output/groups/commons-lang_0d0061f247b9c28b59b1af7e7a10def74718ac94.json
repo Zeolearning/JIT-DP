@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NumberUtilsTest.java",
+			"leftBegin":523,
+			"leftEnd":522,
+			"rightPath":"src/test/org/apache/commons/lang/NumberUtilsTest.java",
+			"rightBegin":523,
+			"rightEnd":534
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/NumberUtils.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/java/org/apache/commons/lang/NumberUtils.java",
+			"rightBegin":145,
+			"rightEnd":147
+		}
+	]
+]

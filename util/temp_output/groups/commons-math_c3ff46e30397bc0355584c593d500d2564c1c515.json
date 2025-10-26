@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"leftBegin":191,
+			"leftEnd":207,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"rightBegin":192,
+			"rightEnd":192
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"leftBegin":182,
+			"leftEnd":182,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"rightBegin":183,
+			"rightEnd":183
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"leftBegin":175,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"rightBegin":176,
+			"rightEnd":177
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

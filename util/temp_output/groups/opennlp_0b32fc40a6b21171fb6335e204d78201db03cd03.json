@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/NegLogLikelihood.java",
+			"leftBegin":1,
+			"leftEnd":182,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/NegLogLikelihood.java",
+			"rightBegin":1,
+			"rightEnd":159
+		}
+	]
+]

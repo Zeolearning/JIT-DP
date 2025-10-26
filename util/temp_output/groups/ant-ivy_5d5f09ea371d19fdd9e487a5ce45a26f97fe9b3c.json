@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/pack/ZipPacking.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/java/org/apache/ivy/core/pack/ZipPacking.java",
+			"rightBegin":42,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyCachePathTest.java",
+			"leftBegin":290,
+			"leftEnd":289,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyCachePathTest.java",
+			"rightBegin":290,
+			"rightEnd":308
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/pack/Pack200Packing.java",
+			"leftBegin":42,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/ivy/core/pack/Pack200Packing.java",
+			"rightBegin":42,
+			"rightEnd":50
+		}
+	]
+]

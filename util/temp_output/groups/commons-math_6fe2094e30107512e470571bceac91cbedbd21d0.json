@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/UnifiedDistanceMatrix.java",
+			"leftBegin":63,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/UnifiedDistanceMatrix.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"rightBegin":19,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"rightBegin":34,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"rightBegin":100,
+			"rightEnd":100
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"leftBegin":290,
+			"leftEnd":290,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"rightBegin":290,
+			"rightEnd":290
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Main.java",
+			"leftBegin":278,
+			"leftEnd":278,
+			"rightPath":"src/java/fr/jayasoft/ivy/Main.java",
+			"rightBegin":279,
+			"rightEnd":279
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Main.java",
+			"leftBegin":142,
+			"leftEnd":141,
+			"rightPath":"src/java/fr/jayasoft/ivy/Main.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

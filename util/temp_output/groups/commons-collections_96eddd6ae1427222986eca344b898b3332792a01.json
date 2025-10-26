@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"leftBegin":860,
+			"leftEnd":860,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"rightBegin":861,
+			"rightEnd":861
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"leftBegin":859,
+			"leftEnd":858,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"rightBegin":859,
+			"rightEnd":859
+		}
+	]
+]

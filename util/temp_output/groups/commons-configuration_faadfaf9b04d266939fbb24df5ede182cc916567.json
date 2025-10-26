@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestVFSConfigurationBuilder.java",
+			"leftBegin":890,
+			"leftEnd":891,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestVFSConfigurationBuilder.java",
+			"rightBegin":890,
+			"rightEnd":891
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestVFSConfigurationBuilder.java",
+			"leftBegin":880,
+			"leftEnd":881,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestVFSConfigurationBuilder.java",
+			"rightBegin":880,
+			"rightEnd":881
+		}
+	]
+]

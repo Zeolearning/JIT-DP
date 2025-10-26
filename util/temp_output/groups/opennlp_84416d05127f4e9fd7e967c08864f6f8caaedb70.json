@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADTokenSampleStreamFactory.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	]
+]

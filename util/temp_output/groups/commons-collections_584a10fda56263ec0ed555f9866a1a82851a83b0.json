@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java",
+			"leftBegin":788,
+			"leftEnd":787,
+			"rightPath":"src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java",
+			"rightBegin":786,
+			"rightEnd":786
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java",
+			"leftBegin":785,
+			"leftEnd":786,
+			"rightPath":"src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java",
+			"rightBegin":785,
+			"rightEnd":784
+		}
+	]
+]

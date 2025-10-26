@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/AbstractSortedMapDecorator.java",
+			"rightBegin":1,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/AbstractMapEntryDecorator.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/AbstractMapDecorator.java",
+			"rightBegin":1,
+			"rightEnd":176
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/AbstractIteratorDecorator.java",
+			"rightBegin":1,
+			"rightEnd":113
+		}
+	]
+]

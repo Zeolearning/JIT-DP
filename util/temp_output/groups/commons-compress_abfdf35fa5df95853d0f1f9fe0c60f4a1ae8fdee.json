@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorOutputStream.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorOutputStream.java",
+			"rightBegin":63,
+			"rightEnd":62
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/splitmap/TestTransformedMap.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/org/apache/commons/collections/splitmap/TestTransformedMap.java",
+			"rightBegin":19,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/splitmap/TestTransformedMap.java",
+			"leftBegin":133,
+			"leftEnd":132,
+			"rightPath":"src/test/org/apache/commons/collections/splitmap/TestTransformedMap.java",
+			"rightBegin":137,
+			"rightEnd":152
+		}
+	]
+]

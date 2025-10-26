@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/UserPassKey.java",
+			"leftBegin":27,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/UserPassKey.java",
+			"rightBegin":27,
+			"rightEnd":29
+		}
+	]
+]

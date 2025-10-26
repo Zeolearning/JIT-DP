@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"leftBegin":899,
+			"leftEnd":899,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"rightBegin":906,
+			"rightEnd":909
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"leftBegin":897,
+			"leftEnd":897,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"rightBegin":897,
+			"rightEnd":904
+		}
+	]
+]

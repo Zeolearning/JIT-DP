@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/managed/LocalXAConnectionFactory.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/managed/LocalXAConnectionFactory.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/SpanTest.java",
+			"leftBegin":314,
+			"leftEnd":313,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/SpanTest.java",
+			"rightBegin":314,
+			"rightEnd":320
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/Span.java",
+			"leftBegin":204,
+			"leftEnd":203,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/Span.java",
+			"rightBegin":204,
+			"rightEnd":230
+		}
+	]
+]

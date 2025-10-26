@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"leftBegin":662,
+			"leftEnd":661,
+			"rightPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"rightBegin":662,
+			"rightEnd":688
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"leftBegin":898,
+			"leftEnd":899,
+			"rightPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"rightBegin":925,
+			"rightEnd":924
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"leftBegin":650,
+			"leftEnd":650,
+			"rightPath":"src/main/java/org/apache/commons/net/util/Base64.java",
+			"rightBegin":650,
+			"rightEnd":650
+		}
+	]
+]

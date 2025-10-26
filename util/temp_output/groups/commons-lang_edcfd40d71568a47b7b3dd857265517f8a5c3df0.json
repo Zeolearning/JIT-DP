@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"leftBegin":206,
+			"leftEnd":206,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"rightBegin":206,
+			"rightEnd":206
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"rightBegin":178,
+			"rightEnd":178
+		}
+	]
+]

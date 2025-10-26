@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/parquet/proto/ProtoTest.java",
+			"leftBegin":1,
+			"leftEnd":154,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/parquet/proto/TestSandbox.java",
+			"leftBegin":1,
+			"leftEnd":43,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/parquet/proto/BugHuntingTest.java",
+			"leftBegin":1,
+			"leftEnd":54,
+			"rightPath":null
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"leftBegin":637,
+			"leftEnd":641,
+			"rightPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"rightBegin":637,
+			"rightEnd":639
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/FieldGen.java",
+			"leftBegin":230,
+			"leftEnd":234,
+			"rightPath":"src/main/java/org/apache/bcel/generic/FieldGen.java",
+			"rightBegin":230,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":1359,
+			"leftEnd":1359,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":1359,
+			"rightEnd":1359
+		}
+	]
+]

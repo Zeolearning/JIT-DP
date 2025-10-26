@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"parquet-thrift/src/main/java/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	]
+]

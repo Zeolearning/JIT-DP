@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/MonitorInputStream.java",
+			"leftBegin":96,
+			"leftEnd":98,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/MonitorInputStream.java",
+			"rightBegin":96,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/DefaultFileContentTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	]
+]

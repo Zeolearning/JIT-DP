@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportTest.java",
+			"leftBegin":1302,
+			"leftEnd":1301,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportTest.java",
+			"rightBegin":1312,
+			"rightEnd":1319
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportTest.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportTest.java",
+			"rightBegin":49,
+			"rightEnd":58
+		}
+	]
+]

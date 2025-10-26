@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ComparatorChain.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ComparatorChain.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ComparatorChain.java",
+			"leftBegin":169,
+			"leftEnd":168,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ComparatorChain.java",
+			"rightBegin":169,
+			"rightEnd":178
+		}
+	]
+]

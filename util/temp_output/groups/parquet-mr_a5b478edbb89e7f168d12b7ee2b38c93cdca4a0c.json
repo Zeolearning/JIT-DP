@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/Dictionary.java",
+			"leftBegin":11,
+			"leftEnd":11,
+			"rightPath":"parquet-column/src/main/java/parquet/column/Dictionary.java",
+			"rightBegin":11,
+			"rightEnd":11
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/Dictionary.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"parquet-column/src/main/java/parquet/column/Dictionary.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

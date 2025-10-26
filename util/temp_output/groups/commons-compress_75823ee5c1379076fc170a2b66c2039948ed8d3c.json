@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/CRC32VerifyingInputStream.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/CRC32VerifyingInputStream.java",
+			"rightBegin":31,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/LZMA2Decoder.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/LZMA2Decoder.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"rightBegin":36,
+			"rightEnd":35
+		}
+	]
+]

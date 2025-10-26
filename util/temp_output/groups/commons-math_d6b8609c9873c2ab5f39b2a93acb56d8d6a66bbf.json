@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/Variance.java",
+			"leftBegin":234,
+			"leftEnd":236,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/Variance.java",
+			"rightBegin":234,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/Variance.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/Variance.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

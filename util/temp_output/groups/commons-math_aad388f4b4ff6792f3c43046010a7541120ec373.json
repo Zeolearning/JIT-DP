@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	]
+]

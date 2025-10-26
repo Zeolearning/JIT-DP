@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"leftBegin":204,
+			"leftEnd":204,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"rightBegin":204,
+			"rightEnd":204
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"leftBegin":194,
+			"leftEnd":194,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"rightBegin":194,
+			"rightEnd":194
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"leftBegin":190,
+			"leftEnd":190,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"rightBegin":190,
+			"rightEnd":190
+		}
+	]
+]

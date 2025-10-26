@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanPropertyValueEqualsPredicateTest.java",
+			"rightBegin":1,
+			"rightEnd":305
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanToPropertyValueTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":290
+		}
+	]
+]

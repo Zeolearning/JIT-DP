@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ftp/parser/NTFTPEntryParser.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/java/org/apache/commons/net/ftp/parser/NTFTPEntryParser.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ftp/parser/NTFTPEntryParser.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/java/org/apache/commons/net/ftp/parser/NTFTPEntryParser.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

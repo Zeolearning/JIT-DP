@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestCompositeConfiguration.java",
+			"leftBegin":435,
+			"leftEnd":438,
+			"rightPath":"src/test/org/apache/commons/configuration/TestCompositeConfiguration.java",
+			"rightBegin":435,
+			"rightEnd":435
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestCompositeConfiguration.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/test/org/apache/commons/configuration/TestCompositeConfiguration.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

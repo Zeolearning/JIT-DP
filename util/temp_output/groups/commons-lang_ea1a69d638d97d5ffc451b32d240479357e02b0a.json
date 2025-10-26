@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/ReflectionToStringBuilderExcludeWithAnnotationTest.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/ReflectionToStringBuilderExcludeWithAnnotationTest.java",
+			"rightBegin":20,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/ReflectionToStringBuilderExcludeWithAnnotationTest.java",
+			"leftBegin":50,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/ReflectionToStringBuilderExcludeWithAnnotationTest.java",
+			"rightBegin":52,
+			"rightEnd":55
+		}
+	]
+]

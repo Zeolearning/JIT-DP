@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"leftBegin":536,
+			"leftEnd":535,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"rightBegin":536,
+			"rightEnd":570
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"leftBegin":380,
+			"leftEnd":379,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"rightBegin":381,
+			"rightEnd":439
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

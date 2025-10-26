@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/obr/OBRResolverTest.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"test/java/org/apache/ivy/osgi/obr/OBRResolverTest.java",
+			"rightBegin":51,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/obr/OBRResolverTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"test/java/org/apache/ivy/osgi/obr/OBRResolverTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

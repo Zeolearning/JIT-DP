@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/groovy/StaticMethodTest.java",
+			"rightBegin":1,
+			"rightEnd":63
+		}
+	]
+]

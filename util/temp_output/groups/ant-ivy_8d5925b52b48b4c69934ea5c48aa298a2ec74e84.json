@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/p2/P2Descriptor.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/java/org/apache/ivy/osgi/p2/P2Descriptor.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

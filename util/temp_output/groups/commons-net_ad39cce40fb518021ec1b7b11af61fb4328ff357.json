@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"rightBegin":106,
+			"rightEnd":106
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"leftBegin":97,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"leftBegin":25,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/net/telnet/TelnetClient.java",
+			"rightBegin":25,
+			"rightEnd":24
+		}
+	]
+]

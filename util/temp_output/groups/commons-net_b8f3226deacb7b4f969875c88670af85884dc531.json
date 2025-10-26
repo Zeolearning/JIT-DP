@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":151,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":144,
+			"rightEnd":145
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":115,
+			"leftEnd":121,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":115,
+			"rightEnd":118
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":130,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":127,
+			"rightEnd":127
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":144,
+			"leftEnd":149,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":140,
+			"rightEnd":142
+		}
+	]
+]

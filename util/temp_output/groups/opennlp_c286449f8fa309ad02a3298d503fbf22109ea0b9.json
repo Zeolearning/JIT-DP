@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/coref/CorefSample.java",
+			"leftBegin":30,
+			"leftEnd":32,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/coref/CorefSample.java",
+			"rightBegin":30,
+			"rightEnd":32
+		}
+	]
+]

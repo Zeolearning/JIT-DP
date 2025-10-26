@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/EncoderException.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/codec/EncoderException.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/EncoderException.java",
+			"leftBegin":43,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/codec/EncoderException.java",
+			"rightBegin":43,
+			"rightEnd":44
+		}
+	]
+]

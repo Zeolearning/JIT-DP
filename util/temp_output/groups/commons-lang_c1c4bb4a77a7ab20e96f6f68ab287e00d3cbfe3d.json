@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

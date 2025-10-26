@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringPrintWriter.java",
+			"leftBegin":72,
+			"leftEnd":73,
+			"rightPath":"src/java/org/apache/commons/lang/StringPrintWriter.java",
+			"rightBegin":72,
+			"rightEnd":75
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringPrintWriter.java",
+			"leftBegin":93,
+			"leftEnd":92,
+			"rightPath":"src/java/org/apache/commons/lang/StringPrintWriter.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/ContextedRuntimeException.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/ContextedRuntimeException.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"leftBegin":246,
+			"leftEnd":245,
+			"rightPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"rightBegin":246,
+			"rightEnd":265
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/conflict/LatestConflictManager.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/java/org/apache/ivy/plugins/conflict/LatestConflictManager.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/IvyNode.java",
+			"leftBegin":882,
+			"leftEnd":882,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/IvyNode.java",
+			"rightBegin":882,
+			"rightEnd":882
+		}
+	]
+]

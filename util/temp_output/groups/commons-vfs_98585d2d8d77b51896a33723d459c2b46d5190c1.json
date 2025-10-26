@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/impl/test/VfsClassLoaderTests.java",
+			"leftBegin":55,
+			"leftEnd":57,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/impl/test/VfsClassLoaderTests.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

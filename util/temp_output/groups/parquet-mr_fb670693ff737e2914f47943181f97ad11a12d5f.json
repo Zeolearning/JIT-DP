@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileWriter.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileWriter.java",
+			"rightBegin":287,
+			"rightEnd":287
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"leftBegin":290,
+			"leftEnd":290,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"rightBegin":290,
+			"rightEnd":294
+		}
+	]
+]

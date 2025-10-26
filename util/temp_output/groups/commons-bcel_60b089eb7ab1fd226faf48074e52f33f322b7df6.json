@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/LineNumberGen.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/bcel/generic/LineNumberGen.java",
+			"rightBegin":82,
+			"rightEnd":84
+		}
+	]
+]

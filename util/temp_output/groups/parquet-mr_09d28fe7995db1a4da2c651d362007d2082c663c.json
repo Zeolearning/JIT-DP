@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/util/H2SeekableInputStream.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/util/H2SeekableInputStream.java",
+			"rightBegin":48,
+			"rightEnd":52
+		}
+	]
+]

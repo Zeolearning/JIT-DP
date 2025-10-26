@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/LRUMapPerformanceTest.java",
+			"leftBegin":140,
+			"leftEnd":140,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/LRUMapPerformanceTest.java",
+			"rightBegin":140,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/JCSvsCommonsLRUMapPerformanceTest.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/JCSvsCommonsLRUMapPerformanceTest.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/JCSvsCommonsLRUMapPerformanceTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/struct/JCSvsCommonsLRUMapPerformanceTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

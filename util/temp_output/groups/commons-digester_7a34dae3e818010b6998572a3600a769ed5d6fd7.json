@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"leftBegin":207,
+			"leftEnd":207,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"rightBegin":207,
+			"rightEnd":207
+		},
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"leftBegin":189,
+			"leftEnd":189,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"rightBegin":189,
+			"rightEnd":189
+		},
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"rightBegin":170,
+			"rightEnd":170
+		},
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"leftBegin":152,
+			"leftEnd":152,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/RSSDigester.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	]
+]

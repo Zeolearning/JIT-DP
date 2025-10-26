@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/math/Fraction.java",
+			"leftBegin":872,
+			"leftEnd":878,
+			"rightPath":"src/main/java/org/apache/commons/lang3/math/Fraction.java",
+			"rightBegin":872,
+			"rightEnd":872
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"rightBegin":138,
+			"rightEnd":138
+		}
+	]
+]

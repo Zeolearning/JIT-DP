@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/ExceptionConstants.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/ExceptionConstants.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/ExceptionConstants.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/ExceptionConstants.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

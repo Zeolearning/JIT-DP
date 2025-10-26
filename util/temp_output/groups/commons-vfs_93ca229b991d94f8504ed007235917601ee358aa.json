@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"leftBegin":187,
+			"leftEnd":198,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"rightBegin":188,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"leftBegin":185,
+			"leftEnd":185,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"rightBegin":185,
+			"rightEnd":186
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/VFSClassLoader.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	]
+]

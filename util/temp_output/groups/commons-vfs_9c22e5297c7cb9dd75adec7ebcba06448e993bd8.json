@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/FileSystemExceptionTest.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"rightBegin":131,
+			"rightEnd":138
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"rightBegin":22,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/FileSystemException.java",
+			"rightBegin":34,
+			"rightEnd":36
+		}
+	]
+]

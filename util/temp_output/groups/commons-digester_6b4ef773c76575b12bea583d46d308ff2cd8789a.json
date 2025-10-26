@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/Box.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/OverlappingCallMethodRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":282
+		}
+	]
+]

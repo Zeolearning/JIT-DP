@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"leftBegin":491,
+			"leftEnd":491,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"rightBegin":491,
+			"rightEnd":491
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

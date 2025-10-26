@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/CharsetsTest.java",
+			"leftBegin":1,
+			"leftEnd":71,
+			"rightPath":"src/test/java/org/apache/commons/codec/CharsetsTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/Charsets.java",
+			"leftBegin":1,
+			"leftEnd":161,
+			"rightPath":"src/main/java/org/apache/commons/codec/Charsets.java",
+			"rightBegin":1,
+			"rightEnd":161
+		}
+	]
+]

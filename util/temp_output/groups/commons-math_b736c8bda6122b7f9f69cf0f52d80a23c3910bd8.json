@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+			"leftBegin":826,
+			"leftEnd":826,
+			"rightPath":"src/test/org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+			"rightBegin":825,
+			"rightEnd":826
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/test/org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	]
+]

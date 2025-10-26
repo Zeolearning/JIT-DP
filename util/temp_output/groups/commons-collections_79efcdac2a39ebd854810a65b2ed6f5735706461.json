@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/collections/functors/PredicateDecorator.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

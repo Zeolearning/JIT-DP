@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/CheckpointingUtils.java",
+			"leftBegin":106,
+			"leftEnd":116,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/CheckpointingUtils.java",
+			"rightBegin":106,
+			"rightEnd":122
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/CheckpointingUtils.java",
+			"leftBegin":119,
+			"leftEnd":123,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/CheckpointingUtils.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	]
+]

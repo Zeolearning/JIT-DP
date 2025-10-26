@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/DirectoryBasedSupplier.java",
+			"leftBegin":106,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/DirectoryBasedSupplier.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/DirectoryBasedSupplier.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/DirectoryBasedSupplier.java",
+			"rightBegin":70,
+			"rightEnd":73
+		}
+	]
+]

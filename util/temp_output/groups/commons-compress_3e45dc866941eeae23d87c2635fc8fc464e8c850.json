@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"leftBegin":166,
+			"leftEnd":166,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"rightBegin":166,
+			"rightEnd":166
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"rightBegin":164,
+			"rightEnd":164
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

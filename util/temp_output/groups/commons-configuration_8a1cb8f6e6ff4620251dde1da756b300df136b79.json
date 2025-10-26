@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"leftBegin":53,
+			"leftEnd":57,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"rightBegin":54,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"rightBegin":52,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"rightBegin":51,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestEqualBehaviour.java",
+			"rightBegin":27,
+			"rightEnd":28
+		}
+	]
+]

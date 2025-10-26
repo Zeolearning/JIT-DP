@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/report/ConfigurationResolveReport.java",
+			"leftBegin":269,
+			"leftEnd":269,
+			"rightPath":"src/java/org/apache/ivy/core/report/ConfigurationResolveReport.java",
+			"rightBegin":269,
+			"rightEnd":269
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/report/ConfigurationResolveReport.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/java/org/apache/ivy/core/report/ConfigurationResolveReport.java",
+			"rightBegin":249,
+			"rightEnd":249
+		}
+	]
+]

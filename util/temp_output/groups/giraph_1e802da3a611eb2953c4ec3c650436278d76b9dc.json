@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/DirectWritableSerializer.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/DirectWritableSerializer.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/DirectWritableSerializer.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/DirectWritableSerializer.java",
+			"rightBegin":70,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/writable/kryo/DirectWritableSerializerCopyTest.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

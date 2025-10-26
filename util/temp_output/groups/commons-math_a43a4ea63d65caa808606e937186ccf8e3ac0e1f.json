@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/linear/QRDecompositionImplTest.java",
+			"rightBegin":1,
+			"rightEnd":162
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/QRDecompositionImpl.java",
+			"rightBegin":1,
+			"rightEnd":185
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/QRDecomposition.java",
+			"rightBegin":1,
+			"rightEnd":37
+		}
+	]
+]

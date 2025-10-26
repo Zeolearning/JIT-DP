@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputFormat.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputFormat.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputFormat.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputFormat.java",
+			"rightBegin":56,
+			"rightEnd":61
+		}
+	]
+]

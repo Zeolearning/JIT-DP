@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizerTestValidation.java",
+			"rightBegin":1,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/RandomStraightLinePointGenerator.java",
+			"rightBegin":1,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/StraightLineProblem.java",
+			"rightBegin":1,
+			"rightEnd":165
+		}
+	]
+]

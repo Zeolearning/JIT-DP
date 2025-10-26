@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/util/AvroUtils.java",
+			"leftBegin":110,
+			"leftEnd":109,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/util/AvroUtils.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/util/TestAvroUtils.java",
+			"rightBegin":1,
+			"rightEnd":29
+		}
+	]
+]

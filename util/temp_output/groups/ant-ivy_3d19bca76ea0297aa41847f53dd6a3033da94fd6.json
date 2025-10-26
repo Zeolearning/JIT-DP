@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/module/id/ModuleRevisionIdTest.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"test/java/org/apache/ivy/core/module/id/ModuleRevisionIdTest.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/module/id/ModuleRevisionIdTest.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"test/java/org/apache/ivy/core/module/id/ModuleRevisionIdTest.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"rightBegin":42,
+			"rightEnd":43
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"leftBegin":1202,
+			"leftEnd":1201,
+			"rightPath":"src/test/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"rightBegin":1202,
+			"rightEnd":1209
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/test/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

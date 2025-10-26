@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"leftBegin":384,
+			"leftEnd":383,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"rightBegin":385,
+			"rightEnd":385
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"leftBegin":372,
+			"leftEnd":371,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"rightBegin":372,
+			"rightEnd":372
+		}
+	]
+]

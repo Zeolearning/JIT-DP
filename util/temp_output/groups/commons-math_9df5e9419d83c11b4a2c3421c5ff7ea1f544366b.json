@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/BinomialTest.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/BinomialTest.java",
+			"rightBegin":138,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/BinomialTestTest.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/BinomialTestTest.java",
+			"rightBegin":45,
+			"rightEnd":92
+		}
+	]
+]

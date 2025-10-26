@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"rightBegin":57,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

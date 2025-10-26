@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/distribution/GammaDistributionTest.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/distribution/DistributionFactoryImplTest.java",
+			"rightBegin":1,
+			"rightEnd":183
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/distribution/ChiSquareDistributionTest.java",
+			"rightBegin":1,
+			"rightEnd":129
+		}
+	]
+]

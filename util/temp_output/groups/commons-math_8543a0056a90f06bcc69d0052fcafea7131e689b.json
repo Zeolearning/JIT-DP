@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"leftBegin":350,
+			"leftEnd":350,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"rightBegin":352,
+			"rightEnd":352
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"leftBegin":347,
+			"leftEnd":347,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"rightBegin":349,
+			"rightEnd":349
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"leftBegin":345,
+			"leftEnd":345,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"rightBegin":347,
+			"rightEnd":347
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"rightBegin":36,
+			"rightEnd":37
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"rightBegin":291,
+			"rightEnd":292
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"leftBegin":270,
+			"leftEnd":269,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"rightBegin":273,
+			"rightEnd":273
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"leftBegin":177,
+			"leftEnd":176,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"rightBegin":178,
+			"rightEnd":179
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"leftBegin":166,
+			"leftEnd":165,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"rightBegin":166,
+			"rightEnd":166
+		}
+	]
+]

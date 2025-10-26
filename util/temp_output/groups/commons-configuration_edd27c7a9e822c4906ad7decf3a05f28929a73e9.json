@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/sync/SynchronizerSupport.java",
+			"rightBegin":1,
+			"rightEnd":103
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/sync/LockMode.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	]
+]

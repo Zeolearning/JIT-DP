@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/DigestUtilsTest.java",
+			"leftBegin":177,
+			"leftEnd":178,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/DigestUtilsTest.java",
+			"rightBegin":177,
+			"rightEnd":178
+		}
+	]
+]

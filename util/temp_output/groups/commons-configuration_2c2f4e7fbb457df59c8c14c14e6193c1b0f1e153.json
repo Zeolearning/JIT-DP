@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestPropertiesConfiguration.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/configuration/TestPropertiesConfiguration.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestPropertiesConfiguration.java",
+			"leftBegin":123,
+			"leftEnd":122,
+			"rightPath":"src/test/org/apache/commons/configuration/TestPropertiesConfiguration.java",
+			"rightBegin":123,
+			"rightEnd":133
+		}
+	]
+]

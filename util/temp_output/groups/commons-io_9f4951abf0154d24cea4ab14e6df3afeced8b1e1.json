@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"leftBegin":191,
+			"leftEnd":191,
+			"rightPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"rightBegin":191,
+			"rightEnd":191
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"leftBegin":156,
+			"leftEnd":156,
+			"rightPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"rightBegin":156,
+			"rightEnd":156
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"rightBegin":89,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

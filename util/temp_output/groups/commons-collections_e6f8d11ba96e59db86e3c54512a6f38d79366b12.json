@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/NullComparator.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/NullComparator.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/NullComparator.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/NullComparator.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

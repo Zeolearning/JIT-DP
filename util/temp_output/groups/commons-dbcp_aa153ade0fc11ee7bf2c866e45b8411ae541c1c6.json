@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"rightBegin":135,
+			"rightEnd":137
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"rightBegin":52,
+			"rightEnd":53
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java",
+			"rightBegin":74,
+			"rightEnd":91
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleTest.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleTest.java",
+			"rightBegin":65,
+			"rightEnd":102
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSample.java",
+			"leftBegin":161,
+			"leftEnd":161,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSample.java",
+			"rightBegin":163,
+			"rightEnd":162
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSample.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSample.java",
+			"rightBegin":57,
+			"rightEnd":59
+		}
+	]
+]

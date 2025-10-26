@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"leftBegin":511,
+			"leftEnd":510,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"rightBegin":515,
+			"rightEnd":516
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"leftBegin":485,
+			"leftEnd":484,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"rightBegin":487,
+			"rightEnd":488
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"leftBegin":377,
+			"leftEnd":376,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+			"rightBegin":377,
+			"rightEnd":378
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"rightBegin":1,
+			"rightEnd":501
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/SingletonListIterator.java",
+			"rightBegin":1,
+			"rightEnd":198
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"rightBegin":46,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

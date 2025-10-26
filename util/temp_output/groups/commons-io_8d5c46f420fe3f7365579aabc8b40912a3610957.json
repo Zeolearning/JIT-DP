@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/ClosedOutputStreamTest.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/io/output/ClosedOutputStreamTest.java",
+			"rightBegin":44,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/ClosedOutputStream.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/io/output/ClosedOutputStream.java",
+			"rightBegin":50,
+			"rightEnd":58
+		}
+	]
+]

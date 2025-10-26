@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"rightBegin":1,
+			"rightEnd":367
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/codec/StringDecoder.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	]
+]

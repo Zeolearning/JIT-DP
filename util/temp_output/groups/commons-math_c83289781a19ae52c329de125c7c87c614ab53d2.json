@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/sampling/FieldStepInterpolator.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/sampling/FieldStepInterpolator.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/sampling/FieldStepInterpolator.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/sampling/FieldStepInterpolator.java",
+			"rightBegin":77,
+			"rightEnd":86
+		}
+	]
+]

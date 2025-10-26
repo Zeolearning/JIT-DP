@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/builder/TestHierarchicalBuilderParametersImpl.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/builder/TestHierarchicalBuilderParametersImpl.java",
+			"rightBegin":75,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderParametersImpl.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderParametersImpl.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderParametersImpl.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderParametersImpl.java",
+			"rightBegin":44,
+			"rightEnd":54
+		}
+	]
+]

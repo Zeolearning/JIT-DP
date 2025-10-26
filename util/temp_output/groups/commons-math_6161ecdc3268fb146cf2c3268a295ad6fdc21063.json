@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"rightBegin":116,
+			"rightEnd":132
+		}
+	]
+]

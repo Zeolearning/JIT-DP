@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"leftBegin":140,
+			"leftEnd":139,
+			"rightPath":"src/test/java/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"rightBegin":140,
+			"rightEnd":177
+		}
+	]
+]

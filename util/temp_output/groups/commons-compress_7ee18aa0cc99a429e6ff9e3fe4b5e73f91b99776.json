@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/utils/CountingStreamTest.java",
+			"leftBegin":57,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/CountingStreamTest.java",
+			"rightBegin":57,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/utils/CountingStreamTest.java",
+			"leftBegin":36,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/CountingStreamTest.java",
+			"rightBegin":36,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractLinkedMap.java",
+			"leftBegin":125,
+			"leftEnd":125,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractLinkedMap.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractLinkedMap.java",
+			"leftBegin":123,
+			"leftEnd":122,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractLinkedMap.java",
+			"rightBegin":123,
+			"rightEnd":126
+		}
+	]
+]

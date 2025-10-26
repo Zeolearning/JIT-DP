@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+			"leftBegin":375,
+			"leftEnd":380,
+			"rightPath":"src/main/java/org/apache/commons/lang3/RandomStringUtils.java",
+			"rightBegin":375,
+			"rightEnd":378
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+			"leftBegin":214,
+			"leftEnd":217,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+			"rightBegin":214,
+			"rightEnd":215
+		}
+	]
+]

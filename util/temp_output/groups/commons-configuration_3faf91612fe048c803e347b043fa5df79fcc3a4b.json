@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"leftBegin":128,
+			"leftEnd":129,
+			"rightPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"rightBegin":128,
+			"rightEnd":129
+		}
+	]
+]

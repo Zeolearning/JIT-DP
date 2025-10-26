@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/report/XmlReportWriterTest.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"test/java/org/apache/ivy/plugins/report/XmlReportWriterTest.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	]
+]

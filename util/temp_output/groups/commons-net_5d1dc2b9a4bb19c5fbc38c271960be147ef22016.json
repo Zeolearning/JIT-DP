@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/bsd/RCommandClient.java",
+			"leftBegin":194,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/net/bsd/RCommandClient.java",
+			"rightBegin":194,
+			"rightEnd":196
+		}
+	]
+]

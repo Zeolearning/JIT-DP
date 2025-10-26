@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileObject.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileObject.java",
+			"rightBegin":114,
+			"rightEnd":118
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileObject.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileObject.java",
+			"rightBegin":127,
+			"rightEnd":131
+		}
+	]
+]

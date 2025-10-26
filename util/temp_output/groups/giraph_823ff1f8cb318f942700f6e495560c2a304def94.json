@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterInfo.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterInfo.java",
+			"rightBegin":33,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterInfo.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterInfo.java",
+			"rightBegin":50,
+			"rightEnd":53
+		}
+	]
+]

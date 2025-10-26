@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/UnsafeByteArrayOutputStream.java",
+			"leftBegin":296,
+			"leftEnd":295,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/UnsafeByteArrayOutputStream.java",
+			"rightBegin":296,
+			"rightEnd":296
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/UnsafeByteArrayOutputStream.java",
+			"leftBegin":293,
+			"leftEnd":293,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/UnsafeByteArrayOutputStream.java",
+			"rightBegin":293,
+			"rightEnd":293
+		}
+	]
+]

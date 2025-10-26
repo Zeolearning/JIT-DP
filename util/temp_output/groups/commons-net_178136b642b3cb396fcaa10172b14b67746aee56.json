@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPSClient.java",
+			"leftBegin":186,
+			"leftEnd":187,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPSClient.java",
+			"rightBegin":186,
+			"rightEnd":187
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSExampleTest.java",
+			"leftBegin":73,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSExampleTest.java",
+			"rightBegin":73,
+			"rightEnd":74
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSExampleTest.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSExampleTest.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

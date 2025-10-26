@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/geometry/euclidean/twod/SubLineTest.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/math/geometry/euclidean/twod/SubLineTest.java",
+			"rightBegin":100,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+			"rightBegin":89,
+			"rightEnd":125
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

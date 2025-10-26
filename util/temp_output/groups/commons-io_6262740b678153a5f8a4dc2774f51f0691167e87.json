@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"rightBegin":42,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/IOFileFilterAbstractTestCase.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	]
+]

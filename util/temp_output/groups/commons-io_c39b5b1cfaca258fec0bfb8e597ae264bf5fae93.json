@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/TeeOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/CountingOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	]
+]

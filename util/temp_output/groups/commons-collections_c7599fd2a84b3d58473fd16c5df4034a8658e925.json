@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

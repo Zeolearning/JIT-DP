@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/SCXMLExecutor2.java",
+			"rightBegin":1,
+			"rightEnd":580
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl2.java",
+			"rightBegin":1,
+			"rightEnd":922
+		}
+	]
+]

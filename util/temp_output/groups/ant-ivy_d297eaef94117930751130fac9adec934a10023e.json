@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/matcher/Matcher.java",
+			"rightBegin":1,
+			"rightEnd":12
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/matcher/GlobPatternMatcher.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/matcher/AnyMatcher.java",
+			"rightBegin":1,
+			"rightEnd":28
+		}
+	]
+]

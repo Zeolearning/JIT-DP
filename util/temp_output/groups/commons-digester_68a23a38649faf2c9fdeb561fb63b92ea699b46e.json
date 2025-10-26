@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedParamTypeBuilder.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedParamTypeBuilder.java",
+			"rightBegin":50,
+			"rightEnd":57
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"examples/HelloWorldBuilder.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"examples/HelloWorldBuilder.java",
+			"rightBegin":108,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"examples/HelloWorldBuilder.java",
+			"leftBegin":17,
+			"leftEnd":17,
+			"rightPath":"examples/HelloWorldBuilder.java",
+			"rightBegin":17,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"examples/HelloWorldBuilder.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"examples/HelloWorldBuilder.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"rightBegin":189,
+			"rightEnd":220
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"rightBegin":75,
+			"rightEnd":75
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/TransitionTarget.java",
+			"rightBegin":60,
+			"rightEnd":65
+		}
+	]
+]

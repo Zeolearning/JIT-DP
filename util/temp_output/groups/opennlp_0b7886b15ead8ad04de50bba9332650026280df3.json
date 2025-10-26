@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/model/TrainUtil.java",
+			"rightBegin":1,
+			"rightEnd":137
+		}
+	]
+]

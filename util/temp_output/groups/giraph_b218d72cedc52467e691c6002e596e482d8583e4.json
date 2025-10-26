@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/AbstractEdgeStore.java",
+			"leftBegin":253,
+			"leftEnd":252,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/AbstractEdgeStore.java",
+			"rightBegin":252,
+			"rightEnd":252
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/AbstractEdgeStore.java",
+			"leftBegin":227,
+			"leftEnd":227,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/AbstractEdgeStore.java",
+			"rightBegin":227,
+			"rightEnd":226
+		}
+	]
+]

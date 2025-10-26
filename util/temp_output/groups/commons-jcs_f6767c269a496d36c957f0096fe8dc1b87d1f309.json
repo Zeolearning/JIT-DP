@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/control/event/behavior/IElementEvent.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/jcs/engine/control/event/behavior/IElementEvent.java",
+			"rightBegin":37,
+			"rightEnd":41
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"leftBegin":394,
+			"leftEnd":393,
+			"rightPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"rightBegin":394,
+			"rightEnd":394
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"rightBegin":80,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"rightBegin":59,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"rightBegin":75,
+			"rightEnd":77
+		}
+	]
+]

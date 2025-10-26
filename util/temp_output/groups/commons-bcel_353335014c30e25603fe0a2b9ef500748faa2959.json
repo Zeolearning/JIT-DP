@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"leftBegin":355,
+			"leftEnd":355,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"rightBegin":355,
+			"rightEnd":355
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"leftBegin":334,
+			"leftEnd":334,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"rightBegin":334,
+			"rightEnd":334
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"leftBegin":347,
+			"leftEnd":348,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifierAppFrame.java",
+			"rightBegin":347,
+			"rightEnd":348
+		}
+	]
+]

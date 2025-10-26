@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/AbstractSCXMLListenerTest.java",
+			"rightBegin":1,
+			"rightEnd":179
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/AbstractSCXMLListener.java",
+			"rightBegin":1,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/EnvTestSuite.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/EnvTestSuite.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

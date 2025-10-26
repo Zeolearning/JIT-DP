@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizerTest.java",
+			"leftBegin":268,
+			"leftEnd":268,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizerTest.java",
+			"rightBegin":268,
+			"rightEnd":268
+		}
+	]
+]

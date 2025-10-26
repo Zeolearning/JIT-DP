@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"leftBegin":42,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"rightBegin":42,
+			"rightEnd":46
+		}
+	]
+]

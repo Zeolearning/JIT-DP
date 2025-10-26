@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"leftBegin":241,
+			"leftEnd":242,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"rightBegin":241,
+			"rightEnd":243
+		}
+	]
+]

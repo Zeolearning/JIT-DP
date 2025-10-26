@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/DefaultMapBag.java",
+			"leftBegin":337,
+			"leftEnd":336,
+			"rightPath":"src/java/org/apache/commons/collections/DefaultMapBag.java",
+			"rightBegin":337,
+			"rightEnd":357
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/DefaultMapBag.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/DefaultMapBag.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

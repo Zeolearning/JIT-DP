@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/concurrent/ConcurrentUtilsTest.java",
+			"rightBegin":1,
+			"rightEnd":164
+		}
+	]
+]

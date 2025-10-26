@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IterableUtils.java",
+			"leftBegin":449,
+			"leftEnd":448,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IterableUtils.java",
+			"rightBegin":449,
+			"rightEnd":460
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/FluentIterable.java",
+			"leftBegin":348,
+			"leftEnd":347,
+			"rightPath":"src/main/java/org/apache/commons/collections4/FluentIterable.java",
+			"rightBegin":348,
+			"rightEnd":357
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"leftBegin":1179,
+			"leftEnd":1178,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"rightBegin":1179,
+			"rightEnd":1200
+		}
+	]
+]

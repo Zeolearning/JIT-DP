@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/ext/ExtensionLoaderTest.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionNotLoadedError.java",
+			"rightBegin":1,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	]
+]

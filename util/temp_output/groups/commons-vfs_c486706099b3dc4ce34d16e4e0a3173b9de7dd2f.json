@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"leftBegin":415,
+			"leftEnd":415,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"rightBegin":415,
+			"rightEnd":415
+		},
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"leftBegin":412,
+			"leftEnd":412,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"rightBegin":412,
+			"rightEnd":412
+		},
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"leftBegin":410,
+			"leftEnd":410,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"rightBegin":410,
+			"rightEnd":410
+		},
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"leftBegin":408,
+			"leftEnd":408,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileContent.java",
+			"rightBegin":408,
+			"rightEnd":408
+		}
+	]
+]

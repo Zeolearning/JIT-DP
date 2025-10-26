@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/util/SerializeUtilsTest.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/util/SerializeUtilsTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/annotate/CopyRightApacheTest.java",
+			"leftBegin":17,
+			"leftEnd":17,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/lang/annotation/CopyRightApacheTest.java",
+			"rightBegin":17,
+			"rightEnd":17
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/util/TestSerializable.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/util/TestSerializable.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

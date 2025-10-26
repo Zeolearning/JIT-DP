@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"rightBegin":255,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"leftBegin":252,
+			"leftEnd":252,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"rightBegin":252,
+			"rightEnd":252
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/GeometricDistribution.java",
+			"leftBegin":190,
+			"leftEnd":190,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/GeometricDistribution.java",
+			"rightBegin":190,
+			"rightEnd":190
+		}
+	]
+]

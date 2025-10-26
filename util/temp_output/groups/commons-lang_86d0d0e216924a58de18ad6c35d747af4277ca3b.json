@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DurationFormatUtilsTest.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/test/org/apache/commons/lang/time/DurationFormatUtilsTest.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	]
+]

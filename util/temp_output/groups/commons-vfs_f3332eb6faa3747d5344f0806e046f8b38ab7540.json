@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/ProviderWriteTests.java",
+			"leftBegin":371,
+			"leftEnd":370,
+			"rightPath":"src/test/org/apache/commons/vfs/test/ProviderWriteTests.java",
+			"rightBegin":371,
+			"rightEnd":409
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"leftBegin":274,
+			"leftEnd":274,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"rightBegin":274,
+			"rightEnd":283
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/DomainValidator.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/DomainValidator.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/DomainValidator.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/DomainValidator.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

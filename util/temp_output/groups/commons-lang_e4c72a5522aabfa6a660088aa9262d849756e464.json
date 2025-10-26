@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"rightBegin":82,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"rightBegin":101,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/LazyInitializer.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	]
+]

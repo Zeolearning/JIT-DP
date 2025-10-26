@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ClassReloader.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ClassReloaderTestCase.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/MemoryTestCase.java",
+			"rightBegin":1,
+			"rightEnd":281
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/queue/UnmodifiableQueueTest.java",
+			"leftBegin":104,
+			"leftEnd":104,
+			"rightPath":"src/test/java/org/apache/commons/collections4/queue/UnmodifiableQueueTest.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	]
+]

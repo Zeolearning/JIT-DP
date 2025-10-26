@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/z/ZCompressorInputStreamTest.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/z/ZCompressorInputStreamTest.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/z/ZCompressorInputStreamTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/z/ZCompressorInputStreamTest.java",
+			"rightBegin":42,
+			"rightEnd":49
+		}
+	]
+]

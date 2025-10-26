@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"leftBegin":59,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"rightBegin":61,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"leftBegin":56,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/giraph/graph/IntIntNullIntVertex.java",
+			"rightBegin":56,
+			"rightEnd":59
+		}
+	]
+]

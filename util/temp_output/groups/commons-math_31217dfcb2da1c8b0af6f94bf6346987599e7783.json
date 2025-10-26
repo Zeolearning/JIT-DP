@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optimization/fitting/GaussianFitterTest.java",
+			"leftBegin":318,
+			"leftEnd":317,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/fitting/GaussianFitterTest.java",
+			"rightBegin":318,
+			"rightEnd":346
+		}
+	]
+]

@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/MultivariateRealDistribution.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java",
+			"rightBegin":1,
+			"rightEnd":211
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/AbstractMultivariateRealDistribution.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	]
+]

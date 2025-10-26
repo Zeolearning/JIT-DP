@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/cache/SoftRefFilesCache.java",
+			"leftBegin":101,
+			"leftEnd":104,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/cache/SoftRefFilesCache.java",
+			"rightBegin":101,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/cache/SoftRefFilesCache.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/cache/SoftRefFilesCache.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

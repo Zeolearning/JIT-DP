@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/IterationManager.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/IterationManager.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/IterationManager.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/IterationManager.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

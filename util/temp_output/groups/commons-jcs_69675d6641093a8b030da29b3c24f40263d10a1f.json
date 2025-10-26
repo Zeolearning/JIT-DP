@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"rightBegin":70,
+			"rightEnd":70
+		},
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/event/ElementEventQueue.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

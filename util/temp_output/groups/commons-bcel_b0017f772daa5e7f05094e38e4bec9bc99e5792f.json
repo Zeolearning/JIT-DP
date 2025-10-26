@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/statics/DOUBLE_Upper.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/statics/DOUBLE_Upper.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/statics/DOUBLE_Upper.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/statics/DOUBLE_Upper.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

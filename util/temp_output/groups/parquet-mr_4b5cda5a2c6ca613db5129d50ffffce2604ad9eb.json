@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/ParquetOutputCommitter.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/ParquetOutputCommitter.java",
+			"rightBegin":57,
+			"rightEnd":61
+		}
+	]
+]

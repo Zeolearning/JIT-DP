@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/MappedPropertyTestBean.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/MappedPropertyTestBean.java",
+			"rightBegin":32,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/MappedPropertyTestBean.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/MappedPropertyTestBean.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

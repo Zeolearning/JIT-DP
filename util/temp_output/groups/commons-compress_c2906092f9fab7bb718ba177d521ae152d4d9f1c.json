@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"leftBegin":240,
+			"leftEnd":241,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"rightBegin":240,
+			"rightEnd":243
+		}
+	]
+]

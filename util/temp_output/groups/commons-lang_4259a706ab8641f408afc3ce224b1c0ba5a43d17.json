@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":678,
+			"leftEnd":680,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":678,
+			"rightEnd":680
+		}
+	]
+]

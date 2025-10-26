@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/AbstractMethodRule.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/digester3/AbstractMethodRule.java",
+			"rightBegin":22,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/AbstractMethodRule.java",
+			"leftBegin":3,
+			"leftEnd":10,
+			"rightPath":"src/main/java/org/apache/commons/digester3/AbstractMethodRule.java",
+			"rightBegin":3,
+			"rightEnd":2
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/AkimaSplineInterpolator.java",
+			"leftBegin":1,
+			"leftEnd":225,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/AkimaSplineInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/AkimaSplineInterpolatorTest.java",
+			"leftBegin":1,
+			"leftEnd":227,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/AkimaSplineInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":227
+		}
+	]
+]

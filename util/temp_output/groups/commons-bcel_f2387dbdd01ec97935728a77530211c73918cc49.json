@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	]
+]

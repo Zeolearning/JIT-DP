@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"src/test/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":151,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

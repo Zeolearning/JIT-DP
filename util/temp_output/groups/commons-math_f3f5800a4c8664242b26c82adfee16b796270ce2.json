@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/polynomials/PolynomialsUtilsTest.java",
+			"leftBegin":378,
+			"leftEnd":378,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/polynomials/PolynomialsUtilsTest.java",
+			"rightBegin":378,
+			"rightEnd":378
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/polynomials/PolynomialsUtilsTest.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/polynomials/PolynomialsUtilsTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/integration/LegendreGaussIntegratorTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/integration/LegendreGaussIntegratorTest.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

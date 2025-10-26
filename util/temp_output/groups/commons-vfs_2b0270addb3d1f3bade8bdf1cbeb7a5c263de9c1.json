@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs2/RACRandomAccessFile.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs2/RACRandomAccessFile.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"examples/src/main/java/org/apache/commons/vfs2/example/Shell.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"examples/src/main/java/org/apache/commons/vfs2/example/Shell.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

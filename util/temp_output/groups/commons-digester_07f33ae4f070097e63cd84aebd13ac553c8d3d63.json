@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SimpleRegexMatcher.java",
+			"leftBegin":106,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SimpleRegexMatcher.java",
+			"rightBegin":106,
+			"rightEnd":109
+		}
+	]
+]

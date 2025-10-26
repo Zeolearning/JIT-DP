@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/AnnotationDefault.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/AnnotationDefault.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	]
+]

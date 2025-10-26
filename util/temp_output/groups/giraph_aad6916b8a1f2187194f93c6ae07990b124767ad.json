@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/test/java/org/apache/giraph/TestGraphPartitioner.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"giraph/src/test/java/org/apache/giraph/TestGraphPartitioner.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

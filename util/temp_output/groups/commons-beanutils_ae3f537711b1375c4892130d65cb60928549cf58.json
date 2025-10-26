@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira454TestCase.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"leftBegin":1079,
+			"leftEnd":1078,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"rightBegin":1079,
+			"rightEnd":1091
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"leftBegin":433,
+			"leftEnd":433,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"rightBegin":433,
+			"rightEnd":433
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"leftBegin":413,
+			"leftEnd":413,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+			"rightBegin":413,
+			"rightEnd":413
+		}
+	]
+]

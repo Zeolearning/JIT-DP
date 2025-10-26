@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/PropertiesConfiguration.java",
+			"leftBegin":589,
+			"leftEnd":589,
+			"rightPath":"src/java/org/apache/commons/configuration/PropertiesConfiguration.java",
+			"rightBegin":599,
+			"rightEnd":599
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/PropertiesConfiguration.java",
+			"leftBegin":169,
+			"leftEnd":168,
+			"rightPath":"src/java/org/apache/commons/configuration/PropertiesConfiguration.java",
+			"rightBegin":169,
+			"rightEnd":178
+		}
+	]
+]

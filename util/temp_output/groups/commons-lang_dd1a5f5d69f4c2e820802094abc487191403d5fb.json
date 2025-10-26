@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"leftBegin":445,
+			"leftEnd":445,
+			"rightPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"rightBegin":445,
+			"rightEnd":445
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

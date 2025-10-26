@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DelegatingCallableStatement.java",
+			"leftBegin":123,
+			"leftEnd":122,
+			"rightPath":"src/java/org/apache/commons/dbcp/DelegatingCallableStatement.java",
+			"rightBegin":123,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DelegatingCallableStatement.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/dbcp/DelegatingCallableStatement.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

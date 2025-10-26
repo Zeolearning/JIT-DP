@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"leftBegin":153,
+			"leftEnd":154,
+			"rightPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"rightBegin":157,
+			"rightEnd":158
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"leftBegin":126,
+			"leftEnd":128,
+			"rightPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"rightBegin":126,
+			"rightEnd":131
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"leftBegin":148,
+			"leftEnd":149,
+			"rightPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"rightBegin":151,
+			"rightEnd":153
+		}
+	]
+]

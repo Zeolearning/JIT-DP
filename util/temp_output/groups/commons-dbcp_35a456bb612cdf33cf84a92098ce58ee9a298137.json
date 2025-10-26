@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingResultSet.java",
+			"leftBegin":608,
+			"leftEnd":607,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingResultSet.java",
+			"rightBegin":608,
+			"rightEnd":608
+		}
+	]
+]

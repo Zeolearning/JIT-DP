@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/engine/control/CompositeCacheManagerTest.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"leftBegin":741,
+			"leftEnd":740,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"rightBegin":740,
+			"rightEnd":740
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"leftBegin":739,
+			"leftEnd":739,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"rightBegin":739,
+			"rightEnd":738
+		}
+	]
+]

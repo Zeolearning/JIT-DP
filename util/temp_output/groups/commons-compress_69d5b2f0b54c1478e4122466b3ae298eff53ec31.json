@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/Archiver.java",
+			"leftBegin":161,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/Archiver.java",
+			"rightBegin":161,
+			"rightEnd":161
+		}
+	]
+]

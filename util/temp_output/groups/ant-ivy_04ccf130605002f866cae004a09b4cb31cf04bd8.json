@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/event/resolve/EndResolveDependencyEvent.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/ivy/core/event/resolve/EndResolveDependencyEvent.java",
+			"rightBegin":42,
+			"rightEnd":46
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskUnitTest.java",
+			"leftBegin":248,
+			"leftEnd":247,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskUnitTest.java",
+			"rightBegin":248,
+			"rightEnd":323
+		}
+	]
+]

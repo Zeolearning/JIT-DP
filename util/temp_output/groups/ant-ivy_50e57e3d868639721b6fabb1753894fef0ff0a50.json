@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"leftBegin":65,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"rightBegin":71,
+			"rightEnd":70
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"rightBegin":38,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleId.java",
+			"rightBegin":61,
+			"rightEnd":67
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/StrBuilderAppendInsertTest.java",
+			"leftBegin":599,
+			"leftEnd":598,
+			"rightPath":"src/test/org/apache/commons/lang/text/StrBuilderAppendInsertTest.java",
+			"rightBegin":599,
+			"rightEnd":605
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"leftBegin":884,
+			"leftEnd":884,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"rightBegin":884,
+			"rightEnd":884
+		}
+	]
+]

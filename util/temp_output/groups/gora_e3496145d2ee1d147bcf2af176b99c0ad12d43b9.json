@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/store/impl/DataStoreMetadataAnalyzer.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/store/impl/DataStoreMetadataAnalyzer.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/store/impl/DataStoreMetadataAnalyzer.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/store/impl/DataStoreMetadataAnalyzer.java",
+			"rightBegin":76,
+			"rightEnd":77
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":231,
+			"leftEnd":230,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":233,
+			"rightEnd":234
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":165,
+			"leftEnd":164,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":165,
+			"rightEnd":166
+		}
+	]
+]

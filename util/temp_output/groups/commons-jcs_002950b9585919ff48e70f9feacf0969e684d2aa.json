@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/TestTCPLateralUnitTest.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/TestTCPLateralUnitTest.java",
+			"rightBegin":71,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/TestTCPLateralUnitTest.java",
+			"leftBegin":13,
+			"leftEnd":12,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/lateral/socket/tcp/TestTCPLateralUnitTest.java",
+			"rightBegin":13,
+			"rightEnd":13
+		}
+	]
+]

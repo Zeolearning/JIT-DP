@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/ABANumberCheckDigit.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/ABANumberCheckDigit.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

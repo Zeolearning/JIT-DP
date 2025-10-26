@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":587,
+			"leftEnd":586,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":587,
+			"rightEnd":601
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":584,
+			"leftEnd":584,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":584,
+			"rightEnd":584
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":580,
+			"leftEnd":580,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":580,
+			"rightEnd":580
+		}
+	]
+]

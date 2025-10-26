@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"leftBegin":162,
+			"leftEnd":162,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"rightBegin":162,
+			"rightEnd":162
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DateFormatUtilsTest.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	]
+]

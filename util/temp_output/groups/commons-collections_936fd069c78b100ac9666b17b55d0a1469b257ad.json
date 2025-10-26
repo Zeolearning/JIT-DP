@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/functors/TestCatchAndRethrowClosure.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/functors/BasicClosureTestBase.java",
+			"rightBegin":1,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/functors/CatchAndRethrowClosure.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	]
+]

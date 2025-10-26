@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java",
+			"rightBegin":124,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestCompositeConfigurationNonStringProperties.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestCompositeConfigurationNonStringProperties.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestCompositeConfigurationNonStringProperties.java",
+			"leftBegin":38,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestCompositeConfigurationNonStringProperties.java",
+			"rightBegin":39,
+			"rightEnd":41
+		}
+	]
+]

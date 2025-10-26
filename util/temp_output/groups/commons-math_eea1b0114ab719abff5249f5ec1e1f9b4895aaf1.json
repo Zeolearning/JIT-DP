@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/distance/EuclideanDistanceTest.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/distance/ManhattanDistanceTest.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/distance/ChebyshevDistanceTest.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/distance/CanberraDistanceTest.java",
+			"rightBegin":1,
+			"rightEnd":48
+		}
+	]
+]

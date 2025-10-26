@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/IBANValidatorTest.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/IBANValidatorTest.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/IBANValidator.java",
+			"leftBegin":165,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/IBANValidator.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	]
+]

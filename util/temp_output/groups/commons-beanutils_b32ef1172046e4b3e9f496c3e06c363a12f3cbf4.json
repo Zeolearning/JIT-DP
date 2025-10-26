@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/ArrayConverterTestCase.java",
+			"leftBegin":364,
+			"leftEnd":363,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ArrayConverterTestCase.java",
+			"rightBegin":364,
+			"rightEnd":390
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/ArrayConverter.java",
+			"leftBegin":440,
+			"leftEnd":440,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/ArrayConverter.java",
+			"rightBegin":443,
+			"rightEnd":442
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/ArrayConverter.java",
+			"leftBegin":437,
+			"leftEnd":438,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/ArrayConverter.java",
+			"rightBegin":437,
+			"rightEnd":441
+		}
+	]
+]

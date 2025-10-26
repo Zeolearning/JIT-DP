@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":28,
+			"rightEnd":36
+		}
+	]
+]

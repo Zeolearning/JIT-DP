@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java",
+			"leftBegin":228,
+			"leftEnd":227,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java",
+			"rightBegin":228,
+			"rightEnd":251
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"rightBegin":199,
+			"rightEnd":199
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"rightBegin":124,
+			"rightEnd":124
+		}
+	]
+]

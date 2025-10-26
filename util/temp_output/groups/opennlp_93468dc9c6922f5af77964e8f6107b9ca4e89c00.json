@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/lang/Factory.java",
+			"leftBegin":50,
+			"leftEnd":55,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/lang/Factory.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

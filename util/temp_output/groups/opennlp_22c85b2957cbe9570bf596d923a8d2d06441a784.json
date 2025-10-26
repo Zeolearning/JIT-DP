@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-maxent/src/test/java/opennlp/maxent/ScaleDoesntMatterTest.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

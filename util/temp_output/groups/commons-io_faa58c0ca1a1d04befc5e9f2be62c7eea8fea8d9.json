@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/comparator/DirectoryFileComparatorTest.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/comparator/CompositeFileComparatorTest.java",
+			"rightBegin":1,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/comparator/DirectoryFileComparator.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/comparator/CompositeFileComparator.java",
+			"rightBegin":1,
+			"rightEnd":114
+		}
+	]
+]

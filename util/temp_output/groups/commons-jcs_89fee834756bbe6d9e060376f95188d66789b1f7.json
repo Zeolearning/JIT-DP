@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteUtils.java",
+			"leftBegin":218,
+			"leftEnd":217,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteUtils.java",
+			"rightBegin":218,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/RemoteUtilsUnitTest.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/RemoteUtilsUnitTest.java",
+			"rightBegin":44,
+			"rightEnd":50
+		}
+	]
+]

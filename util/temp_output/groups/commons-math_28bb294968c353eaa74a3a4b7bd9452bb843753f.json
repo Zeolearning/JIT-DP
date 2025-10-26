@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"leftBegin":260,
+			"leftEnd":259,
+			"rightPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"rightBegin":256,
+			"rightEnd":262
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"leftBegin":219,
+			"leftEnd":220,
+			"rightPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"rightBegin":212,
+			"rightEnd":216
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"leftBegin":201,
+			"leftEnd":207,
+			"rightPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"rightBegin":201,
+			"rightEnd":200
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"leftBegin":90,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"rightBegin":90,
+			"rightEnd":100
+		}
+	]
+]

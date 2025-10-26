@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/BigReal.java",
+			"leftBegin":38,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/math/util/BigReal.java",
+			"rightBegin":38,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/util/BigRealTest.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/BigReal.java",
+			"leftBegin":211,
+			"leftEnd":210,
+			"rightPath":"src/java/org/apache/commons/math/util/BigReal.java",
+			"rightBegin":209,
+			"rightEnd":222
+		}
+	]
+]

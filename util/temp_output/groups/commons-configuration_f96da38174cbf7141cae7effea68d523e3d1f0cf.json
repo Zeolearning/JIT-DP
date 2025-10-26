@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"leftBegin":455,
+			"leftEnd":455,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"rightBegin":455,
+			"rightEnd":454
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java",
+			"leftBegin":584,
+			"leftEnd":585,
+			"rightPath":"src/main/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java",
+			"rightBegin":584,
+			"rightEnd":584
+		}
+	]
+]

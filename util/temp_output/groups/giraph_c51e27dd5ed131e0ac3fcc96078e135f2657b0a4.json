@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"leftBegin":525,
+			"leftEnd":525,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"rightBegin":525,
+			"rightEnd":526
+		}
+	]
+]

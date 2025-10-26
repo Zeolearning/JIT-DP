@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/RandomMessageBenchmark.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/RandomMessageBenchmark.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	]
+]

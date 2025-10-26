@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/linear/SimplexSolverTest.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/math/optimization/linear/SimplexSolverTest.java",
+			"rightBegin":67,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java",
+			"leftBegin":275,
+			"leftEnd":280,
+			"rightPath":"src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java",
+			"rightBegin":275,
+			"rightEnd":278
+		}
+	]
+]

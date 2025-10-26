@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/SoftRefHashMap.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/java/org/apache/commons/collections/SoftRefHashMap.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/SoftRefHashMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/SoftRefHashMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

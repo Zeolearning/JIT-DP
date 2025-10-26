@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/PoolKey.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/PoolKey.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/PoolKey.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/PoolKey.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

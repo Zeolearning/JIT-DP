@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/LocalXAConnectionFactory.java",
+			"leftBegin":38,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/LocalXAConnectionFactory.java",
+			"rightBegin":38,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/DataSourceXAConnectionFactory.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/DataSourceXAConnectionFactory.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/DataSourceXAConnectionFactory.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/DataSourceXAConnectionFactory.java",
+			"rightBegin":34,
+			"rightEnd":35
+		}
+	]
+]

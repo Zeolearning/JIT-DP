@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"leftBegin":340,
+			"leftEnd":339,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"rightBegin":340,
+			"rightEnd":351
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"leftBegin":213,
+			"leftEnd":213,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"rightBegin":213,
+			"rightEnd":213
+		}
+	]
+]

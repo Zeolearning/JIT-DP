@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestDynamicCombinedConfiguration.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestDynamicCombinedConfiguration.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DynamicCombinedConfiguration.java",
+			"leftBegin":611,
+			"leftEnd":610,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DynamicCombinedConfiguration.java",
+			"rightBegin":611,
+			"rightEnd":615
+		}
+	]
+]

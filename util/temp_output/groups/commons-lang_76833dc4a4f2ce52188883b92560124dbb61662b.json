@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

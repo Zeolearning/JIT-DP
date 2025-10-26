@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/reloading/TestManagedReloadingStrategy.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/reloading/ManagedReloadingStrategyMBean.java",
+			"rightBegin":1,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/reloading/ManagedReloadingStrategy.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	]
+]

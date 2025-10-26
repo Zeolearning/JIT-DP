@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/dictionary/CaseInsensitiveAbbreviationDictionaryTest.java",
+			"rightBegin":1,
+			"rightEnd":198
+		},
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/dictionary/CaseSensitiveAbbreviationDictionaryTest.java",
+			"rightBegin":1,
+			"rightEnd":220
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/dictionary/AbbreviationDictionaryTest.java",
+			"leftBegin":1,
+			"leftEnd":171,
+			"rightPath":null
+		}
+	]
+]

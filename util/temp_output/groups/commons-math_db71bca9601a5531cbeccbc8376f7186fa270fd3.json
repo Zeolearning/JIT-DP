@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DSCompilerTest.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DSCompilerTest.java",
+			"rightBegin":138,
+			"rightEnd":138
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DSCompilerTest.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DSCompilerTest.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependencyUpdateChecker.java",
+			"leftBegin":30,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependencyUpdateChecker.java",
+			"rightBegin":36,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependencyUpdateChecker.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependencyUpdateChecker.java",
+			"rightBegin":20,
+			"rightEnd":25
+		}
+	]
+]

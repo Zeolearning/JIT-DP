@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportWriter.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

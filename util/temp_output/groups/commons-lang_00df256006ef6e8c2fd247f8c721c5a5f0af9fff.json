@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"rightBegin":128,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"src/test/org/apache/commons/lang/ObjectUtilsTest.java",
+			"rightBegin":122,
+			"rightEnd":127
+		}
+	]
+]

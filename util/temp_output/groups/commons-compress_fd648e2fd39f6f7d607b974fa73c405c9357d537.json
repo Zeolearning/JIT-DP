@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"rightBegin":39,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

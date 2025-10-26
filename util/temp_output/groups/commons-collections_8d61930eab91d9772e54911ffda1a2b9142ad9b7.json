@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"rightBegin":92,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"leftBegin":91,
+			"leftEnd":114,
+			"rightPath":"src/test/org/apache/commons/collections/TestStaticBucketMap.java",
+			"rightBegin":91,
+			"rightEnd":90
+		}
+	]
+]

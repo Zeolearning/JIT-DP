@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"rightBegin":170,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"leftBegin":156,
+			"leftEnd":156,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"rightBegin":156,
+			"rightEnd":157
+		}
+	]
+]

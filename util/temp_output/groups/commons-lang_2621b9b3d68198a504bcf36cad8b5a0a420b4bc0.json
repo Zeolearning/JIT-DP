@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/mutable/MutableFloatTest.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/test/java/org/apache/commons/lang3/mutable/MutableFloatTest.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

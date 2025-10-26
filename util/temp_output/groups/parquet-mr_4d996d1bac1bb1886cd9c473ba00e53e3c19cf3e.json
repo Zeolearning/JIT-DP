@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/util/MetadataUtils.java",
+			"leftBegin":150,
+			"leftEnd":149,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/util/MetadataUtils.java",
+			"rightBegin":151,
+			"rightEnd":156
+		},
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/util/MetadataUtils.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/util/MetadataUtils.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

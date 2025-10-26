@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ExtendedBaseRules.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ExtendedBaseRules.java",
+			"rightBegin":169,
+			"rightEnd":168
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ExtendedBaseRules.java",
+			"leftBegin":167,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ExtendedBaseRules.java",
+			"rightBegin":167,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/AbstractRulesImpl.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"src/main/java/org/apache/commons/digester3/AbstractRulesImpl.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	]
+]

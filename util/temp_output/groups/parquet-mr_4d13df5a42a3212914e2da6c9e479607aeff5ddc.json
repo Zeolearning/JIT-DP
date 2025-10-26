@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"leftBegin":96,
+			"leftEnd":99,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"rightBegin":96,
+			"rightEnd":96
+		},
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"rightBegin":108,
+			"rightEnd":114
+		}
+	]
+]

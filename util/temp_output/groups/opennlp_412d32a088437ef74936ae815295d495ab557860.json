@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/NGramFeatureGenerator.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/NGramFeatureGenerator.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"rightBegin":127,
+			"rightEnd":131
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"leftBegin":118,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	]
+]

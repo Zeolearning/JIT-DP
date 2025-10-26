@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/FramedSnappyTestCase.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/FramedSnappyTestCase.java",
+			"rightBegin":78,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/FramedSnappyTestCase.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/FramedSnappyTestCase.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

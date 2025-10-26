@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/URLCodecTest.java",
+			"leftBegin":143,
+			"leftEnd":143,
+			"rightPath":"src/test/org/apache/commons/codec/net/URLCodecTest.java",
+			"rightBegin":150,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/URLCodecTest.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"src/test/org/apache/commons/codec/net/URLCodecTest.java",
+			"rightBegin":141,
+			"rightEnd":147
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/list/TestSetUniqueList.java",
+			"leftBegin":473,
+			"leftEnd":472,
+			"rightPath":"src/test/org/apache/commons/collections/list/TestSetUniqueList.java",
+			"rightBegin":474,
+			"rightEnd":519
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/list/TestSetUniqueList.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/org/apache/commons/collections/list/TestSetUniqueList.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/list/SetUniqueList.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"src/java/org/apache/commons/collections/list/SetUniqueList.java",
+			"rightBegin":286,
+			"rightEnd":305
+		}
+	]
+]

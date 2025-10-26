@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"rightBegin":53,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"rightBegin":27,
+			"rightEnd":27
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

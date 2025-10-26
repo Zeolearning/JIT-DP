@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"rightBegin":32,
+			"rightEnd":32
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"leftBegin":27,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"rightBegin":29,
+			"rightEnd":30
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"leftBegin":24,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/Constants.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

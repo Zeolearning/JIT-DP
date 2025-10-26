@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderRulesTest.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderRulesTest.java",
+			"rightBegin":127,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/xmlrules/CallParamTestObject.java",
+			"leftBegin":56,
+			"leftEnd":57,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/CallParamTestObject.java",
+			"rightBegin":56,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderRulesTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderRulesTest.java",
+			"rightBegin":75,
+			"rightEnd":125
+		}
+	]
+]

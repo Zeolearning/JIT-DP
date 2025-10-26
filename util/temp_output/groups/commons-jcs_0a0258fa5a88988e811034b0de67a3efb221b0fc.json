@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"rightBegin":43,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"rightBegin":23,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefCacheCleaner.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

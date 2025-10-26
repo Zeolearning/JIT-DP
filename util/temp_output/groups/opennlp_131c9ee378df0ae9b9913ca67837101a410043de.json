@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/parser/AbstractBottomUpParser.java",
+			"leftBegin":463,
+			"leftEnd":465,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/AbstractBottomUpParser.java",
+			"rightBegin":463,
+			"rightEnd":465
+		}
+	]
+]

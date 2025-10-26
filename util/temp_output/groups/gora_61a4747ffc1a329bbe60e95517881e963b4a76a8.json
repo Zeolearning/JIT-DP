@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-gradle-plugin/examples/simple/src/main/java/test/Sample.java",
+			"rightBegin":1,
+			"rightEnd":29
+		}
+	]
+]

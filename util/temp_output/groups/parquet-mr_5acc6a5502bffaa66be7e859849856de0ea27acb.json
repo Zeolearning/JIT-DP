@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoParquetReader.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoParquetReader.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

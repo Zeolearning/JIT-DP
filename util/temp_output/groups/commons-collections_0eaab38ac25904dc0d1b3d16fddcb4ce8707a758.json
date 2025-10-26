@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"rightBegin":2,
+			"rightEnd":2
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestAll.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

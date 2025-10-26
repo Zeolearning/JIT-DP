@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/fitting/HarmonicCoefficientsGuesser.java",
+			"leftBegin":180,
+			"leftEnd":181,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/fitting/HarmonicCoefficientsGuesser.java",
+			"rightBegin":180,
+			"rightEnd":179
+		}
+	]
+]

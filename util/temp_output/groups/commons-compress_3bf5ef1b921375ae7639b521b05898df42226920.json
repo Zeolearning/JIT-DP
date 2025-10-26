@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"leftBegin":118,
+			"leftEnd":121,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"rightBegin":118,
+			"rightEnd":118
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"rightBegin":98,
+			"rightEnd":98
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	]
+]

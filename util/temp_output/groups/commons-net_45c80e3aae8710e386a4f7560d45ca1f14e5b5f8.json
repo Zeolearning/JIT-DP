@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"rightBegin":59,
+			"rightEnd":90
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/examples/mail/IMAPUtils.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

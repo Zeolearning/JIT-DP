@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"leftBegin":334,
+			"leftEnd":334,
+			"rightPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"rightBegin":334,
+			"rightEnd":334
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"leftBegin":329,
+			"leftEnd":329,
+			"rightPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"rightBegin":329,
+			"rightEnd":329
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"leftBegin":321,
+			"leftEnd":321,
+			"rightPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"rightBegin":321,
+			"rightEnd":321
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"leftBegin":316,
+			"leftEnd":316,
+			"rightPath":"src/main/java/org/apache/giraph/comm/NettyWorkerClient.java",
+			"rightBegin":316,
+			"rightEnd":316
+		}
+	]
+]

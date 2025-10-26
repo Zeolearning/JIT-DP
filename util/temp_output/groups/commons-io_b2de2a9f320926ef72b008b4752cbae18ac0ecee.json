@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":467,
+			"leftEnd":493,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":468,
+			"rightEnd":467
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":58,
+			"rightEnd":59
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ProxyMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/ProxyMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ProxyMap.java",
+			"leftBegin":116,
+			"leftEnd":117,
+			"rightPath":"src/java/org/apache/commons/collections/ProxyMap.java",
+			"rightBegin":116,
+			"rightEnd":117
+		}
+	]
+]

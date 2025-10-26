@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/DefaultURLConnection.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/DefaultURLConnection.java",
+			"rightBegin":62,
+			"rightEnd":76
+		}
+	]
+]

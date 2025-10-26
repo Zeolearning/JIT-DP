@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/ntp/SimpleNTPServer.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/examples/ntp/SimpleNTPServer.java",
+			"rightBegin":65,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/ntp/SimpleNTPServer.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/main/java/examples/ntp/SimpleNTPServer.java",
+			"rightBegin":107,
+			"rightEnd":109
+		}
+	]
+]

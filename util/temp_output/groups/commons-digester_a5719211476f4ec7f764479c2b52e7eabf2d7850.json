@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/WDRulesWrapperTestCase.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/test/java/org/apache/commons/digester3/WithDefaultsRulesWrapperTestCase.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

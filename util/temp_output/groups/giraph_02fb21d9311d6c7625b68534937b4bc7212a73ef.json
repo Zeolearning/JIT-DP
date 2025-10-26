@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"leftBegin":742,
+			"leftEnd":741,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"rightBegin":742,
+			"rightEnd":745
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"leftBegin":657,
+			"leftEnd":656,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"rightBegin":655,
+			"rightEnd":656
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"leftBegin":647,
+			"leftEnd":648,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java",
+			"rightBegin":647,
+			"rightEnd":646
+		}
+	]
+]

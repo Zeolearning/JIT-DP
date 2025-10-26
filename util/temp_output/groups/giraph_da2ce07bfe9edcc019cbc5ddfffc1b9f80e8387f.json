@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/Vertex.java",
+			"rightBegin":1,
+			"rightEnd":12
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/com/yahoo/hadoop_bsp/AppTest.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/HadoopVertex.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/App.java",
+			"rightBegin":1,
+			"rightEnd":13
+		}
+	]
+]

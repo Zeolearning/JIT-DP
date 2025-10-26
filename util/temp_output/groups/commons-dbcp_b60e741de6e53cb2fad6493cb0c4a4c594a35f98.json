@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"leftBegin":442,
+			"leftEnd":462,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"rightBegin":440,
+			"rightEnd":442
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"leftBegin":57,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"rightBegin":57,
+			"rightEnd":56
+		}
+	]
+]

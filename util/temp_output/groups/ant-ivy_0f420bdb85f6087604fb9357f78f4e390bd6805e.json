@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyConvertPomTest.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyConvertPomTest.java",
+			"rightBegin":33,
+			"rightEnd":34
+		}
+	]
+]

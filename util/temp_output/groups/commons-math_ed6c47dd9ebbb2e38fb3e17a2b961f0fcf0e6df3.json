@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/util/MathArraysTest.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/test/java/org/apache/commons/math4/util/MathArraysTest.java",
+			"rightBegin":179,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/MathArrays.java",
+			"leftBegin":246,
+			"leftEnd":245,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/MathArrays.java",
+			"rightBegin":246,
+			"rightEnd":256
+		}
+	]
+]

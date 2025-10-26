@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ArrayWritableObjectInspector.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ArrayWritableObjectInspector.java",
+			"rightBegin":178,
+			"rightEnd":178
+		}
+	]
+]

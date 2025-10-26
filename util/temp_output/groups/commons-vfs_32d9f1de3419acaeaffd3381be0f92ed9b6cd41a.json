@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"rightBegin":74,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"rightBegin":109,
+			"rightEnd":109
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/UserAuthenticationData.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

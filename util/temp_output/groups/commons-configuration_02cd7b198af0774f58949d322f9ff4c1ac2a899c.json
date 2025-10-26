@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/BaseHierarchicalConfiguration.java",
+			"leftBegin":591,
+			"leftEnd":591,
+			"rightPath":"src/main/java/org/apache/commons/configuration/BaseHierarchicalConfiguration.java",
+			"rightBegin":585,
+			"rightEnd":585
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/BaseHierarchicalConfiguration.java",
+			"leftBegin":59,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/configuration/BaseHierarchicalConfiguration.java",
+			"rightBegin":59,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractHierarchicalConfiguration.java",
+			"leftBegin":166,
+			"leftEnd":189,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractHierarchicalConfiguration.java",
+			"rightBegin":166,
+			"rightEnd":165
+		}
+	]
+]

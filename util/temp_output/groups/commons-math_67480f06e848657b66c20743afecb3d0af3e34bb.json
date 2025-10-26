@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"leftBegin":551,
+			"leftEnd":550,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"rightBegin":551,
+			"rightEnd":551
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"leftBegin":541,
+			"leftEnd":541,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"rightBegin":541,
+			"rightEnd":541
+		}
+	]
+]

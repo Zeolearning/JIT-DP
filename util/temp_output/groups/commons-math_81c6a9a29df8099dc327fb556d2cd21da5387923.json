@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/distribution/BetaDistribution.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/distribution/BetaDistributionImpl.java",
+			"rightBegin":1,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/distribution/BetaDistributionTest.java",
+			"rightBegin":1,
+			"rightEnd":289
+		}
+	]
+]

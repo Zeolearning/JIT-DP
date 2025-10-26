@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatistics.java",
+			"leftBegin":1,
+			"leftEnd":130,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatistics.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatisticsTest.java",
+			"leftBegin":1,
+			"leftEnd":39,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatisticsTest.java",
+			"rightBegin":1,
+			"rightEnd":39
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"leftBegin":445,
+			"leftEnd":448,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTP.java",
+			"rightBegin":445,
+			"rightEnd":445
+		}
+	]
+]

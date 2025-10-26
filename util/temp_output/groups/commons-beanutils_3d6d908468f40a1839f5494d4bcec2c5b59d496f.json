@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/DynaRowSetTestCase.java",
+			"leftBegin":243,
+			"leftEnd":242,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaRowSetTestCase.java",
+			"rightBegin":246,
+			"rightEnd":288
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/DynaRowSetTestCase.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaRowSetTestCase.java",
+			"rightBegin":23,
+			"rightEnd":25
+		}
+	]
+]

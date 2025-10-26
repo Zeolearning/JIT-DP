@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"leftBegin":172,
+			"leftEnd":171,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"rightBegin":175,
+			"rightEnd":220
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/ranking/NaturalRankingTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

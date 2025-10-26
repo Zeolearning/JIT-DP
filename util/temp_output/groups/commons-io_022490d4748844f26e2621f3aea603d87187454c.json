@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/DeferredFileOutputStreamTest.java",
+			"leftBegin":212,
+			"leftEnd":212,
+			"rightPath":"src/test/java/org/apache/commons/io/output/DeferredFileOutputStreamTest.java",
+			"rightBegin":212,
+			"rightEnd":212
+		}
+	]
+]

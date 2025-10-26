@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"leftBegin":238,
+			"leftEnd":238,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"rightBegin":238,
+			"rightEnd":238
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"leftBegin":229,
+			"leftEnd":229,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"rightBegin":229,
+			"rightEnd":229
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"leftBegin":220,
+			"leftEnd":220,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	]
+]

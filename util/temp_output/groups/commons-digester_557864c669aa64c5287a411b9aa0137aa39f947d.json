@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SetRootRule.java",
+			"leftBegin":143,
+			"leftEnd":143,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SetRootRule.java",
+			"rightBegin":143,
+			"rightEnd":143
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"leftBegin":275,
+			"leftEnd":275,
+			"rightPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"rightBegin":275,
+			"rightEnd":275
+		}
+	]
+]

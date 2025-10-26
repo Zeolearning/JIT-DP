@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

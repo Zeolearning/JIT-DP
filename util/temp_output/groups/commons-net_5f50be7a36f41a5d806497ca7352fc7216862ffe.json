@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"rightBegin":138,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"rightBegin":132,
+			"rightEnd":137
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/SMTPClient.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

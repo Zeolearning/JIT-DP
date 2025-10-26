@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"leftBegin":411,
+			"leftEnd":444,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"rightBegin":412,
+			"rightEnd":411
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"leftBegin":136,
+			"leftEnd":136,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"rightBegin":137,
+			"rightEnd":137
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"leftBegin":24,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/converters/AbstractConverter.java",
+			"rightBegin":24,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"leftBegin":355,
+			"leftEnd":354,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"rightBegin":355,
+			"rightEnd":392
+		}
+	]
+]

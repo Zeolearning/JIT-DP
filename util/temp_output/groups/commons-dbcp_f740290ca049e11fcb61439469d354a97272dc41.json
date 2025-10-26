@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnectionFactory.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnectionFactory.java",
+			"rightBegin":96,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnection.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnection.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnection.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/managed/PoolableManagedConnection.java",
+			"rightBegin":47,
+			"rightEnd":65
+		}
+	]
+]

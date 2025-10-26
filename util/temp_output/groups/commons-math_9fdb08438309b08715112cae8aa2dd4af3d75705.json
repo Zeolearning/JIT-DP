@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/fitting/CurveFitterTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/fitting/CurveFitterTest.java",
+			"rightBegin":75,
+			"rightEnd":138
+		}
+	]
+]

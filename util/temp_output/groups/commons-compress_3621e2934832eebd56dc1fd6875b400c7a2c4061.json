@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

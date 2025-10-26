@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/filter2/predicate/SchemaCompatibilityValidator.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"parquet-column/src/main/java/parquet/filter2/predicate/SchemaCompatibilityValidator.java",
+			"rightBegin":155,
+			"rightEnd":158
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/DifferentiableMultivariateFunction.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/DifferentiableMultivariateFunction.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/DifferentiableMultivariateVectorFunction.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/DifferentiableMultivariateVectorFunction.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

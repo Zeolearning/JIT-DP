@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsRemoveMultipleTest.java",
+			"leftBegin":464,
+			"leftEnd":463,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsRemoveMultipleTest.java",
+			"rightBegin":464,
+			"rightEnd":467
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/functors/EqualPredicate.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/collections/functors/EqualPredicate.java",
+			"rightBegin":82,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/functors/EqualPredicate.java",
+			"leftBegin":106,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/collections/functors/EqualPredicate.java",
+			"rightBegin":108,
+			"rightEnd":112
+		}
+	]
+]

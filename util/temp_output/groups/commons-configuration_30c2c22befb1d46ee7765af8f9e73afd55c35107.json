@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingBuilderSupportListener.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/ReloadingBuilderSupportListener.java",
+			"rightBegin":1,
+			"rightEnd":115
+		}
+	]
+]

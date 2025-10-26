@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/engine/TestEventQueueConcurrent.java",
+			"leftBegin":281,
+			"leftEnd":283,
+			"rightPath":"src/test/org/apache/jcs/engine/TestEventQueueConcurrent.java",
+			"rightBegin":283,
+			"rightEnd":285
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/engine/TestEventQueueConcurrent.java",
+			"leftBegin":279,
+			"leftEnd":278,
+			"rightPath":"src/test/org/apache/jcs/engine/TestEventQueueConcurrent.java",
+			"rightBegin":279,
+			"rightEnd":280
+		}
+	]
+]

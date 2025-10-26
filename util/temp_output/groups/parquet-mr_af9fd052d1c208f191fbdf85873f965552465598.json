@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/ColumnDescriptor.java",
+			"leftBegin":120,
+			"leftEnd":121,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/ColumnDescriptor.java",
+			"rightBegin":120,
+			"rightEnd":121
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-column/src/test/java/org/apache/parquet/column/TestColumnDescriptor.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/ColumnDescriptor.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/ColumnDescriptor.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

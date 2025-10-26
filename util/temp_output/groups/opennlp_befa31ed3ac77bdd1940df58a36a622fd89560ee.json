@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java",
+			"leftBegin":128,
+			"leftEnd":130,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java",
+			"rightBegin":129,
+			"rightEnd":160
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

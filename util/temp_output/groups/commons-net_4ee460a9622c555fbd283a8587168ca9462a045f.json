@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"rightBegin":1,
+			"rightEnd":290
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Threadable.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Threader.java",
+			"rightBegin":1,
+			"rightEnd":517
+		}
+	]
+]

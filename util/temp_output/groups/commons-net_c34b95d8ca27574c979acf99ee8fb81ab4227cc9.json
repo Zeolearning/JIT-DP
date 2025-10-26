@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImplTest.java",
+			"leftBegin":407,
+			"leftEnd":406,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImplTest.java",
+			"rightBegin":407,
+			"rightEnd":427
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/memory/store/TestMemStore.java",
+			"leftBegin":1,
+			"leftEnd":45,
+			"rightPath":null
+		}
+	]
+]

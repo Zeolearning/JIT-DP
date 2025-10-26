@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/mantissa/src/org/spaceroots/mantissa/algebra/CoefficientsGenerator.java",
+			"rightBegin":1,
+			"rightEnd":141
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/mantissa/tests-src/org/spaceroots/mantissa/estimation/MinpackTest.java",
+			"rightBegin":1,
+			"rightEnd":1494
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/mantissa/tests-src/org/spaceroots/mantissa/ode/StepProblem.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	]
+]

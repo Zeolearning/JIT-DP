@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"rightBegin":107,
+			"rightEnd":107
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"rightBegin":27,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/test/java/org/apache/bcel/generic/AnnotationGenTestCase.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	]
+]

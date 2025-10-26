@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"rightBegin":250,
+			"rightEnd":250
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"rightBegin":232,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"leftBegin":245,
+			"leftEnd":245,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java",
+			"rightBegin":246,
+			"rightEnd":246
+		}
+	]
+]

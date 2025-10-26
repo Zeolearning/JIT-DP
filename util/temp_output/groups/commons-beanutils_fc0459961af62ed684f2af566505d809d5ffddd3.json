@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaBean.java",
+			"rightBegin":1,
+			"rightEnd":441
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/LazyDynaClassTestCase.java",
+			"rightBegin":1,
+			"rightEnd":256
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaClass.java",
+			"rightBegin":1,
+			"rightEnd":323
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/LazyDynaBeanTestCase.java",
+			"rightBegin":1,
+			"rightEnd":455
+		}
+	]
+]

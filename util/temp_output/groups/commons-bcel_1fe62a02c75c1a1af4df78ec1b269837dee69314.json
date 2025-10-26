@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/ClassLoader.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/ClassLoader.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/ClassVector.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/ClassVector.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

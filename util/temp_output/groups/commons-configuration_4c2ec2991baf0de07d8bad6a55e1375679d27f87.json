@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/TestTrackedNodeModel.java",
+			"rightBegin":1,
+			"rightEnd":207
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/TrackedNodeModel.java",
+			"rightBegin":1,
+			"rightEnd":202
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringUtilTest.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringUtilTest.java",
+			"rightBegin":58,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringUtil.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringUtil.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringUtilTest.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringUtilTest.java",
+			"rightBegin":55,
+			"rightEnd":54
+		}
+	]
+]

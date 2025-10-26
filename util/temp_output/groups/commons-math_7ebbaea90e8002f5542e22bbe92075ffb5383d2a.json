@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"leftBegin":151,
+			"leftEnd":152,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"rightBegin":149,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"leftBegin":154,
+			"leftEnd":162,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"rightBegin":152,
+			"rightEnd":152
+		},
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"leftBegin":145,
+			"leftEnd":149,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/genetics/ImageEvolutionExample.java",
+			"rightBegin":145,
+			"rightEnd":147
+		}
+	]
+]

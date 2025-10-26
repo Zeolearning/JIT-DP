@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/PropertyConverter.java",
+			"leftBegin":80,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/PropertyConverter.java",
+			"rightBegin":80,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/PropertyConverter.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/PropertyConverter.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

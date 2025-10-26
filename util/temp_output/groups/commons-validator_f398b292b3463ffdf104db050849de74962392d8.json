@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"leftBegin":25,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

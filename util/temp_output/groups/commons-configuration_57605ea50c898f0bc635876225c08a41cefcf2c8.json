@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java",
+			"leftBegin":688,
+			"leftEnd":688,
+			"rightPath":"src/main/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java",
+			"rightBegin":688,
+			"rightEnd":687
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java",
+			"leftBegin":412,
+			"leftEnd":412,
+			"rightPath":"src/main/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java",
+			"rightBegin":412,
+			"rightEnd":412
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"leftBegin":1354,
+			"leftEnd":1354,
+			"rightPath":"src/main/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"rightBegin":1354,
+			"rightEnd":1353
+		}
+	]
+]

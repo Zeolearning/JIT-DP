@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"leftBegin":1232,
+			"leftEnd":1234,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"rightBegin":1231,
+			"rightEnd":1233
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"leftBegin":531,
+			"leftEnd":531,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"rightBegin":531,
+			"rightEnd":531
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"leftBegin":1160,
+			"leftEnd":1160,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java",
+			"rightBegin":1160,
+			"rightEnd":1159
+		}
+	]
+]

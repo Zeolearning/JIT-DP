@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLParser.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLParser.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/Tracer.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/Tracer.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"xdocs/usecases/shale-dialogs/SCXMLDialogNavigationHandler.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"xdocs/usecases/shale-dialogs/SCXMLDialogNavigationHandler.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/transform/FastHadamardTransformerTest.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/test/java/org/apache/commons/math/transform/FastHadamardTransformerTest.java",
+			"rightBegin":92,
+			"rightEnd":92
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/transform/FastHadamardTransformerTest.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/test/java/org/apache/commons/math/transform/FastHadamardTransformerTest.java",
+			"rightBegin":121,
+			"rightEnd":121
+		}
+	]
+]

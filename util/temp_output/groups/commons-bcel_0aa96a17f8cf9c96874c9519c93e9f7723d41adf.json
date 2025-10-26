@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/PerformanceTest.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/test/java/org/apache/bcel/PerformanceTest.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	]
+]

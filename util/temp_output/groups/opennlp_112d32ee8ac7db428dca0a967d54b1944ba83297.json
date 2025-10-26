@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderCrossValidator.java",
+			"leftBegin":226,
+			"leftEnd":226,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderCrossValidator.java",
+			"rightBegin":226,
+			"rightEnd":226
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"leftBegin":484,
+			"leftEnd":495,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"rightBegin":483,
+			"rightEnd":482
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"leftBegin":469,
+			"leftEnd":470,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"rightBegin":469,
+			"rightEnd":469
+		}
+	]
+]

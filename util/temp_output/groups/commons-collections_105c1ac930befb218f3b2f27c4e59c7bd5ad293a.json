@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"leftBegin":295,
+			"leftEnd":295,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"rightBegin":295,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"rightBegin":85,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/OrderedSet.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

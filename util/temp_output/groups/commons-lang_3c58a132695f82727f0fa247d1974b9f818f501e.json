@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"rightBegin":180,
+			"rightEnd":188
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/lang/exception/Nestable.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

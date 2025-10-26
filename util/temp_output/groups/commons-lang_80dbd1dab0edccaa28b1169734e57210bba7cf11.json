@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/CharEncodingTest.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/test/org/apache/commons/lang/CharEncodingTest.java",
+			"rightBegin":47,
+			"rightEnd":53
+		}
+	]
+]

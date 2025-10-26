@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/time/TimeTCPClientTest.java",
+			"leftBegin":133,
+			"leftEnd":132,
+			"rightPath":"src/test/org/apache/commons/net/time/TimeTCPClientTest.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/net/time/TimeTCPClientTest.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/test/org/apache/commons/net/time/TimeTCPClientTest.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

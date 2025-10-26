@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"rightBegin":19,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/util/EncryptDecryptTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

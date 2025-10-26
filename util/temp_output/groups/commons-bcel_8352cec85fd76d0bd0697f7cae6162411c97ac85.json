@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/JavaClass.java",
+			"leftBegin":341,
+			"leftEnd":342,
+			"rightPath":"src/java/org/apache/bcel/classfile/JavaClass.java",
+			"rightBegin":349,
+			"rightEnd":349
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/JavaClass.java",
+			"leftBegin":261,
+			"leftEnd":261,
+			"rightPath":"src/java/org/apache/bcel/classfile/JavaClass.java",
+			"rightBegin":261,
+			"rightEnd":269
+		}
+	]
+]

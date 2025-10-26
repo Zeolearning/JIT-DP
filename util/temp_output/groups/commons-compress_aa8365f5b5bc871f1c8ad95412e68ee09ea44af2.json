@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"rightBegin":117,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"leftBegin":168,
+			"leftEnd":167,
+			"rightPath":"src/test/java/org/apache/commons/compress/IOMethodsTest.java",
+			"rightBegin":172,
+			"rightEnd":173
+		}
+	]
+]

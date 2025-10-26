@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/CharSequenceInputStream.java",
+			"leftBegin":120,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/io/input/CharSequenceInputStream.java",
+			"rightBegin":120,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/CharSequenceInputStreamTest.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/test/java/org/apache/commons/io/input/CharSequenceInputStreamTest.java",
+			"rightBegin":112,
+			"rightEnd":118
+		}
+	]
+]

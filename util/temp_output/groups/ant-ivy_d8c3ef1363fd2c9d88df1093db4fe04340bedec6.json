@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/FileSystemResolverTest.java",
+			"leftBegin":245,
+			"leftEnd":244,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/FileSystemResolverTest.java",
+			"rightBegin":245,
+			"rightEnd":302
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"rightBegin":40,
+			"rightEnd":64
+		}
+	]
+]

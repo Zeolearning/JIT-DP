@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/classfile/JDKClassDumpTestCase.java",
+			"leftBegin":81,
+			"leftEnd":89,
+			"rightPath":"src/test/java/org/apache/bcel/classfile/JDKClassDumpTestCase.java",
+			"rightBegin":81,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/classfile/JDKClassDumpTestCase.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"src/test/java/org/apache/bcel/classfile/JDKClassDumpTestCase.java",
+			"rightBegin":92,
+			"rightEnd":91
+		}
+	]
+]

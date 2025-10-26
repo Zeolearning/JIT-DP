@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/data/PLSETestClass2.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/test/java/org/apache/bcel/data/PLSETestClass2.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"leftBegin":723,
+			"leftEnd":723,
+			"rightPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"rightBegin":723,
+			"rightEnd":723
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/bcel/generic/MethodGen.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	]
+]

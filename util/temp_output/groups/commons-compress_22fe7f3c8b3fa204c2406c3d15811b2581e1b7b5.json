@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java",
+			"rightBegin":1,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliUtils.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":133
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"rightBegin":53,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":173,
+			"rightEnd":173
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":143,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":143,
+			"rightEnd":142
+		}
+	]
+]

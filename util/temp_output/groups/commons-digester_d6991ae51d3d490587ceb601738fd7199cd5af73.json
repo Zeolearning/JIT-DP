@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/CallMethodRuleTestCase.java",
+			"leftBegin":173,
+			"leftEnd":172,
+			"rightPath":"src/test/org/apache/commons/digester/CallMethodRuleTestCase.java",
+			"rightBegin":173,
+			"rightEnd":194
+		}
+	]
+]

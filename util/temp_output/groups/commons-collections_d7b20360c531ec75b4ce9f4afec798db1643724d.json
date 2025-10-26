@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestEnumerationUtils.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/EnumerationUtils.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	]
+]

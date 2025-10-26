@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Conversion.java",
+			"leftBegin":101,
+			"leftEnd":103,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Conversion.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

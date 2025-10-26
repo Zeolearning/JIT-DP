@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/UrlValidator.java",
+			"leftBegin":151,
+			"leftEnd":152,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/UrlValidator.java",
+			"rightBegin":151,
+			"rightEnd":152
+		}
+	]
+]

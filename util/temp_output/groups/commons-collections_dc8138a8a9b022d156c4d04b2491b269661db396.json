@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"leftBegin":545,
+			"leftEnd":545,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"rightBegin":545,
+			"rightEnd":545
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"leftBegin":527,
+			"leftEnd":527,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"rightBegin":527,
+			"rightEnd":527
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"leftBegin":502,
+			"leftEnd":502,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"rightBegin":502,
+			"rightEnd":502
+		}
+	]
+]

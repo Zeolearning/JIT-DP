@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"leftBegin":118,
+			"leftEnd":120,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"leftBegin":47,
+			"leftEnd":48,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

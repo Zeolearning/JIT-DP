@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyAntVariableContainer.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyAntVariableContainer.java",
+			"rightBegin":99,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyAntSettingsTest.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyAntSettingsTest.java",
+			"rightBegin":51,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyAntSettingsTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyAntSettingsTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

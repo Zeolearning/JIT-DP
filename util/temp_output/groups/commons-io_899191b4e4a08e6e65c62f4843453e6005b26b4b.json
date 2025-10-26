@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"leftBegin":1,
+			"leftEnd":181,
+			"rightPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"rightBegin":1,
+			"rightEnd":180
+		}
+	]
+]

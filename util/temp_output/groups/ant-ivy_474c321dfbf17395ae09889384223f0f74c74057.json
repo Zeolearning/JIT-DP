@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/install/InstallTest.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"test/java/org/apache/ivy/core/install/InstallTest.java",
+			"rightBegin":44,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/install/InstallEngine.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/java/org/apache/ivy/core/install/InstallEngine.java",
+			"rightBegin":129,
+			"rightEnd":131
+		}
+	]
+]

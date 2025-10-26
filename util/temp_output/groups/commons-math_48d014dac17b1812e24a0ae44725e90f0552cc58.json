@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatisticsTest.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

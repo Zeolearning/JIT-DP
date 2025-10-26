@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestDataConfiguration.java",
+			"leftBegin":2601,
+			"leftEnd":2600,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestDataConfiguration.java",
+			"rightBegin":2601,
+			"rightEnd":2618
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"leftBegin":1772,
+			"leftEnd":1772,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"rightBegin":1772,
+			"rightEnd":1772
+		}
+	]
+]

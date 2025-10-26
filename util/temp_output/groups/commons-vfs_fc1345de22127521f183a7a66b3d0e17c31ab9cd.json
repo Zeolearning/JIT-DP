@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"rightBegin":108,
+			"rightEnd":110
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/PathCallParamBuilder.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/PathCallParamBuilder.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/PathCallParamBuilder.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/PathCallParamBuilder.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	]
+]

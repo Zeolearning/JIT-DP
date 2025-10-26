@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/local/test/FileNameTests.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/local/test/FileNameTests.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/local/test/FileNameTests.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/local/test/FileNameTests.java",
+			"rightBegin":40,
+			"rightEnd":39
+		}
+	]
+]

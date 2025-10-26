@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/FastMath.java",
+			"leftBegin":3138,
+			"leftEnd":3138,
+			"rightPath":"src/main/java/org/apache/commons/math/util/FastMath.java",
+			"rightBegin":3138,
+			"rightEnd":3149
+		}
+	]
+]

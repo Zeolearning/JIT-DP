@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/PercentCodec.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/PercentCodec.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/PercentCodec.java",
+			"leftBegin":125,
+			"leftEnd":126,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/PercentCodec.java",
+			"rightBegin":125,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/mutable/MutableTestSuite.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/org/apache/commons/lang/mutable/MutableTestSuite.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/mutable/MutableTestSuite.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/org/apache/commons/lang/mutable/MutableTestSuite.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/unix/chargen.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/main/java/examples/unix/chargen.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/unix/echo.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/main/java/examples/unix/echo.java",
+			"rightBegin":67,
+			"rightEnd":69
+		}
+	]
+]

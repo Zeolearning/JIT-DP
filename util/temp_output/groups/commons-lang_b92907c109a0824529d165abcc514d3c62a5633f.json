@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+			"leftBegin":361,
+			"leftEnd":361,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+			"rightBegin":358,
+			"rightEnd":358
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+			"leftBegin":351,
+			"leftEnd":359,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+			"rightBegin":351,
+			"rightEnd":356
+		}
+	]
+]

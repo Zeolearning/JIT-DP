@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-couchdb/src/main/java/org/apache/gora/couchdb/store/CouchDBStore.java",
+			"leftBegin":201,
+			"leftEnd":201,
+			"rightPath":"gora-couchdb/src/main/java/org/apache/gora/couchdb/store/CouchDBStore.java",
+			"rightBegin":201,
+			"rightEnd":201
+		}
+	]
+]

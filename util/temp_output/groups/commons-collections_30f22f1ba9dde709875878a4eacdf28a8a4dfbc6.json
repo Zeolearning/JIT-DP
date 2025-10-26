@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"leftBegin":277,
+			"leftEnd":277,
+			"rightPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"rightBegin":277,
+			"rightEnd":277
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"rightBegin":80,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/collections/TestBinaryHeap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"leftBegin":143,
+			"leftEnd":142,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"rightBegin":148,
+			"rightEnd":188
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"rightBegin":26,
+			"rightEnd":27
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java",
+			"rightBegin":29,
+			"rightEnd":31
+		}
+	]
+]

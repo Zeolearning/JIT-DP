@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/tar/TarInputStream.java",
+			"leftBegin":155,
+			"leftEnd":158,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/tar/TarInputStream.java",
+			"rightBegin":156,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/tar/TarInputStream.java",
+			"leftBegin":147,
+			"leftEnd":146,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/tar/TarInputStream.java",
+			"rightBegin":147,
+			"rightEnd":147
+		}
+	]
+]

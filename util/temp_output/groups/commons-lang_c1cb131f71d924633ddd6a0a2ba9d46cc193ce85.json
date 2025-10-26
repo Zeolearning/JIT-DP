@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

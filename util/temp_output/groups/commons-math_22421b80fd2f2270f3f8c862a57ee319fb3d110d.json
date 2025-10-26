@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/SerializablePair.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/math/util/SerializablePair.java",
+			"rightBegin":34,
+			"rightEnd":37
+		}
+	]
+]

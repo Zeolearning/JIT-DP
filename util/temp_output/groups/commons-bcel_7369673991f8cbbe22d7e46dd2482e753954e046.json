@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ControlFlowGraph.java",
+			"leftBegin":417,
+			"leftEnd":417,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ControlFlowGraph.java",
+			"rightBegin":417,
+			"rightEnd":417
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ControlFlowGraph.java",
+			"leftBegin":393,
+			"leftEnd":394,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ControlFlowGraph.java",
+			"rightBegin":393,
+			"rightEnd":394
+		}
+	]
+]

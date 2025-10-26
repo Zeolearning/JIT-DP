@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/perceptron/SimplePerceptronSequenceTrainer.java",
+			"leftBegin":234,
+			"leftEnd":238,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/perceptron/SimplePerceptronSequenceTrainer.java",
+			"rightBegin":234,
+			"rightEnd":238
+		}
+	]
+]

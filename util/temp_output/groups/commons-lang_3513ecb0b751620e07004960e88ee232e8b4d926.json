@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"leftBegin":165,
+			"leftEnd":165,
+			"rightPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"rightBegin":165,
+			"rightEnd":165
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	]
+]

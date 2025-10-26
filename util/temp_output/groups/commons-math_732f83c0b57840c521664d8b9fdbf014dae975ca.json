@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/random/EmpiricalDistributionImpl.java",
+			"leftBegin":433,
+			"leftEnd":433,
+			"rightPath":"src/main/java/org/apache/commons/math/random/EmpiricalDistributionImpl.java",
+			"rightBegin":433,
+			"rightEnd":433
+		}
+	]
+]

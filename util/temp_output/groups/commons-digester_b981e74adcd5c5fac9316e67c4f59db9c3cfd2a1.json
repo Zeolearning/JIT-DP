@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"leftBegin":509,
+			"leftEnd":509,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"rightBegin":510,
+			"rightEnd":510
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"leftBegin":516,
+			"leftEnd":516,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"rightBegin":517,
+			"rightEnd":517
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginCreateRule.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

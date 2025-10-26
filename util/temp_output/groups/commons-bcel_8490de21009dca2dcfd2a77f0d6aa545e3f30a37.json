@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"rightBegin":115,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"rightBegin":100,
+			"rightEnd":100
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"rightBegin":95,
+			"rightEnd":95
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	]
+]

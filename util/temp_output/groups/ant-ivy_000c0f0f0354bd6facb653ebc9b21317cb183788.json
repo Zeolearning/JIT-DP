@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/BasicResolver.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/BasicResolver.java",
+			"rightBegin":57,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/BasicResolver.java",
+			"leftBegin":13,
+			"leftEnd":12,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/BasicResolver.java",
+			"rightBegin":13,
+			"rightEnd":13
+		}
+	]
+]

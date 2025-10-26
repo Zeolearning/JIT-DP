@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"rightBegin":101,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/CopyObjectDefaultHandler.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

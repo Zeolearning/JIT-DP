@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestHierarchicalConfiguration.java",
+			"leftBegin":286,
+			"leftEnd":285,
+			"rightPath":"src/test/org/apache/commons/configuration/TestHierarchicalConfiguration.java",
+			"rightBegin":286,
+			"rightEnd":299
+		}
+	]
+]

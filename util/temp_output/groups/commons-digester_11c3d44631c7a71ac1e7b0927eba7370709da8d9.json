@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ErrorMessage.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ErrorMessage.java",
+			"rightBegin":45,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ErrorMessage.java",
+			"leftBegin":47,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ErrorMessage.java",
+			"rightBegin":48,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/StrBuilderTest.java",
+			"leftBegin":1731,
+			"leftEnd":1730,
+			"rightPath":"src/test/org/apache/commons/lang/text/StrBuilderTest.java",
+			"rightBegin":1731,
+			"rightEnd":1743
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"leftBegin":1777,
+			"leftEnd":1777,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"rightBegin":1778,
+			"rightEnd":1778
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"leftBegin":1776,
+			"leftEnd":1775,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrBuilder.java",
+			"rightBegin":1776,
+			"rightEnd":1776
+		}
+	]
+]

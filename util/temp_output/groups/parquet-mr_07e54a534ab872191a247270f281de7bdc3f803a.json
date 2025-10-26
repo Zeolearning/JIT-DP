@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/src/main/java/parquet/hive/convert/MapWritableRecordConverter.java",
+			"leftBegin":39,
+			"leftEnd":40,
+			"rightPath":"parquet-hive/src/main/java/parquet/hive/convert/MapWritableRecordConverter.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	]
+]

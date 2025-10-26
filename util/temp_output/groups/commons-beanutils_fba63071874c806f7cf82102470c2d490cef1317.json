@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"leftBegin":1086,
+			"leftEnd":1085,
+			"rightPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"rightBegin":1023,
+			"rightEnd":1076
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"leftBegin":1045,
+			"leftEnd":1062,
+			"rightPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"rightBegin":999,
+			"rightEnd":999
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"leftBegin":950,
+			"leftEnd":997,
+			"rightPath":"src/java/org/apache/commons/beanutils/MethodUtils.java",
+			"rightBegin":950,
+			"rightEnd":951
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/list/FixedSizeList.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/collections4/list/FixedSizeList.java",
+			"rightBegin":34,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java",
+			"rightBegin":71,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java",
+			"rightBegin":19,
+			"rightEnd":20
+		}
+	]
+]

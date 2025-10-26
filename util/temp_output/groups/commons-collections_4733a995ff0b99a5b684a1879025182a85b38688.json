@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"leftBegin":110,
+			"leftEnd":109,
+			"rightPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"rightBegin":110,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/SCXMLIOProcessor.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/SCXMLIOProcessor.java",
+			"rightBegin":41,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/SCXMLExecutionContext.java",
+			"leftBegin":343,
+			"leftEnd":342,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/SCXMLExecutionContext.java",
+			"rightBegin":348,
+			"rightEnd":357
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/SCXMLExecutionContext.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/SCXMLExecutionContext.java",
+			"rightBegin":128,
+			"rightEnd":132
+		}
+	]
+]

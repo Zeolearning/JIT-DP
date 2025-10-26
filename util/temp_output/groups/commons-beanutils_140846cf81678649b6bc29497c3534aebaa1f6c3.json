@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/memoryleaktests/MemoryLeakTestCase.java",
+			"leftBegin":498,
+			"leftEnd":499,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/memoryleaktests/MemoryLeakTestCase.java",
+			"rightBegin":498,
+			"rightEnd":500
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/memoryleaktests/MemoryLeakTestCase.java",
+			"leftBegin":494,
+			"leftEnd":494,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/memoryleaktests/MemoryLeakTestCase.java",
+			"rightBegin":494,
+			"rightEnd":494
+		}
+	]
+]

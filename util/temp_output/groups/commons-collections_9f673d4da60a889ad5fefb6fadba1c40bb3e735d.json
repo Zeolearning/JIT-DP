@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestSoftRefHashMap.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestLRUMap.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	]
+]

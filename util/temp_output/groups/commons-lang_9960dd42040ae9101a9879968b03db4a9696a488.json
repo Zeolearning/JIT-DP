@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDateParserTest.java",
+			"leftBegin":342,
+			"leftEnd":341,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDateParserTest.java",
+			"rightBegin":342,
+			"rightEnd":344
+		}
+	]
+]

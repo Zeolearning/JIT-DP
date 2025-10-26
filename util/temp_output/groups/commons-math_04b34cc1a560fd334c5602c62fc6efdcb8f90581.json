@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"leftBegin":296,
+			"leftEnd":295,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"rightBegin":302,
+			"rightEnd":340
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"rightBegin":25,
+			"rightEnd":27
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/RealDistributionAbstractTest.java",
+			"rightBegin":20,
+			"rightEnd":22
+		}
+	]
+]

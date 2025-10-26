@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"leftBegin":4,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"rightBegin":4,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"leftBegin":688,
+			"leftEnd":687,
+			"rightPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"rightBegin":689,
+			"rightEnd":705
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/collections/IteratorUtils.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

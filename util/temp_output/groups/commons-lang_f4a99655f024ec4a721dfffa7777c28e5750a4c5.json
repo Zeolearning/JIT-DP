@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/EnumUtilsTest.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/lang/EnumUtilsTest.java",
+			"rightBegin":33,
+			"rightEnd":37
+		}
+	]
+]

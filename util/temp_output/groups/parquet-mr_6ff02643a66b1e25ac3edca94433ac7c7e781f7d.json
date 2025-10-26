@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/example/GroupReadSupport.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/example/GroupReadSupport.java",
+			"rightBegin":34,
+			"rightEnd":36
+		}
+	]
+]

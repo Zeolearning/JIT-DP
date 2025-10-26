@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

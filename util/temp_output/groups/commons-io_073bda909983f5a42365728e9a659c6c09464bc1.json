@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReaderException.java",
+			"rightBegin":1,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"rightBegin":1,
+			"rightEnd":703
+		}
+	]
+]

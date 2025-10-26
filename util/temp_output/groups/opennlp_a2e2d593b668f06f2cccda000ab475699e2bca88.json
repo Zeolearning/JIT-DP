@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringList.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringList.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/Dictionary.java",
+			"leftBegin":229,
+			"leftEnd":229,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/Dictionary.java",
+			"rightBegin":229,
+			"rightEnd":229
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/FunctorUtils.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/java/org/apache/commons/collections/functors/FunctorUtils.java",
+			"rightBegin":98,
+			"rightEnd":97
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/FunctorUtils.java",
+			"leftBegin":104,
+			"leftEnd":103,
+			"rightPath":"src/java/org/apache/commons/collections/functors/FunctorUtils.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

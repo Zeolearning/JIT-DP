@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrSubstitutorTest.java",
+			"leftBegin":593,
+			"leftEnd":592,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrSubstitutorTest.java",
+			"rightBegin":593,
+			"rightEnd":604
+		}
+	]
+]

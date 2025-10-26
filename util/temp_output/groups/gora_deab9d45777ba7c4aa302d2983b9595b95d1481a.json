@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/store/TestHBaseStore.java",
+			"leftBegin":121,
+			"leftEnd":122,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/store/TestHBaseStore.java",
+			"rightBegin":121,
+			"rightEnd":141
+		}
+	]
+]

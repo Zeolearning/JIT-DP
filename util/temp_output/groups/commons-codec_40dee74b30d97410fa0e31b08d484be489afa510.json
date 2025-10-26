@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/bm/BeiderMorseEncoderTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/codec/language/bm/BeiderMorseEncoderTest.java",
+			"rightBegin":27,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/bm/BeiderMorseEncoderTest.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/test/org/apache/commons/codec/language/bm/BeiderMorseEncoderTest.java",
+			"rightBegin":43,
+			"rightEnd":52
+		}
+	]
+]

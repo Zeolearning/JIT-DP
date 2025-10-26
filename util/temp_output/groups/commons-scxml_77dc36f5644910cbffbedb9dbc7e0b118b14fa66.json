@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/io/ModelUpdater.java",
+			"leftBegin":459,
+			"leftEnd":458,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/io/ModelUpdater.java",
+			"rightBegin":459,
+			"rightEnd":462
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/io/ModelUpdater.java",
+			"leftBegin":456,
+			"leftEnd":456,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/io/ModelUpdater.java",
+			"rightBegin":456,
+			"rightEnd":456
+		}
+	]
+]

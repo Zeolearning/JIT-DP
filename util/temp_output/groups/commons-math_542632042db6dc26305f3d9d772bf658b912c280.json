@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/ode/nonstiff/TestProblem6.java",
+			"rightBegin":1,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/nonstiff/TestProblemFactory.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/test/org/apache/commons/math/ode/nonstiff/TestProblemFactory.java",
+			"rightBegin":31,
+			"rightEnd":32
+		}
+	]
+]

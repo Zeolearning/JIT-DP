@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestMultiHashMap.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"src/test/org/apache/commons/collections/TestMultiHashMap.java",
+			"rightBegin":266,
+			"rightEnd":272
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestMultiHashMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/collections/TestMultiHashMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

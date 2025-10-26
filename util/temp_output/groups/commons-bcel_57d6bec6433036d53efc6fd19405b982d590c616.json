@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1896,
+			"leftEnd":1896,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1896,
+			"rightEnd":1896
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1845,
+			"leftEnd":1845,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1845,
+			"rightEnd":1845
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1758,
+			"leftEnd":1758,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1758,
+			"rightEnd":1758
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1672,
+			"leftEnd":1672,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1672,
+			"rightEnd":1672
+		}
+	]
+]

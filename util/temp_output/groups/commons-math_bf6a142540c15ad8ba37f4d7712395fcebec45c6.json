@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/SymmLQ.java",
+			"leftBegin":1,
+			"leftEnd":1223,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/SymmLQ.java",
+			"rightBegin":1,
+			"rightEnd":1223
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/SymmLQTest.java",
+			"leftBegin":1,
+			"leftEnd":641,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/SymmLQTest.java",
+			"rightBegin":1,
+			"rightEnd":641
+		}
+	]
+]

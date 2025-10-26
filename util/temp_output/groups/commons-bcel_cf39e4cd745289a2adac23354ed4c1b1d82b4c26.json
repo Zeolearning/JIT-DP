@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"leftBegin":867,
+			"leftEnd":867,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"rightBegin":867,
+			"rightEnd":867
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"leftBegin":864,
+			"leftEnd":864,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"rightBegin":864,
+			"rightEnd":864
+		}
+	]
+]

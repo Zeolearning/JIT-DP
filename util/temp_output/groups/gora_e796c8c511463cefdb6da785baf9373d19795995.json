@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/package-info.java",
+			"rightBegin":1,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"rightBegin":1,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/package-info.java",
+			"rightBegin":1,
+			"rightEnd":20
+		}
+	]
+]

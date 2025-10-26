@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"leftBegin":76,
+			"leftEnd":79,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"rightBegin":76,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"leftBegin":57,
+			"leftEnd":60,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"rightBegin":57,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"rightBegin":71,
+			"rightEnd":70
+		}
+	]
+]

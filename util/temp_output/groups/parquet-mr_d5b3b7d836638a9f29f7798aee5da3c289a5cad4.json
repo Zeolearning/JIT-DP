@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ColumnChunkPageWriteStore.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ColumnChunkPageWriteStore.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	]
+]

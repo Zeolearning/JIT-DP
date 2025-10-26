@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/BspServiceMaster.java",
+			"leftBegin":856,
+			"leftEnd":855,
+			"rightPath":"src/main/java/org/apache/giraph/graph/BspServiceMaster.java",
+			"rightBegin":853,
+			"rightEnd":855
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/BspServiceMaster.java",
+			"leftBegin":851,
+			"leftEnd":853,
+			"rightPath":"src/main/java/org/apache/giraph/graph/BspServiceMaster.java",
+			"rightBegin":851,
+			"rightEnd":850
+		}
+	]
+]

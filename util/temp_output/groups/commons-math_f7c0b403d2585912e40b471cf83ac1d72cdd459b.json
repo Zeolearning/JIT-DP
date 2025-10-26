@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/events/EventStateTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"leftBegin":190,
+			"leftEnd":189,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"rightBegin":191,
+			"rightEnd":210
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"leftBegin":208,
+			"leftEnd":217,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"rightBegin":229,
+			"rightEnd":231
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/events/EventState.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"leftBegin":90,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"rightBegin":90,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/SubnetUtilsExample.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/examples/SubnetUtilsExample.java",
+			"rightBegin":19,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/main/java/examples/SubnetUtilsExample.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/examples/SubnetUtilsExample.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	]
+]

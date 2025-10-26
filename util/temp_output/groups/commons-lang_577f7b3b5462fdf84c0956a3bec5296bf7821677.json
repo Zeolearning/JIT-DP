@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"rightBegin":38,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/lang3/arch/Processor.java",
+			"rightBegin":66,
+			"rightEnd":85
+		}
+	]
+]

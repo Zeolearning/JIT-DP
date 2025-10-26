@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"leftBegin":257,
+			"leftEnd":256,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"rightBegin":257,
+			"rightEnd":289
+		}
+	]
+]

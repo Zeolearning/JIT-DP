@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestAll.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestAll.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestAll.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestAll.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

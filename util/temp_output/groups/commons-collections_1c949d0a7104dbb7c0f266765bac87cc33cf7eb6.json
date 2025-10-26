@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"leftBegin":548,
+			"leftEnd":548,
+			"rightPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"rightBegin":547,
+			"rightEnd":547
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"leftBegin":544,
+			"leftEnd":544,
+			"rightPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"rightBegin":543,
+			"rightEnd":543
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"leftBegin":536,
+			"leftEnd":536,
+			"rightPath":"src/java/org/apache/commons/collections/map/SingletonMap.java",
+			"rightBegin":536,
+			"rightEnd":535
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/fraction/BigFractionTest.java",
+			"leftBegin":201,
+			"leftEnd":200,
+			"rightPath":"src/test/java/org/apache/commons/math/fraction/BigFractionTest.java",
+			"rightBegin":201,
+			"rightEnd":224
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/fraction/BigFraction.java",
+			"leftBegin":729,
+			"leftEnd":729,
+			"rightPath":"src/main/java/org/apache/commons/math/fraction/BigFraction.java",
+			"rightBegin":738,
+			"rightEnd":747
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/fraction/BigFraction.java",
+			"leftBegin":685,
+			"leftEnd":685,
+			"rightPath":"src/main/java/org/apache/commons/math/fraction/BigFraction.java",
+			"rightBegin":685,
+			"rightEnd":694
+		}
+	]
+]

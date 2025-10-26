@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/SystemConfiguration.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/SystemConfiguration.java",
+			"rightBegin":54,
+			"rightEnd":54
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/SystemConfiguration.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/SystemConfiguration.java",
+			"rightBegin":114,
+			"rightEnd":115
+		}
+	]
+]

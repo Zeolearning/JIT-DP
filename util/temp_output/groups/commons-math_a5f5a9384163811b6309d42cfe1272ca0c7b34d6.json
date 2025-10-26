@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/FieldLUDecompositionImplTest.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/FieldLUDecompositionImplTest.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/solvers/BrentSolverTest.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/solvers/BrentSolverTest.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	]
+]

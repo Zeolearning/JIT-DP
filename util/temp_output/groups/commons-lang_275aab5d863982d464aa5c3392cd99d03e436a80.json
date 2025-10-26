@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NullArgumentExceptionTest.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/test/org/apache/commons/lang/NullArgumentExceptionTest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NullArgumentExceptionTest.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/test/org/apache/commons/lang/NullArgumentExceptionTest.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

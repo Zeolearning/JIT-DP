@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"rightBegin":39,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

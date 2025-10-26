@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":121,
+			"leftEnd":120,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":121,
+			"rightEnd":121
+		}
+	]
+]

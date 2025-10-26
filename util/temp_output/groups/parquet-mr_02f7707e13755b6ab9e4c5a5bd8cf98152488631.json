@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoMessageConverter.java",
+			"leftBegin":138,
+			"leftEnd":166,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoMessageConverter.java",
+			"rightBegin":138,
+			"rightEnd":149
+		}
+	]
+]

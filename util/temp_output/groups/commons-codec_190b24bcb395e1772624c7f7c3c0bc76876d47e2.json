@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithm.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithm.java",
+			"rightBegin":77,
+			"rightEnd":109
+		}
+	]
+]

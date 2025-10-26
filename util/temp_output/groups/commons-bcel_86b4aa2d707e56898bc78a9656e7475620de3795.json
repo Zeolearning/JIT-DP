@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/util/BCELFactory.java",
+			"rightBegin":1,
+			"rightEnd":347
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/util/BCELifier.java",
+			"rightBegin":1,
+			"rightEnd":301
+		}
+	]
+]

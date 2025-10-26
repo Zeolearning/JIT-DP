@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConversionException.java",
+			"rightBegin":1,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/DynaClass.java",
+			"rightBegin":1,
+			"rightEnd":202
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/Converter.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/DynaBean.java",
+			"rightBegin":1,
+			"rightEnd":205
+		}
+	]
+]

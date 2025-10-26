@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"leftBegin":1168,
+			"leftEnd":1168,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"rightBegin":1177,
+			"rightEnd":1177
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"leftBegin":1160,
+			"leftEnd":1160,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"rightBegin":1169,
+			"rightEnd":1169
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"leftBegin":760,
+			"leftEnd":759,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SymmLQ.java",
+			"rightBegin":760,
+			"rightEnd":768
+		}
+	]
+]

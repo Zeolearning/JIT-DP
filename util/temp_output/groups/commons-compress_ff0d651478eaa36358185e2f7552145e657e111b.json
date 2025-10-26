@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java",
+			"leftBegin":253,
+			"leftEnd":254,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java",
+			"rightBegin":253,
+			"rightEnd":254
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java",
+			"rightBegin":251,
+			"rightEnd":251
+		}
+	]
+]

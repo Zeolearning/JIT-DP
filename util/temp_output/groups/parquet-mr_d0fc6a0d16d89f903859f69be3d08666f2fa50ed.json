@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/src/test/java/parquet/hive/TestHiveSchemaConverter.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"parquet-hive/src/test/java/parquet/hive/TestHiveSchemaConverter.java",
+			"rightBegin":82,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hive/src/test/java/parquet/hive/TestHiveSchemaConverter.java",
+			"leftBegin":117,
+			"leftEnd":118,
+			"rightPath":"parquet-hive/src/test/java/parquet/hive/TestHiveSchemaConverter.java",
+			"rightBegin":116,
+			"rightEnd":117
+		}
+	]
+]

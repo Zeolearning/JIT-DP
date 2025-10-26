@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/io/DotTerminatedMessageReaderTest.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/net/io/DotTerminatedMessageReaderTest.java",
+			"rightBegin":82,
+			"rightEnd":110
+		}
+	]
+]

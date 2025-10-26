@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/AbstractRealDistributionTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/AbstractRealDistributionTest.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/AbstractRealDistributionTest.java",
+			"leftBegin":121,
+			"leftEnd":120,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/AbstractRealDistributionTest.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	]
+]

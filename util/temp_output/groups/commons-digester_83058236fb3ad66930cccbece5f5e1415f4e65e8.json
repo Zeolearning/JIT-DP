@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"rightBegin":111,
+			"rightEnd":112
+		}
+	]
+]

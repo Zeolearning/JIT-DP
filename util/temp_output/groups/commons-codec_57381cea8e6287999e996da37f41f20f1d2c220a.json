@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"leftBegin":61,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"rightBegin":363,
+			"rightEnd":362
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"rightBegin":40,
+			"rightEnd":339
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

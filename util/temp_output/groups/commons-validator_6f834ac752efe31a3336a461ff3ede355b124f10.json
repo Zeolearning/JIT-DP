@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

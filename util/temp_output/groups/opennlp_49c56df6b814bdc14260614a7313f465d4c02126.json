@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":34,
+			"leftEnd":37,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":43,
+			"rightEnd":46
+		}
+	]
+]

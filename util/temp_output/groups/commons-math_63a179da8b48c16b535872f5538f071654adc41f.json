@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fitting/leastsquares/GaussNewtonOptimizer.java",
+			"leftBegin":237,
+			"leftEnd":243,
+			"rightPath":"src/main/java/org/apache/commons/math4/fitting/leastsquares/GaussNewtonOptimizer.java",
+			"rightBegin":237,
+			"rightEnd":241
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"leftBegin":216,
+			"leftEnd":219,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedDistribution.java",
+			"rightBegin":216,
+			"rightEnd":219
+		}
+	]
+]

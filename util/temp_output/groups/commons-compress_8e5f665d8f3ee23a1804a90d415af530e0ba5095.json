@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/ChangeSet.java",
+			"leftBegin":143,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/ChangeSet.java",
+			"rightBegin":143,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/ChangeSet.java",
+			"leftBegin":136,
+			"leftEnd":136,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/ChangeSet.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"leftBegin":489,
+			"leftEnd":489,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"rightBegin":489,
+			"rightEnd":510
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"rightBegin":85,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"leftBegin":3,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestConnectionPool.java",
+			"rightBegin":3,
+			"rightEnd":4
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/RealLinearOperator.java",
+			"leftBegin":73,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/RealLinearOperator.java",
+			"rightBegin":71,
+			"rightEnd":72
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/RealLinearOperator.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/RealLinearOperator.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"leftBegin":628,
+			"leftEnd":628,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"rightBegin":628,
+			"rightEnd":627
+		}
+	]
+]

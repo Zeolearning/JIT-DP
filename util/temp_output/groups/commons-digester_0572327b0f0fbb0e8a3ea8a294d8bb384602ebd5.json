@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":79,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":98,
+			"rightEnd":100
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":82,
+			"rightEnd":97
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":21,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

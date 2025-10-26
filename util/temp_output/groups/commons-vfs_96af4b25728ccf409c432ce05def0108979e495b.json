@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/CombinedResources.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/CombinedResources.java",
+			"rightBegin":117,
+			"rightEnd":117
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/CombinedResources.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/CombinedResources.java",
+			"rightBegin":123,
+			"rightEnd":132
+		}
+	]
+]

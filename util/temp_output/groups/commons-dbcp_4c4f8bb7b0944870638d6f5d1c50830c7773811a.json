@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolablePreparedStatement.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolablePreparedStatement.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolableCallableStatement.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolableCallableStatement.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

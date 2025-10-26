@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLHelper.java",
+			"leftBegin":252,
+			"leftEnd":252,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLHelper.java",
+			"rightBegin":252,
+			"rightEnd":252
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLHelper.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLHelper.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	]
+]

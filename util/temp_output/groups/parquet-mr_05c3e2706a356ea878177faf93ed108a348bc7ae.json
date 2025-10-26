@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

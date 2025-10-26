@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/AntBuildResolverTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"test/java/org/apache/ivy/ant/AntBuildResolverTest.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

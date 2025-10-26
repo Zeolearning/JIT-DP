@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/EnclosingBallExample.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/EnclosingBallExample.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/ConvexHullExample.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/ConvexHullExample.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/ConvexHullExample.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/userguide/java/org/apache/commons/math3/userguide/geometry/ConvexHullExample.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/Utils.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/commons/dbcp2/Utils.java",
+			"rightBegin":32,
+			"rightEnd":44
+		}
+	]
+]

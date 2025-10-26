@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"rightBegin":128,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/Mini/ASCII_CharStream.java",
+			"leftBegin":227,
+			"leftEnd":226,
+			"rightPath":"src/examples/Mini/ASCII_CharStream.java",
+			"rightBegin":228,
+			"rightEnd":228
+		},
+		{
+			"leftPath":"src/examples/Mini/ASCII_CharStream.java",
+			"leftBegin":218,
+			"leftEnd":217,
+			"rightPath":"src/examples/Mini/ASCII_CharStream.java",
+			"rightBegin":218,
+			"rightEnd":218
+		}
+	]
+]

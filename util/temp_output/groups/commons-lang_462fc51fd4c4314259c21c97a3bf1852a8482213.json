@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"leftBegin":246,
+			"leftEnd":245,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"rightBegin":246,
+			"rightEnd":269
+		}
+	]
+]

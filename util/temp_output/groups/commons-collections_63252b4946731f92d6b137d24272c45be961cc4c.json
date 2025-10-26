@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java",
+			"leftBegin":693,
+			"leftEnd":693,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java",
+			"rightBegin":693,
+			"rightEnd":693
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java",
+			"leftBegin":688,
+			"leftEnd":688,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java",
+			"rightBegin":688,
+			"rightEnd":688
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParser.java",
+			"leftBegin":101,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParser.java",
+			"rightBegin":101,
+			"rightEnd":100
+		}
+	]
+]

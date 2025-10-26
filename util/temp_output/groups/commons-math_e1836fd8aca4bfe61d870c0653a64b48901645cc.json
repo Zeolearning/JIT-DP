@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"leftBegin":39,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"rightBegin":37,
+			"rightEnd":36
+		}
+	]
+]

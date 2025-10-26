@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/SemiVariance.java",
+			"leftBegin":70,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/SemiVariance.java",
+			"rightBegin":82,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/SemiVariance.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/SemiVariance.java",
+			"rightBegin":55,
+			"rightEnd":66
+		}
+	]
+]

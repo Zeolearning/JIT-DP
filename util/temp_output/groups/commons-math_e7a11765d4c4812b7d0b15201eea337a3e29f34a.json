@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/test/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"rightBegin":177,
+			"rightEnd":177
+		}
+	]
+]

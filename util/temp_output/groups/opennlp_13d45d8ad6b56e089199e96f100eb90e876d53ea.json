@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSSampleSequenceStream.java",
+			"leftBegin":60,
+			"leftEnd":62,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSSampleSequenceStream.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

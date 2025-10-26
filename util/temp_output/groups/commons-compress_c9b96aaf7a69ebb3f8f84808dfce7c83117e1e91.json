@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"rightBegin":50,
+			"rightEnd":54
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/test/TestingTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	]
+]

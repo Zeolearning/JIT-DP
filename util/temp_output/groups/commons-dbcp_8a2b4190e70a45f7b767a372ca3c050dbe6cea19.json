@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DriverManagerConnectionFactory.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/dbcp/DriverManagerConnectionFactory.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DriverManagerConnectionFactory.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/dbcp/DriverManagerConnectionFactory.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

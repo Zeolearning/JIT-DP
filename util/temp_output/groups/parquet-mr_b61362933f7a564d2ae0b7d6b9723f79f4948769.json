@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/parquet/avro/AvroParquetReader.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"parquet-avro/src/main/java/parquet/avro/AvroParquetReader.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

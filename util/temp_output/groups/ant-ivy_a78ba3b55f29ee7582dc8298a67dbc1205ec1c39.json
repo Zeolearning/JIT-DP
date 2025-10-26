@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"leftBegin":952,
+			"leftEnd":952,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"rightBegin":952,
+			"rightEnd":956
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/repo/ResolverManifestIterable.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/ResolverManifestIterable.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	]
+]

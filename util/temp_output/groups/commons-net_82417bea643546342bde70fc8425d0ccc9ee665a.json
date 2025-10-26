@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/ntp/NTPClient.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/examples/ntp/NTPClient.java",
+			"rightBegin":26,
+			"rightEnd":30
+		}
+	]
+]

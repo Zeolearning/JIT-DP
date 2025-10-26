@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/giraph/TestJsonBase64Format.java",
+			"leftBegin":11,
+			"leftEnd":11,
+			"rightPath":"src/test/java/org/apache/giraph/TestJsonBase64Format.java",
+			"rightBegin":11,
+			"rightEnd":11
+		},
+		{
+			"leftPath":"src/test/java/org/apache/giraph/TestJsonBase64Format.java",
+			"leftBegin":9,
+			"leftEnd":9,
+			"rightPath":"src/test/java/org/apache/giraph/TestJsonBase64Format.java",
+			"rightBegin":9,
+			"rightEnd":9
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/giraph/BspCase.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/test/java/org/apache/giraph/BspCase.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

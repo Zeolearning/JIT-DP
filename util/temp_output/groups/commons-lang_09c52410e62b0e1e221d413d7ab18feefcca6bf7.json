@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/JavaVersion.java",
+			"leftBegin":80,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/lang3/JavaVersion.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

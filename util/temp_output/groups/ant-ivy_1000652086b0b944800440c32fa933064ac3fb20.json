@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/extendable/UnmodifiableExtendableItem.java",
+			"leftBegin":39,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/ivy/util/extendable/UnmodifiableExtendableItem.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/extendable/UnmodifiableExtendableItem.java",
+			"leftBegin":43,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/ivy/util/extendable/UnmodifiableExtendableItem.java",
+			"rightBegin":43,
+			"rightEnd":44
+		}
+	]
+]

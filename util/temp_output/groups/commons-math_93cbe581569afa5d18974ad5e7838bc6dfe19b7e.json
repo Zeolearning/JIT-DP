@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"leftBegin":1502,
+			"leftEnd":1502,
+			"rightPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"rightBegin":1502,
+			"rightEnd":1502
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"leftBegin":1498,
+			"leftEnd":1498,
+			"rightPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"rightBegin":1498,
+			"rightEnd":1498
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"leftBegin":1174,
+			"leftEnd":1175,
+			"rightPath":"src/test/java/org/apache/commons/math/dfp/DfpTest.java",
+			"rightBegin":1174,
+			"rightEnd":1175
+		}
+	]
+]

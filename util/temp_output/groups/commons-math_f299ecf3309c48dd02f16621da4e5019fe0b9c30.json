@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RRQRDecomposition.java",
+			"leftBegin":187,
+			"leftEnd":186,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RRQRDecomposition.java",
+			"rightBegin":187,
+			"rightEnd":194
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/QRDecomposition.java",
+			"leftBegin":294,
+			"leftEnd":293,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/QRDecomposition.java",
+			"rightBegin":294,
+			"rightEnd":301
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java",
+			"leftBegin":276,
+			"leftEnd":275,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java",
+			"rightBegin":276,
+			"rightEnd":284
+		}
+	]
+]

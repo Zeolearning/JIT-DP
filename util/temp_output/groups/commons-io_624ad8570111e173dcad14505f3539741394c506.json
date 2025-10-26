@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/monitor/FileSystemMonitorTestCase.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/test/java/org/apache/commons/io/monitor/FileSystemMonitorTestCase.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/monitor/AbstractMonitorTestCase.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/test/java/org/apache/commons/io/monitor/AbstractMonitorTestCase.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/monitor/AbstractMonitorTestCase.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"src/test/java/org/apache/commons/io/monitor/AbstractMonitorTestCase.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestDynamicCombinedConfiguration.java",
+			"leftBegin":86,
+			"leftEnd":87,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestDynamicCombinedConfiguration.java",
+			"rightBegin":87,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestDynamicCombinedConfiguration.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestDynamicCombinedConfiguration.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

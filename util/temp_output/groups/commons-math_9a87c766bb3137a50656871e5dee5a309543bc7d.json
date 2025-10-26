@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/JDKRandomGenerator.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/JDKRandomGenerator.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/JDKRandomGenerator.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/JDKRandomGenerator.java",
+			"rightBegin":61,
+			"rightEnd":70
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+			"leftBegin":120,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	]
+]

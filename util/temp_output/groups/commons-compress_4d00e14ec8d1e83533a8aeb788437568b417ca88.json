@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":365
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":209
+		}
+	]
+]

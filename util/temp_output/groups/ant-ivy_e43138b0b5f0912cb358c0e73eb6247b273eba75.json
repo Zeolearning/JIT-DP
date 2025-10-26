@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/ChainResolverTest.java",
+			"leftBegin":453,
+			"leftEnd":452,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/ChainResolverTest.java",
+			"rightBegin":454,
+			"rightEnd":454
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/ChainResolverTest.java",
+			"leftBegin":387,
+			"leftEnd":386,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/ChainResolverTest.java",
+			"rightBegin":387,
+			"rightEnd":387
+		}
+	]
+]

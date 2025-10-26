@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/IDKey.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/commons/lang/builder/IDKey.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/HashCodeBuilder.java",
+			"leftBegin":30,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/lang/builder/HashCodeBuilder.java",
+			"rightBegin":30,
+			"rightEnd":29
+		}
+	]
+]

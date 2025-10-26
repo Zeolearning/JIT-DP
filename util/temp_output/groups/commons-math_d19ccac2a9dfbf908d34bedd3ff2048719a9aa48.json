@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"leftBegin":300,
+			"leftEnd":299,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"rightBegin":303,
+			"rightEnd":305
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"leftBegin":295,
+			"leftEnd":294,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"rightBegin":295,
+			"rightEnd":297
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"leftBegin":291,
+			"leftEnd":292,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+			"rightBegin":291,
+			"rightEnd":292
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"leftBegin":180,
+			"leftEnd":201,
+			"rightPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"rightBegin":181,
+			"rightEnd":180
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

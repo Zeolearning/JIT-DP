@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"leftBegin":50,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"leftBegin":65,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

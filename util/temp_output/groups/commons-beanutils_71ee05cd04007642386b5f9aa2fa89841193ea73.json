@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"leftBegin":202,
+			"leftEnd":201,
+			"rightPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"rightBegin":202,
+			"rightEnd":207
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/test/org/apache/commons/beanutils/WrapDynaBeanTestCase.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

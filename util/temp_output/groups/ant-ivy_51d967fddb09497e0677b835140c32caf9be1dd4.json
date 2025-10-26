@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/settings/XmlSettingsParserTest.java",
+			"leftBegin":177,
+			"leftEnd":176,
+			"rightPath":"test/java/org/apache/ivy/core/settings/XmlSettingsParserTest.java",
+			"rightBegin":177,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/matcher/MapMatcher.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/ivy/plugins/matcher/MapMatcher.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/matcher/MapMatcher.java",
+			"leftBegin":48,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/ivy/plugins/matcher/MapMatcher.java",
+			"rightBegin":48,
+			"rightEnd":51
+		}
+	]
+]

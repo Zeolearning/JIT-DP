@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/special/BetaTest.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/test/java/org/apache/commons/math3/special/BetaTest.java",
+			"rightBegin":145,
+			"rightEnd":157
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"leftBegin":195,
+			"leftEnd":196,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"rightBegin":195,
+			"rightEnd":197
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"leftBegin":192,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"rightBegin":192,
+			"rightEnd":193
+		}
+	]
+]

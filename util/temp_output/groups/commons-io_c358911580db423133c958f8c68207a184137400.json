@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/org/apache/commons/io/bzip2/Bzip2Uncompress.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/org/apache/commons/io/bzip2/Bzip2Compress.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	]
+]

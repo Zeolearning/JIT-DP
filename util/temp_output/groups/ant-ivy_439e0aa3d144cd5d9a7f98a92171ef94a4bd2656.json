@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":375,
+			"leftEnd":375,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":375,
+			"rightEnd":375
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyReport.java",
+			"leftBegin":290,
+			"leftEnd":290,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyReport.java",
+			"rightBegin":292,
+			"rightEnd":293
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyReport.java",
+			"leftBegin":283,
+			"leftEnd":283,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyReport.java",
+			"rightBegin":283,
+			"rightEnd":285
+		}
+	]
+]

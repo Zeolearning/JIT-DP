@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/optim/univariate/BracketFinder.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/math4/optim/univariate/BracketFinder.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/optim/univariate/BracketFinder.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/math4/optim/univariate/BracketFinder.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

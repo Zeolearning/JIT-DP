@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/test/java/parquet/hadoop/TestReadIntTestFile.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"parquet-pig/src/test/java/parquet/hadoop/TestReadIntTestFile.java",
+			"rightBegin":39,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"parquet-pig/src/test/java/parquet/hadoop/TestReadIntTestFile.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"parquet-pig/src/test/java/parquet/hadoop/TestReadIntTestFile.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileSystem.java",
+			"leftBegin":578,
+			"leftEnd":587,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileSystem.java",
+			"rightBegin":578,
+			"rightEnd":578
+		}
+	]
+]

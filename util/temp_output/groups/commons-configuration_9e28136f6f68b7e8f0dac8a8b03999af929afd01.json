@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":230,
+			"leftEnd":229,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":230,
+			"rightEnd":235
+		}
+	]
+]

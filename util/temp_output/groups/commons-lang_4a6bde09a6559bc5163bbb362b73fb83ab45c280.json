@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"leftBegin":206,
+			"leftEnd":205,
+			"rightPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"rightBegin":190,
+			"rightEnd":205
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"leftBegin":172,
+			"leftEnd":187,
+			"rightPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"rightBegin":172,
+			"rightEnd":171
+		}
+	]
+]

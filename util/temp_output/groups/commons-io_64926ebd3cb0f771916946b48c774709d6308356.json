@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"leftBegin":246,
+			"leftEnd":246,
+			"rightPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"rightBegin":248,
+			"rightEnd":248
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"rightBegin":151,
+			"rightEnd":151
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"rightBegin":109,
+			"rightEnd":110
+		}
+	]
+]

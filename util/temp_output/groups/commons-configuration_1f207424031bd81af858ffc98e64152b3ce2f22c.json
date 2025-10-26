@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/spring/ConfigPropertySourceTest.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/spring/ConfigPropertySource.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	]
+]

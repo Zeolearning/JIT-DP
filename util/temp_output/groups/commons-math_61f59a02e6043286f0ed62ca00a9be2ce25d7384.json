@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"leftBegin":485,
+			"leftEnd":510,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"rightBegin":486,
+			"rightEnd":485
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"leftBegin":344,
+			"leftEnd":344,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"rightBegin":344,
+			"rightEnd":345
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"leftBegin":322,
+			"leftEnd":322,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"rightBegin":322,
+			"rightEnd":322
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+			"rightBegin":249,
+			"rightEnd":249
+		}
+	]
+]

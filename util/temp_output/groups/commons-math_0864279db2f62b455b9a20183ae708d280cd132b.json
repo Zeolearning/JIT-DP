@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/primes/Primes.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/math3/primes/Primes.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

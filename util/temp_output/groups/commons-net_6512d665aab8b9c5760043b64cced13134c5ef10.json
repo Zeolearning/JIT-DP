@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ntp/TimeStamp.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/net/ntp/TimeStamp.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"leftBegin":672,
+			"leftEnd":672,
+			"rightPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"rightBegin":672,
+			"rightEnd":672
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"leftBegin":658,
+			"leftEnd":658,
+			"rightPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"rightBegin":658,
+			"rightEnd":658
+		}
+	]
+]

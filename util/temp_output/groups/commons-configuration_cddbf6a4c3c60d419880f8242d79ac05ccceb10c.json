@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalINIConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":656
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/TestHierarchicalINIConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":510
+		}
+	]
+]

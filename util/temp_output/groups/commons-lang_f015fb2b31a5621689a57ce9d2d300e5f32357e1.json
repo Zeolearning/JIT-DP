@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"leftBegin":150,
+			"leftEnd":151,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"rightBegin":150,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"rightBegin":175,
+			"rightEnd":175
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"leftBegin":187,
+			"leftEnd":187,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"rightBegin":187,
+			"rightEnd":187
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftParquetWriter.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftParquetWriter.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftParquetWriter.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftParquetWriter.java",
+			"rightBegin":45,
+			"rightEnd":50
+		}
+	]
+]

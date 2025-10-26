@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/PercentValidatorTest.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/PercentValidatorTest.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/CurrencyValidatorTest.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/CurrencyValidatorTest.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

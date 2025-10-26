@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/CharRangeTest.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/test/java/org/apache/commons/lang3/CharRangeTest.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"leftBegin":209,
+			"leftEnd":209,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"rightBegin":209,
+			"rightEnd":211
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"rightBegin":32,
+			"rightEnd":34
+		}
+	]
+]

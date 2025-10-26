@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"auxiliary-builds/javagroups/src/test/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheTest.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"auxiliary-builds/javagroups/src/test/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheTest.java",
+			"rightBegin":58,
+			"rightEnd":77
+		}
+	]
+]

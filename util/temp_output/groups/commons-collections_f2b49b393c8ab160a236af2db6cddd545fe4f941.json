@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/trie/AbstractKeyAnalyzer.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/collections4/trie/AbstractKeyAnalyzer.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

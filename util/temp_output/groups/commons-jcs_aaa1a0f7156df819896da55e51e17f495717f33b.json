@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskUnitTest.java",
+			"leftBegin":363,
+			"leftEnd":362,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskUnitTest.java",
+			"rightBegin":363,
+			"rightEnd":375
+		}
+	]
+]

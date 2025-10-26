@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/TeeOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/CountingOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":119
+		}
+	]
+]

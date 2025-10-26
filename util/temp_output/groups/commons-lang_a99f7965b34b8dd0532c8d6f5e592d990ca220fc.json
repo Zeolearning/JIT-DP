@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/time/FastDateFormat.java",
+			"rightBegin":1,
+			"rightEnd":1179
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"rightBegin":1,
+			"rightEnd":166
+		}
+	]
+]

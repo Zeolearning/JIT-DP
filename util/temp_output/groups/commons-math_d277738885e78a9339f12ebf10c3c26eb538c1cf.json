@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"rightBegin":180,
+			"rightEnd":205
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"leftBegin":250,
+			"leftEnd":249,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"rightBegin":250,
+			"rightEnd":258
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegratorTest.java",
+			"leftBegin":259,
+			"leftEnd":258,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegratorTest.java",
+			"rightBegin":259,
+			"rightEnd":284
+		}
+	]
+]

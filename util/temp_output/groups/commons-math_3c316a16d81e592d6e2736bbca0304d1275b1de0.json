@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":125,
+			"leftEnd":125,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":125,
+			"rightEnd":125
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":108,
+			"rightEnd":108
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	]
+]

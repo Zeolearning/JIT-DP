@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"leftBegin":406,
+			"leftEnd":407,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"rightBegin":406,
+			"rightEnd":407
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"leftBegin":368,
+			"leftEnd":369,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"rightBegin":368,
+			"rightEnd":369
+		}
+	]
+]

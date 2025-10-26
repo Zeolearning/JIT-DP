@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"rightBegin":94,
+			"rightEnd":131
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"leftBegin":8,
+			"leftEnd":7,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"rightBegin":8,
+			"rightEnd":8
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"leftBegin":9,
+			"leftEnd":8,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyDeliverTest.java",
+			"rightBegin":10,
+			"rightEnd":10
+		}
+	]
+]

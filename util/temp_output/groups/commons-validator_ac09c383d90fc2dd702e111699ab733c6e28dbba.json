@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/IntegerValidator.java",
+			"leftBegin":253,
+			"leftEnd":253,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/IntegerValidator.java",
+			"rightBegin":253,
+			"rightEnd":253
+		}
+	]
+]

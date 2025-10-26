@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"leftBegin":193,
+			"leftEnd":193,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"rightBegin":195,
+			"rightEnd":196
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"rightBegin":184,
+			"rightEnd":185
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"rightBegin":163,
+			"rightEnd":164
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"leftBegin":29,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/function/LogitTest.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

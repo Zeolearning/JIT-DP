@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java",
+			"leftBegin":286,
+			"leftEnd":285,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java",
+			"rightBegin":286,
+			"rightEnd":300
+		}
+	]
+]

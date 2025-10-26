@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"rightBegin":71,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"rightBegin":54,
+			"rightEnd":54
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/commons/lang/exception/ExceptionUtils.java",
+			"rightBegin":34,
+			"rightEnd":35
+		}
+	]
+]

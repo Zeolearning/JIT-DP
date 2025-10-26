@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java",
+			"leftBegin":82,
+			"leftEnd":83,
+			"rightPath":"src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java",
+			"rightBegin":82,
+			"rightEnd":84
+		}
+	]
+]

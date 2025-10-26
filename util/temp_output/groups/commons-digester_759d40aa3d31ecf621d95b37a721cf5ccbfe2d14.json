@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/DigesterRuleParser.java",
+			"leftBegin":459,
+			"leftEnd":459,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/DigesterRuleParser.java",
+			"rightBegin":459,
+			"rightEnd":465
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/DigesterRuleParser.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/DigesterRuleParser.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/FromAnnotationsRuleModule.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/FromAnnotationsRuleModule.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/FromAnnotationsRuleModule.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/FromAnnotationsRuleModule.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

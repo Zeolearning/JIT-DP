@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/SortedBidiMap.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/collections4/SortedBidiMap.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/SortedBidiMap.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/collections4/SortedBidiMap.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

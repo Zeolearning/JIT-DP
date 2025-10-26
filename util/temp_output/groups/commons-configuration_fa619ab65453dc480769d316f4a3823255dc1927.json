@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestReloadingCombinedConfigurationBuilderFileBased.java",
+			"leftBegin":326,
+			"leftEnd":326,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestReloadingCombinedConfigurationBuilderFileBased.java",
+			"rightBegin":326,
+			"rightEnd":326
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestReloadingCombinedConfigurationBuilderFileBased.java",
+			"leftBegin":290,
+			"leftEnd":290,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestReloadingCombinedConfigurationBuilderFileBased.java",
+			"rightBegin":290,
+			"rightEnd":290
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"leftBegin":362,
+			"leftEnd":361,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"rightBegin":363,
+			"rightEnd":381
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/BOMInputStream.java",
+			"leftBegin":168,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/io/input/BOMInputStream.java",
+			"rightBegin":168,
+			"rightEnd":168
+		}
+	]
+]

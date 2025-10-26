@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDateParserTest.java",
+			"leftBegin":223,
+			"leftEnd":223,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDateParserTest.java",
+			"rightBegin":223,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DurationFormatUtilsTest.java",
+			"leftBegin":534,
+			"leftEnd":533,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DurationFormatUtilsTest.java",
+			"rightBegin":534,
+			"rightEnd":545
+		}
+	]
+]

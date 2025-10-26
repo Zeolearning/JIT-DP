@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/bcel6/generic/InstructionHandleTestCase.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/bcel6/generic/InstructionHandleTestCase.java",
+			"rightBegin":38,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionComparator.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionComparator.java",
+			"rightBegin":38,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionComparator.java",
+			"leftBegin":39,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionComparator.java",
+			"rightBegin":42,
+			"rightEnd":44
+		}
+	]
+]

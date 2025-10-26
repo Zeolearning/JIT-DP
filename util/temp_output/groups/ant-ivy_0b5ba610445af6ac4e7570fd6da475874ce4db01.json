@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"rightBegin":97,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyPublish.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyPublish.java",
+			"rightBegin":168,
+			"rightEnd":168
+		}
+	]
+]

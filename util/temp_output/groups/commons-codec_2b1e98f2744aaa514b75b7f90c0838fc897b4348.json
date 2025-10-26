@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"rightBegin":56,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

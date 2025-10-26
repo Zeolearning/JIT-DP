@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/engine/SystemPropertyUsageUnitTest.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/test/org/apache/commons/jcs/engine/SystemPropertyUsageUnitTest.java",
+			"rightBegin":46,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/engine/SystemPropertyUsageUnitTest.java",
+			"leftBegin":52,
+			"leftEnd":53,
+			"rightPath":"src/test/org/apache/commons/jcs/engine/SystemPropertyUsageUnitTest.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

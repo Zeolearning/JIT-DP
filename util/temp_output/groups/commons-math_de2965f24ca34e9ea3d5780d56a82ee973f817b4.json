@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"leftBegin":1058,
+			"leftEnd":1058,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"rightBegin":1058,
+			"rightEnd":1058
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"leftBegin":1034,
+			"leftEnd":1034,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"rightBegin":1034,
+			"rightEnd":1034
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"leftBegin":1009,
+			"leftEnd":1009,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"rightBegin":1009,
+			"rightEnd":1009
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"leftBegin":964,
+			"leftEnd":963,
+			"rightPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"rightBegin":963,
+			"rightEnd":968
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	]
+]

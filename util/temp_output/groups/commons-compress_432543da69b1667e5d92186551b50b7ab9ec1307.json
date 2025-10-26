@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/BZip2TestCase.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/BZip2TestCase.java",
+			"rightBegin":107,
+			"rightEnd":127
+		}
+	]
+]

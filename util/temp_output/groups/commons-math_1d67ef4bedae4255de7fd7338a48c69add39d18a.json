@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"rightBegin":93,
+			"rightEnd":93
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"leftBegin":30,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/IterativeLinearSolverEvent.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

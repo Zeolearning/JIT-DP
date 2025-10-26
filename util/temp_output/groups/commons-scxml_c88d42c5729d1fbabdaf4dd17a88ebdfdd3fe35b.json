@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/If.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/If.java",
+			"rightBegin":21,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/If.java",
+			"leftBegin":128,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/If.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

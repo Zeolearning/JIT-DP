@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceSample.java",
+			"leftBegin":59,
+			"leftEnd":61,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceSample.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

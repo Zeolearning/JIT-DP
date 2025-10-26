@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/DescendingVisitor.java",
+			"leftBegin":58,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/DescendingVisitor.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

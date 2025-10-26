@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"leftBegin":189,
+			"leftEnd":197,
+			"rightPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"rightBegin":187,
+			"rightEnd":194
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"leftBegin":169,
+			"leftEnd":172,
+			"rightPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"rightBegin":169,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/java/org/apache/commons/dbcp/jdbc2pool/Jdbc2PoolDataSource.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	]
+]

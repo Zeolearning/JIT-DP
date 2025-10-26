@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/ImmutableConfiguration.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/ImmutableConfiguration.java",
+			"rightBegin":66,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"leftBegin":1030,
+			"leftEnd":1029,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java",
+			"rightBegin":1030,
+			"rightEnd":1036
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/convert/DefaultConversionHandler.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/convert/DefaultConversionHandler.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

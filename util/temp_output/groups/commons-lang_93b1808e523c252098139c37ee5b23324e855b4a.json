@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrSubstitutor.java",
+			"leftBegin":872,
+			"leftEnd":871,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrSubstitutor.java",
+			"rightBegin":869,
+			"rightEnd":870
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrSubstitutor.java",
+			"leftBegin":868,
+			"leftEnd":870,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrSubstitutor.java",
+			"rightBegin":868,
+			"rightEnd":867
+		}
+	]
+]

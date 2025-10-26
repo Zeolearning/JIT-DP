@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/beanutils/TestConfigurationDynaBean.java",
+			"rightBegin":1,
+			"rightEnd":818
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/beanutils/ConfigurationDynaClass.java",
+			"rightBegin":1,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/beanutils/ConfigurationDynaBean.java",
+			"rightBegin":1,
+			"rightEnd":225
+		}
+	]
+]

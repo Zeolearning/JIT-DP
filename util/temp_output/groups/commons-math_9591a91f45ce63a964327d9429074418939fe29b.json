@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/PrecisionTest.java",
+			"leftBegin":467,
+			"leftEnd":466,
+			"rightPath":"src/test/java/org/apache/commons/math/util/PrecisionTest.java",
+			"rightBegin":467,
+			"rightEnd":484
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/Precision.java",
+			"leftBegin":476,
+			"leftEnd":475,
+			"rightPath":"src/main/java/org/apache/commons/math/util/Precision.java",
+			"rightBegin":476,
+			"rightEnd":495
+		}
+	]
+]

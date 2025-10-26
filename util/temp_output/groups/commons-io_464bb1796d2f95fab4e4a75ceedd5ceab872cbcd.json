@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/monitor/FileAlterationObserverTestCase.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/test/java/org/apache/commons/io/monitor/FileAlterationObserverTestCase.java",
+			"rightBegin":84,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/monitor/FileAlterationObserverTestCase.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/io/monitor/FileAlterationObserverTestCase.java",
+			"rightBegin":80,
+			"rightEnd":81
+		}
+	]
+]

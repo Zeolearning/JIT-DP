@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"leftBegin":230,
+			"leftEnd":230,
+			"rightPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"rightBegin":233,
+			"rightEnd":237
+		},
+		{
+			"leftPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"rightBegin":28,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"gora-cassandra-cql/src/main/java/org/apache/gora/cassandra/store/CassandraStore.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ClassParser.java",
+			"leftBegin":48,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ClassParser.java",
+			"rightBegin":48,
+			"rightEnd":49
+		}
+	]
+]

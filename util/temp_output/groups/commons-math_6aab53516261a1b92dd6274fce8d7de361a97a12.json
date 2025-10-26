@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java",
+			"rightBegin":39,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java",
+			"rightBegin":50,
+			"rightEnd":66
+		}
+	]
+]

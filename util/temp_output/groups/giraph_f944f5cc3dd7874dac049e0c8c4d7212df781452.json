@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/edge/LongByteHashMapEdgesTest.java",
+			"rightBegin":1,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongByteHashMapEdges.java",
+			"rightBegin":1,
+			"rightEnd":217
+		}
+	]
+]

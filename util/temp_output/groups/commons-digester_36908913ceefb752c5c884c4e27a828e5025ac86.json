@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromClass.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromClass.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromClass.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromClass.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

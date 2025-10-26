@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-accumulo/src/test/java/org/apache/gora/accumulo/store/PartitionTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"gora-accumulo/src/test/java/org/apache/gora/accumulo/store/PartitionTest.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/util/TestWritableUtils.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/util/TestWritableUtils.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

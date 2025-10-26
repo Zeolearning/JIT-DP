@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"rightBegin":64,
+			"rightEnd":72
+		}
+	]
+]

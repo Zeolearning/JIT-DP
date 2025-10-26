@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/settings/XmlSettingsParserTest.java",
+			"leftBegin":478,
+			"leftEnd":477,
+			"rightPath":"test/java/org/apache/ivy/core/settings/XmlSettingsParserTest.java",
+			"rightBegin":478,
+			"rightEnd":486
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java",
+			"rightBegin":90,
+			"rightEnd":90
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java",
+			"leftBegin":207,
+			"leftEnd":215,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java",
+			"rightBegin":207,
+			"rightEnd":215
+		}
+	]
+]

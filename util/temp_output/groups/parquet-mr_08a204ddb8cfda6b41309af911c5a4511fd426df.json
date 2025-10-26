@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":47,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":43,
+			"leftEnd":44,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":44,
+			"rightEnd":45
+		}
+	]
+]

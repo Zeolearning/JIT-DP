@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/distribution/GeometricDistributionTest.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/test/java/org/apache/commons/math4/distribution/GeometricDistributionTest.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/distribution/GeometricDistributionTest.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/test/java/org/apache/commons/math4/distribution/GeometricDistributionTest.java",
+			"rightBegin":153,
+			"rightEnd":153
+		}
+	]
+]

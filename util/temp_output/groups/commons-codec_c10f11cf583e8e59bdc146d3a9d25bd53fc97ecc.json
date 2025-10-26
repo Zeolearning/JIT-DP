@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base64Codec13Test.java",
+			"leftBegin":550,
+			"leftEnd":549,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base64Codec13Test.java",
+			"rightBegin":550,
+			"rightEnd":553
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"rightBegin":110,
+			"rightEnd":110
+		},
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"rightBegin":114,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	]
+]

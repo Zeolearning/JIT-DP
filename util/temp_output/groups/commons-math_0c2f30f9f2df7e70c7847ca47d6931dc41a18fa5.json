@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/UniformIntegerDistribution.java",
+			"leftBegin":159,
+			"leftEnd":161,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/UniformIntegerDistribution.java",
+			"rightBegin":159,
+			"rightEnd":174
+		}
+	]
+]

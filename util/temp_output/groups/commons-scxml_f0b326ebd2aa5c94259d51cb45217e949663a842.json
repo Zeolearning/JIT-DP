@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/WizardsTest.java",
+			"rightBegin":1,
+			"rightEnd":166
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestSuite.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestSuite.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/semantics/SCXMLSemanticsImpl.java",
+			"leftBegin":605,
+			"leftEnd":607,
+			"rightPath":"src/main/java/org/apache/commons/scxml/semantics/SCXMLSemanticsImpl.java",
+			"rightBegin":605,
+			"rightEnd":609
+		}
+	]
+]

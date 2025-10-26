@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"rightBegin":179,
+			"rightEnd":179
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"leftBegin":171,
+			"leftEnd":170,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"rightBegin":171,
+			"rightEnd":171
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

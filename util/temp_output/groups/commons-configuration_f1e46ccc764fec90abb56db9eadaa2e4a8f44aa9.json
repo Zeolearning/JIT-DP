@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/NonStringTestHolder.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/configuration/NonStringTestHolder.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/NonStringTestHolder.java",
+			"leftBegin":202,
+			"leftEnd":202,
+			"rightPath":"src/test/org/apache/commons/configuration/NonStringTestHolder.java",
+			"rightBegin":202,
+			"rightEnd":202
+		}
+	]
+]

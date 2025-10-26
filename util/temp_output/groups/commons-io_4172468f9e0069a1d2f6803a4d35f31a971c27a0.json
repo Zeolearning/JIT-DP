@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

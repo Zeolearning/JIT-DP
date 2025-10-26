@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":139,
+			"rightEnd":139
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":23,
+			"rightEnd":24
+		}
+	]
+]

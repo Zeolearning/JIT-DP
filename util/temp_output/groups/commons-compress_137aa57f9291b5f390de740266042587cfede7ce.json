@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"leftBegin":522,
+			"leftEnd":521,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"rightBegin":522,
+			"rightEnd":525
+		}
+	]
+]

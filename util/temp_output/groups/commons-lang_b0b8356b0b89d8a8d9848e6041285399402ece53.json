@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"leftBegin":1650,
+			"leftEnd":1649,
+			"rightPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"rightBegin":1659,
+			"rightEnd":1659
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"leftBegin":1406,
+			"leftEnd":1405,
+			"rightPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"rightBegin":1406,
+			"rightEnd":1414
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":4584,
+			"leftEnd":4583,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":4584,
+			"rightEnd":4595
+		}
+	]
+]

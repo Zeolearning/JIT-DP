@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"leftBegin":280,
+			"leftEnd":290,
+			"rightPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"rightBegin":269,
+			"rightEnd":268
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"leftBegin":111,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"rightBegin":111,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/java/org/apache/commons/configuration/JNDIConfiguration.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/MongoFilterUtil.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/MongoFilterUtil.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

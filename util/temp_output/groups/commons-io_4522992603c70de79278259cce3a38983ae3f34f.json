@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":995,
+			"leftEnd":994,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":1000,
+			"rightEnd":1002
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":992,
+			"leftEnd":993,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":993,
+			"rightEnd":998
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":125,
+			"leftEnd":124,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	]
+]

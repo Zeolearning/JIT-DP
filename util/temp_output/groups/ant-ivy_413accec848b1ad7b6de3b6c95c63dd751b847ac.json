@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyCachePathTest.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyCachePathTest.java",
+			"rightBegin":158,
+			"rightEnd":185
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"leftBegin":239,
+			"leftEnd":243,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"rightBegin":239,
+			"rightEnd":248
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	]
+]

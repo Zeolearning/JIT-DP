@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/fraction/BigFractionFormatTest.java",
+			"leftBegin":250,
+			"leftEnd":249,
+			"rightPath":"src/test/org/apache/commons/math/fraction/BigFractionFormatTest.java",
+			"rightBegin":251,
+			"rightEnd":268
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/fraction/BigFractionFormatTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/math/fraction/BigFractionFormatTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"leftBegin":967,
+			"leftEnd":966,
+			"rightPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"rightBegin":967,
+			"rightEnd":971
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobians.java",
+			"leftBegin":602,
+			"leftEnd":601,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobians.java",
+			"rightBegin":602,
+			"rightEnd":602
+		}
+	]
+]

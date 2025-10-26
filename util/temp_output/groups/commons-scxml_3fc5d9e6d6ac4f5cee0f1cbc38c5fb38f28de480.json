@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"rightBegin":99,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"rightBegin":72,
+			"rightEnd":72
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"rightBegin":53,
+			"rightEnd":53
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"leftBegin":63,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/xpath/XPathExampleTest.java",
+			"rightBegin":63,
+			"rightEnd":64
+		}
+	]
+]

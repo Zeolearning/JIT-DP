@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/spi/Rules.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/digester3/spi/Rules.java",
+			"rightBegin":22,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/spi/Rules.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/digester3/spi/Rules.java",
+			"rightBegin":68,
+			"rightEnd":74
+		}
+	]
+]

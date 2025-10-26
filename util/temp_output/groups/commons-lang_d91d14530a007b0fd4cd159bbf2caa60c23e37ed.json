@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"leftBegin":64,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"rightBegin":63,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"leftBegin":1,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"rightBegin":1,
+			"rightEnd":0
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/java/org/apache/commons/lang/SerializationException.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

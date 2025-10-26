@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"rightBegin":26,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"rightBegin":19,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestSnappyCodec.java",
+			"rightBegin":25,
+			"rightEnd":24
+		}
+	]
+]

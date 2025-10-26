@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/InteractionTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/InteractionTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/InteractionTest.java",
+			"leftBegin":78,
+			"leftEnd":81,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/InteractionTest.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	]
+]

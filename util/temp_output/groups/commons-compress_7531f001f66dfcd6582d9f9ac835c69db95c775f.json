@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEightByteIntegerTest.java",
+			"rightBegin":1,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java",
+			"rightBegin":1,
+			"rightEnd":221
+		}
+	]
+]

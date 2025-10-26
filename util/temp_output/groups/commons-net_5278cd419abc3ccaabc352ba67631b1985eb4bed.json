@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"leftBegin":293,
+			"leftEnd":292,
+			"rightPath":"src/test/java/org/apache/commons/net/SubnetUtilsTest.java",
+			"rightBegin":293,
+			"rightEnd":308
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"rightBegin":164,
+			"rightEnd":168
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+			"leftBegin":270,
+			"leftEnd":270,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+			"rightBegin":270,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+			"leftBegin":64,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+			"rightBegin":64,
+			"rightEnd":67
+		}
+	]
+]

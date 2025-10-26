@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/managed/ManagedConnection.java",
+			"leftBegin":156,
+			"leftEnd":157,
+			"rightPath":"src/java/org/apache/commons/dbcp/managed/ManagedConnection.java",
+			"rightBegin":156,
+			"rightEnd":157
+		}
+	]
+]

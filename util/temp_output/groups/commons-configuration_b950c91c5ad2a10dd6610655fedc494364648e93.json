@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"rightBegin":68,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"rightBegin":51,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/test/org/apache/commons/configuration/reloading/TestFileChangedReloadingStrategy.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

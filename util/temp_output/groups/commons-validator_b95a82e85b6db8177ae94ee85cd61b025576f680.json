@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ValidatorTestSuite.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/validator/ValidatorTestSuite.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ValidatorTestSuite.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/test/org/apache/commons/validator/ValidatorTestSuite.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

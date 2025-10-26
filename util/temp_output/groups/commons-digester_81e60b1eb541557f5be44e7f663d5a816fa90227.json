@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"leftBegin":256,
+			"leftEnd":255,
+			"rightPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"rightBegin":256,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"rightBegin":79,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

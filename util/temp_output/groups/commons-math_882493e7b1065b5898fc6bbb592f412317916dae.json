@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/FractionConversionException.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/java/org/apache/commons/math/fraction/FractionConversionException.java",
+			"rightBegin":1,
+			"rightEnd":17
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ArgumentOutsideDomainException.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/java/org/apache/commons/math/ArgumentOutsideDomainException.java",
+			"rightBegin":1,
+			"rightEnd":17
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MaxIterationsExceededException.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/java/org/apache/commons/math/MaxIterationsExceededException.java",
+			"rightBegin":1,
+			"rightEnd":17
+		}
+	]
+]

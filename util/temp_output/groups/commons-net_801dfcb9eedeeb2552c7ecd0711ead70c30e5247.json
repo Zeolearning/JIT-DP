@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/MLSxEntryParser.java",
+			"leftBegin":166,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/MLSxEntryParser.java",
+			"rightBegin":166,
+			"rightEnd":171
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/MLSxEntryParser.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/MLSxEntryParser.java",
+			"rightBegin":151,
+			"rightEnd":151
+		}
+	]
+]

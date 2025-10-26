@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/list/difference/KeepCommand.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/collections/list/difference/KeepCommand.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/list/difference/DeleteCommand.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/collections/list/difference/DeleteCommand.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/list/difference/InsertCommand.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/collections/list/difference/InsertCommand.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

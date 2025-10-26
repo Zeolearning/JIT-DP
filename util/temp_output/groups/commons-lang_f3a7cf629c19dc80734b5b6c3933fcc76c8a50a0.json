@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"leftBegin":235,
+			"leftEnd":237,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"rightBegin":235,
+			"rightEnd":237
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"leftBegin":239,
+			"leftEnd":241,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"rightBegin":239,
+			"rightEnd":240
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"leftBegin":250,
+			"leftEnd":250,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"rightBegin":249,
+			"rightEnd":249
+		}
+	]
+]

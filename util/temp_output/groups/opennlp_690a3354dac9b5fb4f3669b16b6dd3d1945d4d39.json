@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"leftBegin":267,
+			"leftEnd":267,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"rightBegin":267,
+			"rightEnd":267
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"leftBegin":192,
+			"leftEnd":192,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"rightBegin":192,
+			"rightEnd":192
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"leftBegin":93,
+			"leftEnd":94,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"rightBegin":93,
+			"rightEnd":94
+		}
+	]
+]

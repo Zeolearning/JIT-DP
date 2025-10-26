@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

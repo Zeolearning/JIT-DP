@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":585,
+			"leftEnd":586,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":585,
+			"rightEnd":636
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/NumberConverter.java",
+			"leftBegin":373,
+			"leftEnd":373,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/NumberConverter.java",
+			"rightBegin":375,
+			"rightEnd":379
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/NumberConverter.java",
+			"leftBegin":366,
+			"leftEnd":365,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/NumberConverter.java",
+			"rightBegin":366,
+			"rightEnd":367
+		}
+	]
+]

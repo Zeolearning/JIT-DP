@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"leftBegin":227,
+			"leftEnd":226,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java",
+			"rightBegin":227,
+			"rightEnd":236
+		}
+	]
+]

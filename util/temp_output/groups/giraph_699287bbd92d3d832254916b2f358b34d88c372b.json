@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/com/yahoo/hadoop_bsp/HadoopBspTest.java",
+			"leftBegin":12,
+			"leftEnd":11,
+			"rightPath":"src/test/java/com/yahoo/hadoop_bsp/HadoopBspTest.java",
+			"rightBegin":12,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/com/yahoo/hadoop_bsp/TestBSP.java",
+			"leftBegin":1,
+			"leftEnd":9,
+			"rightPath":null
+		}
+	]
+]

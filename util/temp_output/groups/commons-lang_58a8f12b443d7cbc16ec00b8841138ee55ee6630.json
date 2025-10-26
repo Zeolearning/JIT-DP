@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"leftBegin":1602,
+			"leftEnd":1603,
+			"rightPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"rightBegin":1602,
+			"rightEnd":1603
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"leftBegin":1630,
+			"leftEnd":1630,
+			"rightPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"rightBegin":1630,
+			"rightEnd":1630
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/io/TestFileSystemLocationStrategy.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/FileSystemLocationStrategy.java",
+			"rightBegin":1,
+			"rightEnd":47
+		}
+	]
+]

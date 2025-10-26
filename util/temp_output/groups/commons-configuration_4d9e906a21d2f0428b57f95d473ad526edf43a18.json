@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"leftBegin":981,
+			"leftEnd":984,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"rightBegin":984,
+			"rightEnd":992
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"leftBegin":977,
+			"leftEnd":977,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"rightBegin":979,
+			"rightEnd":980
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"leftBegin":968,
+			"leftEnd":972,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"rightBegin":969,
+			"rightEnd":974
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"leftBegin":64,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"rightBegin":64,
+			"rightEnd":66
+		}
+	]
+]

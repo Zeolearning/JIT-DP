@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/MultiValuedMap.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"src/main/java/org/apache/commons/collections4/MultiValuedMap.java",
+			"rightBegin":303,
+			"rightEnd":303
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/MultiValuedMap.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/collections4/MultiValuedMap.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	]
+]

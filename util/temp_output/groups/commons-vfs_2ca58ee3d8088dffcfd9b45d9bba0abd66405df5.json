@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"leftBegin":155,
+			"leftEnd":154,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"rightBegin":161,
+			"rightEnd":251
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"rightBegin":37,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpClientFactory.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpClientFactory.java",
+			"rightBegin":63,
+			"rightEnd":100
+		}
+	]
+]

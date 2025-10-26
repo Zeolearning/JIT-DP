@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

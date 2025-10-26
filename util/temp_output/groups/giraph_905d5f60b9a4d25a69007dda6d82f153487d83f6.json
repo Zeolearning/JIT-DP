@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/DefaultImmutableClassesGiraphConfigurable.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/DefaultImmutableClassesGiraphConfigurable.java",
+			"rightBegin":32,
+			"rightEnd":34
+		}
+	]
+]

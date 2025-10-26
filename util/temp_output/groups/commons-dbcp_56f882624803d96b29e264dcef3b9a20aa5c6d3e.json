@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/ManagedConnection.java",
+			"leftBegin":140,
+			"leftEnd":139,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/ManagedConnection.java",
+			"rightBegin":140,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"leftBegin":433,
+			"leftEnd":432,
+			"rightPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"rightBegin":433,
+			"rightEnd":444
+		}
+	]
+]

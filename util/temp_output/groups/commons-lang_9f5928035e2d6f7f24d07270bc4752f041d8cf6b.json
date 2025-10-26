@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"leftBegin":178,
+			"leftEnd":177,
+			"rightPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"rightBegin":216,
+			"rightEnd":216
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"leftBegin":178,
+			"leftEnd":177,
+			"rightPath":"src/test/org/apache/commons/lang/NumberRangeTest.java",
+			"rightBegin":178,
+			"rightEnd":215
+		}
+	]
+]

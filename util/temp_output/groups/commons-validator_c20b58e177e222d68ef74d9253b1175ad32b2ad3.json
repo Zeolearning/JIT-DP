@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/UrlValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":292
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/EmailValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":439
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"src/test/java/org/apache/commons/validator/ResultPair.java",
+			"rightBegin":24,
+			"rightEnd":24
+		}
+	]
+]

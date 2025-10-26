@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"leftBegin":259,
+			"leftEnd":259,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputSplit.java",
+			"rightBegin":259,
+			"rightEnd":261
+		}
+	]
+]

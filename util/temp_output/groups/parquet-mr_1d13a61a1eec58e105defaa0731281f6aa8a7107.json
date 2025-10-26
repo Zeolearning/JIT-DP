@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-column/src/main/java/parquet/Ints.java",
+			"rightBegin":1,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"leftBegin":6,
+			"leftEnd":5,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"rightBegin":6,
+			"rightEnd":6
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"leftBegin":29,
+			"leftEnd":32,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

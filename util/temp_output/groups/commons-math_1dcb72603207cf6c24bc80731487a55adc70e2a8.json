@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/MathUtilsTest.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/org/apache/commons/math/util/MathUtilsTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/special/Gamma.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/math/special/Gamma.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

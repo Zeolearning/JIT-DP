@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileObject.java",
+			"leftBegin":264,
+			"leftEnd":263,
+			"rightPath":"src/java/org/apache/commons/vfs/FileObject.java",
+			"rightBegin":264,
+			"rightEnd":271
+		}
+	]
+]

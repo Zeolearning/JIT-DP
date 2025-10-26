@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java",
+			"leftBegin":249,
+			"leftEnd":251,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java",
+			"rightBegin":249,
+			"rightEnd":253
+		}
+	]
+]

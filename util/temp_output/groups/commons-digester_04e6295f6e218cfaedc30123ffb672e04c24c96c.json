@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/DigesterRule.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/DigesterRule.java",
+			"rightBegin":54,
+			"rightEnd":55
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/DigesterRule.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/DigesterRule.java",
+			"rightBegin":63,
+			"rightEnd":64
+		}
+	]
+]

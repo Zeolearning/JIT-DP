@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"leftBegin":207,
+			"leftEnd":206,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"rightBegin":207,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/BOMInputStream.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"src/main/java/org/apache/commons/io/input/BOMInputStream.java",
+			"rightBegin":287,
+			"rightEnd":287
+		}
+	]
+]

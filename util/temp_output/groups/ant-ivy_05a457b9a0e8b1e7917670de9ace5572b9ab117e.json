@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"leftBegin":117,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"leftBegin":124,
+			"leftEnd":154,
+			"rightPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	]
+]

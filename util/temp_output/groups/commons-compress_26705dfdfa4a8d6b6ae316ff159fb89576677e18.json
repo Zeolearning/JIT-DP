@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStreamTest.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStreamTest.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

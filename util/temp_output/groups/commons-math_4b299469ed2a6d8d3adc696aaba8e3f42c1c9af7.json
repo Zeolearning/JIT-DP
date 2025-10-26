@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegratorTest.java",
+			"leftBegin":226,
+			"leftEnd":226,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegratorTest.java",
+			"rightBegin":226,
+			"rightEnd":226
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"leftBegin":233,
+			"leftEnd":234,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"rightBegin":233,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"leftBegin":241,
+			"leftEnd":241,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java",
+			"rightBegin":240,
+			"rightEnd":240
+		}
+	]
+]

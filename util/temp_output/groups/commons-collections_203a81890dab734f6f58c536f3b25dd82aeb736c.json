@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/PredicateUtils.java",
+			"leftBegin":413,
+			"leftEnd":413,
+			"rightPath":"src/main/java/org/apache/commons/collections/PredicateUtils.java",
+			"rightBegin":413,
+			"rightEnd":413
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/PredicateUtils.java",
+			"leftBegin":364,
+			"leftEnd":364,
+			"rightPath":"src/main/java/org/apache/commons/collections/PredicateUtils.java",
+			"rightBegin":364,
+			"rightEnd":364
+		}
+	]
+]

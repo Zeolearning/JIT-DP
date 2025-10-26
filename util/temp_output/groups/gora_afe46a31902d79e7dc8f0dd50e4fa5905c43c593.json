@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/mapreduce/DataStoreMapReduceTestBase.java",
+			"leftBegin":73,
+			"leftEnd":76,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/mapreduce/DataStoreMapReduceTestBase.java",
+			"rightBegin":73,
+			"rightEnd":78
+		}
+	]
+]

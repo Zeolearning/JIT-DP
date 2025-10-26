@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/UniformCrossoverTest.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/UniformCrossoverTest.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/NPointCrossoverTest.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/NPointCrossoverTest.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/DummyListChromosome.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	]
+]

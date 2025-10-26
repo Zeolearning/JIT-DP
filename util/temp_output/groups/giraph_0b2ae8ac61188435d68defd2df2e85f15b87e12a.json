@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspTokenSelector.java",
+			"rightBegin":1,
+			"rightEnd":33
+		}
+	]
+]

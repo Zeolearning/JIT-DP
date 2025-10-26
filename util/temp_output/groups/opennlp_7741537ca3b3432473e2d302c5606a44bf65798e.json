@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/LeipzigDoccatSampleStream.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/LeipzigDoccatSampleStream.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/LeipzigDoccatSampleStream.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/LeipzigDoccatSampleStream.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

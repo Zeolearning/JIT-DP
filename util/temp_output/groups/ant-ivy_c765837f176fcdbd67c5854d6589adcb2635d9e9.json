@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/MirroredURLResolverTest.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/MirroredURLResolver.java",
+			"rightBegin":1,
+			"rightEnd":139
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/url/ChainedRepository.java",
+			"rightBegin":1,
+			"rightEnd":114
+		}
+	]
+]

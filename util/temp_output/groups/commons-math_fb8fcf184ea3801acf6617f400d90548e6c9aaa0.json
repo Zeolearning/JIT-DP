@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/OutlineExtractor.java",
+			"leftBegin":171,
+			"leftEnd":170,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/OutlineExtractor.java",
+			"rightBegin":169,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/OutlineExtractor.java",
+			"leftBegin":166,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/OutlineExtractor.java",
+			"rightBegin":166,
+			"rightEnd":165
+		}
+	]
+]

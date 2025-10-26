@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"leftBegin":75,
+			"leftEnd":99,
+			"rightPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"rightBegin":75,
+			"rightEnd":102
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ModuleDescriptorSorter.java",
+			"leftBegin":12,
+			"leftEnd":11,
+			"rightPath":"src/java/fr/jayasoft/ivy/ModuleDescriptorSorter.java",
+			"rightBegin":12,
+			"rightEnd":13
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ModuleDescriptorSorter.java",
+			"leftBegin":102,
+			"leftEnd":102,
+			"rightPath":"src/java/fr/jayasoft/ivy/ModuleDescriptorSorter.java",
+			"rightBegin":104,
+			"rightEnd":105
+		}
+	]
+]

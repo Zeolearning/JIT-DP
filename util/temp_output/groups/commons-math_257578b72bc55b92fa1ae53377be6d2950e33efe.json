@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/MersenneTwisterTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/test/org/apache/commons/math/random/MersenneTwisterTest.java",
+			"rightBegin":48,
+			"rightEnd":52
+		}
+	]
+]

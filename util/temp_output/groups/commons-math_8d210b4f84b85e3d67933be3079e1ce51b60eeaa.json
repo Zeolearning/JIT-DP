@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"leftBegin":165,
+			"leftEnd":166,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"rightBegin":165,
+			"rightEnd":166
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"rightBegin":124,
+			"rightEnd":124
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"leftBegin":112,
+			"leftEnd":113,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/QRDecomposition.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	]
+]

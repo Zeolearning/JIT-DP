@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/Main.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/ivy/Main.java",
+			"rightBegin":79,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/Main.java",
+			"leftBegin":430,
+			"leftEnd":429,
+			"rightPath":"src/java/org/apache/ivy/Main.java",
+			"rightBegin":434,
+			"rightEnd":437
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/Main.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/ivy/Main.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

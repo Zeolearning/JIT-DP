@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/solvers/BisectionSolverTest.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/solvers/BisectionSolverTest.java",
+			"rightBegin":98,
+			"rightEnd":103
+		}
+	]
+]

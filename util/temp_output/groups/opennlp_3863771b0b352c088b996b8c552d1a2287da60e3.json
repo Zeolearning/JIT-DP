@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerFactory.java",
+			"leftBegin":195,
+			"leftEnd":196,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerFactory.java",
+			"rightBegin":195,
+			"rightEnd":197
+		}
+	]
+]

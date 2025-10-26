@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"rightBegin":127,
+			"rightEnd":127
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"leftBegin":130,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/ExtendedPOP3Client.java",
+			"rightBegin":130,
+			"rightEnd":131
+		}
+	]
+]

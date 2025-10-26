@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/parquet/avro/AvroSchemaConverter.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"parquet-avro/src/main/java/parquet/avro/AvroSchemaConverter.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/CodecFactory.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/CodecFactory.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

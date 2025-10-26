@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rules/AbstractRulesImpl.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rules/AbstractRulesImpl.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

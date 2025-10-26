@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rule/CallParamRule.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rule/CallParamRule.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rule/CallParamRule.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rule/CallParamRule.java",
+			"rightBegin":153,
+			"rightEnd":154
+		}
+	]
+]

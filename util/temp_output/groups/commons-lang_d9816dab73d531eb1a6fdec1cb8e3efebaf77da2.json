@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/NestableDelegate.java",
+			"leftBegin":378,
+			"leftEnd":378,
+			"rightPath":"src/java/org/apache/commons/lang/exception/NestableDelegate.java",
+			"rightBegin":378,
+			"rightEnd":378
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/NestableDelegate.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/java/org/apache/commons/lang/exception/NestableDelegate.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

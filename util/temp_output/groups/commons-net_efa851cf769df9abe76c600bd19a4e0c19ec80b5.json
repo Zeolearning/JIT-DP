@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSTrustManager.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSTrustManager.java",
+			"rightBegin":34,
+			"rightEnd":35
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSTrustManager.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSTrustManager.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

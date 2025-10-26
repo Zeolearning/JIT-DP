@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"leftBegin":508,
+			"leftEnd":507,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"rightBegin":508,
+			"rightEnd":508
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"leftBegin":312,
+			"leftEnd":320,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"rightBegin":321,
+			"rightEnd":320
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/CombinatoricsUtils.java",
+			"rightBegin":48,
+			"rightEnd":56
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/DefaultExceptionContext.java",
+			"leftBegin":107,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/DefaultExceptionContext.java",
+			"rightBegin":107,
+			"rightEnd":111
+		}
+	]
+]

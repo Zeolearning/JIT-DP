@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"leftBegin":400,
+			"leftEnd":402,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/IBiblioResolver.java",
+			"rightBegin":400,
+			"rightEnd":404
+		}
+	]
+]

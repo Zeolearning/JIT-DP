@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/AbstractBlockFactory.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/AbstractBlockFactory.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

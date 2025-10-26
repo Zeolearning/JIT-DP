@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java",
+			"leftBegin":59,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java",
+			"rightBegin":62,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java",
+			"rightBegin":50,
+			"rightEnd":52
+		}
+	]
+]

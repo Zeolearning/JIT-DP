@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/LocaleUtilsTest.java",
+			"leftBegin":140,
+			"leftEnd":144,
+			"rightPath":"src/test/java/org/apache/commons/lang3/LocaleUtilsTest.java",
+			"rightBegin":140,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/LocaleUtils.java",
+			"leftBegin":93,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/lang3/LocaleUtils.java",
+			"rightBegin":94,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/LocaleUtils.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/lang3/LocaleUtils.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

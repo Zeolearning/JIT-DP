@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtKey.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/io/ContentParser.java",
+			"leftBegin":207,
+			"leftEnd":209,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/io/ContentParser.java",
+			"rightBegin":207,
+			"rightEnd":207
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/io/ContentParser.java",
+			"leftBegin":213,
+			"leftEnd":215,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/io/ContentParser.java",
+			"rightBegin":211,
+			"rightEnd":210
+		}
+	]
+]

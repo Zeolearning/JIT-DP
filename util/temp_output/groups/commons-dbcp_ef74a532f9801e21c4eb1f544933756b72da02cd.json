@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jocl/JOCLContentHandler.java",
+			"leftBegin":481,
+			"leftEnd":481,
+			"rightPath":"src/java/org/apache/commons/jocl/JOCLContentHandler.java",
+			"rightBegin":481,
+			"rightEnd":481
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/jocl/JOCLContentHandler.java",
+			"leftBegin":442,
+			"leftEnd":442,
+			"rightPath":"src/java/org/apache/commons/jocl/JOCLContentHandler.java",
+			"rightBegin":442,
+			"rightEnd":442
+		}
+	]
+]

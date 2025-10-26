@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/DistributedLogManager.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/DistributedLogManager.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":"gora-jcache/src/test/java/org/apache/gora/jcache/GoraHazelcastTestDriver.java",
+			"leftBegin":58,
+			"leftEnd":59,
+			"rightPath":"gora-jcache/src/test/java/org/apache/gora/jcache/GoraHazelcastTestDriver.java",
+			"rightBegin":58,
+			"rightEnd":59
+		}
+	]
+]

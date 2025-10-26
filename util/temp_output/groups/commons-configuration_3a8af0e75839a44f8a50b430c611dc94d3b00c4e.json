@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"leftBegin":759,
+			"leftEnd":761,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"rightBegin":759,
+			"rightEnd":760
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"leftBegin":426,
+			"leftEnd":426,
+			"rightPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"rightBegin":426,
+			"rightEnd":426
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"leftBegin":424,
+			"leftEnd":424,
+			"rightPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"rightBegin":424,
+			"rightEnd":424
+		}
+	]
+]

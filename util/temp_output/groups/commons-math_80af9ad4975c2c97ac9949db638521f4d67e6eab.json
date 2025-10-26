@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/rank/MinTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/rank/MinTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/rank/MinTest.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/rank/MinTest.java",
+			"rightBegin":58,
+			"rightEnd":73
+		}
+	]
+]

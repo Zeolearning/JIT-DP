@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/FileContentThreadData.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/FileContentThreadData.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/FileContentThreadData.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/FileContentThreadData.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

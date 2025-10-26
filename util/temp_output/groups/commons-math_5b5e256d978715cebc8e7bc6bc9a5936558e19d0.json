@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/util/PairTest.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/util/Pair.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestPoolingDriver.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestPoolingDriver.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"leftBegin":159,
+			"leftEnd":158,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

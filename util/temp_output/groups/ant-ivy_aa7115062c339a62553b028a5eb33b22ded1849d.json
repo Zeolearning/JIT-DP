@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"leftBegin":140,
+			"leftEnd":141,
+			"rightPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"rightBegin":141,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"rightBegin":137,
+			"rightEnd":140
+		}
+	]
+]

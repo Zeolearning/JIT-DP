@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/statics/StringRepresentation.java",
+			"leftBegin":309,
+			"leftEnd":308,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/statics/StringRepresentation.java",
+			"rightBegin":310,
+			"rightEnd":314
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/statics/StringRepresentation.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/statics/StringRepresentation.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

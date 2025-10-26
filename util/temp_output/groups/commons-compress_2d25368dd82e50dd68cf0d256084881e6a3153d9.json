@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"rightBegin":137,
+			"rightEnd":137
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"rightBegin":113,
+			"rightEnd":123
+		}
+	]
+]

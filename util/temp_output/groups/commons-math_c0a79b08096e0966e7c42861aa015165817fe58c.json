@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/general/GaussNewtonOptimizer.java",
+			"leftBegin":186,
+			"leftEnd":185,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/general/GaussNewtonOptimizer.java",
+			"rightBegin":186,
+			"rightEnd":187
+		}
+	]
+]

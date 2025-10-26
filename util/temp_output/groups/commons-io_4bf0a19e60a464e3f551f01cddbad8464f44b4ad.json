@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/CharSequenceReaderTest.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/CharSequenceReader.java",
+			"rightBegin":1,
+			"rightEnd":156
+		}
+	]
+]

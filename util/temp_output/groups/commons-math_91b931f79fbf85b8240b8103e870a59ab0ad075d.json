@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerIntegratorTest.java",
+			"leftBegin":62,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerIntegratorTest.java",
+			"rightBegin":62,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerIntegratorTest.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerIntegratorTest.java",
+			"rightBegin":98,
+			"rightEnd":97
+		}
+	]
+]

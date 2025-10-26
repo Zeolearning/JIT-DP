@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/BracketingNthOrderBrentSolverDFP.java",
+			"rightBegin":1,
+			"rightEnd":438
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/dfp/UnivariateDfpFunction.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/dfp/BracketingNthOrderBrentSolverDFPTest.java",
+			"rightBegin":1,
+			"rightEnd":171
+		}
+	]
+]

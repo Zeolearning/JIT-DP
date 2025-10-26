@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/FileSystem.java",
+			"leftBegin":185,
+			"leftEnd":184,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/FileSystem.java",
+			"rightBegin":185,
+			"rightEnd":188
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/LastModifiedTests.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/LastModifiedTests.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

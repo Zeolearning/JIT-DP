@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java",
+			"leftBegin":201,
+			"leftEnd":201,
+			"rightPath":"src/main/java/org/apache/commons/math4/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java",
+			"rightBegin":201,
+			"rightEnd":201
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java",
+			"leftBegin":39,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/math4/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/FileSystemOptions.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/FileSystemOptions.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/FileSystemOptions.java",
+			"leftBegin":164,
+			"leftEnd":163,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/FileSystemOptions.java",
+			"rightBegin":164,
+			"rightEnd":172
+		}
+	]
+]

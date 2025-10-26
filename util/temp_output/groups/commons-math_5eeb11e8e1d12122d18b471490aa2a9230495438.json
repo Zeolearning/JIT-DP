@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobiansTest.java",
+			"leftBegin":433,
+			"leftEnd":433,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobiansTest.java",
+			"rightBegin":433,
+			"rightEnd":433
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobiansTest.java",
+			"leftBegin":323,
+			"leftEnd":323,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/jacobians/FirstOrderIntegratorWithJacobiansTest.java",
+			"rightBegin":323,
+			"rightEnd":323
+		}
+	]
+]

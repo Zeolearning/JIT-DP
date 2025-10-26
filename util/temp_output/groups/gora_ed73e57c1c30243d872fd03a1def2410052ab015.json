@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/GoraMongodbTestDriver.java",
+			"leftBegin":69,
+			"leftEnd":70,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/GoraMongodbTestDriver.java",
+			"rightBegin":69,
+			"rightEnd":71
+		}
+	]
+]

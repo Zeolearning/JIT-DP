@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/EvictionListener.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	]
+]

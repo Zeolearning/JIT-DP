@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/ParquetRecordReaderWrapper.java",
+			"leftBegin":109,
+			"leftEnd":111,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/ParquetRecordReaderWrapper.java",
+			"rightBegin":109,
+			"rightEnd":111
+		}
+	]
+]

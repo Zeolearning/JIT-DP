@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"leftBegin":250,
+			"leftEnd":253,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"rightBegin":249,
+			"rightEnd":254
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"leftBegin":246,
+			"leftEnd":246,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"rightBegin":245,
+			"rightEnd":245
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"leftBegin":157,
+			"leftEnd":158,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"rightBegin":157,
+			"rightEnd":157
+		}
+	]
+]

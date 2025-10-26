@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/URLHandlerRegistry.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/ivy/util/url/URLHandlerRegistry.java",
+			"rightBegin":53,
+			"rightEnd":57
+		}
+	]
+]

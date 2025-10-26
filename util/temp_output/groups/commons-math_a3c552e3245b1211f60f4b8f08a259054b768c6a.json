@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/exception/TooManyEvaluationsExceptionTest.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+			"rightBegin":42,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+			"leftBegin":54,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+			"rightBegin":55,
+			"rightEnd":56
+		}
+	]
+]

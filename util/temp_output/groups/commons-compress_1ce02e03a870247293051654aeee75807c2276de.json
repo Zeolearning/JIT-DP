@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":117,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":117,
+			"rightEnd":118
+		}
+	]
+]

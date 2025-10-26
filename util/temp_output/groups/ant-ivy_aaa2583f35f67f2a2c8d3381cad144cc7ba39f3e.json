@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleUpdaterTest.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleUpdaterTest.java",
+			"rightBegin":82,
+			"rightEnd":98
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleUpdaterTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleUpdaterTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"leftBegin":707,
+			"leftEnd":706,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"rightBegin":707,
+			"rightEnd":710
+		}
+	]
+]

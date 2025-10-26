@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"rightBegin":89,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"rightBegin":93,
+			"rightEnd":93
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExplodeSupportTest.java",
+			"rightBegin":60,
+			"rightEnd":63
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/handlers/MethodHandler.java",
+			"leftBegin":109,
+			"leftEnd":109,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/handlers/MethodHandler.java",
+			"rightBegin":109,
+			"rightEnd":113
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/handlers/MethodHandler.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/handlers/MethodHandler.java",
+			"rightBegin":119,
+			"rightEnd":120
+		}
+	]
+]

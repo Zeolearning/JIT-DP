@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+			"leftBegin":131,
+			"leftEnd":132,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+			"rightBegin":131,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+			"rightBegin":49,
+			"rightEnd":53
+		}
+	]
+]

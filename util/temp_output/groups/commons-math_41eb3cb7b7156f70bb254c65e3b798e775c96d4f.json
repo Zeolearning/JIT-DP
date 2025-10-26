@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/OneWayAnovaTest.java",
+			"rightBegin":1,
+			"rightEnd":143
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"rightBegin":1,
+			"rightEnd":208
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/OneWayAnova.java",
+			"rightBegin":1,
+			"rightEnd":102
+		}
+	]
+]

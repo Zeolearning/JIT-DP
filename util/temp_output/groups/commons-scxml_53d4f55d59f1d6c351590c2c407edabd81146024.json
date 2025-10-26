@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"leftBegin":184,
+			"leftEnd":185,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"rightBegin":184,
+			"rightEnd":189
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"leftBegin":182,
+			"leftEnd":182,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"rightBegin":182,
+			"rightEnd":182
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"leftBegin":178,
+			"leftEnd":179,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"rightBegin":178,
+			"rightEnd":179
+		}
+	]
+]

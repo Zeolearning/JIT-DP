@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":433,
+			"leftEnd":433,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":433,
+			"rightEnd":435
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":367,
+			"leftEnd":367,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":367,
+			"rightEnd":367
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java",
+			"leftBegin":221,
+			"leftEnd":220,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java",
+			"rightBegin":221,
+			"rightEnd":223
+		}
+	]
+]

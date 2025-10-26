@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/SummaryStatisticsImplTest.java",
+			"leftBegin":160,
+			"leftEnd":159,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/SummaryStatisticsImplTest.java",
+			"rightBegin":160,
+			"rightEnd":221
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/SummaryStatisticsImplTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/SummaryStatisticsImplTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+			"leftBegin":204,
+			"leftEnd":204,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+			"rightBegin":204,
+			"rightEnd":204
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/resolver/CatalogResolver.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"src/main/java/org/apache/commons/configuration/resolver/CatalogResolver.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/resolver/CatalogResolver.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/configuration/resolver/CatalogResolver.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

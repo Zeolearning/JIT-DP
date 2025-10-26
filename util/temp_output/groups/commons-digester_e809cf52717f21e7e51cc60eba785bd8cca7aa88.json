@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"leftBegin":50,
+			"leftEnd":53,
+			"rightPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"rightBegin":50,
+			"rightEnd":57
+		}
+	]
+]

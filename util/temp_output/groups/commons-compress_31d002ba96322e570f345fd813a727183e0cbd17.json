@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"rightBegin":70,
+			"rightEnd":72
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java",
+			"rightBegin":64,
+			"rightEnd":66
+		}
+	]
+]

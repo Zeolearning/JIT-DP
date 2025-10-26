@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"rightBegin":41,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSource.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

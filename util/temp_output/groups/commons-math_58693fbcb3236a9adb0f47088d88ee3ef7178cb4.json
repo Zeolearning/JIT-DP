@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optim/linear/SimplexSolverTest.java",
+			"leftBegin":778,
+			"leftEnd":777,
+			"rightPath":"src/test/java/org/apache/commons/math3/optim/linear/SimplexSolverTest.java",
+			"rightBegin":781,
+			"rightEnd":781
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optim/linear/SimplexSolverTest.java",
+			"leftBegin":766,
+			"leftEnd":765,
+			"rightPath":"src/test/java/org/apache/commons/math3/optim/linear/SimplexSolverTest.java",
+			"rightBegin":766,
+			"rightEnd":768
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optim/linear/SolutionCallback.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/math3/optim/linear/SolutionCallback.java",
+			"rightBegin":55,
+			"rightEnd":62
+		}
+	]
+]

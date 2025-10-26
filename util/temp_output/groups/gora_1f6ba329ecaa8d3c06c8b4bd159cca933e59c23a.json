@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"leftBegin":371,
+			"leftEnd":371,
+			"rightPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"rightBegin":371,
+			"rightEnd":371
+		}
+	]
+]

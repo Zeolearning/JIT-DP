@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"leftBegin":45,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"rightBegin":57,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"rightBegin":37,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/collections/functors/NullPredicate.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

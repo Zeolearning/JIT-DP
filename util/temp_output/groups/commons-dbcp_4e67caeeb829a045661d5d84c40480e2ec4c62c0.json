@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"leftBegin":60,
+			"leftEnd":70,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"rightBegin":98,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestPStmtPooling.java",
+			"rightBegin":48,
+			"rightEnd":85
+		}
+	]
+]

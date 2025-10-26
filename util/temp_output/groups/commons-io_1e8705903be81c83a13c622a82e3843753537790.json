@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/TeeOutputStreamTest.java",
+			"leftBegin":43,
+			"leftEnd":42,
+			"rightPath":"src/test/java/org/apache/commons/io/output/TeeOutputStreamTest.java",
+			"rightBegin":44,
+			"rightEnd":44
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/TeeOutputStreamTest.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/io/output/TeeOutputStreamTest.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

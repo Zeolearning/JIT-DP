@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestSortedSet.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestSortedBag.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	]
+]

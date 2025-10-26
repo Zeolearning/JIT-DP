@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"rightBegin":115,
+			"rightEnd":117
+		}
+	]
+]

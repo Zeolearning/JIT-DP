@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaList.java",
+			"rightBegin":1,
+			"rightEnd":684
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/LazyDynaListTestCase.java",
+			"rightBegin":1,
+			"rightEnd":559
+		}
+	]
+]

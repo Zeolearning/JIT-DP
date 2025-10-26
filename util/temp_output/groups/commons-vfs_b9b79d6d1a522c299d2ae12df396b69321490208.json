@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/util/Messages.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/util/Messages.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/util/Messages.java",
+			"leftBegin":104,
+			"leftEnd":108,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/util/Messages.java",
+			"rightBegin":104,
+			"rightEnd":103
+		}
+	]
+]

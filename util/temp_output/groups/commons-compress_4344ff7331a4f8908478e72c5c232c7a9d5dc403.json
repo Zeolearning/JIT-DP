@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/RPCCommunications.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/main/java/org/apache/giraph/comm/RPCCommunications.java",
+			"rightBegin":170,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":154,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":167,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":167,
+			"rightEnd":167
+		}
+	]
+]

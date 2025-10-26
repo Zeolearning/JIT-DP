@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/GenericTypeValidator.java",
+			"leftBegin":432,
+			"leftEnd":432,
+			"rightPath":"src/share/org/apache/commons/validator/GenericTypeValidator.java",
+			"rightBegin":432,
+			"rightEnd":433
+		},
+		{
+			"leftPath":"src/share/org/apache/commons/validator/GenericTypeValidator.java",
+			"leftBegin":390,
+			"leftEnd":390,
+			"rightPath":"src/share/org/apache/commons/validator/GenericTypeValidator.java",
+			"rightBegin":390,
+			"rightEnd":390
+		}
+	]
+]

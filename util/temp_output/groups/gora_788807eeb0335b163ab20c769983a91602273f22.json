@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-couchdb/src/test/java/org/apache/gora/couchdb/store/TestCouchDBStore.java",
+			"rightBegin":1,
+			"rightEnd":156
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/GoraTestDriver.java",
+			"leftBegin":102,
+			"leftEnd":104,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/GoraTestDriver.java",
+			"rightBegin":102,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/GoraTestDriver.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/GoraTestDriver.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	]
+]

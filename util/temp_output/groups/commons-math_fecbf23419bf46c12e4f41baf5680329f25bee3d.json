@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/regression/RegressionResults.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/regression/RegressionResults.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/regression/RegressionResults.java",
+			"leftBegin":160,
+			"leftEnd":160,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/regression/RegressionResults.java",
+			"rightBegin":160,
+			"rightEnd":160
+		}
+	]
+]

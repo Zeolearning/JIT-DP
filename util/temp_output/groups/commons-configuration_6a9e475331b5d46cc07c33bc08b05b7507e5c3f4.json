@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":1313,
+			"leftEnd":1322,
+			"rightPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":1313,
+			"rightEnd":1312
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/beanutils/DefaultBeanFactory.java",
+			"leftBegin":349,
+			"leftEnd":350,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/beanutils/DefaultBeanFactory.java",
+			"rightBegin":349,
+			"rightEnd":350
+		}
+	]
+]

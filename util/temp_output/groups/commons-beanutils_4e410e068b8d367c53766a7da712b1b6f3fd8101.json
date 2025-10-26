@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/SuppressPropertiesBeanIntrospectorTestCase.java",
+			"rightBegin":1,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/SuppressPropertiesBeanIntrospector.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	]
+]

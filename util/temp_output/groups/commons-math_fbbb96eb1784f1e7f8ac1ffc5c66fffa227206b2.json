@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/geometry/Vector3DTest.java",
+			"leftBegin":156,
+			"leftEnd":155,
+			"rightPath":"src/test/java/org/apache/commons/math/geometry/Vector3DTest.java",
+			"rightBegin":156,
+			"rightEnd":168
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/Vector3D.java",
+			"leftBegin":457,
+			"leftEnd":460,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/Vector3D.java",
+			"rightBegin":457,
+			"rightEnd":491
+		}
+	]
+]

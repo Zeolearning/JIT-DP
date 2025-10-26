@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"rightBegin":100,
+			"rightEnd":153
+		}
+	]
+]

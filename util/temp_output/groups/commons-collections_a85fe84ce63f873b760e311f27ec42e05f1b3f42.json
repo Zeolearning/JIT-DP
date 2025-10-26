@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"rightBegin":36,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"rightBegin":19,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"leftBegin":23,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/collections4/list/PredicatedList.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

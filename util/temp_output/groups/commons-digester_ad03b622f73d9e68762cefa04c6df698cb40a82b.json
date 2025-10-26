@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallMethodBuilderImpl.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallMethodBuilderImpl.java",
+			"rightBegin":117,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallMethodBuilderImpl.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallMethodBuilderImpl.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

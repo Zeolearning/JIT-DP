@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/SystemUtilsTest.java",
+			"leftBegin":315,
+			"leftEnd":315,
+			"rightPath":"src/test/org/apache/commons/lang/SystemUtilsTest.java",
+			"rightBegin":316,
+			"rightEnd":316
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/SystemUtilsTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/org/apache/commons/lang/SystemUtilsTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

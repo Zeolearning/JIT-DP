@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"leftBegin":143,
+			"leftEnd":143,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"rightBegin":143,
+			"rightEnd":143
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"rightBegin":134,
+			"rightEnd":134
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"leftBegin":128,
+			"leftEnd":128,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/SharedPoolDataSource.java",
+			"rightBegin":128,
+			"rightEnd":128
+		}
+	]
+]

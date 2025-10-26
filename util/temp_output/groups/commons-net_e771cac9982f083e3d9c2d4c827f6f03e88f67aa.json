@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/tftp/TFTPTest.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPTest.java",
+			"rightBegin":121,
+			"rightEnd":126
+		}
+	]
+]

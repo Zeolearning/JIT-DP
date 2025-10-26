@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/expr/DefaultConfigurationKey.java",
+			"rightBegin":1,
+			"rightEnd":864
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/expr/DefaultExpressionEngine.java",
+			"rightBegin":1,
+			"rightEnd":574
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/expr/TestDefaultExpressionEngine.java",
+			"rightBegin":1,
+			"rightEnd":562
+		}
+	]
+]

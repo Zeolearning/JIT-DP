@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/StatUtils.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/java/org/apache/commons/math/stat/StatUtils.java",
+			"rightBegin":91,
+			"rightEnd":116
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/MemoryManager.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/MemoryManager.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/org/apache/parquet/hadoop/TestMemoryManager.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/hadoop/TestMemoryManager.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

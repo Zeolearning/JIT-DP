@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.java",
+			"leftBegin":421,
+			"leftEnd":422,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.java",
+			"rightBegin":421,
+			"rightEnd":426
+		}
+	]
+]

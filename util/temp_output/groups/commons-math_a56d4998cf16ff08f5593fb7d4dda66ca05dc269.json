@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/analysis/solvers/UnivariateSolverUtilsTest.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/solvers/UnivariateSolverUtilsTest.java",
+			"rightBegin":179,
+			"rightEnd":186
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/analysis/solvers/UnivariateSolverUtils.java",
+			"leftBegin":317,
+			"leftEnd":317,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/solvers/UnivariateSolverUtils.java",
+			"rightBegin":317,
+			"rightEnd":317
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorAction.java",
+			"leftBegin":114,
+			"leftEnd":118,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorAction.java",
+			"rightBegin":115,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorAction.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorAction.java",
+			"rightBegin":105,
+			"rightEnd":106
+		}
+	]
+]

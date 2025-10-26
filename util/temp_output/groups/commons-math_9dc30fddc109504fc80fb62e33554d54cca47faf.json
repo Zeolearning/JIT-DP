@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHull2D.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHull2D.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

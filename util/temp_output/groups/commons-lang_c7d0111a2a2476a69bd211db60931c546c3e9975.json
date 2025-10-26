@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/compare/ReverseComparatorTest.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/lang3/compare/ReverseComparatorTest.java",
+			"rightBegin":52,
+			"rightEnd":86
+		}
+	]
+]

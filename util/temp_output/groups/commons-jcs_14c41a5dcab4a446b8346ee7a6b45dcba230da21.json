@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"rightBegin":63,
+			"rightEnd":63
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheManagerUnitTest.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

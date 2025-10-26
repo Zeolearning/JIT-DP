@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java",
+			"leftBegin":261,
+			"leftEnd":260,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java",
+			"rightBegin":261,
+			"rightEnd":274
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+			"leftBegin":300,
+			"leftEnd":299,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+			"rightBegin":300,
+			"rightEnd":311
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"leftBegin":300,
+			"leftEnd":299,
+			"rightPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"rightBegin":300,
+			"rightEnd":328
+		}
+	]
+]

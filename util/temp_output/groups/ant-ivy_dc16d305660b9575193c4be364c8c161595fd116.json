@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"leftBegin":207,
+			"leftEnd":208,
+			"rightPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"rightBegin":207,
+			"rightEnd":208
+		}
+	]
+]

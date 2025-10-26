@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"leftBegin":358,
+			"leftEnd":359,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"rightBegin":358,
+			"rightEnd":360
+		}
+	]
+]

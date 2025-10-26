@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"leftBegin":1544,
+			"leftEnd":1544,
+			"rightPath":"src/test/org/apache/commons/lang/StringUtilsTest.java",
+			"rightBegin":1544,
+			"rightEnd":1566
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":4919,
+			"leftEnd":4918,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":4919,
+			"rightEnd":4978
+		}
+	]
+]

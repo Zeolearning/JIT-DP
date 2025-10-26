@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/ReflectionUtils.java",
+			"leftBegin":394,
+			"leftEnd":394,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/ReflectionUtils.java",
+			"rightBegin":394,
+			"rightEnd":394
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/ReflectionUtils.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/ReflectionUtils.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

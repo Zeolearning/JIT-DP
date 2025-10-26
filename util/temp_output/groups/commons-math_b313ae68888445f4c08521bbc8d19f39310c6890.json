@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/userguide/java/org/apache/commons/math4/userguide/IntegerDistributionComparison.java",
+			"rightBegin":1,
+			"rightEnd":239
+		}
+	],
+	[
+		{
+			"leftPath":"src/userguide/java/org/apache/commons/math4/userguide/RealDistributionComparison.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/userguide/java/org/apache/commons/math4/userguide/RealDistributionComparison.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

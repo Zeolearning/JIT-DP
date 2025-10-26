@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"leftBegin":153,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"rightBegin":151,
+			"rightEnd":153
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"rightBegin":21,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"leftBegin":132,
+			"leftEnd":135,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Path.java",
+			"rightBegin":131,
+			"rightEnd":133
+		}
+	]
+]

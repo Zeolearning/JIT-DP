@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/mapred/DeprecatedParquetInputFormat.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/mapred/DeprecatedParquetInputFormat.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

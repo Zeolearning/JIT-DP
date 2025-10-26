@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"leftBegin":119,
+			"leftEnd":121,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"rightBegin":122,
+			"rightEnd":147
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"rightBegin":25,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/superstep_output/MultiThreadedSuperstepOutput.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

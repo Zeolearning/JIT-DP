@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/managed/TransactionContext.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"src/java/org/apache/commons/dbcp/managed/TransactionContext.java",
+			"rightBegin":115,
+			"rightEnd":117
+		}
+	]
+]

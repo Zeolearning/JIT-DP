@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/RungeKuttaFieldIntegrator.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/RungeKuttaFieldIntegrator.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

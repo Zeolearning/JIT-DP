@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/access/GroupCacheAccess.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"src/java/org/apache/commons/jcs/access/GroupCacheAccess.java",
+			"rightBegin":142,
+			"rightEnd":142
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/access/GroupCacheAccess.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/java/org/apache/commons/jcs/access/GroupCacheAccess.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/access/CacheAccess.java",
+			"leftBegin":239,
+			"leftEnd":239,
+			"rightPath":"src/java/org/apache/commons/jcs/access/CacheAccess.java",
+			"rightBegin":239,
+			"rightEnd":239
+		}
+	]
+]

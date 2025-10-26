@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/ant/ConvertManifestTask.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/java/org/apache/ivy/ant/ConvertManifestTask.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/ant/BuildBundleRepoDescriptorTask.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/java/org/apache/ivy/ant/BuildBundleRepoDescriptorTask.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	]
+]

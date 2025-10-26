@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/model/ComparablePredicate.java",
+			"leftBegin":54,
+			"leftEnd":56,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/model/ComparablePredicate.java",
+			"rightBegin":54,
+			"rightEnd":58
+		}
+	]
+]

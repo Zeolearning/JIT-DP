@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/EventListenerRegistrationData.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/EventListenerRegistrationData.java",
+			"rightBegin":40,
+			"rightEnd":42
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/EventListenerRegistrationData.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/EventListenerRegistrationData.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+			"leftBegin":149,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+			"rightBegin":149,
+			"rightEnd":150
+		}
+	]
+]

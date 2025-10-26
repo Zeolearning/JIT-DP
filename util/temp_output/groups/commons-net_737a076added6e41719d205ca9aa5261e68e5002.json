@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/telnet/TelnetInputStream.java",
+			"leftBegin":599,
+			"leftEnd":600,
+			"rightPath":"src/main/java/org/apache/commons/net/telnet/TelnetInputStream.java",
+			"rightBegin":600,
+			"rightEnd":599
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/telnet/TelnetInputStream.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/net/telnet/TelnetInputStream.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	]
+]

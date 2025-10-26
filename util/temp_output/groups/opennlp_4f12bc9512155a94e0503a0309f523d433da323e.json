@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerME.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerME.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerME.java",
+			"leftBegin":180,
+			"leftEnd":180,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerME.java",
+			"rightBegin":179,
+			"rightEnd":179
+		}
+	]
+]

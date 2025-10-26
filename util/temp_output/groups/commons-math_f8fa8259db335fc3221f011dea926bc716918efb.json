@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/RungeKuttaFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/RungeKuttaFieldStepInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":144
+		}
+	]
+]

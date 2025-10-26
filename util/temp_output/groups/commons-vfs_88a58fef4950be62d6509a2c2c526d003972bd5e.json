@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileReplicator.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileReplicator.java",
+			"rightBegin":77,
+			"rightEnd":79
+		}
+	]
+]

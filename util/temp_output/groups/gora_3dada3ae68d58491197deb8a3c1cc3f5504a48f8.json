@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"gora-jcache/src/main/java/org/apache/gora/jcache/query/JCacheResult.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"gora-jcache/src/main/java/org/apache/gora/jcache/query/JCacheResult.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

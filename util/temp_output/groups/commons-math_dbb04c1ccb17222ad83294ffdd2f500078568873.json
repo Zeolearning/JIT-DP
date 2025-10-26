@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/LutherFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/LutherFieldStepInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":208
+		}
+	]
+]

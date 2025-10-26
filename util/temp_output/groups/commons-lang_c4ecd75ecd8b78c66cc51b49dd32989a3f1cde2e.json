@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CodePointTranslator.java",
+			"leftBegin":39,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CodePointTranslator.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

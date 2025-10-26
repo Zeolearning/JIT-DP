@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/TestBean.java",
+			"leftBegin":347,
+			"leftEnd":350,
+			"rightPath":"src/test/org/apache/commons/beanutils/TestBean.java",
+			"rightBegin":347,
+			"rightEnd":350
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/TestBean.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/beanutils/TestBean.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

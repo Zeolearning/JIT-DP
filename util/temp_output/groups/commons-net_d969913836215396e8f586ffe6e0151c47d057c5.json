@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"leftBegin":264,
+			"leftEnd":267,
+			"rightPath":"src/main/java/org/apache/commons/net/util/SubnetUtils.java",
+			"rightBegin":264,
+			"rightEnd":274
+		}
+	]
+]

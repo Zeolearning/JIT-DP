@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/partition/DiskBackedPartitionStore.java",
+			"leftBegin":857,
+			"leftEnd":857,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/partition/DiskBackedPartitionStore.java",
+			"rightBegin":859,
+			"rightEnd":861
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/partition/DiskBackedPartitionStore.java",
+			"leftBegin":731,
+			"leftEnd":731,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/partition/DiskBackedPartitionStore.java",
+			"rightBegin":731,
+			"rightEnd":733
+		}
+	]
+]

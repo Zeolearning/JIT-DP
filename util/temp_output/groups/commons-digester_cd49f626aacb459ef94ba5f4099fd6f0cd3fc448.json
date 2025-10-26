@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"leftBegin":144,
+			"leftEnd":144,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"rightBegin":146,
+			"rightEnd":146
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	]
+]

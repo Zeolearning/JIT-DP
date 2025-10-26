@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"leftBegin":58,
+			"leftEnd":59,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"rightBegin":59,
+			"rightEnd":60
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"leftBegin":53,
+			"leftEnd":54,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"rightBegin":54,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

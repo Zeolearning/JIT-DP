@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/SparseRealVector.java",
+			"leftBegin":1,
+			"leftEnd":1219,
+			"rightPath":"src/java/org/apache/commons/math/linear/SparseRealVector.java",
+			"rightBegin":1,
+			"rightEnd":1215
+		}
+	]
+]

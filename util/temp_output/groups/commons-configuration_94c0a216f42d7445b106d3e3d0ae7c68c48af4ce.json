@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/PrefixedKeysIterator.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":572,
+			"leftEnd":579,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":570,
+			"rightEnd":570
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":570,
+			"leftEnd":570,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":568,
+			"rightEnd":568
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":32,
+			"rightEnd":31
+		}
+	]
+]

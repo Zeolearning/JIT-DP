@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/InstantiateTransformer.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/java/org/apache/commons/collections/functors/InstantiateTransformer.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/InstantiateTransformer.java",
+			"leftBegin":110,
+			"leftEnd":111,
+			"rightPath":"src/java/org/apache/commons/collections/functors/InstantiateTransformer.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	]
+]

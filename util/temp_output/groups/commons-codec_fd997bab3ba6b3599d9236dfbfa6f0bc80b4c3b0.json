@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/StringEncoderAbstractTest.java",
+			"leftBegin":45,
+			"leftEnd":50,
+			"rightPath":"src/test/org/apache/commons/codec/StringEncoderAbstractTest.java",
+			"rightBegin":45,
+			"rightEnd":50
+		}
+	]
+]

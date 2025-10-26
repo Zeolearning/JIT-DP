@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/org/apache/commons/codec/language/CaverphoneTest.java",
+			"rightBegin":50,
+			"rightEnd":60
+		}
+	]
+]

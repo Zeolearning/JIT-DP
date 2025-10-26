@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":134,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

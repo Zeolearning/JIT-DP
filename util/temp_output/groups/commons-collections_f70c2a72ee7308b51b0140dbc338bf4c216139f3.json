@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"leftBegin":546,
+			"leftEnd":547,
+			"rightPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"rightBegin":546,
+			"rightEnd":547
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"leftBegin":526,
+			"leftEnd":527,
+			"rightPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"rightBegin":526,
+			"rightEnd":527
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/userguide/ClusteringExamples.java",
+			"leftBegin":291,
+			"leftEnd":291,
+			"rightPath":"src/test/java/org/apache/commons/math3/userguide/ClusteringExamples.java",
+			"rightBegin":291,
+			"rightEnd":291
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/userguide/ClusteringExamples.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/test/java/org/apache/commons/math3/userguide/ClusteringExamples.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

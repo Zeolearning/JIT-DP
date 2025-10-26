@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"leftBegin":360,
+			"leftEnd":360,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"rightBegin":360,
+			"rightEnd":360
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"leftBegin":347,
+			"leftEnd":347,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"rightBegin":347,
+			"rightEnd":347
+		}
+	]
+]

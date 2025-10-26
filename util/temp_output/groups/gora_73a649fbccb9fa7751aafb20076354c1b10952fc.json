@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/store/DataStoreFactory.java",
+			"leftBegin":383,
+			"leftEnd":382,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/store/DataStoreFactory.java",
+			"rightBegin":383,
+			"rightEnd":383
+		}
+	]
+]

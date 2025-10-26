@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/dbinsert/RowInserterRule.java",
+			"rightBegin":1,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/dbinsert/Table.java",
+			"rightBegin":1,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/dbinsert/Row.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/dbinsert/Main.java",
+			"rightBegin":1,
+			"rightEnd":144
+		}
+	]
+]

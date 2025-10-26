@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EulerFieldStepInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":103
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EulerFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	]
+]

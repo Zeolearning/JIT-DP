@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportIT.java",
+			"leftBegin":2382,
+			"leftEnd":2384,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Zip64SupportIT.java",
+			"rightBegin":2382,
+			"rightEnd":2382
+		}
+	]
+]

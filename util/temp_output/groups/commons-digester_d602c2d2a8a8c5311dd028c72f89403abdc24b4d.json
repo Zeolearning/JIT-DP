@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"rightBegin":25,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/BackToLinkedRuleBuilder.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

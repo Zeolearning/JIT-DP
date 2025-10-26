@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/CompositeFTPParseTestFramework.java",
+			"leftBegin":82,
+			"leftEnd":84,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/CompositeFTPParseTestFramework.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/CompositeFTPParseTestFramework.java",
+			"leftBegin":105,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/CompositeFTPParseTestFramework.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

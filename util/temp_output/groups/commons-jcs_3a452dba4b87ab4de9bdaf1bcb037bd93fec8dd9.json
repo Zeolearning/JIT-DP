@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"leftBegin":54,
+			"leftEnd":55,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/soft/SoftRefCacheTest.java",
+			"rightBegin":54,
+			"rightEnd":55
+		}
+	]
+]

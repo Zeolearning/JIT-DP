@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":71,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/math/linear/CholeskyDecompositionImplTest.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	]
+]

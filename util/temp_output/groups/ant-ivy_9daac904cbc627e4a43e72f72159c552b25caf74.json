@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/OSGiManifestParser.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/OSGiManifestParser.java",
+			"rightBegin":49,
+			"rightEnd":50
+		}
+	]
+]

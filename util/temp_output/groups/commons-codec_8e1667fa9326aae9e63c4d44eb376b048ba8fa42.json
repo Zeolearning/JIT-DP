@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"rightBegin":28,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"rightBegin":130,
+			"rightEnd":130
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java",
+			"rightBegin":84,
+			"rightEnd":123
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/LazyDynaListTestCase.java",
+			"leftBegin":616,
+			"leftEnd":616,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/LazyDynaListTestCase.java",
+			"rightBegin":616,
+			"rightEnd":616
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/DynaResultSetTestCase.java",
+			"leftBegin":261,
+			"leftEnd":261,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/DynaResultSetTestCase.java",
+			"rightBegin":261,
+			"rightEnd":261
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/DynaResultSetTestCase.java",
+			"leftBegin":202,
+			"leftEnd":202,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/DynaResultSetTestCase.java",
+			"rightBegin":202,
+			"rightEnd":202
+		}
+	]
+]

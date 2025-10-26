@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"rightBegin":77,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

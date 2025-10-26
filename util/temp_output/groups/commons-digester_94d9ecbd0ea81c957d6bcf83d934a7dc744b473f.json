@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"leftBegin":310,
+			"leftEnd":309,
+			"rightPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"rightBegin":313,
+			"rightEnd":314
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"leftBegin":302,
+			"leftEnd":301,
+			"rightPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"rightBegin":302,
+			"rightEnd":304
+		}
+	]
+]

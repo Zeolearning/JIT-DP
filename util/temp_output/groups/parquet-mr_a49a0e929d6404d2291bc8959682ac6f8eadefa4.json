@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetReader.java",
+			"leftBegin":55,
+			"leftEnd":60,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetReader.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetRecordReader.java",
+			"leftBegin":157,
+			"leftEnd":157,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetRecordReader.java",
+			"rightBegin":157,
+			"rightEnd":157
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/AbstractArtifact.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/AbstractArtifact.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"leftBegin":171,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"rightBegin":171,
+			"rightEnd":171
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"leftBegin":23,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"rightBegin":23,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

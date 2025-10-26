@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java",
+			"rightBegin":39,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/control/CompositeCacheManager.java",
+			"rightBegin":225,
+			"rightEnd":231
+		}
+	]
+]

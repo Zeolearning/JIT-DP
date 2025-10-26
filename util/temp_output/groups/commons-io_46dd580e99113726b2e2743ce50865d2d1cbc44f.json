@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/CausedIOExceptionTestCase.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/CausedIOException.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

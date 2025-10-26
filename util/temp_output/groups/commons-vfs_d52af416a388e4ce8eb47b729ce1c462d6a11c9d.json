@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"leftBegin":34,
+			"leftEnd":74,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"rightBegin":34,
+			"rightEnd":66
+		}
+	]
+]

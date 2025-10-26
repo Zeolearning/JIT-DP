@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"rightBegin":146,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/io/EndianUtilsTest.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

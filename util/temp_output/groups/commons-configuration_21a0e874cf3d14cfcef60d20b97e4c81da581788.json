@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/interpol/TestExprLookup.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/interpol/TestExprLookup.java",
+			"rightBegin":92,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/ExprLookup.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/ExprLookup.java",
+			"rightBegin":167,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/ExprLookup.java",
+			"leftBegin":160,
+			"leftEnd":159,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/ExprLookup.java",
+			"rightBegin":160,
+			"rightEnd":162
+		}
+	]
+]

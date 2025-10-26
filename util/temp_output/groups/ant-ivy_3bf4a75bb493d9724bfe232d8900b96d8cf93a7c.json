@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":1327,
+			"leftEnd":1326,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":1331,
+			"rightEnd":1334
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":1287,
+			"leftEnd":1286,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":1287,
+			"rightEnd":1290
+		}
+	]
+]

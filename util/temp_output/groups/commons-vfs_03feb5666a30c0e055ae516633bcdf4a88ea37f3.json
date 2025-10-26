@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/url/test/UrlProviderHttpTestCase.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/url/test/UrlProviderHttpTestCase.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

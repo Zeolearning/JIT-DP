@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"leftBegin":13,
+			"leftEnd":15,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"rightBegin":32,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"leftBegin":3,
+			"leftEnd":2,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java",
+			"rightBegin":19,
+			"rightEnd":21
+		}
+	]
+]

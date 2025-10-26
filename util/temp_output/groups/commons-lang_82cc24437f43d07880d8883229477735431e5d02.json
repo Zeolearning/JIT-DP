@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"leftBegin":8448,
+			"leftEnd":8447,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"rightBegin":8449,
+			"rightEnd":8673
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsTest.java",
+			"leftBegin":4993,
+			"leftEnd":4992,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsTest.java",
+			"rightBegin":4993,
+			"rightEnd":5097
+		}
+	]
+]

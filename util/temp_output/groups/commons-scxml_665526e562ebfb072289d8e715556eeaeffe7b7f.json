@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jexl/JexlEvaluator.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jexl/JexlEvaluator.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jexl/JexlEvaluator.java",
+			"leftBegin":115,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jexl/JexlEvaluator.java",
+			"rightBegin":115,
+			"rightEnd":116
+		}
+	]
+]

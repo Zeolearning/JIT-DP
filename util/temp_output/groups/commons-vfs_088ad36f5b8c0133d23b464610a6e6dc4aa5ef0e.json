@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"leftBegin":102,
+			"leftEnd":103,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"rightBegin":102,
+			"rightEnd":103
+		}
+	]
+]

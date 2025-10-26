@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/mapreduce/TestMongoStoreWordCount.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/mapreduce/TestMongoStoreCountQuery.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/mapreduce/GoraMongoMapredTest.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	]
+]

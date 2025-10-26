@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"leftBegin":600,
+			"leftEnd":602,
+			"rightPath":"src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"rightBegin":600,
+			"rightEnd":600
+		}
+	]
+]

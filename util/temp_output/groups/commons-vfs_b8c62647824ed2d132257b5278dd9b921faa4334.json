@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/smb/SmbFileName.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/smb/SmbFileName.java",
+			"rightBegin":117,
+			"rightEnd":121
+		}
+	]
+]

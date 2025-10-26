@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/FastDateParser_TimeZoneStrategyTest.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/FastDateParser_TimeZoneStrategyTest.java",
+			"rightBegin":36,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"leftBegin":856,
+			"leftEnd":855,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+			"rightBegin":856,
+			"rightEnd":858
+		}
+	]
+]

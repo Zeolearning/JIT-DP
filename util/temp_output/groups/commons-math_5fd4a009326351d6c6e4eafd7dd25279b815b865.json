@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"rightBegin":236,
+			"rightEnd":257
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"rightBegin":178,
+			"rightEnd":235
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+			"rightBegin":32,
+			"rightEnd":34
+		}
+	]
+]

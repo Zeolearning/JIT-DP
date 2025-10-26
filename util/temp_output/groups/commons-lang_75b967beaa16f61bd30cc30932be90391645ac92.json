@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/math/IEEE754rUtilsTest.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/org/apache/commons/lang/math/IEEE754rUtilsTest.java",
+			"rightBegin":52,
+			"rightEnd":98
+		}
+	]
+]

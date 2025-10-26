@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/auxiliary/disk/indexed/IndexedDisk.java",
+			"leftBegin":41,
+			"leftEnd":42,
+			"rightPath":"src/java/org/apache/commons/jcs/auxiliary/disk/indexed/IndexedDisk.java",
+			"rightBegin":41,
+			"rightEnd":42
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":119,
+			"leftEnd":120,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":122,
+			"rightEnd":147
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":27,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

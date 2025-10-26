@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/metrics/AggregatedMetrics.java",
+			"leftBegin":156,
+			"leftEnd":157,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/metrics/AggregatedMetrics.java",
+			"rightBegin":156,
+			"rightEnd":157
+		}
+	]
+]

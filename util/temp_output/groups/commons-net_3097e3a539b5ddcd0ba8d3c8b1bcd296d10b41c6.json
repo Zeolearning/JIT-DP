@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":381,
+			"leftEnd":381,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":381,
+			"rightEnd":381
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":394,
+			"leftEnd":393,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":394,
+			"rightEnd":398
+		}
+	]
+]

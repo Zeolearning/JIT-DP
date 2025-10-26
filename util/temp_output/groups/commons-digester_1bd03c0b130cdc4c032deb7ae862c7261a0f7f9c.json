@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/FromXmlRulesModule.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/FromXmlRulesModule.java",
+			"rightBegin":39,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/FromXmlRulesModule.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/FromXmlRulesModule.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

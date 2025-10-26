@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"rightBegin":138,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"rightBegin":43,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/LongNullHashSetEdges.java",
+			"rightBegin":129,
+			"rightEnd":137
+		}
+	]
+]

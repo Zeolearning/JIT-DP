@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DateUtilsTest.java",
+			"leftBegin":278,
+			"leftEnd":279,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DateUtilsTest.java",
+			"rightBegin":278,
+			"rightEnd":279
+		}
+	]
+]

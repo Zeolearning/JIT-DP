@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/DefaultIterativeLinearSolverEvent.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/DefaultIterativeLinearSolverEvent.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

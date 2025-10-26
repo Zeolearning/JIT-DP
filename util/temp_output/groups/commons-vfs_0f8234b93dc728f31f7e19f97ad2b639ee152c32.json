@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/org/apache/commons/vfs/libcheck/SftpCheck.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/org/apache/commons/vfs/libcheck/FtpCheck.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	]
+]

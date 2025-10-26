@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"rightBegin":80,
+			"rightEnd":81
+		}
+	]
+]

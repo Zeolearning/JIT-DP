@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/model/TransitionTarget.java",
+			"leftBegin":121,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/model/TransitionTarget.java",
+			"rightBegin":121,
+			"rightEnd":139
+		}
+	]
+]

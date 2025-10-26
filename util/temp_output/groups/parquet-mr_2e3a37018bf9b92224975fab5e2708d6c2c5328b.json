@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/codec/CodecConfig.java",
+			"leftBegin":137,
+			"leftEnd":138,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/codec/CodecConfig.java",
+			"rightBegin":137,
+			"rightEnd":137
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"leftBegin":154,
+			"leftEnd":153,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetOutputFormat.java",
+			"rightBegin":154,
+			"rightEnd":161
+		}
+	]
+]

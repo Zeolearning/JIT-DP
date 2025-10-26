@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifyDialog.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/VerifyDialog.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"leftBegin":57,
+			"leftEnd":83,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"rightBegin":55,
+			"rightEnd":54
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"leftBegin":28,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/SumSincFunction.java",
+			"rightBegin":26,
+			"rightEnd":27
+		}
+	]
+]

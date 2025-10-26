@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileUtilsTestCase.java",
+			"leftBegin":112,
+			"leftEnd":119,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsTestCase.java",
+			"rightBegin":112,
+			"rightEnd":111
+		},
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsWaitForTestCase.java",
+			"rightBegin":1,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/org/apache/commons/io/PackageTestSuite.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

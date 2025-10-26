@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/lang/english/TreebankLinker.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lang/english/TreebankLinker.java",
+			"rightBegin":49,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/lang/english/TreebankLinker.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lang/english/TreebankLinker.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

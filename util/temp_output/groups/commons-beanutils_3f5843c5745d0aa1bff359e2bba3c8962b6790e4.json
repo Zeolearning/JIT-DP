@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/ConverterFacade.java",
+			"rightBegin":1,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"leftBegin":792,
+			"leftEnd":792,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"rightBegin":793,
+			"rightEnd":793
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

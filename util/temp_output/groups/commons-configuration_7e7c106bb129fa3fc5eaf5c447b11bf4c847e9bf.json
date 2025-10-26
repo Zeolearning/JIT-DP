@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"leftBegin":761,
+			"leftEnd":760,
+			"rightPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"rightBegin":762,
+			"rightEnd":842
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/configuration/io/TestFileHandler.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/io/FileHandler.java",
+			"leftBegin":345,
+			"leftEnd":344,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/FileHandler.java",
+			"rightBegin":345,
+			"rightEnd":371
+		}
+	]
+]

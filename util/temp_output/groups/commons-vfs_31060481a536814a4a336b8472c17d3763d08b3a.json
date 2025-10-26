@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/UrlTests.java",
+			"leftBegin":35,
+			"leftEnd":44,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/UrlTests.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/UrlTests.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/UrlTests.java",
+			"rightBegin":59,
+			"rightEnd":68
+		}
+	]
+]

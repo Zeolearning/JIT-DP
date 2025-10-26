@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"leftBegin":325,
+			"leftEnd":326,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"rightBegin":325,
+			"rightEnd":326
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"leftBegin":312,
+			"leftEnd":312,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"rightBegin":312,
+			"rightEnd":312
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"leftBegin":303,
+			"leftEnd":303,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/BackgroundInitializer.java",
+			"rightBegin":303,
+			"rightEnd":303
+		}
+	]
+]

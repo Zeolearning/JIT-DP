@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/plain/PlainValuesReader.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/plain/PlainValuesReader.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/bytes/BytesInput.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"parquet-column/src/main/java/parquet/bytes/BytesInput.java",
+			"rightBegin":152,
+			"rightEnd":156
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/bytes/BytesInput.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"parquet-column/src/main/java/parquet/bytes/BytesInput.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

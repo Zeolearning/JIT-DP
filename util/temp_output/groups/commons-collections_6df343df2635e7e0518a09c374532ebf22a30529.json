@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/Trie.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/collections4/Trie.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

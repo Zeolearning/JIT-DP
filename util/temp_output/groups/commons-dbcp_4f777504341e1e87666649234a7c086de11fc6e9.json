@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolableConnection.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolableConnection.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"rightBegin":261,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"leftBegin":245,
+			"leftEnd":244,
+			"rightPath":"src/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"rightBegin":245,
+			"rightEnd":250
+		}
+	]
+]

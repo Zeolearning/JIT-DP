@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"leftBegin":121,
+			"leftEnd":133,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"rightBegin":119,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"rightBegin":116,
+			"rightEnd":116
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"leftBegin":117,
+			"leftEnd":119,
+			"rightPath":"src/test/java/org/apache/commons/math3/ml/neuralnet/NetworkTest.java",
+			"rightBegin":118,
+			"rightEnd":117
+		}
+	]
+]

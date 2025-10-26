@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/GiraphFileInputFormat.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/GiraphFileInputFormat.java",
+			"rightBegin":255,
+			"rightEnd":256
+		}
+	]
+]

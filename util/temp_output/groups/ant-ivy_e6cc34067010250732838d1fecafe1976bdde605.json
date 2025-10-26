@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"rightBegin":82,
+			"rightEnd":82
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"test/java/fr/jayasoft/ivy/SortTest.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

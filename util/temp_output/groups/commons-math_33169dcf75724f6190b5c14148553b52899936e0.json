@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/inference/MannWhitneyUTestTest.java",
+			"leftBegin":103,
+			"leftEnd":102,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/inference/MannWhitneyUTestTest.java",
+			"rightBegin":103,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+			"leftBegin":176,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+			"rightBegin":176,
+			"rightEnd":177
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+			"leftBegin":341,
+			"leftEnd":341,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+			"rightBegin":342,
+			"rightEnd":343
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+			"leftBegin":326,
+			"leftEnd":326,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+			"rightBegin":326,
+			"rightEnd":327
+		}
+	]
+]

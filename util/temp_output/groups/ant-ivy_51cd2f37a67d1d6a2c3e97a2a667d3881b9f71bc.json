@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/osgi/core/AggregatedOSGiResolverTest.java",
+			"rightBegin":1,
+			"rightEnd":168
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/AggregatedRepoDescriptor.java",
+			"rightBegin":1,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/AggregatedOSGiResolver.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	]
+]

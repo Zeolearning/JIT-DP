@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/internal/GetDeclaredMethodsPrivilegedAction.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/internal/GetDeclaredFieldsPrivilegedAction.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/internal/AbstractAnnotatedElementPrivilegedAction.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"leftBegin":207,
+			"leftEnd":211,
+			"rightPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"rightBegin":201,
+			"rightEnd":201
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"leftBegin":177,
+			"leftEnd":180,
+			"rightPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"rightBegin":174,
+			"rightEnd":174
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"leftBegin":151,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"rightBegin":151,
+			"rightEnd":151
+		}
+	]
+]

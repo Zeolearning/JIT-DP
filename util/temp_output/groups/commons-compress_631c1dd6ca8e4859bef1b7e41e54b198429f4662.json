@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"rightBegin":128,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"leftBegin":124,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"rightBegin":123,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"leftBegin":92,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	]
+]

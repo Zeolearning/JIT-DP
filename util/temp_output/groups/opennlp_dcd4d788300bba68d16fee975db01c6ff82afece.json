@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"rightBegin":71,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"leftBegin":70,
+			"leftEnd":71,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"rightBegin":70,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"rightBegin":24,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

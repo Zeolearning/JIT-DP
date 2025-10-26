@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/univariate/BaseAbstractUnivariateOptimizer.java",
+			"leftBegin":113,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/univariate/BaseAbstractUnivariateOptimizer.java",
+			"rightBegin":113,
+			"rightEnd":115
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/univariate/BaseAbstractUnivariateOptimizer.java",
+			"leftBegin":139,
+			"leftEnd":141,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/univariate/BaseAbstractUnivariateOptimizer.java",
+			"rightBegin":139,
+			"rightEnd":141
+		}
+	]
+]

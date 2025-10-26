@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestSingletonIterator.java",
+			"rightBegin":1,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/SingletonIterator.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	]
+]

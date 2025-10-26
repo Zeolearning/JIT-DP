@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/DenseFieldMatrixTest.java",
+			"leftBegin":401,
+			"leftEnd":403,
+			"rightPath":"src/test/org/apache/commons/math/linear/DenseFieldMatrixTest.java",
+			"rightBegin":401,
+			"rightEnd":403
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/DenseFieldMatrixTest.java",
+			"leftBegin":388,
+			"leftEnd":390,
+			"rightPath":"src/test/org/apache/commons/math/linear/DenseFieldMatrixTest.java",
+			"rightBegin":388,
+			"rightEnd":390
+		}
+	]
+]

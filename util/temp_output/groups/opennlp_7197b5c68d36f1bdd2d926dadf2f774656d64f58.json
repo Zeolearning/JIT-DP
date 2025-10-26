@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"rightBegin":88,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"rightBegin":69,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"rightBegin":80,
+			"rightEnd":79
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"leftBegin":619,
+			"leftEnd":619,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"rightBegin":619,
+			"rightEnd":619
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"rightBegin":79,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+			"leftBegin":30,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+			"rightBegin":30,
+			"rightEnd":29
+		}
+	]
+]

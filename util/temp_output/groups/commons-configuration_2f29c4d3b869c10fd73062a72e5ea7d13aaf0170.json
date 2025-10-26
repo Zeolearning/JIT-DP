@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestEventListenerParameters.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/EventListenerParameters.java",
+			"rightBegin":1,
+			"rightEnd":119
+		}
+	]
+]

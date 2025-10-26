@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/CacheManager.java",
+			"leftBegin":50,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/ivy/core/cache/CacheManager.java",
+			"rightBegin":50,
+			"rightEnd":51
+		}
+	]
+]

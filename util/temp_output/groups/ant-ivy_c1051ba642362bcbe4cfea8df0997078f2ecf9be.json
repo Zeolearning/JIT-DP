@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/resolver/FileSystemResolverTest.java",
+			"leftBegin":456,
+			"leftEnd":456,
+			"rightPath":"test/java/fr/jayasoft/ivy/resolver/FileSystemResolverTest.java",
+			"rightBegin":456,
+			"rightEnd":456
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":831,
+			"leftEnd":830,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":831,
+			"rightEnd":855
+		}
+	]
+]

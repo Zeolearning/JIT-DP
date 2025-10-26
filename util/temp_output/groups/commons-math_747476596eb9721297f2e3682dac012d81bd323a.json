@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/special/ErfTest.java",
+			"leftBegin":216,
+			"leftEnd":215,
+			"rightPath":"src/test/java/org/apache/commons/math3/special/ErfTest.java",
+			"rightBegin":216,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Erf.java",
+			"leftBegin":129,
+			"leftEnd":128,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Erf.java",
+			"rightBegin":129,
+			"rightEnd":242
+		}
+	]
+]

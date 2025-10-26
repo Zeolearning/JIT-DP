@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/TestHelper.java",
+			"leftBegin":214,
+			"leftEnd":213,
+			"rightPath":"test/java/org/apache/ivy/TestHelper.java",
+			"rightBegin":214,
+			"rightEnd":214
+		}
+	]
+]

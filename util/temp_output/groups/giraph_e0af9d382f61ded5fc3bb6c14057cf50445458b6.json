@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/EdgeListVertex.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/EdgeListVertex.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/graph/HashMapVertex.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/graph/HashMapVertex.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

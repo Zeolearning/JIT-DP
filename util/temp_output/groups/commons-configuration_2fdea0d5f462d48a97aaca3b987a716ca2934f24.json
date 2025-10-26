@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/DefaultLookups.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/DefaultLookups.java",
+			"rightBegin":62,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/DefaultLookups.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/DefaultLookups.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

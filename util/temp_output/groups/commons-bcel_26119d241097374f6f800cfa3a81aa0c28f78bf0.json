@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassLoaderRepository.java",
+			"leftBegin":124,
+			"leftEnd":123,
+			"rightPath":"src/java/org/apache/bcel/util/ClassLoaderRepository.java",
+			"rightBegin":124,
+			"rightEnd":127
+		}
+	]
+]

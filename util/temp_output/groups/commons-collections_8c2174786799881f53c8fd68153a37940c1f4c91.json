@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/BufferUnderflowException.java",
+			"rightBegin":1,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/BufferOverflowException.java",
+			"rightBegin":1,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/Buffer.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

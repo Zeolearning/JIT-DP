@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestDelegatingResultSet.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestDelegatingResultSet.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestDelegatingCallableStatement.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestDelegatingCallableStatement.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

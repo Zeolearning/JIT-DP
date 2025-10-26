@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/SystemInputStreamFactory.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/SystemInputStreamFactory.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

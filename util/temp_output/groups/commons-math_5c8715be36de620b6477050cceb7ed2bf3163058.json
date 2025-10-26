@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/ode/sampling/StepInterpolatorTestUtils.java",
+			"rightBegin":1,
+			"rightEnd":91
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/NodeListIterator.java",
+			"leftBegin":75,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/NodeListIterator.java",
+			"rightBegin":75,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/NodeListIterator.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/NodeListIterator.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

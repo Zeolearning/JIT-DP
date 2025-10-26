@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"leftBegin":79,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"rightBegin":79,
+			"rightEnd":80
+		}
+	]
+]

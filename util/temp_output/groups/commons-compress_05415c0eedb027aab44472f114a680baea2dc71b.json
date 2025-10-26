@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

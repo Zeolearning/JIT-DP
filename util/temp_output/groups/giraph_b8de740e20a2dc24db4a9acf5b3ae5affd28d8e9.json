@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"leftBegin":547,
+			"leftEnd":549,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"rightBegin":550,
+			"rightEnd":549
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"leftBegin":447,
+			"leftEnd":446,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/HiveGiraphRunner.java",
+			"rightBegin":447,
+			"rightEnd":449
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileReader.java",
+			"leftBegin":515,
+			"leftEnd":516,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileReader.java",
+			"rightBegin":515,
+			"rightEnd":522
+		}
+	]
+]

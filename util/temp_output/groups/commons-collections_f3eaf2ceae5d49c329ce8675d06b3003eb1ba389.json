@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestExtendedProperties.java",
+			"leftBegin":431,
+			"leftEnd":430,
+			"rightPath":"src/test/org/apache/commons/collections/TestExtendedProperties.java",
+			"rightBegin":431,
+			"rightEnd":446
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"leftBegin":1720,
+			"leftEnd":1720,
+			"rightPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"rightBegin":1724,
+			"rightEnd":1727
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"leftBegin":1711,
+			"leftEnd":1710,
+			"rightPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"rightBegin":1711,
+			"rightEnd":1714
+		}
+	]
+]

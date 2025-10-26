@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/StopWatchTest.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/test/org/apache/commons/lang/time/StopWatchTest.java",
+			"rightBegin":77,
+			"rightEnd":77
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/StopWatchTest.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/test/org/apache/commons/lang/time/StopWatchTest.java",
+			"rightBegin":83,
+			"rightEnd":85
+		}
+	]
+]

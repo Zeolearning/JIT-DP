@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/NotImplementedExceptionTest.java",
+			"leftBegin":114,
+			"leftEnd":126,
+			"rightPath":"src/test/org/apache/commons/lang/NotImplementedExceptionTest.java",
+			"rightBegin":114,
+			"rightEnd":126
+		}
+	]
+]

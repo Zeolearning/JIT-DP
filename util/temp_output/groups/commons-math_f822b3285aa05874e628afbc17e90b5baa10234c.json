@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":652,
+			"leftEnd":651,
+			"rightPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":652,
+			"rightEnd":652
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/moment/SemiVarianceTest.java",
+			"rightBegin":1,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/SemiVariance.java",
+			"rightBegin":1,
+			"rightEnd":377
+		}
+	]
+]

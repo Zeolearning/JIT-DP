@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/BoundedIterator.java",
+			"leftBegin":51,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/BoundedIterator.java",
+			"rightBegin":51,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"leftBegin":471,
+			"leftEnd":471,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"rightBegin":471,
+			"rightEnd":471
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"leftBegin":450,
+			"leftEnd":450,
+			"rightPath":"src/main/java/org/apache/commons/collections4/IteratorUtils.java",
+			"rightBegin":450,
+			"rightEnd":450
+		}
+	]
+]

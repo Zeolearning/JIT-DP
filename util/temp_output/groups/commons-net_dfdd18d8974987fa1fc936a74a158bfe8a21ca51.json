@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/bsd/RLoginClient.java",
+			"rightBegin":1,
+			"rightEnd":166
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/bsd/RExecClient.java",
+			"rightBegin":1,
+			"rightEnd":303
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/bsd/RCommandClient.java",
+			"rightBegin":1,
+			"rightEnd":418
+		}
+	]
+]

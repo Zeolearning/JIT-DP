@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/EntitiesTest.java",
+			"leftBegin":56,
+			"leftEnd":57,
+			"rightPath":"src/test/org/apache/commons/lang/EntitiesTest.java",
+			"rightBegin":56,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/EntitiesTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/lang/EntitiesTest.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

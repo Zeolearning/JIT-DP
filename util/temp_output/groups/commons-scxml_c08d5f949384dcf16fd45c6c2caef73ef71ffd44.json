@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/invoke/AsyncTrigger.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/scxml/invoke/AsyncTrigger.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

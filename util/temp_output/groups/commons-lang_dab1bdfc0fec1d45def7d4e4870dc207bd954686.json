@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/math/FractionTest.java",
+			"leftBegin":645,
+			"leftEnd":644,
+			"rightPath":"src/test/org/apache/commons/lang/math/FractionTest.java",
+			"rightBegin":645,
+			"rightEnd":656
+		}
+	]
+]

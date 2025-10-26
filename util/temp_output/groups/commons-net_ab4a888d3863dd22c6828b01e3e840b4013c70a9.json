@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":151,
+			"rightEnd":163
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":100,
+			"rightEnd":100
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

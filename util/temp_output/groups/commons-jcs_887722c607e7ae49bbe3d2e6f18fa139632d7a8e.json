@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/TestDiskCacheConcurrent.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/test/org/apache/jcs/TestDiskCacheConcurrent.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

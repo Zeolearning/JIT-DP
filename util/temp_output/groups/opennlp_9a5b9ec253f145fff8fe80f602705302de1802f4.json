@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/model/SequenceStreamEventStream.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/model/SequenceStreamEventStream.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/StringUtilsTest.java",
+			"leftBegin":2184,
+			"leftEnd":2183,
+			"rightPath":"src/test/java/org/apache/commons/lang3/StringUtilsTest.java",
+			"rightBegin":2184,
+			"rightEnd":2193
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"rightBegin":184,
+			"rightEnd":184
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"rightBegin":83,
+			"rightEnd":83
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"rightBegin":81,
+			"rightEnd":81
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ConstantPoolGen.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

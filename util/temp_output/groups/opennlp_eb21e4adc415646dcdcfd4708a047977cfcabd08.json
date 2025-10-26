@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/maxent/TrainEval.java",
+			"leftBegin":46,
+			"leftEnd":57,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/maxent/TrainEval.java",
+			"rightBegin":46,
+			"rightEnd":59
+		}
+	]
+]

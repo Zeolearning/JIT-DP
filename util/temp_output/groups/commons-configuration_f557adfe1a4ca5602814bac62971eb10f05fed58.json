@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"leftBegin":227,
+			"leftEnd":230,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"rightBegin":227,
+			"rightEnd":231
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"leftBegin":223,
+			"leftEnd":223,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"rightBegin":224,
+			"rightEnd":223
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"rightBegin":33,
+			"rightEnd":34
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

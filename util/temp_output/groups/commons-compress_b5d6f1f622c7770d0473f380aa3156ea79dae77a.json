@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/lz4/XXHash32Test.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/XXHash32.java",
+			"rightBegin":1,
+			"rightEnd":180
+		}
+	]
+]

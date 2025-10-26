@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/parser/chunking/Parser.java",
+			"leftBegin":312,
+			"leftEnd":311,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/chunking/Parser.java",
+			"rightBegin":321,
+			"rightEnd":343
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/parser/chunking/Parser.java",
+			"leftBegin":251,
+			"leftEnd":250,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/chunking/Parser.java",
+			"rightBegin":251,
+			"rightEnd":259
+		}
+	]
+]

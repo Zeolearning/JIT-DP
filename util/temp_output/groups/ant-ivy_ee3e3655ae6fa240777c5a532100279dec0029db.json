@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":375,
+			"leftEnd":376,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":375,
+			"rightEnd":376
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

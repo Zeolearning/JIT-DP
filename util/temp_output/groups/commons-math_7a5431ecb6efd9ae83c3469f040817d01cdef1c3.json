@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EmbeddedRungeKuttaFieldIntegrator.java",
+			"leftBegin":334,
+			"leftEnd":334,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EmbeddedRungeKuttaFieldIntegrator.java",
+			"rightBegin":335,
+			"rightEnd":334
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EmbeddedRungeKuttaFieldIntegrator.java",
+			"leftBegin":263,
+			"leftEnd":263,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EmbeddedRungeKuttaFieldIntegrator.java",
+			"rightBegin":263,
+			"rightEnd":264
+		}
+	]
+]

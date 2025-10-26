@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedFactoryCreateBuilder.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedFactoryCreateBuilder.java",
+			"rightBegin":23,
+			"rightEnd":31
+		}
+	]
+]

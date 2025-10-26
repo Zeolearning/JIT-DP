@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"rightBegin":141,
+			"rightEnd":141
+		},
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"rightBegin":146,
+			"rightEnd":145
+		}
+	]
+]

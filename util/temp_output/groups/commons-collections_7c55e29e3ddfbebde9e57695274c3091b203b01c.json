@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"leftBegin":525,
+			"leftEnd":525,
+			"rightPath":"src/test/java/org/apache/commons/collections/TestCollectionUtils.java",
+			"rightBegin":525,
+			"rightEnd":526
+		}
+	]
+]

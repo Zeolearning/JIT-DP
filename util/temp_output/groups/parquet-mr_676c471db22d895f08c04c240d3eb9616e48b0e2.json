@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"redelm-pig/src/test/java/redelm/pig/TestPigSchemaConverter.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"redelm-pig/src/test/java/redelm/pig/TestPigSchemaConverter.java",
+			"rightBegin":85,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/pig/PigSchemaConverter.java",
+			"leftBegin":142,
+			"leftEnd":143,
+			"rightPath":"redelm-pig/src/main/java/redelm/pig/PigSchemaConverter.java",
+			"rightBegin":142,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/pig/PigSchemaConverter.java",
+			"leftBegin":151,
+			"leftEnd":150,
+			"rightPath":"redelm-pig/src/main/java/redelm/pig/PigSchemaConverter.java",
+			"rightBegin":175,
+			"rightEnd":194
+		}
+	]
+]

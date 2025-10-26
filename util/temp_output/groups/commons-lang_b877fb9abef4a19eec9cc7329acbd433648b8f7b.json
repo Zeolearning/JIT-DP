@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"leftBegin":545,
+			"leftEnd":545,
+			"rightPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"rightBegin":545,
+			"rightEnd":545
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/math/NumberUtilsTest.java",
+			"leftBegin":321,
+			"leftEnd":320,
+			"rightPath":"src/test/java/org/apache/commons/lang3/math/NumberUtilsTest.java",
+			"rightBegin":321,
+			"rightEnd":344
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"leftBegin":559,
+			"leftEnd":559,
+			"rightPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"rightBegin":559,
+			"rightEnd":559
+		}
+	]
+]

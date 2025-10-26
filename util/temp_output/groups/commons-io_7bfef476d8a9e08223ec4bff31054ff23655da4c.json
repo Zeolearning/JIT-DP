@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsCleanSymlinksTestCase.java",
+			"rightBegin":1,
+			"rightEnd":253
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1924,
+			"leftEnd":1923,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1927,
+			"rightEnd":1953
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":982,
+			"leftEnd":982,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":982,
+			"rightEnd":985
+		}
+	]
+]

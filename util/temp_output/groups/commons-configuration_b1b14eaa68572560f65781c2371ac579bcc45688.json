@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/ConfigurationEvent.java",
+			"leftBegin":76,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/ConfigurationEvent.java",
+			"rightBegin":76,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/ConfigurationEvent.java",
+			"leftBegin":155,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/ConfigurationEvent.java",
+			"rightBegin":150,
+			"rightEnd":154
+		}
+	]
+]

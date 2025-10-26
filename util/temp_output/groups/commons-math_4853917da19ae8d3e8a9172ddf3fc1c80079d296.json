@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":427,
+			"leftEnd":429,
+			"rightPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":426,
+			"rightEnd":428
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":387,
+			"leftEnd":388,
+			"rightPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":386,
+			"rightEnd":387
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":382,
+			"leftEnd":384,
+			"rightPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":381,
+			"rightEnd":383
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":84,
+			"leftEnd":85,
+			"rightPath":"src/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	]
+]

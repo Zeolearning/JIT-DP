@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"leftBegin":15,
+			"leftEnd":15,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"rightBegin":15,
+			"rightEnd":15
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/MethodParameters.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

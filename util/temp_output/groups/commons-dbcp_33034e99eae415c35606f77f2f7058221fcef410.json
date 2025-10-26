@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"doc/PoolingDataSourceExample.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"doc/PoolingDataSourceExample.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"doc/PoolingDriverExample.java",
+			"leftBegin":166,
+			"leftEnd":166,
+			"rightPath":"doc/PoolingDriverExample.java",
+			"rightBegin":166,
+			"rightEnd":166
+		}
+	]
+]

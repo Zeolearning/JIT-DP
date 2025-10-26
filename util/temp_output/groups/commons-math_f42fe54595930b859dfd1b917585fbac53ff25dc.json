@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":348,
+			"leftEnd":347,
+			"rightPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":348,
+			"rightEnd":348
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/random/MersenneTwisterTest.java",
+			"rightBegin":1,
+			"rightEnd":402
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/random/MersenneTwister.java",
+			"rightBegin":1,
+			"rightEnd":263
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"leftBegin":124,
+			"leftEnd":126,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"leftBegin":101,
+			"leftEnd":103,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"rightBegin":100,
+			"rightEnd":100
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"leftBegin":92,
+			"leftEnd":93,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"rightBegin":92,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"leftBegin":97,
+			"leftEnd":99,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestCPDSConnectionFactory.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"rightBegin":55,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/test/org/apache/commons/math/optimization/univariate/BrentMinimizerTest.java",
+			"rightBegin":41,
+			"rightEnd":42
+		}
+	]
+]

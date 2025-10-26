@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestMapConfiguration.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestMapConfiguration.java",
+			"rightBegin":111,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/MapConfiguration.java",
+			"leftBegin":242,
+			"leftEnd":241,
+			"rightPath":"src/main/java/org/apache/commons/configuration/MapConfiguration.java",
+			"rightBegin":242,
+			"rightEnd":242
+		}
+	]
+]

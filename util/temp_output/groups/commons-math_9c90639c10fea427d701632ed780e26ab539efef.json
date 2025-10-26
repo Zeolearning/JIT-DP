@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximizationTest.java",
+			"rightBegin":1,
+			"rightEnd":324
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"rightBegin":1,
+			"rightEnd":440
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/MixtureMultivariateNormalDistribution.java",
+			"rightBegin":1,
+			"rightEnd":91
+		}
+	]
+]

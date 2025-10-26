@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/WordUtilsTest.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/WordUtilsTest.java",
+			"rightBegin":74,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/WordUtils.java",
+			"leftBegin":191,
+			"leftEnd":190,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/WordUtils.java",
+			"rightBegin":191,
+			"rightEnd":194
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/WordUtils.java",
+			"leftBegin":186,
+			"leftEnd":186,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/WordUtils.java",
+			"rightBegin":186,
+			"rightEnd":186
+		}
+	]
+]

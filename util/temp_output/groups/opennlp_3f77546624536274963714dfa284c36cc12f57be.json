@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/PortugueseContractionUtility.java",
+			"leftBegin":200,
+			"leftEnd":200,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/PortugueseContractionUtility.java",
+			"rightBegin":200,
+			"rightEnd":200
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java",
+			"leftBegin":265,
+			"leftEnd":265,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java",
+			"rightBegin":266,
+			"rightEnd":266
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

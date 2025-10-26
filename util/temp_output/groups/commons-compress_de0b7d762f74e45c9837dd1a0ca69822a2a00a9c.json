@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"rightBegin":85,
+			"rightEnd":88
+		}
+	]
+]

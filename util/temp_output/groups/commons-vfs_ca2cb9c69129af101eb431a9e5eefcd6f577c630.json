@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderRandomReadTests.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderRandomReadTests.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

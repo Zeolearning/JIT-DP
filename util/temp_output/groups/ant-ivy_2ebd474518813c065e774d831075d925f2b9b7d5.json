@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyBuildNumberTest.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyBuildNumberTest.java",
+			"rightBegin":179,
+			"rightEnd":193
+		}
+	]
+]

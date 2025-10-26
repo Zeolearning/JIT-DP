@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/EscapeUtils.java",
+			"leftBegin":33,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/EscapeUtils.java",
+			"rightBegin":33,
+			"rightEnd":47
+		}
+	]
+]

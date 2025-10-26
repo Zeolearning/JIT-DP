@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":288,
+			"rightEnd":326
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestHelper.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

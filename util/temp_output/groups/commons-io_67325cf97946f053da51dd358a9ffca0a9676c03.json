@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTestCase.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTestCase.java",
+			"rightBegin":141,
+			"rightEnd":146
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/LOOKUPSWITCH.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/bcel/generic/LOOKUPSWITCH.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"leftBegin":104,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	]
+]

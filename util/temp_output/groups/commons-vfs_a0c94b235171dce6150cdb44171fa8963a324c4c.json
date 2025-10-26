@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":331,
+			"leftEnd":341,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":340,
+			"rightEnd":343
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":311,
+			"leftEnd":329,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":316,
+			"rightEnd":338
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":294,
+			"leftEnd":309,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":294,
+			"rightEnd":314
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":291,
+			"leftEnd":291,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":291,
+			"rightEnd":291
+		}
+	]
+]

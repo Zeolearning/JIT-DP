@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/ReversedLinesFileReader.java",
+			"rightBegin":1,
+			"rightEnd":286
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/ReversedLinesFileReaderTestSimple.java",
+			"rightBegin":1,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/ReversedLinesFileReaderTestParamBlockSize.java",
+			"rightBegin":1,
+			"rightEnd":190
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/ReversedLinesFileReaderTestParamFile.java",
+			"rightBegin":1,
+			"rightEnd":116
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserTrainerTool.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserTrainerTool.java",
+			"rightBegin":127,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/TrainingParams.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/TrainingParams.java",
+			"rightBegin":42,
+			"rightEnd":45
+		}
+	]
+]

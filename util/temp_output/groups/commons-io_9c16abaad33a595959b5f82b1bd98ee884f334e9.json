@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCaseJava4.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCaseJava4.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

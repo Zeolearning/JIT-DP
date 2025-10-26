@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/WordWrapUtils.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/commons/lang/WordWrapUtils.java",
+			"rightBegin":69,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/WordWrapUtils.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/lang/WordWrapUtils.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMap.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMap.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

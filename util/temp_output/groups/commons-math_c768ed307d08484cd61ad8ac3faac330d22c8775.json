@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/geometry/partitioning/BSPTree.java",
+			"leftBegin":673,
+			"leftEnd":672,
+			"rightPath":"src/main/java/org/apache/commons/math4/geometry/partitioning/BSPTree.java",
+			"rightBegin":673,
+			"rightEnd":675
+		}
+	]
+]

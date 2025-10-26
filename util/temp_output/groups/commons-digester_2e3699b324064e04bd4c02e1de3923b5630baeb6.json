@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"leftBegin":41,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/GenericParser.java",
+			"rightBegin":28,
+			"rightEnd":27
+		}
+	]
+]

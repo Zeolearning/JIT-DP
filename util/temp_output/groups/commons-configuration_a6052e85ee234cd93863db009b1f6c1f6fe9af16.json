@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestHierarchicalINIConfiguration.java",
+			"leftBegin":611,
+			"leftEnd":610,
+			"rightPath":"src/test/org/apache/commons/configuration/TestHierarchicalINIConfiguration.java",
+			"rightBegin":632,
+			"rightEnd":675
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestHierarchicalINIConfiguration.java",
+			"leftBegin":516,
+			"leftEnd":515,
+			"rightPath":"src/test/org/apache/commons/configuration/TestHierarchicalINIConfiguration.java",
+			"rightBegin":516,
+			"rightEnd":536
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/HierarchicalINIConfiguration.java",
+			"leftBegin":717,
+			"leftEnd":717,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalINIConfiguration.java",
+			"rightBegin":717,
+			"rightEnd":720
+		}
+	]
+]

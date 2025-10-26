@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/ProxyOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/ProxyOutputStream.java",
+			"leftBegin":1,
+			"leftEnd":39,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/ProxyInputStream.java",
+			"rightBegin":1,
+			"rightEnd":124
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/ProxyInputStream.java",
+			"leftBegin":1,
+			"leftEnd":55,
+			"rightPath":null
+		}
+	]
+]

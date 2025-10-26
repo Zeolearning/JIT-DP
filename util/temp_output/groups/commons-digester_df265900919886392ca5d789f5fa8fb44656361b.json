@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/AbstractTestCase.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/digester3/AbstractTestCase.java",
+			"rightBegin":52,
+			"rightEnd":63
+		}
+	]
+]

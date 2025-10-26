@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"leftBegin":429,
+			"leftEnd":428,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"rightBegin":434,
+			"rightEnd":435
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"leftBegin":389,
+			"leftEnd":388,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"rightBegin":392,
+			"rightEnd":393
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"leftBegin":355,
+			"leftEnd":354,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/Base32.java",
+			"rightBegin":355,
+			"rightEnd":357
+		}
+	]
+]

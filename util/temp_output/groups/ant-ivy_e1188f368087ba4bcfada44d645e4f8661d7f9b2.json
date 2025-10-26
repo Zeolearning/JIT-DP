@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":921,
+			"leftEnd":920,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":920,
+			"rightEnd":920
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":918,
+			"leftEnd":919,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":918,
+			"rightEnd":918
+		}
+	]
+]

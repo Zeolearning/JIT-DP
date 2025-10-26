@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"leftBegin":90,
+			"leftEnd":89,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"rightBegin":90,
+			"rightEnd":144
+		}
+	]
+]

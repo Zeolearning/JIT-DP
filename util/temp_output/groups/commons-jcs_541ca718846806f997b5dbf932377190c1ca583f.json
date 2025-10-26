@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheAttributes.java",
+			"leftBegin":35,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheAttributes.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	]
+]

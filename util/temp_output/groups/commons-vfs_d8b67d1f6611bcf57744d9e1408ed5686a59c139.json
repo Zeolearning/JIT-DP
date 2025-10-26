@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"leftBegin":227,
+			"leftEnd":226,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"rightBegin":229,
+			"rightEnd":229
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"leftBegin":211,
+			"leftEnd":210,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"rightBegin":211,
+			"rightEnd":211
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"leftBegin":219,
+			"leftEnd":218,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	]
+]

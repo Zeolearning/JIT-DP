@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestSystemConfiguration.java",
+			"leftBegin":45,
+			"leftEnd":47,
+			"rightPath":"src/test/org/apache/commons/configuration/TestSystemConfiguration.java",
+			"rightBegin":45,
+			"rightEnd":46
+		}
+	]
+]

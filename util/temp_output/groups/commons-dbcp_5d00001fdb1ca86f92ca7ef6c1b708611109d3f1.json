@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":369,
+			"leftEnd":469,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":369,
+			"rightEnd":368
+		},
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"rightBegin":1,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

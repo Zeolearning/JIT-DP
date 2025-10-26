@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/bcel/util/InstructionFinderTest.java",
+			"rightBegin":1,
+			"rightEnd":28
+		}
+	]
+]

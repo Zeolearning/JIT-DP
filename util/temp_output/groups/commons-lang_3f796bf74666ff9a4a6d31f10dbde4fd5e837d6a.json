@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"rightBegin":99,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"leftBegin":106,
+			"leftEnd":105,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"rightBegin":105,
+			"rightEnd":110
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RangeTest.java",
+			"rightBegin":123,
+			"rightEnd":134
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"rightBegin":95,
+			"rightEnd":95
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BasicDynaBean.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

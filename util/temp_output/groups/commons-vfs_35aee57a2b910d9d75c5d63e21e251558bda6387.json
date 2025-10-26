@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"rightBegin":67,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"leftBegin":70,
+			"leftEnd":78,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractOriginatingFileProvider.java",
+			"rightBegin":70,
+			"rightEnd":82
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"leftBegin":296,
+			"leftEnd":296,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"rightBegin":296,
+			"rightEnd":296
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"leftBegin":291,
+			"leftEnd":291,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"rightBegin":291,
+			"rightEnd":291
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"leftBegin":102,
+			"leftEnd":102,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java",
+			"rightBegin":102,
+			"rightEnd":102
+		}
+	]
+]

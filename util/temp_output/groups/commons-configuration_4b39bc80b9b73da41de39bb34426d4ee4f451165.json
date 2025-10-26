@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/event/EventSource.java",
+			"rightBegin":1,
+			"rightEnd":213
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/event/ConfigurationListener.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/event/ConfigurationEvent.java",
+			"rightBegin":1,
+			"rightEnd":132
+		}
+	]
+]

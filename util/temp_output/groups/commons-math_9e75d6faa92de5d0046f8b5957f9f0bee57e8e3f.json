@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optimization/direct/PowellOptimizerTest.java",
+			"leftBegin":227,
+			"leftEnd":227,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/direct/PowellOptimizerTest.java",
+			"rightBegin":227,
+			"rightEnd":227
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"leftBegin":139,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"rightBegin":142,
+			"rightEnd":158
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"rightBegin":45,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/control/Cache.java",
+			"leftBegin":793,
+			"leftEnd":792,
+			"rightPath":"src/java/org/apache/jcs/engine/control/Cache.java",
+			"rightBegin":793,
+			"rightEnd":798
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"leftBegin":336,
+			"leftEnd":335,
+			"rightPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"rightBegin":338,
+			"rightEnd":339
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"leftBegin":316,
+			"leftEnd":315,
+			"rightPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"rightBegin":316,
+			"rightEnd":317
+		}
+	]
+]

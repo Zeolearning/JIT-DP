@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"leftBegin":55,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/net/ntp/NtpV3Impl.java",
+			"rightBegin":55,
+			"rightEnd":56
+		}
+	]
+]

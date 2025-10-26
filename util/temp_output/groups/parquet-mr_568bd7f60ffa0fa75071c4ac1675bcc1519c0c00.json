@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/parquet/avro/AvroWriteSupport.java",
+			"leftBegin":146,
+			"leftEnd":149,
+			"rightPath":"parquet-avro/src/main/java/parquet/avro/AvroWriteSupport.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"leftBegin":126,
+			"leftEnd":125,
+			"rightPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"rightBegin":126,
+			"rightEnd":174
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/SplitMapUtils.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/collections4/SplitMapUtils.java",
+			"rightBegin":67,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/SplitMapUtils.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/collections4/SplitMapUtils.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java",
+			"rightBegin":114,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	]
+]

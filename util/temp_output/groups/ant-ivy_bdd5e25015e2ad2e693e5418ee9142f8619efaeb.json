@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ChainResolver.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ChainResolver.java",
+			"rightBegin":81,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ChainResolver.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ChainResolver.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

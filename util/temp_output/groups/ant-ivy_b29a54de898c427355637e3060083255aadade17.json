@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"leftBegin":429,
+			"leftEnd":429,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"rightBegin":429,
+			"rightEnd":434
+		}
+	]
+]

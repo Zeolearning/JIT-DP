@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+			"leftBegin":145,
+			"leftEnd":146,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+			"rightBegin":145,
+			"rightEnd":147
+		}
+	]
+]

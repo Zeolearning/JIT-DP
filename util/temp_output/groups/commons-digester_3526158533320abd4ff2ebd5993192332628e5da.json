@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/AbstractNamespaceUIRIBasedRulesModule.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/AbstractNamespaceURIBasedRulesModule.java",
+			"rightBegin":28,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/AbstractNamespaceUIRIBasedRulesModule.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/AbstractNamespaceURIBasedRulesModule.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

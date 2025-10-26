@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/Messages.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/Messages.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/CombinedResources.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

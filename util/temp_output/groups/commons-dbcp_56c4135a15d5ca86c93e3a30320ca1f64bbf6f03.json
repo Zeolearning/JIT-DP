@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"leftBegin":174,
+			"leftEnd":175,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java",
+			"rightBegin":174,
+			"rightEnd":175
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java",
+			"leftBegin":267,
+			"leftEnd":268,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java",
+			"rightBegin":267,
+			"rightEnd":268
+		}
+	]
+]

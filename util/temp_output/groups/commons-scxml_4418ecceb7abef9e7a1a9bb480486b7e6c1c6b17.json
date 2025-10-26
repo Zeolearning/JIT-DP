@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/xpath/FunctionResolver.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/xpath/FunctionResolver.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCInstance.java",
+			"leftBegin":391,
+			"leftEnd":390,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCInstance.java",
+			"rightBegin":392,
+			"rightEnd":392
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCInstance.java",
+			"leftBegin":375,
+			"leftEnd":374,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCInstance.java",
+			"rightBegin":375,
+			"rightEnd":375
+		}
+	]
+]

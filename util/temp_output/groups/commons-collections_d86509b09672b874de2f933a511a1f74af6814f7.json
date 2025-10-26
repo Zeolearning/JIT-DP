@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"leftBegin":162,
+			"leftEnd":162,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"rightBegin":162,
+			"rightEnd":162
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"leftBegin":507,
+			"leftEnd":507,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/CompositeMap.java",
+			"rightBegin":507,
+			"rightEnd":507
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/CompositeSet.java",
+			"leftBegin":462,
+			"leftEnd":462,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/CompositeSet.java",
+			"rightBegin":462,
+			"rightEnd":462
+		}
+	]
+]

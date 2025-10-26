@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/PrefixFileFilter.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/PrefixFileFilter.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/PrefixFileFilter.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/PrefixFileFilter.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

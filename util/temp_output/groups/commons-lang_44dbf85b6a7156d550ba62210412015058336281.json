@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"rightBegin":66,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"rightBegin":20,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/EntityArraysTest.java",
+			"rightBegin":34,
+			"rightEnd":65
+		}
+	]
+]

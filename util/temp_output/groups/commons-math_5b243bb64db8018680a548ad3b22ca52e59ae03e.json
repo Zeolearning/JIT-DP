@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/Pair.java",
+			"leftBegin":21,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/math/util/Pair.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/Pair.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/math/util/Pair.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

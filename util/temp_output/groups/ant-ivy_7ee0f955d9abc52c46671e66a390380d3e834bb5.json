@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"rightBegin":39,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/url/BasicURLHandler.java",
+			"leftBegin":119,
+			"leftEnd":118,
+			"rightPath":"src/java/fr/jayasoft/ivy/url/BasicURLHandler.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/url/BasicURLHandler.java",
+			"leftBegin":120,
+			"leftEnd":119,
+			"rightPath":"src/java/fr/jayasoft/ivy/url/BasicURLHandler.java",
+			"rightBegin":121,
+			"rightEnd":124
+		}
+	]
+]

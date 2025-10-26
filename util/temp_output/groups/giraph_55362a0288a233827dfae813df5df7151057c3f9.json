@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/VertexIdMessages.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/giraph/comm/VertexIdMessages.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

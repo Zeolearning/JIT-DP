@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/builder/StandardToStringStyle.java",
+			"rightBegin":1,
+			"rightEnd":460
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ToStringBuilder.java",
+			"rightBegin":1,
+			"rightEnd":929
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ToStringStyle.java",
+			"rightBegin":1,
+			"rightEnd":1393
+		}
+	]
+]

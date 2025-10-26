@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MathException.java",
+			"leftBegin":216,
+			"leftEnd":216,
+			"rightPath":"src/java/org/apache/commons/math/MathException.java",
+			"rightBegin":216,
+			"rightEnd":216
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MathException.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/java/org/apache/commons/math/MathException.java",
+			"rightBegin":199,
+			"rightEnd":199
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/MathException.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/java/org/apache/commons/math/MathException.java",
+			"rightBegin":153,
+			"rightEnd":153
+		}
+	]
+]

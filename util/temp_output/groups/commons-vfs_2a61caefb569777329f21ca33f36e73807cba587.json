@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"rightBegin":139,
+			"rightEnd":139
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"rightBegin":132,
+			"rightEnd":132
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java",
+			"rightBegin":134,
+			"rightEnd":134
+		}
+	]
+]

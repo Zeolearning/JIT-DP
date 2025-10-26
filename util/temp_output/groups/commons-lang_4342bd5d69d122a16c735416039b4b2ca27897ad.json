@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/WordUtilsTest.java",
+			"leftBegin":390,
+			"leftEnd":389,
+			"rightPath":"src/test/org/apache/commons/lang/WordUtilsTest.java",
+			"rightBegin":390,
+			"rightEnd":390
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/WordUtils.java",
+			"leftBegin":614,
+			"leftEnd":613,
+			"rightPath":"src/java/org/apache/commons/lang/WordUtils.java",
+			"rightBegin":614,
+			"rightEnd":618
+		}
+	]
+]

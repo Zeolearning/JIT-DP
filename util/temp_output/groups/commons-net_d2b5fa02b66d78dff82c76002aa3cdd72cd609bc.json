@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/POP3Mail.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/main/java/examples/mail/POP3Mail.java",
+			"rightBegin":23,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/POP3Mail.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/main/java/examples/mail/POP3Mail.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

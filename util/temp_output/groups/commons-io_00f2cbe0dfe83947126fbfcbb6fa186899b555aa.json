@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"leftBegin":23,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"rightBegin":23,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/io/IOExceptionWithCause.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

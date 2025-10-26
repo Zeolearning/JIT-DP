@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/SimpleSCXMLListener.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/SimpleErrorReporter.java",
+			"rightBegin":1,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/SimpleErrorHandler.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/LogUtils.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	]
+]

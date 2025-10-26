@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"leftBegin":186,
+			"leftEnd":185,
+			"rightPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"rightBegin":186,
+			"rightEnd":192
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"rightBegin":81,
+			"rightEnd":81
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/validator/TypeTest.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

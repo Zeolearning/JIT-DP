@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/RandomUtilsDataGeneratorJDKSecureRandomTest.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/RandomUtilsDataGeneratorJDKSecureRandomTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

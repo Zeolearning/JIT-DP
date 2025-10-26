@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/other/Jira18BeanFactory.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/other/Jira18BeanFactory.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/other/Jira18BeanFactory.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/other/Jira18BeanFactory.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

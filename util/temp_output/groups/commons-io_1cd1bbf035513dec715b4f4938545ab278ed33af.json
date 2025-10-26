@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileUtilsCleanDirectoryTestCase.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsCleanDirectoryTestCase.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileUtilsCleanDirectoryTestCase.java",
+			"leftBegin":161,
+			"leftEnd":162,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsCleanDirectoryTestCase.java",
+			"rightBegin":161,
+			"rightEnd":161
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/PropsFirstPropertyUtilsBean.java",
+			"leftBegin":1,
+			"leftEnd":70,
+			"rightPath":"src/test/org/apache/commons/beanutils/PropsFirstPropertyUtilsBean.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/bugs/Jira92TestCase.java",
+			"leftBegin":1,
+			"leftEnd":58,
+			"rightPath":"src/test/org/apache/commons/beanutils/bugs/Jira92TestCase.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	]
+]

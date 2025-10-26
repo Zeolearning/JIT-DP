@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"leftBegin":334,
+			"leftEnd":334,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"rightBegin":334,
+			"rightEnd":334
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"leftBegin":302,
+			"leftEnd":302,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"rightBegin":302,
+			"rightEnd":302
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"leftBegin":318,
+			"leftEnd":318,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"rightBegin":318,
+			"rightEnd":318
+		}
+	]
+]

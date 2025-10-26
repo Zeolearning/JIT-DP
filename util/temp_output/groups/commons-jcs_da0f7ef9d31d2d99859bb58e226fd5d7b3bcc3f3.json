@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"leftBegin":278,
+			"leftEnd":278,
+			"rightPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"rightBegin":278,
+			"rightEnd":278
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"leftBegin":227,
+			"leftEnd":227,
+			"rightPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"rightBegin":227,
+			"rightEnd":227
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/java/org/apache/commons/jcs/engine/ZombieCacheServiceNonLocal.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	]
+]

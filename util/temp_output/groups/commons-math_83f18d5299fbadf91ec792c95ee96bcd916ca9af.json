@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"rightBegin":145,
+			"rightEnd":190
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+			"leftBegin":1135,
+			"leftEnd":1135,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+			"rightBegin":1135,
+			"rightEnd":1135
+		}
+	]
+]

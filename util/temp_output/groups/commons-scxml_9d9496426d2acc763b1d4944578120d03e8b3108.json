@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/SimpleDispatcher.java",
+			"leftBegin":65,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/SimpleDispatcher.java",
+			"rightBegin":65,
+			"rightEnd":66
+		}
+	]
+]

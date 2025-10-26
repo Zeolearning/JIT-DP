@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"leftBegin":58,
+			"leftEnd":60,
+			"rightPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"rightBegin":58,
+			"rightEnd":61
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/java/org/apache/ivy/util/ChecksumHelper.java",
+			"rightBegin":63,
+			"rightEnd":68
+		}
+	]
+]

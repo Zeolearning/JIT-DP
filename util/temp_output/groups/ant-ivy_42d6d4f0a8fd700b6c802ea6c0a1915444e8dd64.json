@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"leftBegin":441,
+			"leftEnd":441,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"rightBegin":441,
+			"rightEnd":441
+		}
+	]
+]

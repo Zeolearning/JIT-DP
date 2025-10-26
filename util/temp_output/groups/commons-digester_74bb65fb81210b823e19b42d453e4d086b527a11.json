@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderTestSuite.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderTestSuite.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/IncludeTest.java",
+			"rightBegin":1,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderTestSuite.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/test/org/apache/commons/digester/xmlrules/DigesterLoaderTestSuite.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

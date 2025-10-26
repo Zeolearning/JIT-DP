@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/test/org/apache/commons/collections/TestObject.java",
+			"rightBegin":96,
+			"rightEnd":96
+		},
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/BulkTest.java",
+			"rightBegin":1,
+			"rightEnd":458
+		}
+	]
+]

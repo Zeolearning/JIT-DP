@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/MidPointIntegrator.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/MidPointIntegrator.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/integration/MidPointIntegratorTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/integration/MidPointIntegratorTest.java",
+			"rightBegin":42,
+			"rightEnd":60
+		}
+	]
+]

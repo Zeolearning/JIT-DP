@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/PrintCommandListener.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/net/PrintCommandListener.java",
+			"rightBegin":127,
+			"rightEnd":135
+		}
+	]
+]

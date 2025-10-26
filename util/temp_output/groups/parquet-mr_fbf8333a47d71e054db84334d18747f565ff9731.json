@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"leftBegin":170,
+			"leftEnd":171,
+			"rightPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"rightBegin":169,
+			"rightEnd":168
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"rightBegin":32,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"redelm-pig/src/main/java/redelm/pig/TupleRecordConsumer.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	]
+]

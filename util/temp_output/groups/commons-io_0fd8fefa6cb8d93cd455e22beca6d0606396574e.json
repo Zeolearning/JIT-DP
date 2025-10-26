@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":526,
+			"leftEnd":527,
+			"rightPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":526,
+			"rightEnd":530
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CodePointTranslator.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CodePointTranslator.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"leftBegin":88,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"rightBegin":88,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"leftBegin":93,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"rightBegin":93,
+			"rightEnd":95
+		}
+	]
+]

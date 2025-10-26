@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"leftBegin":202,
+			"leftEnd":204,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"rightBegin":200,
+			"rightEnd":200
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"leftBegin":45,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/fitting/MultivariateNormalMixtureExpectationMaximization.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	]
+]

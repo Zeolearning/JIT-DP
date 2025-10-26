@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"leftBegin":645,
+			"leftEnd":644,
+			"rightPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"rightBegin":645,
+			"rightEnd":655
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOUtils.java",
+			"leftBegin":2972,
+			"leftEnd":2971,
+			"rightPath":"src/main/java/org/apache/commons/io/IOUtils.java",
+			"rightBegin":2972,
+			"rightEnd":2990
+		}
+	]
+]

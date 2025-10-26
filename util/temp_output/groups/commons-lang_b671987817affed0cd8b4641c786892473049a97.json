@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"leftBegin":172,
+			"leftEnd":171,
+			"rightPath":"src/test/java/org/apache/commons/lang3/event/EventListenerSupportTest.java",
+			"rightBegin":172,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/SerializationUtilsTest.java",
+			"leftBegin":425,
+			"leftEnd":424,
+			"rightPath":"src/test/java/org/apache/commons/lang3/SerializationUtilsTest.java",
+			"rightBegin":425,
+			"rightEnd":426
+		}
+	]
+]

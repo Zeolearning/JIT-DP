@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/lateral/socket/tcp/discovery/UDPDiscoveryManager.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/lateral/socket/tcp/discovery/UDPDiscoveryManager.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

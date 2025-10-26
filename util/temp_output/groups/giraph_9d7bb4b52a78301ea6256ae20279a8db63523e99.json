@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/FacebookConfiguration.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/FacebookConfiguration.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	]
+]

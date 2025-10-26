@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/decorators/TestSequencedSet.java",
+			"rightBegin":1,
+			"rightEnd":138
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/decorators/TestAll.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	]
+]

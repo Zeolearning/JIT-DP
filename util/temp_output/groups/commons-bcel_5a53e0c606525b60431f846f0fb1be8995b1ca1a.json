@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/SimpleElementValue.java",
+			"leftBegin":175,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/SimpleElementValue.java",
+			"rightBegin":175,
+			"rightEnd":176
+		}
+	]
+]

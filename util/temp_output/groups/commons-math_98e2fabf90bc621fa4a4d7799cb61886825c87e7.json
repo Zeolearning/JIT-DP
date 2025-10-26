@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"rightBegin":85,
+			"rightEnd":86
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"leftBegin":61,
+			"leftEnd":60,
+			"rightPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/math/random/EmpiricalDistributionTest.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	]
+]

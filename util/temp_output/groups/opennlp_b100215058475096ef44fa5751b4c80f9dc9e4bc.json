@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/Conll02NameSampleStreamTest.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/Conll02NameSampleStreamTest.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

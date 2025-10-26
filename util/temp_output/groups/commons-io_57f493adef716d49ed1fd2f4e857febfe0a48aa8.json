@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/serialization/ValidatingObjectInputStream.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/io/serialization/ValidatingObjectInputStream.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/serialization/ValidatingObjectInputStreamTest.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"src/test/java/org/apache/commons/io/serialization/ValidatingObjectInputStreamTest.java",
+			"rightBegin":91,
+			"rightEnd":102
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/serialization/ValidatingObjectInputStreamTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/io/serialization/ValidatingObjectInputStreamTest.java",
+			"rightBegin":21,
+			"rightEnd":22
+		}
+	]
+]

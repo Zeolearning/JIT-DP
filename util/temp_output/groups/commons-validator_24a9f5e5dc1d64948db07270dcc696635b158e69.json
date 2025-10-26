@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/Name.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/ValidatorTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/RequiredNameTest.java",
+			"rightBegin":1,
+			"rightEnd":305
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/TestValidator.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	]
+]

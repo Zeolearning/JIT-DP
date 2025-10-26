@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/TaggedIOException.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/io/TaggedIOException.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

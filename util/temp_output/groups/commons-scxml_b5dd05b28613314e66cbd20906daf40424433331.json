@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"leftBegin":118,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"rightBegin":118,
+			"rightEnd":124
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"leftBegin":97,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/javascript/JSEvaluator.java",
+			"rightBegin":97,
+			"rightEnd":98
+		}
+	]
+]

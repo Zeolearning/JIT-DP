@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateVectorialOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":192
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartMultivariateRealOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	]
+]

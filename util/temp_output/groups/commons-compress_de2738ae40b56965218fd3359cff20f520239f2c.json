@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"rightBegin":34,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	]
+]

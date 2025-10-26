@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"leftBegin":300,
+			"leftEnd":300,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"rightBegin":300,
+			"rightEnd":300
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"leftBegin":295,
+			"leftEnd":295,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"rightBegin":295,
+			"rightEnd":295
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	]
+]

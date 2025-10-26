@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/CallMethodHandler.java",
+			"rightBegin":1,
+			"rightEnd":53
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":402,
+			"leftEnd":420,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":412,
+			"rightEnd":417
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":398,
+			"leftEnd":398,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":395,
+			"rightEnd":408
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":390,
+			"leftEnd":390,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":385,
+			"rightEnd":387
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"leftBegin":383,
+			"leftEnd":388,
+			"rightPath":"src/java/org/apache/ivy/core/settings/XmlSettingsParser.java",
+			"rightBegin":383,
+			"rightEnd":383
+		}
+	]
+]

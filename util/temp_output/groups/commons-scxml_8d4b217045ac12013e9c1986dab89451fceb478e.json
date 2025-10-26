@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/groovy/GroovyEvaluator.java",
+			"leftBegin":232,
+			"leftEnd":232,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/groovy/GroovyEvaluator.java",
+			"rightBegin":232,
+			"rightEnd":232
+		}
+	]
+]

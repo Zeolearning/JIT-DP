@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/compress/bzip2/test/BzipTestCase.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/test/org/apache/commons/compress/bzip2/test/BzipTestCase.java",
+			"rightBegin":86,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"leftBegin":970,
+			"leftEnd":970,
+			"rightPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"rightBegin":980,
+			"rightEnd":980
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"leftBegin":627,
+			"leftEnd":626,
+			"rightPath":"src/java/org/apache/commons/compress/bzip2/CBZip2InputStream.java",
+			"rightBegin":627,
+			"rightEnd":636
+		}
+	]
+]

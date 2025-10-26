@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/SelectorAdapter.java",
+			"leftBegin":1,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/io/SelectorAdapter.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTestCase.java",
+			"leftBegin":1,
+			"leftEnd":172,
+			"rightPath":"src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTestCase.java",
+			"rightBegin":1,
+			"rightEnd":172
+		}
+	]
+]

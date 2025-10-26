@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/LRUMap.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"src/java/org/apache/commons/collections/LRUMap.java",
+			"rightBegin":151,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/LRUMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/LRUMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

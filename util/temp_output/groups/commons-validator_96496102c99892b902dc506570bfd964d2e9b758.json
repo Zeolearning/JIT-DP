@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"leftBegin":110,
+			"leftEnd":109,
+			"rightPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"rightBegin":115,
+			"rightEnd":119
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"leftBegin":83,
+			"leftEnd":82,
+			"rightPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"rightBegin":83,
+			"rightEnd":87
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/test/org/apache/commons/validator/ExceptionTest.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

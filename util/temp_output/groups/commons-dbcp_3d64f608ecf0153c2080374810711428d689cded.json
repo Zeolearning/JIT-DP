@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestParallelCreationWithNoIdle.java",
+			"leftBegin":1,
+			"leftEnd":144,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestParallelCreationWithNoIdle.java",
+			"rightBegin":1,
+			"rightEnd":160
+		}
+	]
+]

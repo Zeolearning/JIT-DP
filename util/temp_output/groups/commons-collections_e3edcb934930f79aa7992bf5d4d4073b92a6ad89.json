@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"rightBegin":170,
+			"rightEnd":174
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"leftBegin":134,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"leftBegin":120,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/LRUMap.java",
+			"rightBegin":120,
+			"rightEnd":119
+		}
+	]
+]

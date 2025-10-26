@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"leftBegin":73,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"rightBegin":72,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"leftBegin":45,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/AnnotationDefault.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

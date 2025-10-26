@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":894,
+			"leftEnd":918,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":880,
+			"rightEnd":879
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":882,
+			"leftEnd":882,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":862,
+			"rightEnd":868
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":842,
+			"leftEnd":867,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":848,
+			"rightEnd":847
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":798,
+			"leftEnd":798,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":798,
+			"rightEnd":804
+		}
+	]
+]

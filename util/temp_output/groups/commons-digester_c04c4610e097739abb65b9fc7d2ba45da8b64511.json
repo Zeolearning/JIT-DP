@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

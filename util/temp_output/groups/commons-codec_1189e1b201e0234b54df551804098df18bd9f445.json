@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineRegressionTest.java",
+			"leftBegin":189,
+			"leftEnd":192,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineRegressionTest.java",
+			"rightBegin":189,
+			"rightEnd":188
+		}
+	]
+]

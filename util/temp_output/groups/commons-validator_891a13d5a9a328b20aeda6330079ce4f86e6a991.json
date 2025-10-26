@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/util/ValidatorUtils.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/validator/util/ValidatorUtils.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/ValidatorResources.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/validator/ValidatorResources.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

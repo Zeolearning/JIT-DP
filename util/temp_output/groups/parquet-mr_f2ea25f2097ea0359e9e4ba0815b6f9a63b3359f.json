@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"redelm-column/src/test/java/redelm/io/PerfTest.java",
+			"leftBegin":16,
+			"leftEnd":16,
+			"rightPath":"redelm-column/src/test/java/redelm/io/PerfTest.java",
+			"rightBegin":17,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/Log.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"redelm-column/src/main/java/redelm/Log.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-column/src/test/java/redelm/io/PerfTest.java",
+			"leftBegin":7,
+			"leftEnd":6,
+			"rightPath":"redelm-column/src/test/java/redelm/io/PerfTest.java",
+			"rightBegin":7,
+			"rightEnd":7
+		}
+	]
+]

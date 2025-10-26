@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":152
+		}
+	]
+]

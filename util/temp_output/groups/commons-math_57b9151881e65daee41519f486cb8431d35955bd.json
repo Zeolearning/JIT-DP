@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/BivariateRegression.java",
+			"rightBegin":1,
+			"rightEnd":439
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/BivariateRegressionTest.java",
+			"rightBegin":1,
+			"rightEnd":226
+		}
+	]
+]

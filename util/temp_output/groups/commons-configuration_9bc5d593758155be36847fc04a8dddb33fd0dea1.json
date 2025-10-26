@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"leftBegin":254,
+			"leftEnd":253,
+			"rightPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"rightBegin":254,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":145,
+			"rightEnd":145
+		}
+	]
+]

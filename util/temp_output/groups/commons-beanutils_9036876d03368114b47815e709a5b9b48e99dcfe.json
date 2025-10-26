@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/TestResultSetMetaData.java",
+			"leftBegin":131,
+			"leftEnd":132,
+			"rightPath":"src/test/org/apache/commons/beanutils/TestResultSetMetaData.java",
+			"rightBegin":131,
+			"rightEnd":133
+		}
+	]
+]

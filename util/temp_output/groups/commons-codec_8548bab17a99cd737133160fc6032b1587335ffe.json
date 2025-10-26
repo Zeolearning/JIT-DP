@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"rightBegin":65,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"rightBegin":52,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/codec/net/CharacterEncodingNames.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

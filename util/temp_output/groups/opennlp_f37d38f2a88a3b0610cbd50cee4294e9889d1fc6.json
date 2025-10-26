@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/GeoEntityLinker.java",
+			"leftBegin":104,
+			"leftEnd":104,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/GeoEntityLinker.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/GeoHashBinningScorer.java",
+			"rightBegin":1,
+			"rightEnd":276
+		}
+	]
+]

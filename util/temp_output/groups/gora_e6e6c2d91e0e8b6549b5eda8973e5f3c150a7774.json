@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/mapreduce/TestHBaseStoreWordCount.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/mapreduce/TestHBaseStoreWordCount.java",
+			"rightBegin":62,
+			"rightEnd":66
+		}
+	]
+]

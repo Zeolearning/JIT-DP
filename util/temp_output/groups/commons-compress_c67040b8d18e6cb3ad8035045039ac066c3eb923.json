@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/examples/ExpanderTest.java",
+			"rightBegin":1,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"leftBegin":144,
+			"leftEnd":143,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"rightBegin":144,
+			"rightEnd":144
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/examples/ParameterizedExpanderTest.java",
+			"rightBegin":1,
+			"rightEnd":157
+		}
+	]
+]

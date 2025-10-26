@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"leftBegin":167,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"rightBegin":167,
+			"rightEnd":166
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"leftBegin":161,
+			"leftEnd":162,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"rightBegin":160,
+			"rightEnd":162
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java",
+			"rightBegin":24,
+			"rightEnd":23
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/event/retrieve/EndRetrieveArtifactEvent.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/java/org/apache/ivy/core/event/retrieve/EndRetrieveArtifactEvent.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

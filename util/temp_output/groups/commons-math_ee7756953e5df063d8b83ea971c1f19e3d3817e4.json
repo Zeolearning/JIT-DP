@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumTest.java",
+			"leftBegin":25,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumTest.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumTest.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumTest.java",
+			"rightBegin":58,
+			"rightEnd":70
+		}
+	]
+]

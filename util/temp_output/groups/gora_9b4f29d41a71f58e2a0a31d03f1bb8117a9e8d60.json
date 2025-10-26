@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-infinispan/src/main/java/org/apache/gora/infinispan/store/InfinispanStore.java",
+			"leftBegin":96,
+			"leftEnd":100,
+			"rightPath":"gora-infinispan/src/main/java/org/apache/gora/infinispan/store/InfinispanStore.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	]
+]

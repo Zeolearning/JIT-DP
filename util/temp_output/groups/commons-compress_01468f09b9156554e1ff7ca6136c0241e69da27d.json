@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/PasswordRequiredException.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/compress/PasswordRequiredException.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

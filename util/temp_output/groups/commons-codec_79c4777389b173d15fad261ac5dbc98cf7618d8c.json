@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/StringEncoderComparator.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/codec/StringEncoderComparator.java",
+			"rightBegin":31,
+			"rightEnd":32
+		}
+	]
+]

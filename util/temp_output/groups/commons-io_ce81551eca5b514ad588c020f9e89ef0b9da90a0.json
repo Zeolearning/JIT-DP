@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/ThresholdingOutputStreamTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/io/output/ThresholdingOutputStreamTest.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"leftBegin":710,
+			"leftEnd":709,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"rightBegin":711,
+			"rightEnd":711
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"leftBegin":702,
+			"leftEnd":701,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java",
+			"rightBegin":702,
+			"rightEnd":702
+		}
+	]
+]

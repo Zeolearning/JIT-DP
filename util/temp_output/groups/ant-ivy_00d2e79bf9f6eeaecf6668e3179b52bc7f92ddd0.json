@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyConfigureTest.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyConfigureTest.java",
+			"rightBegin":146,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":688,
+			"leftEnd":688,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":689,
+			"rightEnd":689
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":636,
+			"leftEnd":635,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":636,
+			"rightEnd":636
+		}
+	]
+]

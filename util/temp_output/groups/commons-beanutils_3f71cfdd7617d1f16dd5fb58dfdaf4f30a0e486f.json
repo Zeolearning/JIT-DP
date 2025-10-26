@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/BeanComparatorTestCase.java",
+			"leftBegin":213,
+			"leftEnd":213,
+			"rightPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/BeanComparatorTestCase.java",
+			"rightBegin":213,
+			"rightEnd":215
+		}
+	]
+]

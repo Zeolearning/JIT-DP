@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ConstantUtf8.java",
+			"rightBegin":75,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"rightBegin":47,
+			"rightEnd":48
+		}
+	]
+]

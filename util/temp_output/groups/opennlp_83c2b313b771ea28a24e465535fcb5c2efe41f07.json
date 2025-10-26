@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java",
+			"rightBegin":73,
+			"rightEnd":74
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

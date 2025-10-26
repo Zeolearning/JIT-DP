@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"rightBegin":58,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"rightBegin":39,
+			"rightEnd":49
+		}
+	]
+]

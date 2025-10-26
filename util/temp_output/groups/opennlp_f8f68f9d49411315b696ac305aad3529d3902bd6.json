@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"rightBegin":89,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

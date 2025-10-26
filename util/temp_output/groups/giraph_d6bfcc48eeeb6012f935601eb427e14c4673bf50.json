@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"rightBegin":72,
+			"rightEnd":72
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"rightBegin":47,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/giraph/lib/AdjacencyListVertexReader.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

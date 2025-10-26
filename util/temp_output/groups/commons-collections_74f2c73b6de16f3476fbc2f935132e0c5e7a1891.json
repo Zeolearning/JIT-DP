@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"leftBegin":614,
+			"leftEnd":614,
+			"rightPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"rightBegin":615,
+			"rightEnd":615
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"rightBegin":49,
+			"rightEnd":49
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/BeanMap.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

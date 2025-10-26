@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java",
+			"leftBegin":447,
+			"leftEnd":447,
+			"rightPath":"src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java",
+			"rightBegin":447,
+			"rightEnd":518
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/list/CursorableLinkedList.java",
+			"leftBegin":451,
+			"leftEnd":450,
+			"rightPath":"src/java/org/apache/commons/collections/list/CursorableLinkedList.java",
+			"rightBegin":457,
+			"rightEnd":458
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/list/CursorableLinkedList.java",
+			"leftBegin":448,
+			"leftEnd":448,
+			"rightPath":"src/java/org/apache/commons/collections/list/CursorableLinkedList.java",
+			"rightBegin":448,
+			"rightEnd":454
+		}
+	]
+]

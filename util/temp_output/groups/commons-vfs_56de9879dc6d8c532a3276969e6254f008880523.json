@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpStreamProxy.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpStreamProxy.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

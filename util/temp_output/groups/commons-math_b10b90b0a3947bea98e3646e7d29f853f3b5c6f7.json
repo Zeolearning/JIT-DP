@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2DTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2DTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

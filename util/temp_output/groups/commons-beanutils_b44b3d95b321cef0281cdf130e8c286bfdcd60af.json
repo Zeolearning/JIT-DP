@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira456TestCase.java",
+			"rightBegin":1,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":1300,
+			"leftEnd":1300,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":1300,
+			"rightEnd":1302
+		}
+	]
+]

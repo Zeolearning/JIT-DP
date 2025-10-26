@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/ThrowExceptionConverter.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/ThrowExceptionConverter.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"leftBegin":363,
+			"leftEnd":367,
+			"rightPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"rightBegin":367,
+			"rightEnd":375
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"leftBegin":348,
+			"leftEnd":352,
+			"rightPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"rightBegin":348,
+			"rightEnd":356
+		}
+	]
+]

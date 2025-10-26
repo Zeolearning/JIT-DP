@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/SimpleScheduler.java",
+			"leftBegin":242,
+			"leftEnd":242,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/SimpleScheduler.java",
+			"rightBegin":243,
+			"rightEnd":242
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/SimpleScheduler.java",
+			"leftBegin":236,
+			"leftEnd":235,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/SimpleScheduler.java",
+			"rightBegin":236,
+			"rightEnd":236
+		}
+	]
+]

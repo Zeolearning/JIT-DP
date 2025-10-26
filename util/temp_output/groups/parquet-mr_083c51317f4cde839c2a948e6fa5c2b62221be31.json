@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ParquetHiveSerDe.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ParquetHiveSerDe.java",
+			"rightBegin":66,
+			"rightEnd":66
+		},
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ParquetHiveSerDe.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/serde/ParquetHiveSerDe.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"leftBegin":135,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"rightBegin":135,
+			"rightEnd":150
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"leftBegin":152,
+			"leftEnd":152,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	]
+]

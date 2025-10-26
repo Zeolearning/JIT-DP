@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"rightBegin":112,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"leftBegin":15,
+			"leftEnd":14,
+			"rightPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"rightBegin":15,
+			"rightEnd":15
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/java/fr/jayasoft/ivy/ModuleRevisionId.java",
+			"rightBegin":101,
+			"rightEnd":105
+		}
+	]
+]

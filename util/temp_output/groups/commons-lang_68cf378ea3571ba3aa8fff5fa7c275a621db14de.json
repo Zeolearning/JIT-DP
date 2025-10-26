@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializer.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializer.java",
+			"rightBegin":101,
+			"rightEnd":102
+		}
+	]
+]

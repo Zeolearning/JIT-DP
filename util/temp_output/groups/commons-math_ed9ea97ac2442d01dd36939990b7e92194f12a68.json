@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/BigMatrixImpl.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/math/linear/BigMatrixImpl.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

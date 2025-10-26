@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/zip/CompressionUtil.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/zip/CompressionUtil.java",
+			"rightBegin":96,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/zip/CompressionUtil.java",
+			"leftBegin":153,
+			"leftEnd":152,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/zip/CompressionUtil.java",
+			"rightBegin":155,
+			"rightEnd":156
+		}
+	]
+]

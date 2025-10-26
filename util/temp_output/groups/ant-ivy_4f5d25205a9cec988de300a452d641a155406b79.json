@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"rightBegin":107,
+			"rightEnd":110
+		}
+	]
+]

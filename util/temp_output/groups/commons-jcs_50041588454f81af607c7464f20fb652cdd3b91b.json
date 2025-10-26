@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/CacheChangeSupport.java",
+			"rightBegin":1,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/CacheChangeListener.java",
+			"rightBegin":1,
+			"rightEnd":28
+		}
+	]
+]

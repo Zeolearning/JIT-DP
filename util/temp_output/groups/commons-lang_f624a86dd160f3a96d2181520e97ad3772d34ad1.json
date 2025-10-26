@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/TimedSemaphoreTest.java",
+			"leftBegin":190,
+			"leftEnd":190,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/TimedSemaphoreTest.java",
+			"rightBegin":190,
+			"rightEnd":190
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/CallableBackgroundInitializerTest.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/CallableBackgroundInitializerTest.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

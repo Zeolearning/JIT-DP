@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"leftBegin":33,
+			"leftEnd":38,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"rightBegin":33,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"leftBegin":44,
+			"leftEnd":45,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"rightBegin":42,
+			"rightEnd":42
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"leftBegin":55,
+			"leftEnd":56,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarAttributesTestCase.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

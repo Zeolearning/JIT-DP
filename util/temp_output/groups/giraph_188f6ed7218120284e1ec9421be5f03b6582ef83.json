@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerAggregatorHandler.java",
+			"leftBegin":279,
+			"leftEnd":278,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerAggregatorHandler.java",
+			"rightBegin":280,
+			"rightEnd":280
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerAggregatorHandler.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerAggregatorHandler.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	]
+]

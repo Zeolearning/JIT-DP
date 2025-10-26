@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

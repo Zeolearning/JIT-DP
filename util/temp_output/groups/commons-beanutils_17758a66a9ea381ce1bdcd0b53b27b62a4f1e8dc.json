@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"leftBegin":375,
+			"leftEnd":380,
+			"rightPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"rightBegin":375,
+			"rightEnd":374
+		}
+	],
+	[
+		{
+			"leftPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"leftBegin":384,
+			"leftEnd":384,
+			"rightPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"rightBegin":378,
+			"rightEnd":378
+		},
+		{
+			"leftPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"leftBegin":363,
+			"leftEnd":363,
+			"rightPath":"optional/bean-collections/src/test/org/apache/commons/beanutils/TestBeanMap.java",
+			"rightBegin":363,
+			"rightEnd":363
+		}
+	]
+]

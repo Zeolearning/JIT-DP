@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractFileObject.java",
+			"leftBegin":1001,
+			"leftEnd":1001,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractFileObject.java",
+			"rightBegin":1001,
+			"rightEnd":1001
+		}
+	]
+]

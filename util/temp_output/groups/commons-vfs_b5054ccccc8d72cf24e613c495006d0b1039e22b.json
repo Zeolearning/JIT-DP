@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileRandomAccessContent.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileRandomAccessContent.java",
+			"rightBegin":117,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileRandomAccessContent.java",
+			"leftBegin":285,
+			"leftEnd":284,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileRandomAccessContent.java",
+			"rightBegin":289,
+			"rightEnd":289
+		}
+	]
+]

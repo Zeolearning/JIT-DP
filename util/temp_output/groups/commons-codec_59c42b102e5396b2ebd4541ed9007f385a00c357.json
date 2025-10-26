@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32InputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":412
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32OutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":332
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/SobolSequenceGeneratorTest.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/SobolSequenceGenerator.java",
+			"rightBegin":1,
+			"rightEnd":310
+		}
+	]
+]

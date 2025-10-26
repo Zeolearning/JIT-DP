@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"leftBegin":180,
+			"leftEnd":180,
+			"rightPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"rightBegin":180,
+			"rightEnd":181
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"leftBegin":172,
+			"leftEnd":175,
+			"rightPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"rightBegin":176,
+			"rightEnd":175
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"rightBegin":169,
+			"rightEnd":173
+		}
+	]
+]

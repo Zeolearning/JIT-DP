@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/ByteOrderMark.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/io/ByteOrderMark.java",
+			"rightBegin":56,
+			"rightEnd":62
+		}
+	]
+]

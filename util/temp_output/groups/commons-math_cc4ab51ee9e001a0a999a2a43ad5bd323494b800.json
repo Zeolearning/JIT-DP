@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+			"rightBegin":109,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/BinomialDistributionTest.java",
+			"leftBegin":130,
+			"leftEnd":129,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/BinomialDistributionTest.java",
+			"rightBegin":130,
+			"rightEnd":147
+		}
+	]
+]

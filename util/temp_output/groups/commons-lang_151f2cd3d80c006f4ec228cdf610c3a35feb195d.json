@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+			"leftBegin":84,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+			"rightBegin":84,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+			"leftBegin":100,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

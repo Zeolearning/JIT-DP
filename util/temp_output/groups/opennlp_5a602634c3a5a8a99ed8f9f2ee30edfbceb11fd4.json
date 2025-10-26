@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStreamFactory.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStreamFactory.java",
+			"rightBegin":26,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStreamFactory.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStreamFactory.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

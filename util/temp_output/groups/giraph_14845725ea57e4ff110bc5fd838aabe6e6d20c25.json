@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/job/DefaultJobProgressTrackerService.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/job/DefaultJobProgressTrackerService.java",
+			"rightBegin":183,
+			"rightEnd":183
+		}
+	]
+]

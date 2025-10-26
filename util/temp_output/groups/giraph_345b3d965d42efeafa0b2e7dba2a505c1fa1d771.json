@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/VertexInputSplitsCallable.java",
+			"leftBegin":174,
+			"leftEnd":174,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/VertexInputSplitsCallable.java",
+			"rightBegin":174,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/EdgeInputSplitsCallable.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/EdgeInputSplitsCallable.java",
+			"rightBegin":173,
+			"rightEnd":172
+		}
+	]
+]

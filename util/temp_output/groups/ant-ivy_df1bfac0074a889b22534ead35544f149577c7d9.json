@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"leftBegin":16,
+			"leftEnd":15,
+			"rightPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"rightBegin":16,
+			"rightEnd":16
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"test/java/fr/jayasoft/ivy/resolver/MockResolver.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

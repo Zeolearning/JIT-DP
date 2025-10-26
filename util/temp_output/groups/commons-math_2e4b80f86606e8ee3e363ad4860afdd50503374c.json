@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/DormandPrince54FieldStepInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/DormandPrince54FieldIntegratorTest.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	]
+]

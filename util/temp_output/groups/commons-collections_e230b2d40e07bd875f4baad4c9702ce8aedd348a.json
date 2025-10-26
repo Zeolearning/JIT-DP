@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bidimap/DualLinkedHashBidiMap.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/collections/bidimap/DualLinkedHashBidiMap.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/queue/TransformedQueueTest.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/test/java/org/apache/commons/collections/queue/TransformedQueueTest.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

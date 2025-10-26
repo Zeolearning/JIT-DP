@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.java",
+			"leftBegin":102,
+			"leftEnd":103,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.java",
+			"rightBegin":103,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/FTPTimestampParserImpl.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

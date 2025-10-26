@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/ListUnivariateImplTest.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/ListUnivariateImplTest.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/ListUnivariateImplTest.java",
+			"leftBegin":143,
+			"leftEnd":151,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/ListUnivariateImplTest.java",
+			"rightBegin":143,
+			"rightEnd":143
+		}
+	]
+]

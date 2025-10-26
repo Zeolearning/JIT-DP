@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/CallMethodBuilder.java",
+			"rightBegin":98,
+			"rightEnd":101
+		}
+	]
+]

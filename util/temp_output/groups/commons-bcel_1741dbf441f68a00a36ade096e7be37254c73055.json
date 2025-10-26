@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/CodeHTML.java",
+			"leftBegin":87,
+			"leftEnd":88,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/CodeHTML.java",
+			"rightBegin":92,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/CodeHTML.java",
+			"leftBegin":82,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/CodeHTML.java",
+			"rightBegin":82,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"leftBegin":190,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Utility.java",
+			"rightBegin":190,
+			"rightEnd":200
+		}
+	]
+]

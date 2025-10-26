@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/InstructionFactory.java",
+			"leftBegin":528,
+			"leftEnd":527,
+			"rightPath":"src/java/org/apache/bcel/generic/InstructionFactory.java",
+			"rightBegin":528,
+			"rightEnd":534
+		}
+	]
+]

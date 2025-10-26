@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ParseXmlInZipTestCase.java",
+			"leftBegin":130,
+			"leftEnd":130,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ParseXmlInZipTestCase.java",
+			"rightBegin":130,
+			"rightEnd":130
+		},
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ParseXmlInZipTestCase.java",
+			"leftBegin":136,
+			"leftEnd":136,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ParseXmlInZipTestCase.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	]
+]

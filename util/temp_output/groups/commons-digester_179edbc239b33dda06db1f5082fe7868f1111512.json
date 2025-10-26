@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallParamBuilderImpl.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/CallParamBuilderImpl.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

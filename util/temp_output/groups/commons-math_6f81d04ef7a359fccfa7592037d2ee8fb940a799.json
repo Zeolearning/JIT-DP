@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"rightBegin":33,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Minus.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

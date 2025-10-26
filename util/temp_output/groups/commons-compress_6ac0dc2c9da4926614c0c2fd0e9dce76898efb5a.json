@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArTestCase.java",
+			"leftBegin":152,
+			"leftEnd":152,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArTestCase.java",
+			"rightBegin":152,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArTestCase.java",
+			"leftBegin":176,
+			"leftEnd":176,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArTestCase.java",
+			"rightBegin":178,
+			"rightEnd":178
+		}
+	]
+]

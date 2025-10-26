@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/complex/ComplexTest.java",
+			"leftBegin":693,
+			"leftEnd":692,
+			"rightPath":"src/test/org/apache/commons/math/complex/ComplexTest.java",
+			"rightBegin":693,
+			"rightEnd":698
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":258,
+			"leftEnd":261,
+			"rightPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":258,
+			"rightEnd":258
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/tuple/ImmutablePair.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/lang3/tuple/ImmutablePair.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

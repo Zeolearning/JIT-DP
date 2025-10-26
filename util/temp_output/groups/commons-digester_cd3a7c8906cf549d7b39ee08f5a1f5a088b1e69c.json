@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/CallParam.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/CallParam.java",
+			"rightBegin":59,
+			"rightEnd":79
+		}
+	]
+]

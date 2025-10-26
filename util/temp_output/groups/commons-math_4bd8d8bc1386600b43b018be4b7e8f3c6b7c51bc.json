@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"leftBegin":369,
+			"leftEnd":370,
+			"rightPath":"src/test/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"rightBegin":370,
+			"rightEnd":370
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"leftBegin":177,
+			"leftEnd":176,
+			"rightPath":"src/test/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+			"rightBegin":177,
+			"rightEnd":177
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+			"leftBegin":795,
+			"leftEnd":796,
+			"rightPath":"src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+			"rightBegin":795,
+			"rightEnd":796
+		}
+	]
+]

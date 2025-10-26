@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationMonitor.java",
+			"leftBegin":150,
+			"leftEnd":149,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationMonitor.java",
+			"rightBegin":150,
+			"rightEnd":162
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationMonitor.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/commons/io/monitor/FileAlterationMonitor.java",
+			"rightBegin":168,
+			"rightEnd":172
+		}
+	]
+]

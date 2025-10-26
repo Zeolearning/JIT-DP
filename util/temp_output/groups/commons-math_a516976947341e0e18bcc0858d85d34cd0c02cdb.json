@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/fitting/leastsquares/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":310,
+			"leftEnd":310,
+			"rightPath":"src/test/java/org/apache/commons/math3/fitting/leastsquares/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":310,
+			"rightEnd":310
+		}
+	]
+]

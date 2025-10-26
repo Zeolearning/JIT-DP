@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"rightBegin":1,
+			"rightEnd":181
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/NullOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/ByteArrayOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":279
+		}
+	]
+]

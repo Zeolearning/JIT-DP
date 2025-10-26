@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/ComplexField.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/commons/math/complex/ComplexField.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/complex/ComplexFieldTest.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/ComplexField.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/math/complex/ComplexField.java",
+			"rightBegin":68,
+			"rightEnd":75
+		}
+	]
+]

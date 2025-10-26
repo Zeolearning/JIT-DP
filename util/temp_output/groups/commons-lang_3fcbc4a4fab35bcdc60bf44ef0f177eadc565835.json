@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"leftBegin":1027,
+			"leftEnd":1027,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"rightBegin":1029,
+			"rightEnd":1032
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrBuilderAppendInsertTest.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	]
+]

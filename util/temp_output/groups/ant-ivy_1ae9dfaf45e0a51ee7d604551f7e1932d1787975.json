@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyResolve.java",
+			"leftBegin":369,
+			"leftEnd":370,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyResolve.java",
+			"rightBegin":371,
+			"rightEnd":374
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyResolve.java",
+			"leftBegin":360,
+			"leftEnd":367,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyResolve.java",
+			"rightBegin":360,
+			"rightEnd":369
+		}
+	]
+]

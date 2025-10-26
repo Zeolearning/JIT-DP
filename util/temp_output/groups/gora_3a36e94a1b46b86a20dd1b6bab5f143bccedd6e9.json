@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-dynamodb/src/main/java/org/apache/gora/dynamodb/store/DynamoDBStore.java",
+			"leftBegin":214,
+			"leftEnd":214,
+			"rightPath":"gora-dynamodb/src/main/java/org/apache/gora/dynamodb/store/DynamoDBStore.java",
+			"rightBegin":214,
+			"rightEnd":214
+		}
+	]
+]

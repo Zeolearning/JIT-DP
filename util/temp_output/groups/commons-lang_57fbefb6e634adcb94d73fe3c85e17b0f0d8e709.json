@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

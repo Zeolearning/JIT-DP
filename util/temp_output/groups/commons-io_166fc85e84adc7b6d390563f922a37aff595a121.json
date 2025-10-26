@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/NullWriterTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/NullWriter.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	]
+]

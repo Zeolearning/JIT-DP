@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/IINC.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

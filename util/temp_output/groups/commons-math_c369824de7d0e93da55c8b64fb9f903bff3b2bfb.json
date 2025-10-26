@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"leftBegin":283,
+			"leftEnd":282,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"rightBegin":286,
+			"rightEnd":288
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"leftBegin":278,
+			"leftEnd":277,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"rightBegin":278,
+			"rightEnd":280
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"leftBegin":274,
+			"leftEnd":275,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java",
+			"rightBegin":274,
+			"rightEnd":275
+		}
+	]
+]

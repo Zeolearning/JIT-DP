@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/PatternSubtreeConfigurationWrapper.java",
+			"leftBegin":388,
+			"leftEnd":388,
+			"rightPath":"src/main/java/org/apache/commons/configuration/PatternSubtreeConfigurationWrapper.java",
+			"rightBegin":387,
+			"rightEnd":387
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/PatternSubtreeConfigurationWrapper.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/configuration/PatternSubtreeConfigurationWrapper.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	]
+]

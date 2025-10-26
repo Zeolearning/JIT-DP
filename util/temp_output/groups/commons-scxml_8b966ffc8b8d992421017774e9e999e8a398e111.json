@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/StopWatchDisplay.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/StopWatchDisplay.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	]
+]

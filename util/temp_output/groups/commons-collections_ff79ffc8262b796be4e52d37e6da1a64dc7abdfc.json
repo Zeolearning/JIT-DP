@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/trie/UnmodifiableTrie.java",
+			"leftBegin":12,
+			"leftEnd":11,
+			"rightPath":"src/main/java/org/apache/commons/collections/trie/UnmodifiableTrie.java",
+			"rightBegin":12,
+			"rightEnd":12
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/trie/UnmodifiableTrie.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/collections/trie/UnmodifiableTrie.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

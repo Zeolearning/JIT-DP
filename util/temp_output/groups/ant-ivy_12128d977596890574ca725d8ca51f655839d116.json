@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"rightBegin":117,
+			"rightEnd":119
+		}
+	]
+]

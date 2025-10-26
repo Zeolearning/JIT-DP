@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ConflictManager.java",
+			"leftBegin":14,
+			"leftEnd":15,
+			"rightPath":"src/java/fr/jayasoft/ivy/ConflictManager.java",
+			"rightBegin":14,
+			"rightEnd":14
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/conflict/LatestConflictManager.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/fr/jayasoft/ivy/conflict/LatestConflictManager.java",
+			"rightBegin":59,
+			"rightEnd":61
+		}
+	]
+]

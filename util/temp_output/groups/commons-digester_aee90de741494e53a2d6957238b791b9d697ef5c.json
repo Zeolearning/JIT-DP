@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"leftBegin":462,
+			"leftEnd":461,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":462,
+			"rightEnd":471
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	]
+]

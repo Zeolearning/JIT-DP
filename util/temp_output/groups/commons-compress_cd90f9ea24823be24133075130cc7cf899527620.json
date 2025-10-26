@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":139,
+			"rightEnd":139
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":137,
+			"rightEnd":137
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":144,
+			"leftEnd":144,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":145,
+			"rightEnd":145
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

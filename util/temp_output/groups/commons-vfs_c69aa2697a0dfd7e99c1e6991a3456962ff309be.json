@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileContentInfoFactory.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileContentInfoFactory.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileContentInfoFactory.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileContentInfoFactory.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

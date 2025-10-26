@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"leftBegin":372,
+			"leftEnd":371,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"rightBegin":378,
+			"rightEnd":380
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"leftBegin":335,
+			"leftEnd":334,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"rightBegin":338,
+			"rightEnd":340
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"leftBegin":214,
+			"leftEnd":213,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarBuffer.java",
+			"rightBegin":214,
+			"rightEnd":216
+		}
+	]
+]

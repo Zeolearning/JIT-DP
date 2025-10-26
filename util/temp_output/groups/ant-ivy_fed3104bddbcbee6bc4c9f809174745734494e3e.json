@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyBuildList.java",
+			"leftBegin":222,
+			"leftEnd":227,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyBuildList.java",
+			"rightBegin":222,
+			"rightEnd":227
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyBuildList.java",
+			"leftBegin":256,
+			"leftEnd":256,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyBuildList.java",
+			"rightBegin":256,
+			"rightEnd":257
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/ReflectionToStringBuilderMutateInspectConcurrencyTest.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	]
+]

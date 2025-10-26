@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/MoveTask.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/DeleteTask.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/CopyTask.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"rightBegin":1,
+			"rightEnd":254
+		}
+	]
+]

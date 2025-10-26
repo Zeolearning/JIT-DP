@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":70,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileObject.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	]
+]

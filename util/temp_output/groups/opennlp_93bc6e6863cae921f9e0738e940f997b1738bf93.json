@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java",
+			"leftBegin":141,
+			"leftEnd":152,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java",
+			"rightBegin":141,
+			"rightEnd":152
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java",
+			"leftBegin":176,
+			"leftEnd":178,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	]
+]

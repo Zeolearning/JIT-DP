@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ArrayUtilsTest.java",
+			"leftBegin":2423,
+			"leftEnd":2422,
+			"rightPath":"src/test/org/apache/commons/lang/ArrayUtilsTest.java",
+			"rightBegin":2423,
+			"rightEnd":2440
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ArrayUtils.java",
+			"leftBegin":4416,
+			"leftEnd":4416,
+			"rightPath":"src/java/org/apache/commons/lang/ArrayUtils.java",
+			"rightBegin":4416,
+			"rightEnd":4438
+		}
+	]
+]

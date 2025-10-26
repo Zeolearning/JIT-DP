@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/engine/memory/util/MemoryElementDescriptor.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/engine/memory/util/DoubleLinkedListNode.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/engine/memory/util/DoubleLinkedList.java",
+			"rightBegin":1,
+			"rightEnd":247
+		}
+	]
+]

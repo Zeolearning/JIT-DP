@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/builder/CompareToBuilderTest.java",
+			"rightBegin":1,
+			"rightEnd":957
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

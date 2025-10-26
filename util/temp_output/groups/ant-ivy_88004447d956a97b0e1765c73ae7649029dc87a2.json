@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/SshResolver.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/SshResolver.java",
+			"rightBegin":30,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/SshResolver.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/SshResolver.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

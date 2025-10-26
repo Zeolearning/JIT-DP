@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/multivariate/BivariateRegression.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/java/org/apache/commons/math/stat/multivariate/BivariateRegression.java",
+			"rightBegin":86,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/multivariate/BivariateRegression.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/commons/math/stat/multivariate/BivariateRegression.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/CacheFileDAOTest.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/CacheFileDAOTest.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/FileContentTypeTest.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/FileContentTypeTest.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

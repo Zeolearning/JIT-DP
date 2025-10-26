@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"rightBegin":86,
+			"rightEnd":86
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/UnboundedFifoBuffer.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

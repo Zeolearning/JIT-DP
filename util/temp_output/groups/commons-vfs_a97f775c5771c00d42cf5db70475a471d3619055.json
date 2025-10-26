@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/LayeredFileNameParser.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/LayeredFileNameParser.java",
+			"rightBegin":76,
+			"rightEnd":82
+		}
+	]
+]

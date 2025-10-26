@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"leftBegin":297,
+			"leftEnd":297,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"rightBegin":297,
+			"rightEnd":297
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"leftBegin":280,
+			"leftEnd":280,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"rightBegin":280,
+			"rightEnd":280
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"leftBegin":316,
+			"leftEnd":316,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"rightBegin":316,
+			"rightEnd":316
+		}
+	]
+]

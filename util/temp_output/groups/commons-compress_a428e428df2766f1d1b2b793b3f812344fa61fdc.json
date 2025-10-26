@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"leftBegin":511,
+			"leftEnd":511,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"rightBegin":513,
+			"rightEnd":513
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"rightBegin":91,
+			"rightEnd":92
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"leftBegin":519,
+			"leftEnd":519,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java",
+			"rightBegin":521,
+			"rightEnd":521
+		}
+	]
+]

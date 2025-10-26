@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspService.java",
+			"leftBegin":676,
+			"leftEnd":683,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspService.java",
+			"rightBegin":684,
+			"rightEnd":684
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspService.java",
+			"leftBegin":670,
+			"leftEnd":669,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspService.java",
+			"rightBegin":670,
+			"rightEnd":677
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderModel.java",
+			"leftBegin":256,
+			"leftEnd":257,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderModel.java",
+			"rightBegin":256,
+			"rightEnd":257
+		}
+	]
+]

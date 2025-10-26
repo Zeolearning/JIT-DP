@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/comm/netty/NettyWorkerClient.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/comm/netty/NettyWorkerClient.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	]
+]

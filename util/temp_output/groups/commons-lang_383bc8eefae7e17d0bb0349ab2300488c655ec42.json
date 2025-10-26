@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"leftBegin":146,
+			"leftEnd":148,
+			"rightPath":"src/main/java/org/apache/commons/lang3/AnnotationUtils.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"leftBegin":210,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"rightBegin":208,
+			"rightEnd":208
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"leftBegin":201,
+			"leftEnd":203,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"rightBegin":201,
+			"rightEnd":201
+		}
+	]
+]

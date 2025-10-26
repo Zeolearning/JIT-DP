@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"leftBegin":136,
+			"leftEnd":135,
+			"rightPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"rightBegin":136,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"leftBegin":728,
+			"leftEnd":727,
+			"rightPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"rightBegin":739,
+			"rightEnd":739
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/lang/SystemUtils.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/FactoryCreate.java",
+			"rightBegin":97,
+			"rightEnd":116
+		}
+	]
+]

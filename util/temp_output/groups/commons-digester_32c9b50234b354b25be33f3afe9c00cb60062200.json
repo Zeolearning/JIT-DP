@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RuleSet.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RuleSet.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RuleSet.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RuleSet.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

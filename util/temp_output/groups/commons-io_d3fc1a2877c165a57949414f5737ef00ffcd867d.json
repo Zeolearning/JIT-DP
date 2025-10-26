@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"leftBegin":197,
+			"leftEnd":198,
+			"rightPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"rightBegin":197,
+			"rightEnd":198
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOCase.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/main/java/org/apache/commons/io/IOCase.java",
+			"rightBegin":92,
+			"rightEnd":92
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOCase.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"src/main/java/org/apache/commons/io/IOCase.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSBindingsTest.java",
+			"leftBegin":511,
+			"leftEnd":513,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/javascript/JSBindingsTest.java",
+			"rightBegin":511,
+			"rightEnd":514
+		}
+	]
+]

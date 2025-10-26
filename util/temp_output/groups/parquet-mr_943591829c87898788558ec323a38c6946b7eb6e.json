@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/src/main/java/parquet/hive/DeprecatedParquetInputFormat.java",
+			"leftBegin":354,
+			"leftEnd":354,
+			"rightPath":"parquet-hive/src/main/java/parquet/hive/DeprecatedParquetInputFormat.java",
+			"rightBegin":355,
+			"rightEnd":354
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hive/src/main/java/parquet/hive/DeprecatedParquetInputFormat.java",
+			"leftBegin":353,
+			"leftEnd":352,
+			"rightPath":"parquet-hive/src/main/java/parquet/hive/DeprecatedParquetInputFormat.java",
+			"rightBegin":353,
+			"rightEnd":353
+		}
+	]
+]

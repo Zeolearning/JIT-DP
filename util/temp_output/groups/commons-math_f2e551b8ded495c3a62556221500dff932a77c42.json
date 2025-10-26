@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/fitting/GaussianFunction.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/fitting/GaussianFunction.java",
+			"rightBegin":46,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/fitting/ParametricGaussianFunctionTest.java",
+			"leftBegin":1,
+			"leftEnd":158,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/fitting/ParametricGaussianFunction.java",
+			"leftBegin":1,
+			"leftEnd":143,
+			"rightPath":null
+		}
+	]
+]

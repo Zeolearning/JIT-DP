@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/io/ExpectationValidatingRecordConsumer.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"parquet-column/src/test/java/parquet/io/ExpectationValidatingRecordConsumer.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	]
+]

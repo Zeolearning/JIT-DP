@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/PolynomialSplineFunctionTest.java",
+			"rightBegin":1,
+			"rightEnd":150
+		}
+	]
+]

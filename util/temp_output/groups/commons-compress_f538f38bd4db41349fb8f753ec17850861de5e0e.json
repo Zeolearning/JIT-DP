@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"rightBegin":139,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"leftBegin":165,
+			"leftEnd":166,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java",
+			"rightBegin":173,
+			"rightEnd":178
+		}
+	]
+]

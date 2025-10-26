@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/MidPointIntegrator.java",
+			"leftBegin":143,
+			"leftEnd":143,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/MidPointIntegrator.java",
+			"rightBegin":143,
+			"rightEnd":144
+		}
+	]
+]

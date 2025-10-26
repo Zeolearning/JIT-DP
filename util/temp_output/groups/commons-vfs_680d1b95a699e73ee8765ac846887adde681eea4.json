@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/InvertIncludeFileSelectorTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/InvertIncludeFileSelector.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/PatternFileSelectorTest.java",
+			"leftBegin":142,
+			"leftEnd":141,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/PatternFileSelectorTest.java",
+			"rightBegin":142,
+			"rightEnd":145
+		}
+	]
+]

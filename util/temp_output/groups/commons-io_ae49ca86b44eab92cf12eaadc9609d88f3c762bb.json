@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/AndFileFilter.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/AndFileFilter.java",
+			"rightBegin":58,
+			"rightEnd":60
+		}
+	]
+]

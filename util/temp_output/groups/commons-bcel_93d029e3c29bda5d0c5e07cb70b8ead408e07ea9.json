@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":715,
+			"leftEnd":715,
+			"rightPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":721,
+			"rightEnd":720
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":715,
+			"leftEnd":714,
+			"rightPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":716,
+			"rightEnd":720
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":705,
+			"leftEnd":705,
+			"rightPath":"src/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":705,
+			"rightEnd":706
+		}
+	]
+]

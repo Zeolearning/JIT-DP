@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanPredicateTestCase.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/BeanPredicate.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	]
+]

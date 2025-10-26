@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"leftBegin":702,
+			"leftEnd":702,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"rightBegin":699,
+			"rightEnd":699
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"leftBegin":673,
+			"leftEnd":673,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"rightBegin":670,
+			"rightEnd":670
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"leftBegin":663,
+			"leftEnd":667,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PercentileTest.java",
+			"rightBegin":663,
+			"rightEnd":664
+		}
+	]
+]

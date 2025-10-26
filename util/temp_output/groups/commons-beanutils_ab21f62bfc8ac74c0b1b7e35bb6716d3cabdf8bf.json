@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/converters/FloatLocaleConverterTestCase.java",
+			"leftBegin":261,
+			"leftEnd":260,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/converters/FloatLocaleConverterTestCase.java",
+			"rightBegin":263,
+			"rightEnd":305
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/converters/FloatLocaleConverterTestCase.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/converters/FloatLocaleConverterTestCase.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/FloatLocaleConverter.java",
+			"leftBegin":217,
+			"leftEnd":218,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/FloatLocaleConverter.java",
+			"rightBegin":217,
+			"rightEnd":220
+		}
+	]
+]

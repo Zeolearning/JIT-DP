@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"leftBegin":416,
+			"leftEnd":416,
+			"rightPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"rightBegin":416,
+			"rightEnd":416
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"rightBegin":249,
+			"rightEnd":249
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"leftBegin":181,
+			"leftEnd":181,
+			"rightPath":"src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java",
+			"rightBegin":181,
+			"rightEnd":181
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"leftBegin":1278,
+			"leftEnd":1277,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"rightBegin":1279,
+			"rightEnd":1281
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"leftBegin":1274,
+			"leftEnd":1273,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"rightBegin":1274,
+			"rightEnd":1274
+		}
+	]
+]

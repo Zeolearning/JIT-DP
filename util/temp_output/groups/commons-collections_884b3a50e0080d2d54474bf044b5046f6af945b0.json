@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"rightBegin":182,
+			"rightEnd":203
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"rightBegin":57,
+			"rightEnd":58
+		}
+	]
+]

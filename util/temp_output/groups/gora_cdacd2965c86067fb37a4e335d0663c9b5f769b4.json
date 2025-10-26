@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordWriter.java",
+			"rightBegin":1,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraOutputFormat.java",
+			"leftBegin":93,
+			"leftEnd":105,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraOutputFormat.java",
+			"rightBegin":93,
+			"rightEnd":93
+		}
+	]
+]

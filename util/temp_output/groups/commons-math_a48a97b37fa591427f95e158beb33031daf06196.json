@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/LUDecomposition.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/LUDecompositionImpl.java",
+			"rightBegin":1,
+			"rightEnd":394
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/linear/LUDecompositionImplTest.java",
+			"rightBegin":1,
+			"rightEnd":422
+		}
+	]
+]

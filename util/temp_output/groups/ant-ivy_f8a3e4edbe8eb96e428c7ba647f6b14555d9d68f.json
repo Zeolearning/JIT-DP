@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":625,
+			"leftEnd":624,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":625,
+			"rightEnd":628
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/install/InstallTest.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"test/java/org/apache/ivy/core/install/InstallTest.java",
+			"rightBegin":44,
+			"rightEnd":54
+		}
+	]
+]

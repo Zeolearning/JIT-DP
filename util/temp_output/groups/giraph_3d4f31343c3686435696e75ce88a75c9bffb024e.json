@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/examples/MaxComputationTest.java",
+			"rightBegin":1,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-examples/src/main/java/org/apache/giraph/examples/MaxComputation.java",
+			"rightBegin":1,
+			"rightEnd":47
+		}
+	]
+]

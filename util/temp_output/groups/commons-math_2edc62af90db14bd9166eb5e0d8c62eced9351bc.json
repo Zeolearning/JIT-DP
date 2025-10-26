@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/BaseRandomGeneratorTest.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/BaseRandomGeneratorTest.java",
+			"rightBegin":66,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"leftBegin":212,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"rightBegin":212,
+			"rightEnd":215
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"leftBegin":203,
+			"leftEnd":203,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"rightBegin":203,
+			"rightEnd":203
+		}
+	]
+]

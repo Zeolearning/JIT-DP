@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PoolablePreparedStatementStub.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PoolablePreparedStatementStub.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PoolablePreparedStatementStub.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PoolablePreparedStatementStub.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	]
+]

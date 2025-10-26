@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":1,
+			"rightEnd":462
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/NodeCreateRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":470
+		}
+	]
+]

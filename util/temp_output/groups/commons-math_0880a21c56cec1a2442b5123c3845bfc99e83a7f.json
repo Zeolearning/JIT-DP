@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/distribution/HypergeometricDistributionTest.java",
+			"leftBegin":315,
+			"leftEnd":314,
+			"rightPath":"src/test/java/org/apache/commons/math4/distribution/HypergeometricDistributionTest.java",
+			"rightBegin":315,
+			"rightEnd":340
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/SaddlePointExpansion.java",
+			"leftBegin":183,
+			"leftEnd":182,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/SaddlePointExpansion.java",
+			"rightBegin":186,
+			"rightEnd":188
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/SaddlePointExpansion.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/SaddlePointExpansion.java",
+			"rightBegin":162,
+			"rightEnd":164
+		}
+	]
+]

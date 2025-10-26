@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"leftBegin":164,
+			"leftEnd":163,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomGeneratorAbstractTest.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/event/EventUtils.java",
+			"leftBegin":114,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/lang3/event/EventUtils.java",
+			"rightBegin":114,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/event/EventUtils.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/lang3/event/EventUtils.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

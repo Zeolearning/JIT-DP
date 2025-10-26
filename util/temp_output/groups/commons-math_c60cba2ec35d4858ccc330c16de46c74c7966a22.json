@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/integration/LegendreGaussIntegrator.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/integration/LegendreGaussIntegrator.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/integration/LegendreGaussIntegrator.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/integration/LegendreGaussIntegrator.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	]
+]

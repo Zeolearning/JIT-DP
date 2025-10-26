@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/NOPClosure.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/collections/functors/NOPClosure.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/NOPClosure.java",
+			"leftBegin":71,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/collections/functors/NOPClosure.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

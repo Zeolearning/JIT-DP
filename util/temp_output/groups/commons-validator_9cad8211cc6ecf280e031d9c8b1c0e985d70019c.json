@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/ISSNCheckDigitTest.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/ISSNValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":153
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/ISSNCheckDigit.java",
+			"rightBegin":1,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/ISSNValidator.java",
+			"rightBegin":1,
+			"rightEnd":144
+		}
+	]
+]

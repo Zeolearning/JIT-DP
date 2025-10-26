@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/counters/GiraphTimers.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/counters/GiraphTimers.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	]
+]

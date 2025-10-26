@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"leftBegin":238,
+			"leftEnd":237,
+			"rightPath":"src/main/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"rightBegin":238,
+			"rightEnd":250
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/output/ThresholdingOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	]
+]

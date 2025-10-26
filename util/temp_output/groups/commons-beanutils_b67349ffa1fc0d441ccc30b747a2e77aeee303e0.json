@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":2000,
+			"leftEnd":2000,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":2018,
+			"rightEnd":2023
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":1996,
+			"leftEnd":1997,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":1996,
+			"rightEnd":2015
+		}
+	]
+]

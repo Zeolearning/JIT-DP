@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/bag/UnmodifiableBag.java",
+			"leftBegin":106,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/collections4/bag/UnmodifiableBag.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/correlation/SpearmansRankCorrelationTest.java",
+			"rightBegin":1,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/SpearmansCorrelation.java",
+			"rightBegin":1,
+			"rightEnd":170
+		}
+	]
+]

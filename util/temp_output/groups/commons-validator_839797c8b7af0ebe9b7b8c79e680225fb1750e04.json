@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/DateTest.java",
+			"leftBegin":1,
+			"leftEnd":135,
+			"rightPath":"src/test/java/org/apache/commons/validator/DateTest.java",
+			"rightBegin":1,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/util/ValidatorUtils.java",
+			"leftBegin":1,
+			"leftEnd":196,
+			"rightPath":"src/main/java/org/apache/commons/validator/util/ValidatorUtils.java",
+			"rightBegin":1,
+			"rightEnd":196
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/EntityImportTest.java",
+			"leftBegin":1,
+			"leftEnd":71,
+			"rightPath":"src/test/java/org/apache/commons/validator/EntityImportTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	]
+]

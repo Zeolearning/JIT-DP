@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeHandler.java",
+			"leftBegin":72,
+			"leftEnd":73,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeHandler.java",
+			"rightBegin":72,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeHandler.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeHandler.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

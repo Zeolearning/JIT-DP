@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/SgmlParser.java",
+			"rightBegin":1,
+			"rightEnd":181
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/RawCorefSample.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/MucCorefSampleStream.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/MucCorefContentHandler.java",
+			"rightBegin":1,
+			"rightEnd":189
+		}
+	]
+]

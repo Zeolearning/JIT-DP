@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"leftBegin":176,
+			"leftEnd":176,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"rightBegin":58,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"leftBegin":162,
+			"leftEnd":162,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"rightBegin":162,
+			"rightEnd":162
+		}
+	]
+]

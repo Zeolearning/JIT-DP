@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/FromBinderRuleSet.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/FromBinderRuleSet.java",
+			"rightBegin":107,
+			"rightEnd":115
+		}
+	]
+]

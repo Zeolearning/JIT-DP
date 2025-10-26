@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedDataSourceInTx.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedDataSourceInTx.java",
+			"rightBegin":73,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedDataSource.java",
+			"leftBegin":245,
+			"leftEnd":244,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedDataSource.java",
+			"rightBegin":245,
+			"rightEnd":260
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"leftBegin":234,
+			"leftEnd":236,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingConnection.java",
+			"rightBegin":234,
+			"rightEnd":240
+		}
+	]
+]

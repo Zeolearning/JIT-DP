@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"rightBegin":27,
+			"rightEnd":27
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"leftBegin":176,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	]
+]

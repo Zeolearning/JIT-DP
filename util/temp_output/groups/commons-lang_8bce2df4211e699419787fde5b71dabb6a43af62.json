@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"leftBegin":131,
+			"leftEnd":130,
+			"rightPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"rightBegin":129,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"leftBegin":126,
+			"leftEnd":129,
+			"rightPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/lang/exception/ExceptionUtilsTestCase.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

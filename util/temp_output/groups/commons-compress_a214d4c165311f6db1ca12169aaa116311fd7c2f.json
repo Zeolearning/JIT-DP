@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/LZMADecoder.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/LZMADecoder.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

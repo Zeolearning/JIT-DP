@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/res/ResourceFileProvider.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/res/ResourceFileProvider.java",
+			"rightBegin":67,
+			"rightEnd":69
+		}
+	]
+]

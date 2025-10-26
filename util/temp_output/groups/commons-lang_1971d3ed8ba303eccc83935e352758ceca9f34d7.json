@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/ToStringBuilderTest.java",
+			"leftBegin":84,
+			"leftEnd":90,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/ToStringBuilderTest.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/ToStringBuilderTest.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/ToStringBuilderTest.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

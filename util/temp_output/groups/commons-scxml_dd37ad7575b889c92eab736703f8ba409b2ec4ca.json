@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/TriggerEventTest.java",
+			"leftBegin":71,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/TriggerEventTest.java",
+			"rightBegin":71,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/TriggerEventTest.java",
+			"leftBegin":78,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/TriggerEventTest.java",
+			"rightBegin":78,
+			"rightEnd":82
+		}
+	]
+]

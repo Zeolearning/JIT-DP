@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/mutable/MutableBoolean.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/java/org/apache/commons/lang/mutable/MutableBoolean.java",
+			"rightBegin":124,
+			"rightEnd":126
+		}
+	]
+]

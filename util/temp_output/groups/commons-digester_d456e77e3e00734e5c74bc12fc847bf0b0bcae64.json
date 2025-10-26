@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/XmlLoadException.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/XmlLoadException.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/CircularIncludeException.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/CircularIncludeException.java",
+			"rightBegin":32,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/DigesterLoadingException.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/DigesterLoadingException.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

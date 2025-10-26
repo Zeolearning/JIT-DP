@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ClassUtils.java",
+			"leftBegin":214,
+			"leftEnd":214,
+			"rightPath":"src/java/org/apache/commons/lang/ClassUtils.java",
+			"rightBegin":214,
+			"rightEnd":214
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ClassUtils.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/java/org/apache/commons/lang/ClassUtils.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

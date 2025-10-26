@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/IOUtils.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/io/IOUtils.java",
+			"rightBegin":93,
+			"rightEnd":97
+		}
+	]
+]

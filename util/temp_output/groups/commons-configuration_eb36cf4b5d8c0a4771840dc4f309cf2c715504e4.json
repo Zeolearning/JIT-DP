@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/base/impl/ConfigurationNodeBuilderVisitor.java",
+			"rightBegin":1,
+			"rightEnd":138
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/base/impl/XMLConfigurationSource.java",
+			"rightBegin":1,
+			"rightEnd":1177
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/base/impl/TestXMLConfigurationSource.java",
+			"rightBegin":1,
+			"rightEnd":985
+		}
+	]
+]

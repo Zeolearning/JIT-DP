@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/EntitiesPerformanceTest.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/test/org/apache/commons/lang/EntitiesPerformanceTest.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/EntitiesPerformanceTest.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/test/org/apache/commons/lang/EntitiesPerformanceTest.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	]
+]

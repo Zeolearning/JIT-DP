@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/enums/EnumEqualsTest.java",
+			"leftBegin":90,
+			"leftEnd":89,
+			"rightPath":"src/test/org/apache/commons/lang/enums/EnumEqualsTest.java",
+			"rightBegin":90,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/enums/Enum.java",
+			"leftBegin":587,
+			"leftEnd":586,
+			"rightPath":"src/java/org/apache/commons/lang/enums/Enum.java",
+			"rightBegin":587,
+			"rightEnd":588
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/enums/Enum.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/lang/enums/Enum.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

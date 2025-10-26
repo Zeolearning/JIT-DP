@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/UniformCrossoverTest.java",
+			"rightBegin":1,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/UniformCrossover.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

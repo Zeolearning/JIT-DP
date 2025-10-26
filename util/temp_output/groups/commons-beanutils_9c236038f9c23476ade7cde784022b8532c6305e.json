@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ResultSetIterator.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ResultSetIterator.java",
+			"rightBegin":304,
+			"rightEnd":304
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ResultSetIterator.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ResultSetIterator.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

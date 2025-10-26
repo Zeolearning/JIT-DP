@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/StatUtils.java",
+			"leftBegin":285,
+			"leftEnd":307,
+			"rightPath":"src/java/org/apache/commons/math/stat/StatUtils.java",
+			"rightBegin":285,
+			"rightEnd":285
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"leftBegin":65,
+			"leftEnd":74,
+			"rightPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"rightBegin":65,
+			"rightEnd":64
+		}
+	]
+]

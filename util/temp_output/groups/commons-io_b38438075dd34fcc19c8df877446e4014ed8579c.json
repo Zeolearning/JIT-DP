@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"leftBegin":264,
+			"leftEnd":263,
+			"rightPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"rightBegin":262,
+			"rightEnd":264
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"leftBegin":253,
+			"leftEnd":254,
+			"rightPath":"src/test/java/org/apache/commons/io/input/TailerTest.java",
+			"rightBegin":253,
+			"rightEnd":252
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/DigesterAnnotationsProcessor.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/DigesterAnnotationsProcessor.java",
+			"rightBegin":55,
+			"rightEnd":55
+		},
+		{
+			"leftPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/DigesterAnnotationsProcessor.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/DigesterAnnotationsProcessor.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/lateral/javagroups/LateralJGSender.java",
+			"leftBegin":182,
+			"leftEnd":183,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/lateral/javagroups/LateralJGSender.java",
+			"rightBegin":183,
+			"rightEnd":186
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/lateral/javagroups/LateralJGSender.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/lateral/javagroups/LateralJGSender.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

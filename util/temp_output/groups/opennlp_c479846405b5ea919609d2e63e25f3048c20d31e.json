@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"leftBegin":104,
+			"leftEnd":111,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameFinderME.java",
+			"rightBegin":104,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DefaultNameContextGenerator.java",
+			"leftBegin":43,
+			"leftEnd":49,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/DefaultNameContextGenerator.java",
+			"rightBegin":43,
+			"rightEnd":47
+		}
+	]
+]

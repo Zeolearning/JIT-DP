@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/util/TestIOUtils.java",
+			"leftBegin":141,
+			"leftEnd":147,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/util/TestIOUtils.java",
+			"rightBegin":141,
+			"rightEnd":145
+		}
+	]
+]

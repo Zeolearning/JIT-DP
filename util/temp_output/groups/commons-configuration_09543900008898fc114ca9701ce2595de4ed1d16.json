@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"leftBegin":696,
+			"leftEnd":697,
+			"rightPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"rightBegin":696,
+			"rightEnd":697
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"leftBegin":1273,
+			"leftEnd":1272,
+			"rightPath":"src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java",
+			"rightBegin":1273,
+			"rightEnd":1273
+		}
+	]
+]

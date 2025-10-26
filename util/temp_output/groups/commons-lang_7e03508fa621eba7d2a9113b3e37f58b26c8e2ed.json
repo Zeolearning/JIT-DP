@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/FieldUtilsTest.java",
+			"leftBegin":148,
+			"leftEnd":147,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/FieldUtilsTest.java",
+			"rightBegin":151,
+			"rightEnd":170
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/FieldUtilsTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/FieldUtilsTest.java",
+			"rightBegin":31,
+			"rightEnd":33
+		}
+	]
+]

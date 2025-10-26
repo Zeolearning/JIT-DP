@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"rightBegin":71,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"leftBegin":715,
+			"leftEnd":719,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"rightBegin":715,
+			"rightEnd":719
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"leftBegin":48,
+			"leftEnd":50,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"rightBegin":48,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"leftBegin":64,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java",
+			"rightBegin":64,
+			"rightEnd":69
+		}
+	]
+]

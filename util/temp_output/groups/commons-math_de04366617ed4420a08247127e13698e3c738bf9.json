@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateVectorOptimizer.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateVectorOptimizer.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateOptimizer.java",
+			"leftBegin":55,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateOptimizer.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateVectorOptimizer.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/BaseMultivariateVectorOptimizer.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	]
+]

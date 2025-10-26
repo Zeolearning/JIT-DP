@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/retrieve/RetrieveTest.java",
+			"leftBegin":243,
+			"leftEnd":243,
+			"rightPath":"test/java/org/apache/ivy/core/retrieve/RetrieveTest.java",
+			"rightBegin":243,
+			"rightEnd":243
+		}
+	]
+]

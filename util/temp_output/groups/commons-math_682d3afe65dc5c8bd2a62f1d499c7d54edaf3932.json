@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":422,
+			"leftEnd":421,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":422,
+			"rightEnd":443
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"leftBegin":275,
+			"leftEnd":274,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"rightBegin":275,
+			"rightEnd":275
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"leftBegin":615,
+			"leftEnd":614,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathUtilsTest.java",
+			"rightBegin":615,
+			"rightEnd":650
+		}
+	]
+]

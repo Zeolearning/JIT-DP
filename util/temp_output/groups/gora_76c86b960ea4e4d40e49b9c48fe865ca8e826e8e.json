@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"leftBegin":588,
+			"leftEnd":588,
+			"rightPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"rightBegin":588,
+			"rightEnd":588
+		}
+	],
+	[
+		{
+			"leftPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"rightBegin":304,
+			"rightEnd":304
+		},
+		{
+			"leftPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"leftBegin":281,
+			"leftEnd":281,
+			"rightPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java",
+			"rightBegin":281,
+			"rightEnd":281
+		}
+	]
+]

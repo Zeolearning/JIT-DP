@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/AntBuildTrigger.java",
+			"leftBegin":98,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/ivy/ant/AntBuildTrigger.java",
+			"rightBegin":98,
+			"rightEnd":102
+		}
+	]
+]

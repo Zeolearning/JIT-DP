@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/MessageDigestAlgorithmTest.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/MessageDigestAlgorithmsTest.java",
+			"rightBegin":40,
+			"rightEnd":40
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/MessageDigestAlgorithmTest.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/MessageDigestAlgorithmsTest.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

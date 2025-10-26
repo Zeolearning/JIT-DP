@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/examples/java/org/apache/gora/examples/spark/SparkWordCount.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"gora-core/src/examples/java/org/apache/gora/examples/spark/SparkWordCount.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

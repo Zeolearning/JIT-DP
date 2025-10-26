@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/DelegatingStatement.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/dbcp2/DelegatingStatement.java",
+			"rightBegin":178,
+			"rightEnd":180
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/datasources/TestSharedPoolDataSource.java",
+			"leftBegin":371,
+			"leftEnd":370,
+			"rightPath":"src/test/org/apache/commons/dbcp/datasources/TestSharedPoolDataSource.java",
+			"rightBegin":371,
+			"rightEnd":373
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/datasources/TestSharedPoolDataSource.java",
+			"leftBegin":369,
+			"leftEnd":369,
+			"rightPath":"src/test/org/apache/commons/dbcp/datasources/TestSharedPoolDataSource.java",
+			"rightBegin":369,
+			"rightEnd":369
+		}
+	]
+]

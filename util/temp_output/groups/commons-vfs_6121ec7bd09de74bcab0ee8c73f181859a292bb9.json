@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileSystem.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileSystem.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileSystem.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileSystem.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileSystem.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/tar/TarFileSystem.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	]
+]

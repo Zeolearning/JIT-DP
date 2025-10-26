@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/mutable/MutableObject.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/lang3/mutable/MutableObject.java",
+			"rightBegin":90,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/mutable/MutableObject.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/lang3/mutable/MutableObject.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

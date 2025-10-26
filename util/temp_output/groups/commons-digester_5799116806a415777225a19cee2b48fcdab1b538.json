@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/BeanPropertySetterRule.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/BeanPropertySetterRule.java",
+			"rightBegin":49,
+			"rightEnd":50
+		}
+	]
+]

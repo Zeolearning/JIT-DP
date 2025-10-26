@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/servlet/ServletContextResolver.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/servlet/ServletContextResolver.java",
+			"rightBegin":46,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/faces/SessionContext.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/faces/SessionContext.java",
+			"rightBegin":63,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/servlet/ServletContextResolver.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/servlet/ServletContextResolver.java",
+			"rightBegin":31,
+			"rightEnd":36
+		}
+	]
+]

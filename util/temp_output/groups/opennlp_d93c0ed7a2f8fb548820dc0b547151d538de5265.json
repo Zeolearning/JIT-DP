@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"leftBegin":25,
+			"leftEnd":26,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"rightBegin":25,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"rightBegin":36,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/coref/sim/NumberEnum.java",
+			"rightBegin":31,
+			"rightEnd":34
+		}
+	]
+]

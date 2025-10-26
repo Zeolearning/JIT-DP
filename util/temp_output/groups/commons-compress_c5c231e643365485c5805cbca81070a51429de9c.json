@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorOutputStream.java",
+			"leftBegin":37,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorOutputStream.java",
+			"rightBegin":37,
+			"rightEnd":50
+		}
+	]
+]

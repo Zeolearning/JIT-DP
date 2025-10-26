@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/example/org/apache/commons/validator/ValidateExample.java",
+			"rightBegin":1,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/example/org/apache/commons/validator/ValidateBean.java",
+			"rightBegin":1,
+			"rightEnd":135
+		}
+	]
+]

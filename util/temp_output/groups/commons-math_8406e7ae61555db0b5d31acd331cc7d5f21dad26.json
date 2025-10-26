@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/experimental/org/apache/commons/math/function/EvaluationException.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/experimental/org/apache/commons/math/function/EvaluationException.java",
+			"rightBegin":56,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/experimental/org/apache/commons/math/function/EvaluationException.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/experimental/org/apache/commons/math/function/EvaluationException.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

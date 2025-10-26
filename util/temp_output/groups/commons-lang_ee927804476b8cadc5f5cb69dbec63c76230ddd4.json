@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/functor/TestFactoryUtils.java",
+			"leftBegin":260,
+			"leftEnd":260,
+			"rightPath":"src/test/org/apache/commons/lang/functor/TestFactoryUtils.java",
+			"rightBegin":260,
+			"rightEnd":260
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/functor/TestFactoryUtils.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/lang/functor/TestFactoryUtils.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

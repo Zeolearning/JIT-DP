@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/GmtTimeZone.java",
+			"leftBegin":102,
+			"leftEnd":103,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/GmtTimeZone.java",
+			"rightBegin":102,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/GmtTimeZone.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/GmtTimeZone.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/Detokenizer.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/Detokenizer.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/RegexNameFinderFactory.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/RegexNameFinderFactory.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/DetokenizationDictionary.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/DetokenizationDictionary.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

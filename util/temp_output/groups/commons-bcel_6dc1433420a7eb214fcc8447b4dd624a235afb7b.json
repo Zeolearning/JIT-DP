@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/GeneratingAnnotatedClassesTestCase.java",
+			"leftBegin":264,
+			"leftEnd":265,
+			"rightPath":"src/test/java/org/apache/bcel/GeneratingAnnotatedClassesTestCase.java",
+			"rightBegin":264,
+			"rightEnd":264
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/GeneratingAnnotatedClassesTestCase.java",
+			"leftBegin":256,
+			"leftEnd":256,
+			"rightPath":"src/test/java/org/apache/bcel/GeneratingAnnotatedClassesTestCase.java",
+			"rightBegin":256,
+			"rightEnd":256
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/Select.java",
+			"leftBegin":198,
+			"leftEnd":200,
+			"rightPath":"src/main/java/org/apache/bcel/generic/Select.java",
+			"rightBegin":198,
+			"rightEnd":200
+		}
+	]
+]

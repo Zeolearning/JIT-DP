@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"leftBegin":551,
+			"leftEnd":552,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"rightBegin":554,
+			"rightEnd":553
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"leftBegin":395,
+			"leftEnd":394,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java",
+			"rightBegin":395,
+			"rightEnd":397
+		}
+	]
+]

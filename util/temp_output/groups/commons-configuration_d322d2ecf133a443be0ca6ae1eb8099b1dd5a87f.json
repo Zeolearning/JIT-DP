@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/event/TestSubsetConfigurationEvents.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"leftBegin":173,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	]
+]

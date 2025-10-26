@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/bsd/RExecClient.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/net/bsd/RExecClient.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/bsd/RCommandClient.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/main/java/org/apache/commons/net/bsd/RCommandClient.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	]
+]

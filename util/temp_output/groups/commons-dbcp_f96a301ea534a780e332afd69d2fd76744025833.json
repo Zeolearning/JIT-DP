@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/LRUMap.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/LRUMap.java",
+			"rightBegin":178,
+			"rightEnd":178
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"rightBegin":38,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/managed/ManagedConnection.java",
+			"leftBegin":155,
+			"leftEnd":154,
+			"rightPath":"src/java/org/apache/commons/dbcp/managed/ManagedConnection.java",
+			"rightBegin":155,
+			"rightEnd":158
+		}
+	]
+]

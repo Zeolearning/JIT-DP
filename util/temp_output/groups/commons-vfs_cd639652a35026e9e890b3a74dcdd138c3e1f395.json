@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/LastModifiedTests.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/LastModifiedTests.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

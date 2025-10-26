@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/CharSequenceTranslator.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/CharSequenceTranslator.java",
+			"rightBegin":107,
+			"rightEnd":117
+		}
+	]
+]

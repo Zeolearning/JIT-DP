@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"leftBegin":322,
+			"leftEnd":321,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"rightBegin":324,
+			"rightEnd":342
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"rightBegin":39,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedConfigurationBuilder.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

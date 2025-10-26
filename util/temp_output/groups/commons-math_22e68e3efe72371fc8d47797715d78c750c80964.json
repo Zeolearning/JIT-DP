@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/correlation/StorelessBivariateCovariance.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/correlation/StorelessCovariance.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/correlation/StorelessCovarianceTest.java",
+			"rightBegin":1,
+			"rightEnd":305
+		}
+	]
+]

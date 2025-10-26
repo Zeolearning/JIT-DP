@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"leftBegin":518,
+			"leftEnd":520,
+			"rightPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"rightBegin":518,
+			"rightEnd":520
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"leftBegin":453,
+			"leftEnd":453,
+			"rightPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"rightBegin":453,
+			"rightEnd":453
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"leftBegin":451,
+			"leftEnd":451,
+			"rightPath":"src/java/org/apache/commons/io/FileSystemUtils.java",
+			"rightBegin":451,
+			"rightEnd":451
+		}
+	]
+]

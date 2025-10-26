@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/tree/TestInMemoryNodeModel.java",
+			"leftBegin":1137,
+			"leftEnd":1136,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/TestInMemoryNodeModel.java",
+			"rightBegin":1137,
+			"rightEnd":1167
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"leftBegin":455,
+			"leftEnd":454,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"rightBegin":469,
+			"rightEnd":485
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"leftBegin":228,
+			"leftEnd":229,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"rightBegin":228,
+			"rightEnd":243
+		}
+	]
+]

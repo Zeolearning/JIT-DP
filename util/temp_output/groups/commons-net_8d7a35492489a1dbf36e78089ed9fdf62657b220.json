@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPListParseEngine.java",
+			"leftBegin":231,
+			"leftEnd":231,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPListParseEngine.java",
+			"rightBegin":228,
+			"rightEnd":228
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPListParseEngine.java",
+			"leftBegin":222,
+			"leftEnd":225,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPListParseEngine.java",
+			"rightBegin":222,
+			"rightEnd":222
+		}
+	]
+]

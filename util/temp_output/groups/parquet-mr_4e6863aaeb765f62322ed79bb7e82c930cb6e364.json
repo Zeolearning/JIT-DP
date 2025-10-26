@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/struct/CompatibilityChecker.java",
+			"rightBegin":1,
+			"rightEnd":7
+		}
+	]
+]

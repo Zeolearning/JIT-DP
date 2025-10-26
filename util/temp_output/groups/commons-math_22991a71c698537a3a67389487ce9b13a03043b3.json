@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldFirstOrderDifferentialEquations.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldFirstOrderDifferentialEquations.java",
+			"rightBegin":54,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldSecondaryEquations.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldSecondaryEquations.java",
+			"rightBegin":50,
+			"rightEnd":62
+		}
+	]
+]

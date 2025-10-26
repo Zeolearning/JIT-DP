@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"leftBegin":609,
+			"leftEnd":608,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"rightBegin":610,
+			"rightEnd":669
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"leftBegin":176,
+			"leftEnd":175,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicSplineInterpolatingFunction.java",
+			"rightBegin":176,
+			"rightEnd":193
+		}
+	]
+]

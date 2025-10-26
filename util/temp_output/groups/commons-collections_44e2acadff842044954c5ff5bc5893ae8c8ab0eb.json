@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntList.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

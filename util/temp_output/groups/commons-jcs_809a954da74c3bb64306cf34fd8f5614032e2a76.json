@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"leftBegin":281,
+			"leftEnd":281,
+			"rightPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"rightBegin":281,
+			"rightEnd":281
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"leftBegin":277,
+			"leftEnd":277,
+			"rightPath":"src/java/org/apache/jcs/access/CacheAccess.java",
+			"rightBegin":277,
+			"rightEnd":277
+		}
+	]
+]

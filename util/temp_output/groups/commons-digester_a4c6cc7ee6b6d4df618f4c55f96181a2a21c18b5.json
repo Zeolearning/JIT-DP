@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	]
+]

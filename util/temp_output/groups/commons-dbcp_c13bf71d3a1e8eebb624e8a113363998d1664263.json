@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"leftBegin":1395,
+			"leftEnd":1396,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"rightBegin":1394,
+			"rightEnd":1394
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"leftBegin":95,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"leftBegin":83,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/DelegatingDatabaseMetaData.java",
+			"rightBegin":83,
+			"rightEnd":85
+		}
+	]
+]

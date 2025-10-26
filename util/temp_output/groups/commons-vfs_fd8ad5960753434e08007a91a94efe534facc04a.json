@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeAttributesMap.java",
+			"leftBegin":64,
+			"leftEnd":66,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeAttributesMap.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs2/util/SharedRandomContentInputStream.java",
+			"leftBegin":225,
+			"leftEnd":227,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs2/util/SharedRandomContentInputStream.java",
+			"rightBegin":225,
+			"rightEnd":226
+		}
+	]
+]

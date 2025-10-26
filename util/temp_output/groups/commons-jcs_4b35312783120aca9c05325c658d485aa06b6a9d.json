@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/behavior/ICacheEventQueue.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/java/org/apache/jcs/engine/behavior/ICacheEventQueue.java",
+			"rightBegin":86,
+			"rightEnd":93
+		}
+	]
+]

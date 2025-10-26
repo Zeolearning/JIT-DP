@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/DependencyResolver.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/DependencyResolver.java",
+			"rightBegin":73,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java",
+			"leftBegin":196,
+			"leftEnd":195,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java",
+			"rightBegin":196,
+			"rightEnd":204
+		}
+	]
+]

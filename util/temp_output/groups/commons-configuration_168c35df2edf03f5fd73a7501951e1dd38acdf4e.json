@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"leftBegin":356,
+			"leftEnd":356,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"rightBegin":359,
+			"rightEnd":359
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"rightBegin":158,
+			"rightEnd":158
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/EventSource.java",
+			"rightBegin":78,
+			"rightEnd":80
+		}
+	]
+]

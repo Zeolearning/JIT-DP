@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"rightBegin":131,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"leftBegin":116,
+			"leftEnd":135,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"rightBegin":119,
+			"rightEnd":129
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/FieldUtils.java",
+			"rightBegin":21,
+			"rightEnd":23
+		}
+	]
+]

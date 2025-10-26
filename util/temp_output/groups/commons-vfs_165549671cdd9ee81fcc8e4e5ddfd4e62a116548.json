@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"leftBegin":83,
+			"leftEnd":82,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"rightBegin":87,
+			"rightEnd":87
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"leftBegin":74,
+			"leftEnd":75,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"rightBegin":76,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

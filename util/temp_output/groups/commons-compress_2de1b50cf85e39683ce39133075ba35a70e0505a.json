@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java",
+			"rightBegin":90,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"rightBegin":255,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	]
+]

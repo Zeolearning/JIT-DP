@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":245,
+			"leftEnd":244,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":248,
+			"rightEnd":248
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":153,
+			"leftEnd":152,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":155,
+			"rightEnd":155
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":128,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

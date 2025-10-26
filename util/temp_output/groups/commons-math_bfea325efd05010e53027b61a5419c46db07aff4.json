@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/TriDiagonalTransformer.java",
+			"rightBegin":1,
+			"rightEnd":273
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/linear/TriDiagonalTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":159
+		}
+	]
+]

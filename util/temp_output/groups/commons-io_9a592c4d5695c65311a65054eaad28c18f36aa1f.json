@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	]
+]

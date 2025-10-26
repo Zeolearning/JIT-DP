@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderModelTest.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":181,
+			"leftEnd":180,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":183,
+			"rightEnd":187
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":38,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

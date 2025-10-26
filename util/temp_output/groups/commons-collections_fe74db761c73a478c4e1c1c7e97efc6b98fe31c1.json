@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"leftBegin":257,
+			"leftEnd":256,
+			"rightPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"rightBegin":258,
+			"rightEnd":263
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/MultiHashMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

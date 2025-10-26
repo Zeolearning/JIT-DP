@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/server/BasicRemoteCacheClientServerUnitTest.java",
+			"leftBegin":259,
+			"leftEnd":258,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/server/BasicRemoteCacheClientServerUnitTest.java",
+			"rightBegin":258,
+			"rightEnd":259
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/remote/server/BasicRemoteCacheClientServerUnitTest.java",
+			"leftBegin":257,
+			"leftEnd":257,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/remote/server/BasicRemoteCacheClientServerUnitTest.java",
+			"rightBegin":257,
+			"rightEnd":256
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"leftBegin":402,
+			"leftEnd":403,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"rightBegin":402,
+			"rightEnd":403
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"leftBegin":113,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"rightBegin":113,
+			"rightEnd":115
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Rule.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

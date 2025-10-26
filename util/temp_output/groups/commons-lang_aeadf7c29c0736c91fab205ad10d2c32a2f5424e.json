@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/CharRangeTest.java",
+			"leftBegin":351,
+			"leftEnd":350,
+			"rightPath":"src/test/org/apache/commons/lang/CharRangeTest.java",
+			"rightBegin":351,
+			"rightEnd":359
+		}
+	]
+]

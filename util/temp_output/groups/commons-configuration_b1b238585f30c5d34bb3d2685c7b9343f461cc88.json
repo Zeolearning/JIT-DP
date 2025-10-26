@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/XMLDocumentHelper.java",
+			"rightBegin":1,
+			"rightEnd":338
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestXMLDocumentHelper.java",
+			"rightBegin":1,
+			"rightEnd":346
+		}
+	]
+]

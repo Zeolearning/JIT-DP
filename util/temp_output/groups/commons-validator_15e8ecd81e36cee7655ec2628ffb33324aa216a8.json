@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"leftBegin":197,
+			"leftEnd":201,
+			"rightPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"rightBegin":196,
+			"rightEnd":196
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"leftBegin":182,
+			"leftEnd":183,
+			"rightPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"rightBegin":182,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/share/org/apache/commons/validator/CreditCardValidator.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

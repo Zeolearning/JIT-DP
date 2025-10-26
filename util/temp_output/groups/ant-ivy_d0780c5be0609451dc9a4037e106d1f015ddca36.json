@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/namespace/MRIDTransformationRuleTest.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"test/java/fr/jayasoft/ivy/namespace/MRIDTransformationRuleTest.java",
+			"rightBegin":32,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/namespace/MRIDTransformationRule.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/java/fr/jayasoft/ivy/namespace/MRIDTransformationRule.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/namespace/MRIDTransformationRule.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"src/java/fr/jayasoft/ivy/namespace/MRIDTransformationRule.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

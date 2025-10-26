@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/LocalityInfoSorter.java",
+			"leftBegin":107,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/giraph/graph/LocalityInfoSorter.java",
+			"rightBegin":107,
+			"rightEnd":110
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":334,
+			"leftEnd":335,
+			"rightPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":348,
+			"rightEnd":348
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":321,
+			"leftEnd":321,
+			"rightPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":335,
+			"rightEnd":335
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":98,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":79,
+			"rightEnd":88
+		}
+	]
+]

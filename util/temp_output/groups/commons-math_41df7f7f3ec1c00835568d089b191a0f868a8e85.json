@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/SingularValueDecomposition.java",
+			"leftBegin":366,
+			"leftEnd":368,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/SingularValueDecomposition.java",
+			"rightBegin":366,
+			"rightEnd":371
+		}
+	]
+]

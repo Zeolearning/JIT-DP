@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"leftBegin":110,
+			"leftEnd":222,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"rightBegin":106,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"rightBegin":19,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"leftBegin":30,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPoolableConnection.java",
+			"rightBegin":29,
+			"rightEnd":28
+		}
+	]
+]

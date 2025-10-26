@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordReader.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordReader.java",
+			"rightBegin":98,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordReader.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordReader.java",
+			"rightBegin":116,
+			"rightEnd":118
+		}
+	]
+]

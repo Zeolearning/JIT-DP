@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/ObjectCreationFactoryTestImpl.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/OtherTestObjectCreationFactory.java",
+			"rightBegin":1,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/TestFactoryCreate.java",
+			"rightBegin":1,
+			"rightEnd":357
+		}
+	]
+]

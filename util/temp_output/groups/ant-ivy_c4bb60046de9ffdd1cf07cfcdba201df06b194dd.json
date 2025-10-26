@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java",
+			"leftBegin":216,
+			"leftEnd":216,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java",
+			"rightBegin":222,
+			"rightEnd":222
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java",
+			"rightBegin":77,
+			"rightEnd":82
+		}
+	]
+]

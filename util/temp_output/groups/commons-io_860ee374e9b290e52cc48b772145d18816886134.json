@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/ProductTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/ProductTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/ProductTest.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/ProductTest.java",
+			"rightBegin":56,
+			"rightEnd":59
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"leftBegin":479,
+			"leftEnd":479,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"rightBegin":479,
+			"rightEnd":479
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"leftBegin":474,
+			"leftEnd":474,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"rightBegin":474,
+			"rightEnd":474
+		}
+	]
+]

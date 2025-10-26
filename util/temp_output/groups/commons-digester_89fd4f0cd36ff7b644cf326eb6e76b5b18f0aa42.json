@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/SetTopBuilder.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/SetTopBuilder.java",
+			"rightBegin":43,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/SetNextBuilder.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/SetNextBuilder.java",
+			"rightBegin":43,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/SetRootBuilder.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/SetRootBuilder.java",
+			"rightBegin":43,
+			"rightEnd":53
+		}
+	]
+]

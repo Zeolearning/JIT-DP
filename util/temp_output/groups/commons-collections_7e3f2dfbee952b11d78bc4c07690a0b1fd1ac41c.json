@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/set/TestListOrderedSet.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/test/org/apache/commons/collections/set/TestListOrderedSet.java",
+			"rightBegin":133,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/set/TestListOrderedSet.java",
+			"leftBegin":169,
+			"leftEnd":168,
+			"rightPath":"src/test/org/apache/commons/collections/set/TestListOrderedSet.java",
+			"rightBegin":168,
+			"rightEnd":199
+		}
+	]
+]

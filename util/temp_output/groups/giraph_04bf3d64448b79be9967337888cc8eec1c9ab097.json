@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/common/HiveInputOptions.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/common/HiveInputOptions.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

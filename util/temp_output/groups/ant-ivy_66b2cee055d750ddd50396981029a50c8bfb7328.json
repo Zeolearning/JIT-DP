@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"leftBegin":217,
+			"leftEnd":217,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"rightBegin":217,
+			"rightEnd":217
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/file/FileRepository.java",
+			"leftBegin":138,
+			"leftEnd":137,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/file/FileRepository.java",
+			"rightBegin":138,
+			"rightEnd":145
+		}
+	]
+]

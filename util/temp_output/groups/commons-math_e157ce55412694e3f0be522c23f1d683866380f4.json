@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java",
+			"leftBegin":345,
+			"leftEnd":344,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java",
+			"rightBegin":345,
+			"rightEnd":350
+		}
+	]
+]

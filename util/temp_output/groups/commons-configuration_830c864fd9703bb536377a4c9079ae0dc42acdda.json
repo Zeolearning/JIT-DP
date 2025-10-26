@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/ListDelimiterHandler.java",
+			"leftBegin":23,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/ListDelimiterHandler.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/ListDelimiterHandler.java",
+			"leftBegin":32,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/ListDelimiterHandler.java",
+			"rightBegin":29,
+			"rightEnd":37
+		}
+	]
+]

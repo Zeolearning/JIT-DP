@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/AbstractTestMap.java",
+			"leftBegin":488,
+			"leftEnd":489,
+			"rightPath":"src/test/org/apache/commons/collections/map/AbstractTestMap.java",
+			"rightBegin":488,
+			"rightEnd":489
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/AbstractTestMap.java",
+			"leftBegin":485,
+			"leftEnd":486,
+			"rightPath":"src/test/org/apache/commons/collections/map/AbstractTestMap.java",
+			"rightBegin":485,
+			"rightEnd":486
+		}
+	]
+]

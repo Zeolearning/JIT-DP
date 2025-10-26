@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/regression/OLSMultipleLinearRegressionTest.java",
+			"leftBegin":159,
+			"leftEnd":162,
+			"rightPath":"src/test/org/apache/commons/math/stat/regression/OLSMultipleLinearRegressionTest.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+			"leftBegin":146,
+			"leftEnd":148,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+			"rightBegin":149,
+			"rightEnd":152
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+			"leftBegin":142,
+			"leftEnd":141,
+			"rightPath":"src/java/org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+			"rightBegin":142,
+			"rightEnd":144
+		}
+	]
+]

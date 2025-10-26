@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestKeyedCPDSConnectionFactory.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestKeyedCPDSConnectionFactory.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestKeyedCPDSConnectionFactory.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestKeyedCPDSConnectionFactory.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

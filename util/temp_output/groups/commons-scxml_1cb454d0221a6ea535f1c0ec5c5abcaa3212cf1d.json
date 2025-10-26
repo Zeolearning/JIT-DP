@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/env/groovy/GroovyContextTest.java",
+			"leftBegin":46,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/groovy/GroovyContextTest.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/env/groovy/GroovyContextTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/groovy/GroovyContextTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

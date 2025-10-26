@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/Jira92TestCase.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":271,
+			"leftEnd":275,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":283,
+			"rightEnd":293
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":257,
+			"leftEnd":261,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":263,
+			"rightEnd":273
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":244,
+			"leftEnd":248,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":244,
+			"rightEnd":254
+		}
+	]
+]

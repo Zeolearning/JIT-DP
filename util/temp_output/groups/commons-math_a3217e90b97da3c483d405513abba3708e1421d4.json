@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"leftBegin":357,
+			"leftEnd":356,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"rightBegin":360,
+			"rightEnd":361
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"leftBegin":211,
+			"leftEnd":210,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"rightBegin":212,
+			"rightEnd":213
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/ranking/NaturalRanking.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/EigenSolverTest.java",
+			"leftBegin":125,
+			"leftEnd":125,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/EigenSolverTest.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	]
+]

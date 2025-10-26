@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"rightBegin":206,
+			"rightEnd":206
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"leftBegin":190,
+			"leftEnd":190,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"rightBegin":212,
+			"rightEnd":212
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/GammaDistributionTest.java",
+			"rightBegin":179,
+			"rightEnd":200
+		}
+	]
+]

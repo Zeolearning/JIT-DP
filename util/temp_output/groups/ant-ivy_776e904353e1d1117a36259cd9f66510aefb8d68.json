@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"leftBegin":146,
+			"leftEnd":147,
+			"rightPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"rightBegin":146,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"rightBegin":117,
+			"rightEnd":118
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"leftBegin":106,
+			"leftEnd":106,
+			"rightPath":"test/java/fr/jayasoft/ivy/repository/vfs/VfsRepositoryTest.java",
+			"rightBegin":106,
+			"rightEnd":105
+		}
+	]
+]

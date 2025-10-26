@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":45,
+			"leftEnd":52,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":45,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/parquet/proto/ProtoReadSupport.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

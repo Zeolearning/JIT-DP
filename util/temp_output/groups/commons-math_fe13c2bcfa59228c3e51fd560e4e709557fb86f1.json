@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ConvergenceException.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"src/java/org/apache/commons/math/ConvergenceException.java",
+			"rightBegin":65,
+			"rightEnd":90
+		}
+	]
+]

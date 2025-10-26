@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"rightBegin":80,
+			"rightEnd":86
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"rightBegin":30,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"leftBegin":183,
+			"leftEnd":185,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"rightBegin":189,
+			"rightEnd":190
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"leftBegin":181,
+			"leftEnd":181,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipEncodingTest.java",
+			"rightBegin":187,
+			"rightEnd":187
+		}
+	]
+]

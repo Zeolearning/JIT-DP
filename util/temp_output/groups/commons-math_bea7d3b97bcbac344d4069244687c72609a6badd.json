@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/complex/Complex.java",
+			"leftBegin":285,
+			"leftEnd":285,
+			"rightPath":"src/main/java/org/apache/commons/math/complex/Complex.java",
+			"rightBegin":285,
+			"rightEnd":285
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/regression/ModelSpecificationException.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/regression/ModelSpecificationException.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"leftBegin":203,
+			"leftEnd":203,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"rightBegin":209,
+			"rightEnd":208
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"leftBegin":202,
+			"leftEnd":201,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"rightBegin":203,
+			"rightEnd":207
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/HexTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

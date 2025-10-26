@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractHashedMap.java",
+			"leftBegin":1213,
+			"leftEnd":1213,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractHashedMap.java",
+			"rightBegin":1214,
+			"rightEnd":1213
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractHashedMap.java",
+			"leftBegin":1207,
+			"leftEnd":1206,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractHashedMap.java",
+			"rightBegin":1207,
+			"rightEnd":1207
+		}
+	]
+]

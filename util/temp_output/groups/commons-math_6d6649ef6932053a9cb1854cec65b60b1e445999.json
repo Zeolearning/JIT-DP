@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"rightBegin":90,
+			"rightEnd":90
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"leftBegin":79,
+			"leftEnd":86,
+			"rightPath":"src/test/java/org/apache/commons/math/util/FastMathTest.java",
+			"rightBegin":79,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/FastMath.java",
+			"leftBegin":3482,
+			"leftEnd":3482,
+			"rightPath":"src/main/java/org/apache/commons/math/util/FastMath.java",
+			"rightBegin":3482,
+			"rightEnd":3482
+		}
+	]
+]

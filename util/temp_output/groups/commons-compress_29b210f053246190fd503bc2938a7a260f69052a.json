@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":106,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

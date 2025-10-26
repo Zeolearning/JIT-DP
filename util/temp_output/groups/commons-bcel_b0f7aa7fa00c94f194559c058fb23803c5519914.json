@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/LocalVariableGen.java",
+			"leftBegin":144,
+			"leftEnd":144,
+			"rightPath":"src/java/org/apache/bcel/generic/LocalVariableGen.java",
+			"rightBegin":144,
+			"rightEnd":151
+		}
+	]
+]

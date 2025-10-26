@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"leftBegin":331,
+			"leftEnd":331,
+			"rightPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"rightBegin":331,
+			"rightEnd":331
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"leftBegin":185,
+			"leftEnd":185,
+			"rightPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"rightBegin":185,
+			"rightEnd":185
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/test/org/apache/commons/io/IOUtilsCopyTestCase.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	]
+]

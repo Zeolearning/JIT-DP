@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java",
+			"rightBegin":134,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"leftBegin":293,
+			"leftEnd":293,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"rightBegin":293,
+			"rightEnd":295
+		}
+	]
+]

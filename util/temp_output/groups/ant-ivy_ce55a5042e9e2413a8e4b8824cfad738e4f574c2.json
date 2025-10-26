@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"leftBegin":613,
+			"leftEnd":612,
+			"rightPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"rightBegin":614,
+			"rightEnd":614
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"leftBegin":609,
+			"leftEnd":608,
+			"rightPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"rightBegin":609,
+			"rightEnd":609
+		}
+	]
+]

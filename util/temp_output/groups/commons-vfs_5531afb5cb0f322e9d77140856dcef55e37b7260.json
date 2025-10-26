@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/provider/tar/test/LargeTarTestCase.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/provider/tar/test/LargeTarTestCase.java",
+			"rightBegin":1,
+			"rightEnd":16
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/provider/tar/test/LargeTarTestCase.java",
+			"leftBegin":140,
+			"leftEnd":140,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/provider/tar/test/LargeTarTestCase.java",
+			"rightBegin":156,
+			"rightEnd":156
+		}
+	]
+]

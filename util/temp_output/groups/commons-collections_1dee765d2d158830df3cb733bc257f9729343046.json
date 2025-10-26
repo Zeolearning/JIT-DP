@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/comparators/TransformingComparator.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/collections/comparators/TransformingComparator.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/comparators/TransformingComparator.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/collections/comparators/TransformingComparator.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

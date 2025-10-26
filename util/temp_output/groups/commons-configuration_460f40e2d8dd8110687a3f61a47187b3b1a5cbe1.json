@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":435,
+			"leftEnd":440,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":436,
+			"rightEnd":437
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":326,
+			"leftEnd":330,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":325,
+			"rightEnd":331
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

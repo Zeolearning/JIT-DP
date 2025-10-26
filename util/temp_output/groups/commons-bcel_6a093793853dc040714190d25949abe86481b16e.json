@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/LDC_W.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/java/org/apache/bcel/generic/LDC_W.java",
+			"rightBegin":85,
+			"rightEnd":86
+		}
+	]
+]

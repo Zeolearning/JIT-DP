@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestSpecificInputOutputFormat.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestSpecificInputOutputFormat.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestSpecificInputOutputFormat.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestSpecificInputOutputFormat.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

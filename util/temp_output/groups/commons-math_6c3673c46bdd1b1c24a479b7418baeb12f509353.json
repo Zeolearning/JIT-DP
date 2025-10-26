@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/StatisticalReferenceDatasetFactory.java",
+			"rightBegin":1,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/StatisticalReferenceDataset.java",
+			"rightBegin":1,
+			"rightEnd":376
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":96
+		}
+	]
+]

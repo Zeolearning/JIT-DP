@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerME.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerME.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

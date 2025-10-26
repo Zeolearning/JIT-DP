@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/LRUMap.java",
+			"rightBegin":1,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/SequencedHashMap.java",
+			"rightBegin":1,
+			"rightEnd":1041
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/SharedPoolDataSource.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/SharedPoolDataSource.java",
+			"rightBegin":30,
+			"rightEnd":29
+		}
+	]
+]

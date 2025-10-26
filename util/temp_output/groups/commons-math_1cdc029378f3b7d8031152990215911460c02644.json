@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"leftBegin":380,
+			"leftEnd":380,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"rightBegin":384,
+			"rightEnd":383
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"leftBegin":376,
+			"leftEnd":375,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"rightBegin":379,
+			"rightEnd":379
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"leftBegin":360,
+			"leftEnd":359,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/AdamsIntegrator.java",
+			"rightBegin":360,
+			"rightEnd":362
+		}
+	]
+]

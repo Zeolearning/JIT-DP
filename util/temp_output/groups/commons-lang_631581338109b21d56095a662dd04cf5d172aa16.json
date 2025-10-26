@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/ToStringBuilderTest.java",
+			"leftBegin":666,
+			"leftEnd":665,
+			"rightPath":"src/test/org/apache/commons/lang/builder/ToStringBuilderTest.java",
+			"rightBegin":666,
+			"rightEnd":666
+		}
+	]
+]

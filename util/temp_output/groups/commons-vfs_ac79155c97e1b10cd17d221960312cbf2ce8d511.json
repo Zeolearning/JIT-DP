@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileMonitor.java",
+			"leftBegin":391,
+			"leftEnd":391,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileMonitor.java",
+			"rightBegin":391,
+			"rightEnd":391
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"leftBegin":208,
+			"leftEnd":208,
+			"rightPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"rightBegin":209,
+			"rightEnd":209
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"rightBegin":45,
+			"rightEnd":46
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/BOMExclusionInputStream.java",
+			"rightBegin":1,
+			"rightEnd":168
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/BOMExclusionInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":247
+		}
+	]
+]

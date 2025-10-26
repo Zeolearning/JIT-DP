@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/RefinedSoundex.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/codec/language/RefinedSoundex.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/RefinedSoundex.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/java/org/apache/commons/codec/language/RefinedSoundex.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

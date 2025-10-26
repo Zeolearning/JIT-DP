@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"rightBegin":292,
+			"rightEnd":292
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"leftBegin":286,
+			"leftEnd":285,
+			"rightPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"rightBegin":289,
+			"rightEnd":290
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"leftBegin":285,
+			"leftEnd":284,
+			"rightPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"rightBegin":285,
+			"rightEnd":287
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/plugins/strategies/FinderFromDfltClass.java",
+			"leftBegin":81,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/digester/plugins/strategies/FinderFromDfltClass.java",
+			"rightBegin":81,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/plugins/strategies/FinderFromDfltClass.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"src/main/java/org/apache/commons/digester/plugins/strategies/FinderFromDfltClass.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	]
+]

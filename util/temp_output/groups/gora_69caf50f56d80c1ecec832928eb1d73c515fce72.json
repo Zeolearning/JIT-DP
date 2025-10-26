@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraMapReduceUtils.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/GoraMapReduceUtils.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

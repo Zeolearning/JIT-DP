@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/parser/Parse.java",
+			"leftBegin":978,
+			"leftEnd":977,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/Parse.java",
+			"rightBegin":978,
+			"rightEnd":980
+		}
+	]
+]

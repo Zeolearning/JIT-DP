@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/ParserEvaluator.java",
+			"rightBegin":1,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/ParserEvaluationMonitor.java",
+			"rightBegin":1,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserEvaluatorTool.java",
+			"rightBegin":1,
+			"rightEnd":68
+		}
+	]
+]

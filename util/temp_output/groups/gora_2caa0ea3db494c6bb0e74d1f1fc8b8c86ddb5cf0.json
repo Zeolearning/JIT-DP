@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"rightBegin":168,
+			"rightEnd":168
+		}
+	]
+]

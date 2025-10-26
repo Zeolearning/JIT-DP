@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/sort/MessageBasedNonMatchingVersionReporter.java",
+			"leftBegin":28,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/ivy/core/sort/MessageBasedNonMatchingVersionReporter.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/sort/ModuleInSort.java",
+			"leftBegin":182,
+			"leftEnd":182,
+			"rightPath":"src/java/org/apache/ivy/core/sort/ModuleInSort.java",
+			"rightBegin":182,
+			"rightEnd":182
+		}
+	]
+]

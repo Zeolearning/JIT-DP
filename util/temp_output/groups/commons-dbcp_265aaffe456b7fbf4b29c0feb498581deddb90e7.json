@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java",
+			"leftBegin":178,
+			"leftEnd":177,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java",
+			"rightBegin":178,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolableConnectionFactory.java",
+			"leftBegin":295,
+			"leftEnd":294,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolableConnectionFactory.java",
+			"rightBegin":295,
+			"rightEnd":297
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"rightBegin":162,
+			"rightEnd":166
+		}
+	]
+]

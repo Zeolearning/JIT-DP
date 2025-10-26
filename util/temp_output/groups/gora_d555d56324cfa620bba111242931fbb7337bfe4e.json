@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-aerospike/src/test/java/org/apache/gora/aerospike/GoraAerospikeTestDriver.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"gora-aerospike/src/test/java/org/apache/gora/aerospike/GoraAerospikeTestDriver.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"gora-aerospike/src/test/java/org/apache/gora/aerospike/GoraAerospikeTestDriver.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"gora-aerospike/src/test/java/org/apache/gora/aerospike/GoraAerospikeTestDriver.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

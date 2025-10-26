@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/CurveFitter.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/CurveFitter.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/CurveFitter.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/CurveFitter.java",
+			"rightBegin":50,
+			"rightEnd":51
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileUtilsTestCase.java",
+			"leftBegin":1304,
+			"leftEnd":1303,
+			"rightPath":"src/test/org/apache/commons/io/FileUtilsTestCase.java",
+			"rightBegin":1304,
+			"rightEnd":1626
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1713,
+			"leftEnd":1712,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1713,
+			"rightEnd":1887
+		}
+	]
+]

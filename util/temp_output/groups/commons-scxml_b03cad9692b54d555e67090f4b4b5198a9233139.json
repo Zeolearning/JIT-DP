@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"leftBegin":45,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"rightBegin":53,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"rightBegin":35,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/RootContext.java",
+			"rightBegin":47,
+			"rightEnd":51
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"rightBegin":107,
+			"rightEnd":107
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"rightBegin":103,
+			"rightEnd":103
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32TestData.java",
+			"rightBegin":101,
+			"rightEnd":100
+		}
+	]
+]

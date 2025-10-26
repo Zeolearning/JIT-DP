@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/AggregateSummaryStatistics.java",
+			"rightBegin":1,
+			"rightEnd":245
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/AggregateSummaryStatisticsTest.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	]
+]

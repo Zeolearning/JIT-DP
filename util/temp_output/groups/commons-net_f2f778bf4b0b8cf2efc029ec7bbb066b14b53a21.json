@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ftp/parser/UnixFTPEntryParser.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/java/org/apache/commons/net/ftp/parser/UnixFTPEntryParser.java",
+			"rightBegin":50,
+			"rightEnd":62
+		}
+	]
+]

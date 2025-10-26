@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/Array2DRowRealMatrix.java",
+			"leftBegin":393,
+			"leftEnd":392,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/Array2DRowRealMatrix.java",
+			"rightBegin":393,
+			"rightEnd":410
+		}
+	]
+]

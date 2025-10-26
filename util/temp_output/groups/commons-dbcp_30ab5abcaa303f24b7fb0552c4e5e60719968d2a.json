@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/dbcp/SQLNestedException.java",
+			"rightBegin":1,
+			"rightEnd":116
+		}
+	]
+]

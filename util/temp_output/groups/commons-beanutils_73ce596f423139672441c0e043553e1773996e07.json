@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"leftBegin":259,
+			"leftEnd":258,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"rightBegin":259,
+			"rightEnd":268
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"rightBegin":134,
+			"rightEnd":134
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtils.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

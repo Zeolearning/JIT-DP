@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/plist/PropertyListParser.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/java/org/apache/commons/configuration/plist/PropertyListParser.java",
+			"rightBegin":96,
+			"rightEnd":96
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/plist/PropertyListParser.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/configuration/plist/PropertyListParser.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	]
+]

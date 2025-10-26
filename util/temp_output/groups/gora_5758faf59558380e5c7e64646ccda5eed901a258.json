@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-maven-plugin/src/main/java/org/apache/gora/maven/plugin/GenerateMojo.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-maven-plugin/src/main/java/org/apache/gora/maven/plugin/AbstractGoraMojo.java",
+			"rightBegin":1,
+			"rightEnd":144
+		}
+	]
+]

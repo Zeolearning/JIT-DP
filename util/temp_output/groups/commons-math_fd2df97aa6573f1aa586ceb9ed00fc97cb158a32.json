@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/MatrixUtilsTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/linear/MatrixUtilsTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/MatrixUtilsTest.java",
+			"leftBegin":53,
+			"leftEnd":55,
+			"rightPath":"src/test/org/apache/commons/math/linear/MatrixUtilsTest.java",
+			"rightBegin":53,
+			"rightEnd":52
+		}
+	]
+]

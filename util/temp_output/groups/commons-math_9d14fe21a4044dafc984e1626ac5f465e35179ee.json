@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"leftBegin":165,
+			"leftEnd":167,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"rightBegin":165,
+			"rightEnd":179
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"leftBegin":162,
+			"leftEnd":163,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"rightBegin":163,
+			"rightEnd":163
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/FastMathStrictComparisonTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

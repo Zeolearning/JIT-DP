@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/ArchiveUtils.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/ArchiveUtils.java",
+			"rightBegin":118,
+			"rightEnd":133
+		}
+	]
+]

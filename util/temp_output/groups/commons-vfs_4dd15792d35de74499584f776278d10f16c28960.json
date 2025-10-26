@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"leftBegin":210,
+			"leftEnd":210,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"rightBegin":217,
+			"rightEnd":216
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"leftBegin":204,
+			"leftEnd":203,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"rightBegin":210,
+			"rightEnd":210
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"leftBegin":190,
+			"leftEnd":189,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"rightBegin":190,
+			"rightEnd":195
+		}
+	]
+]

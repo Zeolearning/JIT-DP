@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipUtilTest.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipUtilTest.java",
+			"rightBegin":77,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"rightBegin":25,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

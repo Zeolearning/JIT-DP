@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"parquet-column/src/main/java/parquet/column/page/PageReader.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

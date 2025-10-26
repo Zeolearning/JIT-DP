@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

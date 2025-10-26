@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/tree/TestNodeAddData.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/NodeAddData.java",
+			"rightBegin":1,
+			"rightEnd":186
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/ExpressionEngine.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	]
+]

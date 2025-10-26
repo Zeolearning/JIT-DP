@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"leftBegin":312,
+			"leftEnd":313,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"rightBegin":312,
+			"rightEnd":311
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"leftBegin":310,
+			"leftEnd":310,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Beta.java",
+			"rightBegin":310,
+			"rightEnd":310
+		}
+	]
+]

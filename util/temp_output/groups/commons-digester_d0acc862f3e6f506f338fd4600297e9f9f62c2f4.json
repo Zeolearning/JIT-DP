@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/SetPropertiesBuilder.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/SetPropertiesBuilder.java",
+			"rightBegin":28,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":247,
+			"leftEnd":247,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":257,
+			"rightEnd":257
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"leftBegin":245,
+			"leftEnd":244,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBinderImpl.java",
+			"rightBegin":245,
+			"rightEnd":254
+		}
+	]
+]

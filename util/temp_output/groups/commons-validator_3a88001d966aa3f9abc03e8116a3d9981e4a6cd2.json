@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/ISSNValidatorTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/ISSNValidatorTest.java",
+			"rightBegin":48,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/ISSNValidatorTest.java",
+			"leftBegin":151,
+			"leftEnd":150,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/ISSNValidatorTest.java",
+			"rightBegin":153,
+			"rightEnd":156
+		}
+	]
+]

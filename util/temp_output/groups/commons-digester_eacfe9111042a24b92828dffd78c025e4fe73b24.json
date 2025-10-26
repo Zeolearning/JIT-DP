@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/annotations/atom/src/main/java/org/apache/commons/digester3/annotations/atom/Feed.java",
+			"rightBegin":1,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/annotations/atom/src/main/java/org/apache/commons/digester3/annotations/atom/Entry.java",
+			"rightBegin":1,
+			"rightEnd":105
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/java/org/apache/commons/net/nntp/Article.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ftp/FTPClientConfig.java",
+			"leftBegin":249,
+			"leftEnd":259,
+			"rightPath":"src/java/org/apache/commons/net/ftp/FTPClientConfig.java",
+			"rightBegin":249,
+			"rightEnd":259
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/io/accumulo/AccumuloVertexOutputFormat.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/io/accumulo/AccumuloVertexOutputFormat.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"leftBegin":1046,
+			"leftEnd":1046,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+			"rightBegin":1046,
+			"rightEnd":1046
+		}
+	]
+]

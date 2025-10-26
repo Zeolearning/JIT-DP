@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/ThreadContainer.java",
+			"rightBegin":1,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"leftBegin":403,
+			"leftEnd":481,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"rightBegin":403,
+			"rightEnd":402
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":617,
+			"leftEnd":616,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":617,
+			"rightEnd":640
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":1436,
+			"leftEnd":1435,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":1436,
+			"rightEnd":1436
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/DefaultDependencyArtifactDescriptor.java",
+			"leftBegin":120,
+			"leftEnd":119,
+			"rightPath":"src/java/fr/jayasoft/ivy/DefaultDependencyArtifactDescriptor.java",
+			"rightBegin":120,
+			"rightEnd":122
+		}
+	]
+]

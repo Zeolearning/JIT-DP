@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

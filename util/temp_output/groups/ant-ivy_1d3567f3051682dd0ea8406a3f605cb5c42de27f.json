@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/StringUtils.java",
+			"leftBegin":132,
+			"leftEnd":136,
+			"rightPath":"src/java/org/apache/ivy/util/StringUtils.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"leftBegin":853,
+			"leftEnd":853,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"rightBegin":853,
+			"rightEnd":853
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/AbstractModuleDescriptorParser.java",
+			"leftBegin":128,
+			"leftEnd":128,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/AbstractModuleDescriptorParser.java",
+			"rightBegin":128,
+			"rightEnd":128
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":1256,
+			"leftEnd":1256,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":1255,
+			"rightEnd":1255
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":1250,
+			"leftEnd":1254,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":1250,
+			"rightEnd":1253
+		}
+	]
+]

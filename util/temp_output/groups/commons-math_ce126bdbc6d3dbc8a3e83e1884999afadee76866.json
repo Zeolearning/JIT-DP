@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/SynchronizedRandomGenerator.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/SynchronizedRandomGenerator.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/SynchronizedRandomGeneratorTest.java",
+			"rightBegin":1,
+			"rightEnd":120
+		}
+	]
+]

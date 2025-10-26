@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/CalendarReflection.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/CalendarReflection.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"leftBegin":1295,
+			"leftEnd":1295,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+			"rightBegin":1295,
+			"rightEnd":1295
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/CalendarReflection.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/CalendarReflection.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

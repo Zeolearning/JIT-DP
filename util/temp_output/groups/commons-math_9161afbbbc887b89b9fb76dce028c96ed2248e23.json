@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/UnmodifiableRealVectorAbstractTest.java",
+			"rightBegin":1,
+			"rightEnd":431
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/AbstractRealVector.java",
+			"leftBegin":634,
+			"leftEnd":633,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/AbstractRealVector.java",
+			"rightBegin":634,
+			"rightEnd":1020
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/UnmodifiableOpenMapRealVectorTest.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/UnmodifiableArrayRealVectorTest.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	]
+]

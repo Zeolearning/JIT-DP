@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ThreadUtilsTest.java",
+			"leftBegin":264,
+			"leftEnd":265,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ThreadUtilsTest.java",
+			"rightBegin":264,
+			"rightEnd":265
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ThreadUtilsTest.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ThreadUtilsTest.java",
+			"rightBegin":177,
+			"rightEnd":177
+		}
+	]
+]

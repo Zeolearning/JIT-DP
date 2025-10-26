@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/FluentPropertyBeanIntrospector.java",
+			"leftBegin":147,
+			"leftEnd":148,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/FluentPropertyBeanIntrospector.java",
+			"rightBegin":147,
+			"rightEnd":149
+		}
+	]
+]

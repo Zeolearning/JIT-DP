@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/genetics/RandomKeyTest.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/math/genetics/RandomKeyTest.java",
+			"rightBegin":65,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/genetics/RandomKeyTest.java",
+			"leftBegin":67,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/math/genetics/RandomKeyTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

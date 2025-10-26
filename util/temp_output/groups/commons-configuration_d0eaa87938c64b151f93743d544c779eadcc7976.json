@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/tree/TestDefaultConfigurationNode.java",
+			"rightBegin":1,
+			"rightEnd":504
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/DefaultConfigurationNode.java",
+			"rightBegin":1,
+			"rightEnd":698
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/ConfigurationNodeVisitor.java",
+			"rightBegin":1,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/ConfigurationNode.java",
+			"rightBegin":1,
+			"rightEnd":257
+		}
+	]
+]

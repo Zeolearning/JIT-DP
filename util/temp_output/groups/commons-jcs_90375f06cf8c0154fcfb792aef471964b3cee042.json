@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"leftBegin":326,
+			"leftEnd":341,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"rightBegin":327,
+			"rightEnd":326
+		},
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"leftBegin":317,
+			"leftEnd":317,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"rightBegin":317,
+			"rightEnd":318
+		},
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"leftBegin":278,
+			"leftEnd":278,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/lru/LHMLRUMemoryCache.java",
+			"rightBegin":278,
+			"rightEnd":278
+		}
+	]
+]

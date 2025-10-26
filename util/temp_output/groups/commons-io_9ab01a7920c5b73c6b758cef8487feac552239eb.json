@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/testtools/YellOnFlushAndCloseOutputStream.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/test/org/apache/commons/io/testtools/YellOnFlushAndCloseOutputStream.java",
+			"rightBegin":62,
+			"rightEnd":66
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSampleTypeFilter.java",
+			"leftBegin":63,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/NameSampleTypeFilter.java",
+			"rightBegin":63,
+			"rightEnd":64
+		}
+	]
+]

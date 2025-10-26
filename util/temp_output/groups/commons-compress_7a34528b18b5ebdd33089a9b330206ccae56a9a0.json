@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFileTest.java",
+			"leftBegin":504,
+			"leftEnd":505,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFileTest.java",
+			"rightBegin":504,
+			"rightEnd":504
+		}
+	]
+]

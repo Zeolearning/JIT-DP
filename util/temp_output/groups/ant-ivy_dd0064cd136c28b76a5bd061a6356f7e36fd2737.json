@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"leftBegin":110,
+			"leftEnd":109,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"rightBegin":115,
+			"rightEnd":124
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"leftBegin":59,
+			"leftEnd":60,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/DualResolver.java",
+			"rightBegin":60,
+			"rightEnd":65
+		}
+	]
+]

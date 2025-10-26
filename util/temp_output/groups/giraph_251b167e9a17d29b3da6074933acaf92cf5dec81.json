@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/ooc/data/DiskBackedPartitionStore.java",
+			"leftBegin":248,
+			"leftEnd":250,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/ooc/data/DiskBackedPartitionStore.java",
+			"rightBegin":248,
+			"rightEnd":251
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GiftWrapTest.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/hull/GiftWrap.java",
+			"rightBegin":1,
+			"rightEnd":138
+		}
+	]
+]

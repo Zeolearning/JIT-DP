@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ValidateTest.java",
+			"leftBegin":916,
+			"leftEnd":1527,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ValidateTest.java",
+			"rightBegin":916,
+			"rightEnd":915
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":975,
+			"leftEnd":1642,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":975,
+			"rightEnd":974
+		}
+	]
+]

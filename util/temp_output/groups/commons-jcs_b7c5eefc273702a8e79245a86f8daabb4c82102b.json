@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedWeakReference.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedWeakReference.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

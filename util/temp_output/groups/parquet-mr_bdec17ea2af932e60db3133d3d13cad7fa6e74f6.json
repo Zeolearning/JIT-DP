@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/bytes/BytesUtils.java",
+			"leftBegin":43,
+			"leftEnd":45,
+			"rightPath":"parquet-column/src/main/java/parquet/bytes/BytesUtils.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/arj/CoverageTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/arj/CoverageTest.java",
+			"rightBegin":22,
+			"rightEnd":26
+		}
+	]
+]

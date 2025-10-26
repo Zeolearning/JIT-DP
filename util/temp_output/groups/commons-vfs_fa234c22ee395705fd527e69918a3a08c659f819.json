@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/ftp/test/FileNameTests.java",
+			"rightBegin":1,
+			"rightEnd":176
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/provider/ftp/test/FtpProviderTestCase.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/ftp/test/FtpProviderTestCase.java",
+			"rightBegin":81,
+			"rightEnd":83
+		}
+	]
+]

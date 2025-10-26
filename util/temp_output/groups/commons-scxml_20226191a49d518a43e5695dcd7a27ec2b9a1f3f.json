@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"leftBegin":123,
+			"leftEnd":141,
+			"rightPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"rightBegin":112,
+			"rightEnd":125
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"leftBegin":83,
+			"leftEnd":101,
+			"rightPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"rightBegin":83,
+			"rightEnd":95
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"leftBegin":104,
+			"leftEnd":120,
+			"rightPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"rightBegin":98,
+			"rightEnd":109
+		}
+	]
+]

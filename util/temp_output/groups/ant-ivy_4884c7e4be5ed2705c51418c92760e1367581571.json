@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"leftBegin":260,
+			"leftEnd":260,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"rightBegin":260,
+			"rightEnd":260
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"leftBegin":194,
+			"leftEnd":194,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"rightBegin":194,
+			"rightEnd":194
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"rightBegin":99,
+			"rightEnd":99
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/ResolverHelper.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

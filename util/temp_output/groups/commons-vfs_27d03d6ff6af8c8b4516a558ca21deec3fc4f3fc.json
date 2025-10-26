@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"rightBegin":297,
+			"rightEnd":336
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"leftBegin":43,
+			"leftEnd":42,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"rightBegin":46,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"rightBegin":30,
+			"rightEnd":30
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	]
+]

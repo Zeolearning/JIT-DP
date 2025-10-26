@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/FastMathTestPerformance.java",
+			"leftBegin":47,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/math/util/FastMathTestPerformance.java",
+			"rightBegin":47,
+			"rightEnd":48
+		}
+	]
+]

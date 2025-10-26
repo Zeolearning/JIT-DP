@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"leftBegin":659,
+			"leftEnd":658,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"rightBegin":542,
+			"rightEnd":557
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"leftBegin":154,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"rightBegin":154,
+			"rightEnd":153
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"leftBegin":248,
+			"leftEnd":348,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/FileLocatorUtils.java",
+			"rightBegin":232,
+			"rightEnd":231
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/AggregatorToGlobalCommTranslation.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/AggregatorToGlobalCommTranslation.java",
+			"rightBegin":288,
+			"rightEnd":289
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/AggregatorToGlobalCommTranslation.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/AggregatorToGlobalCommTranslation.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"leftBegin":948,
+			"leftEnd":948,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"rightBegin":950,
+			"rightEnd":950
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"rightBegin":146,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"leftBegin":952,
+			"leftEnd":952,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java",
+			"rightBegin":954,
+			"rightEnd":957
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"leftBegin":920,
+			"leftEnd":919,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"rightBegin":924,
+			"rightEnd":926
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"leftBegin":907,
+			"leftEnd":906,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"rightBegin":908,
+			"rightEnd":910
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ExecutionVisitor.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

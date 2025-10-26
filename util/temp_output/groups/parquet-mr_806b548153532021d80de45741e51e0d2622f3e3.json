@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/GroupColumnIO.java",
+			"leftBegin":60,
+			"leftEnd":61,
+			"rightPath":"parquet-column/src/main/java/parquet/io/GroupColumnIO.java",
+			"rightBegin":60,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/ColumnIOFactory.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"parquet-column/src/main/java/parquet/io/ColumnIOFactory.java",
+			"rightBegin":47,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/ColumnIOFactory.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"parquet-column/src/main/java/parquet/io/ColumnIOFactory.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"leftBegin":147,
+			"leftEnd":146,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"rightBegin":148,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"leftBegin":153,
+			"leftEnd":152,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"rightBegin":155,
+			"rightEnd":171
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/ContinuousDistributionAbstractTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

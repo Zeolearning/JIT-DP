@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestBasicDataSource.java",
+			"leftBegin":663,
+			"leftEnd":662,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestBasicDataSource.java",
+			"rightBegin":663,
+			"rightEnd":690
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSource.java",
+			"leftBegin":1522,
+			"leftEnd":1521,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSource.java",
+			"rightBegin":1522,
+			"rightEnd":1530
+		}
+	]
+]

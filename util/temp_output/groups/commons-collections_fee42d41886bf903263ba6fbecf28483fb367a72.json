@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestBag.java",
+			"leftBegin":1,
+			"leftEnd":251,
+			"rightPath":"src/test/org/apache/commons/collections/TestBag.java",
+			"rightBegin":1,
+			"rightEnd":251
+		}
+	]
+]

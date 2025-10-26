@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"leftBegin":258,
+			"leftEnd":257,
+			"rightPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"rightBegin":260,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"rightBegin":253,
+			"rightEnd":253
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/test/org/apache/commons/lang/text/VariableFormatterTest.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	]
+]

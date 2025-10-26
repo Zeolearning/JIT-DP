@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/muc/DocumentSplitterStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/DocumentSplitterStream.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	]
+]

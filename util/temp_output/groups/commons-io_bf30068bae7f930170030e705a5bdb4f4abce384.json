@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileCleaningTracker.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/io/FileCleaningTracker.java",
+			"rightBegin":52,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileCleaningTracker.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/java/org/apache/commons/io/FileCleaningTracker.java",
+			"rightBegin":23,
+			"rightEnd":24
+		}
+	]
+]

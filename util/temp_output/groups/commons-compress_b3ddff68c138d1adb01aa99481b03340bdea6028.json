@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/z/AbstractLZWInputStream.java",
+			"leftBegin":58,
+			"leftEnd":60,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/z/AbstractLZWInputStream.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/FieldOrMethod.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/FieldOrMethod.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/AttributeReader.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/AttributeReader.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/StackMapEntry.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/StackMapEntry.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

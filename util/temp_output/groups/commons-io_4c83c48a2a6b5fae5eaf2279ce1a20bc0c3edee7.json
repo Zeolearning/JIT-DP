@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/ReaderInputStream.java",
+			"rightBegin":1,
+			"rightEnd":237
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/WriterOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":274
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/ReaderInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":101
+		}
+	]
+]

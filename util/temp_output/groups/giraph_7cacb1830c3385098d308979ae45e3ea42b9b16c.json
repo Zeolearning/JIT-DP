@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/test/java/org/apache/giraph/block_app/library/connected_components/TestConnectedComponentsBlockFactory.java",
+			"rightBegin":1,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/main/java/org/apache/giraph/block_app/library/connected_components/package-info.java",
+			"rightBegin":1,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/main/java/org/apache/giraph/block_app/library/connected_components/ConnectedComponentsBlockFactory.java",
+			"rightBegin":1,
+			"rightEnd":95
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerFieldStepInterpolatorTest.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerFieldStepInterpolatorTest.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

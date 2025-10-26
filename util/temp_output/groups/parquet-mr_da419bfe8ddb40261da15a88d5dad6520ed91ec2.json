@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/MessageColumnIO.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"redelm-column/src/main/java/redelm/io/MessageColumnIO.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/RecordConsumerWrapper.java",
+			"leftBegin":75,
+			"leftEnd":77,
+			"rightPath":"redelm-column/src/main/java/redelm/io/RecordConsumerWrapper.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

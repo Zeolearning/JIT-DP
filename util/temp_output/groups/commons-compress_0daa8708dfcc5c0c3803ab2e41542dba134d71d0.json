@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java",
+			"leftBegin":50,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java",
+			"rightBegin":50,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"leftBegin":1165,
+			"leftEnd":1165,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"rightBegin":1165,
+			"rightEnd":1165
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java",
+			"leftBegin":60,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java",
+			"rightBegin":55,
+			"rightEnd":54
+		}
+	]
+]

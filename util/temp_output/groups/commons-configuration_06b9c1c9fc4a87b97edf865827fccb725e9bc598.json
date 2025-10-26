@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedBuilderParameters.java",
+			"leftBegin":306,
+			"leftEnd":305,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestFileBasedBuilderParameters.java",
+			"rightBegin":306,
+			"rightEnd":347
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"rightBegin":135,
+			"rightEnd":160
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"rightBegin":56,
+			"rightEnd":62
+		}
+	]
+]

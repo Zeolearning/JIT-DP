@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/ICache.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/ICache.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/ICacheSafe.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/core/ICacheSafe.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

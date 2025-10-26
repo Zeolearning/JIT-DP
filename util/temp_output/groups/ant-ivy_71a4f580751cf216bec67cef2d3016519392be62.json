@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/CacheResolver.java",
+			"leftBegin":106,
+			"leftEnd":105,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/CacheResolver.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	]
+]

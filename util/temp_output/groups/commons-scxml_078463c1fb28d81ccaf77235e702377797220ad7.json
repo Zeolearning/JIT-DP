@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"leftBegin":198,
+			"leftEnd":199,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"rightBegin":198,
+			"rightEnd":197
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"leftBegin":190,
+			"leftEnd":190,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"rightBegin":190,
+			"rightEnd":190
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"leftBegin":109,
+			"leftEnd":109,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/dbcp/PoolableConnection.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

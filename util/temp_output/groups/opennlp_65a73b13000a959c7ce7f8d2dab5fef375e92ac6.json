@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/BeamSearch.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/BeamSearch.java",
+			"rightBegin":32,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/BeamSearch.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/BeamSearch.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

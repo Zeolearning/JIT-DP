@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java",
+			"leftBegin":103,
+			"leftEnd":104,
+			"rightPath":"src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java",
+			"rightBegin":103,
+			"rightEnd":102
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java",
+			"leftBegin":106,
+			"leftEnd":105,
+			"rightPath":"src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	]
+]

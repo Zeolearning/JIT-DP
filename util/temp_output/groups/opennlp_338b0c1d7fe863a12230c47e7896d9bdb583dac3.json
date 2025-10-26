@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/GenerateManualTool.java",
+			"rightBegin":1,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"rightBegin":309,
+			"rightEnd":310
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"leftBegin":224,
+			"leftEnd":223,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"rightBegin":225,
+			"rightEnd":307
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/ArgumentParser.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

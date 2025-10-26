@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/RealMatrix.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/java/org/apache/commons/math/linear/RealMatrix.java",
+			"rightBegin":117,
+			"rightEnd":124
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"src/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"rightBegin":220,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"rightBegin":162,
+			"rightEnd":169
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/ngram/NGramModelTest.java",
+			"leftBegin":187,
+			"leftEnd":187,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/ngram/NGramModelTest.java",
+			"rightBegin":187,
+			"rightEnd":192
+		}
+	]
+]

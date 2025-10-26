@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DOMConfiguration.java",
+			"leftBegin":121,
+			"leftEnd":123,
+			"rightPath":"src/java/org/apache/commons/configuration/DOMConfiguration.java",
+			"rightBegin":121,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DOMConfiguration.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/configuration/DOMConfiguration.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

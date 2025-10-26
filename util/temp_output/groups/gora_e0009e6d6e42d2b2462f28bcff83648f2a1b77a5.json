@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/query/CassandraSubColumn.java",
+			"leftBegin":98,
+			"leftEnd":99,
+			"rightPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/query/CassandraSubColumn.java",
+			"rightBegin":98,
+			"rightEnd":100
+		}
+	]
+]

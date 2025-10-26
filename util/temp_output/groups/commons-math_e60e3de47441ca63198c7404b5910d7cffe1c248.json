@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/minimization/UnivariateRealMinimizerImpl.java",
+			"rightBegin":1,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/minimization/BrentMinimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/minimization/UnivariateRealMinimizer.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/minimization/BrentMinimizer.java",
+			"rightBegin":1,
+			"rightEnd":204
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/AbstractTestCase.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/test/java/org/apache/bcel/AbstractTestCase.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

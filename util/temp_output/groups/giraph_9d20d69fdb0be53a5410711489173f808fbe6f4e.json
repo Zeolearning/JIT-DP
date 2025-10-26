@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccPhaseMasterCompute.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccPhaseMasterCompute.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccPhaseMasterCompute.java",
+			"leftBegin":67,
+			"leftEnd":68,
+			"rightPath":"giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccPhaseMasterCompute.java",
+			"rightBegin":67,
+			"rightEnd":68
+		}
+	]
+]

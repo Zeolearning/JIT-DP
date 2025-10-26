@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnshrinkingInputStream.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnshrinkingInputStream.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

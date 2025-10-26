@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/obr/xml/OBRXMLParser.java",
+			"leftBegin":120,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/ivy/osgi/obr/xml/OBRXMLParser.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/obr/xml/OBRXMLParser.java",
+			"leftBegin":114,
+			"leftEnd":115,
+			"rightPath":"src/java/org/apache/ivy/osgi/obr/xml/OBRXMLParser.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	]
+]

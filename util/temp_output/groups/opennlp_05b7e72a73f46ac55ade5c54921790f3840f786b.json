@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"rightBegin":103,
+			"rightEnd":103
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"rightBegin":25,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

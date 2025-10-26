@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestClassMap.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/ClassMap.java",
+			"rightBegin":1,
+			"rightEnd":174
+		}
+	]
+]

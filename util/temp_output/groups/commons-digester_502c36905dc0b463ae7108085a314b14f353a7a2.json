@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"leftBegin":449,
+			"leftEnd":481,
+			"rightPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"rightBegin":449,
+			"rightEnd":448
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"leftBegin":174,
+			"leftEnd":174,
+			"rightPath":"src/main/java/org/apache/commons/digester3/Digester.java",
+			"rightBegin":174,
+			"rightEnd":174
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"rightBegin":75,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"leftBegin":61,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/Incrementor.java",
+			"rightBegin":69,
+			"rightEnd":70
+		}
+	]
+]

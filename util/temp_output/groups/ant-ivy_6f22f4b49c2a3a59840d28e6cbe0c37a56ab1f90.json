@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"asciidoc/templates/extensions/src/org/apache/ivy/asciidoc/JiraMacro.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	]
+]

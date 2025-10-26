@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"rightBegin":76,
+			"rightEnd":77
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"rightBegin":39,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

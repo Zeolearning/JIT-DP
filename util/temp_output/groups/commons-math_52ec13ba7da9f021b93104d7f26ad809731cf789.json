@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestPermutations.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestPermutations.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/TestProblemFactory.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/TestProblemFactory.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

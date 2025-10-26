@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/BaseNCodecTest.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/test/org/apache/commons/codec/binary/BaseNCodecTest.java",
+			"rightBegin":128,
+			"rightEnd":129
+		}
+	]
+]

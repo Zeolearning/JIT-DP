@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-protobuf/src/test/java/parquet/proto/ProtoWriteSupportTest.java",
+			"rightBegin":1,
+			"rightEnd":143
+		}
+	]
+]

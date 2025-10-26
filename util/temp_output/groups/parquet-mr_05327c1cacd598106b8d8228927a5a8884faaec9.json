@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/statistics/Statistics.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"parquet-column/src/main/java/parquet/column/statistics/Statistics.java",
+			"rightBegin":127,
+			"rightEnd":134
+		}
+	]
+]

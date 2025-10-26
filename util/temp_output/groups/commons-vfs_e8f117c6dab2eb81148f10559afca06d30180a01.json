@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/MoveTask.java",
+			"leftBegin":18,
+			"leftEnd":17,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/MoveTask.java",
+			"rightBegin":18,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/MoveTask.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/MoveTask.java",
+			"rightBegin":61,
+			"rightEnd":62
+		}
+	]
+]

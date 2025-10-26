@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/TapeInputStream.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/TapeInputStream.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java",
+			"leftBegin":23,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java",
+			"leftBegin":458,
+			"leftEnd":460,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java",
+			"rightBegin":458,
+			"rightEnd":466
+		}
+	]
+]

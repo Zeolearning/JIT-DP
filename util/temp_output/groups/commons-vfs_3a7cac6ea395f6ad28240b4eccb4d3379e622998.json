@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"leftBegin":105,
+			"leftEnd":106,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"rightBegin":103,
+			"rightEnd":103
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"rightBegin":28,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/temp/TemporaryFileProvider.java",
+			"rightBegin":102,
+			"rightEnd":101
+		}
+	]
+]

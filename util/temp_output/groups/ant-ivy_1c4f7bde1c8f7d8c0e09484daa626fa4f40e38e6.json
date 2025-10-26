@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/osgi/core/OSGiManifestParserTest.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/BundleInfoAdapter.java",
+			"leftBegin":116,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/BundleInfoAdapter.java",
+			"rightBegin":116,
+			"rightEnd":128
+		}
+	]
+]

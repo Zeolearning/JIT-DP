@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"rightBegin":49,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"rightBegin":19,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/event/EventType.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/SymmLQ.java",
+			"leftBegin":1219,
+			"leftEnd":1218,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/SymmLQ.java",
+			"rightBegin":1219,
+			"rightEnd":1220
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/ConjugateGradient.java",
+			"leftBegin":197,
+			"leftEnd":196,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/ConjugateGradient.java",
+			"rightBegin":197,
+			"rightEnd":198
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"leftBegin":2473,
+			"leftEnd":2472,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+			"rightBegin":2473,
+			"rightEnd":2474
+		}
+	]
+]

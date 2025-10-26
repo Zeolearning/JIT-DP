@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Range.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/lang/Range.java",
+			"rightBegin":29,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Range.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/java/org/apache/commons/lang/Range.java",
+			"rightBegin":30,
+			"rightEnd":32
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Range.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/java/org/apache/commons/lang/Range.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	]
+]

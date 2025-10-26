@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"leftBegin":207,
+			"leftEnd":207,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"rightBegin":207,
+			"rightEnd":207
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/FunctionUtilsTest.java",
+			"rightBegin":36,
+			"rightEnd":35
+		}
+	]
+]

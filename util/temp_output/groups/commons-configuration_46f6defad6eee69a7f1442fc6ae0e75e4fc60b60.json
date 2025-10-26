@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":65,
+			"rightEnd":66
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":60,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":27,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

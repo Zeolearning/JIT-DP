@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/ProgressableUtils.java",
+			"leftBegin":273,
+			"leftEnd":274,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ProgressableUtils.java",
+			"rightBegin":273,
+			"rightEnd":282
+		}
+	]
+]

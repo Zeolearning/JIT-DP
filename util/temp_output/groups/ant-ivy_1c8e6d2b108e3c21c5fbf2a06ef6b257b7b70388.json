@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/xml/XmlReportParser.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/fr/jayasoft/ivy/xml/XmlReportParser.java",
+			"rightBegin":79,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"leftBegin":126,
+			"leftEnd":127,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyResolve.java",
+			"rightBegin":126,
+			"rightEnd":128
+		}
+	]
+]

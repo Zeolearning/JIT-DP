@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/DefaultModuleDescriptor.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/java/fr/jayasoft/ivy/DefaultModuleDescriptor.java",
+			"rightBegin":63,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/DefaultModuleDescriptor.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/java/fr/jayasoft/ivy/DefaultModuleDescriptor.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/NotifierException.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/Notifier.java",
+			"rightBegin":1,
+			"rightEnd":186
+		}
+	]
+]

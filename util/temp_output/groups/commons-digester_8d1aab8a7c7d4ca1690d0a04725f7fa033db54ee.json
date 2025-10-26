@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/AbstractMethodHandler.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/AbstractMethodHandler.java",
+			"rightBegin":46,
+			"rightEnd":47
+		}
+	]
+]

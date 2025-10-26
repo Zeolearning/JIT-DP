@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/DirectCodecFactory.java",
+			"leftBegin":412,
+			"leftEnd":412,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/DirectCodecFactory.java",
+			"rightBegin":412,
+			"rightEnd":412
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/DirectCodecFactory.java",
+			"leftBegin":392,
+			"leftEnd":392,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/DirectCodecFactory.java",
+			"rightBegin":392,
+			"rightEnd":392
+		}
+	]
+]

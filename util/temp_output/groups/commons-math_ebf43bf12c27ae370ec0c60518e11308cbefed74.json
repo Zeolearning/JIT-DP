@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/test/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":252,
+			"rightEnd":252
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/FrequencyTest.java",
+			"leftBegin":193,
+			"leftEnd":192,
+			"rightPath":"src/test/org/apache/commons/math/stat/FrequencyTest.java",
+			"rightBegin":193,
+			"rightEnd":193
+		}
+	]
+]

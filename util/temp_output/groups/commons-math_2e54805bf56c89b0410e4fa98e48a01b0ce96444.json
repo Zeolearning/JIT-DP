@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+			"leftBegin":261,
+			"leftEnd":279,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+			"rightBegin":261,
+			"rightEnd":260
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

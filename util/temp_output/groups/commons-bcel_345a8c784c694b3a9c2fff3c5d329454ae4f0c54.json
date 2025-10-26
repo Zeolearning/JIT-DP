@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"leftBegin":255,
+			"leftEnd":267,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"rightBegin":255,
+			"rightEnd":274
+		}
+	]
+]

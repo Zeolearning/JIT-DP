@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLDigesterTest.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLDigesterTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jsp/Standalone.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jsp/Standalone.java",
+			"rightBegin":33,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/jsp/Standalone.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/jsp/Standalone.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	]
+]

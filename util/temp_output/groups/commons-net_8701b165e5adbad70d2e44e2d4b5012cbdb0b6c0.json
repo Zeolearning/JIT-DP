@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/telnet/TelnetClientExample.java",
+			"leftBegin":239,
+			"leftEnd":239,
+			"rightPath":"src/main/java/examples/telnet/TelnetClientExample.java",
+			"rightBegin":240,
+			"rightEnd":240
+		},
+		{
+			"leftPath":"src/main/java/examples/telnet/TelnetClientExample.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/examples/telnet/TelnetClientExample.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

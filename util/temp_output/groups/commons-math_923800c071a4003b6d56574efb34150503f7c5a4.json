@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/Decimal64.java",
+			"rightBegin":1,
+			"rightEnd":304
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/Decimal64Field.java",
+			"rightBegin":1,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/Decimal64Test.java",
+			"rightBegin":1,
+			"rightEnd":421
+		}
+	]
+]

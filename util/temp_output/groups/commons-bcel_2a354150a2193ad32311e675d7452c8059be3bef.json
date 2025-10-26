@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/Constant.java",
+			"leftBegin":168,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/Constant.java",
+			"rightBegin":168,
+			"rightEnd":169
+		}
+	]
+]

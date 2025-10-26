@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"leftBegin":96,
+			"leftEnd":97,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/direct/PowellOptimizer.java",
+			"rightBegin":96,
+			"rightEnd":98
+		}
+	]
+]

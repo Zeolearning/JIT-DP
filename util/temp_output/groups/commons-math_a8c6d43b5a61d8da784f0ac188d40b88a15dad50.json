@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/descriptive/rank/PercentileTest.java",
+			"leftBegin":698,
+			"leftEnd":698,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/descriptive/rank/PercentileTest.java",
+			"rightBegin":698,
+			"rightEnd":698
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/descriptive/rank/PercentileTest.java",
+			"leftBegin":319,
+			"leftEnd":319,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/descriptive/rank/PercentileTest.java",
+			"rightBegin":319,
+			"rightEnd":319
+		}
+	]
+]

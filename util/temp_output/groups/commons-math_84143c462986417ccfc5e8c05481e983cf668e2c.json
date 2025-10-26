@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/JDKRandomAdaptorTest.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/JDKRandomAdaptorTest.java",
+			"rightBegin":83,
+			"rightEnd":83
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/JDKRandomAdaptorTest.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/JDKRandomAdaptorTest.java",
+			"rightBegin":85,
+			"rightEnd":90
+		}
+	]
+]

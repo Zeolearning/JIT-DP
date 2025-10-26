@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Java9ZipEntryTimeTest.java",
+			"rightBegin":1,
+			"rightEnd":48
+		}
+	]
+]

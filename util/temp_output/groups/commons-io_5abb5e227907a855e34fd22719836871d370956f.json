@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":104,
+			"leftEnd":105,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	]
+]

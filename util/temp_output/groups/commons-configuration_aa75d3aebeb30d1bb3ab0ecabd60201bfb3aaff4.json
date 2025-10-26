@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"rightBegin":182,
+			"rightEnd":182
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"rightBegin":19,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"leftBegin":27,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/XMLListReference.java",
+			"rightBegin":30,
+			"rightEnd":29
+		}
+	]
+]

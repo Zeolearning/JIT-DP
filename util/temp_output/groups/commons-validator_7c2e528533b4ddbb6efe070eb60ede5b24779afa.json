@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/ValidatorResourcesTest.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/validator/ValidatorResourcesTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/EmailTest.java",
+			"leftBegin":21,
+			"leftEnd":23,
+			"rightPath":"src/test/java/org/apache/commons/validator/EmailTest.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/ByteTest.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/validator/ByteTest.java",
+			"rightBegin":19,
+			"rightEnd":18
+		}
+	]
+]

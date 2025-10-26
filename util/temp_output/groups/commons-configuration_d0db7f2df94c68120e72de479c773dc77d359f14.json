@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/reloading/TestPeriodicReloadingTrigger.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/test/java/org/apache/commons/configuration/reloading/TestPeriodicReloadingTrigger.java",
+			"rightBegin":149,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/reloading/TestCombinedReloadingController.java",
+			"rightBegin":1,
+			"rightEnd":180
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/reloading/CombinedReloadingController.java",
+			"rightBegin":1,
+			"rightEnd":150
+		}
+	]
+]

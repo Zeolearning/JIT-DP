@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/input/ProxyReaderTest.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/test/org/apache/commons/io/input/ProxyReaderTest.java",
+			"rightBegin":78,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/input/ProxyReaderTest.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/test/org/apache/commons/io/input/ProxyReaderTest.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

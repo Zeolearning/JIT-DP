@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/util/VersionInfo.java",
+			"rightBegin":1,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/GoraVersionAnnotation.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	]
+]

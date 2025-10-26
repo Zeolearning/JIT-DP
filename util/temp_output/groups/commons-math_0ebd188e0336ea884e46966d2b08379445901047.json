@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/interpolation/SmoothingBicubicSplineInterpolatorTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/interpolation/SmoothingBicubicSplineInterpolatorTest.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/interpolation/BicubicSplineInterpolatingFunctionTest.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

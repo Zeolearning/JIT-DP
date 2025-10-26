@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/schema/TestMessageType.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"parquet-column/src/test/java/parquet/schema/TestMessageType.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

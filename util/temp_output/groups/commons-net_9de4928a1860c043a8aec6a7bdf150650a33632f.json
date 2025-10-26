@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"leftBegin":172,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"rightBegin":175,
+			"rightEnd":174
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"rightBegin":159,
+			"rightEnd":160
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"leftBegin":164,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/net/io/FromNetASCIIInputStream.java",
+			"rightBegin":165,
+			"rightEnd":166
+		}
+	]
+]

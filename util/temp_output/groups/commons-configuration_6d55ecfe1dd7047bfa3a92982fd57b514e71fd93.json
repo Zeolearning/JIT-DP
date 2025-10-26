@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"leftBegin":1,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"rightBegin":1,
+			"rightEnd":0
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/org/apache/commons/configuration/TestBaseConfigurationXMLReader.java",
+			"rightBegin":17,
+			"rightEnd":18
+		}
+	]
+]

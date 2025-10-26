@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParserTest.java",
+			"leftBegin":60,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParserTest.java",
+			"rightBegin":61,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParserTest.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/VMSFTPEntryParserTest.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	]
+]

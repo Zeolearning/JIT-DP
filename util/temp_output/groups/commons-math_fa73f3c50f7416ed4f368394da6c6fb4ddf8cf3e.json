@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/ISAACTest.java",
+			"leftBegin":1,
+			"leftEnd":391,
+			"rightPath":"src/test/java/org/apache/commons/math/random/ISAACTest.java",
+			"rightBegin":1,
+			"rightEnd":388
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/random/ISAACRandom.java",
+			"leftBegin":1,
+			"leftEnd":286,
+			"rightPath":"src/main/java/org/apache/commons/math/random/ISAACRandom.java",
+			"rightBegin":1,
+			"rightEnd":279
+		}
+	]
+]

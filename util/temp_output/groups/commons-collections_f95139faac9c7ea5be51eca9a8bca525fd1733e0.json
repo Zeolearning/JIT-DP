@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"leftBegin":138,
+			"leftEnd":137,
+			"rightPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"rightBegin":122,
+			"rightEnd":136
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"leftBegin":92,
+			"leftEnd":107,
+			"rightPath":"src/java/org/apache/commons/collections/map/PredicatedMap.java",
+			"rightBegin":92,
+			"rightEnd":91
+		}
+	]
+]

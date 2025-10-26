@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-generator/src/main/java/org/apache/parquet/version/VersionGenerator.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"parquet-generator/src/main/java/org/apache/parquet/version/VersionGenerator.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	]
+]

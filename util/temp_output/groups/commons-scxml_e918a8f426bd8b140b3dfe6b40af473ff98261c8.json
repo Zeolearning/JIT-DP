@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"rightBegin":68,
+			"rightEnd":68
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"rightBegin":21,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/scxml/NotificationRegistry.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

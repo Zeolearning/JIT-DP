@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/SymmLQ.java",
+			"rightBegin":1,
+			"rightEnd":1223
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/SymmLQTest.java",
+			"rightBegin":1,
+			"rightEnd":641
+		}
+	]
+]

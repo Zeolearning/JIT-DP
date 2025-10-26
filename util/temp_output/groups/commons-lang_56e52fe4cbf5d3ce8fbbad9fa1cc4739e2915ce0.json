@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"leftBegin":1,
+			"leftEnd":1580,
+			"rightPath":"src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+			"rightBegin":1,
+			"rightEnd":1580
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"leftBegin":1,
+			"leftEnd":460,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+			"rightBegin":1,
+			"rightEnd":460
+		}
+	]
+]

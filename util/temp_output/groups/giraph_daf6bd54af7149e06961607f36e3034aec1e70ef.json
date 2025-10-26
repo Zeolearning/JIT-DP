@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java",
+			"rightBegin":61,
+			"rightEnd":60
+		}
+	]
+]

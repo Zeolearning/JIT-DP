@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/bzip2/Bzip2FileObject.java",
+			"leftBegin":18,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/bzip2/Bzip2FileObject.java",
+			"rightBegin":18,
+			"rightEnd":20
+		}
+	]
+]

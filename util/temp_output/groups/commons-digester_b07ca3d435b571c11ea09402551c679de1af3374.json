@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/SetPropertyBuilder.java",
+			"rightBegin":1,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"leftBegin":101,
+			"leftEnd":102,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"rightBegin":101,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"leftBegin":104,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

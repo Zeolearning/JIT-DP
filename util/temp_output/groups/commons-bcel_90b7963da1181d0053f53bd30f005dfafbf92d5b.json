@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/bcel6/verifier/tests/TestArrayAccess04Creator.java",
+			"leftBegin":17,
+			"leftEnd":17,
+			"rightPath":"src/test/java/org/apache/commons/bcel6/verifier/tests/TestArrayAccess04Creator.java",
+			"rightBegin":17,
+			"rightEnd":19
+		}
+	]
+]

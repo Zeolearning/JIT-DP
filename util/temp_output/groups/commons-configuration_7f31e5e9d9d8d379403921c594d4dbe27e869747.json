@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"rightBegin":57,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/configuration/plist/AbstractTestPListEvents.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

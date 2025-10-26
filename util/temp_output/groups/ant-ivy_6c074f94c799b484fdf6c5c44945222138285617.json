@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/jar/JarResource.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/jar/JarResource.java",
+			"rightBegin":58,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/jar/JarResource.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/jar/JarResource.java",
+			"rightBegin":70,
+			"rightEnd":72
+		}
+	]
+]

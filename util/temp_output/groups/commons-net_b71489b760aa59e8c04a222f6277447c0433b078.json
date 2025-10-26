@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/ReplyIterator.java",
+			"leftBegin":43,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/ReplyIterator.java",
+			"rightBegin":43,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/ReplyIterator.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/ReplyIterator.java",
+			"rightBegin":57,
+			"rightEnd":60
+		}
+	]
+]

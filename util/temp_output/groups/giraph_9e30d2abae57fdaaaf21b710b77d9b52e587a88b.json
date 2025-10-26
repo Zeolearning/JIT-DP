@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/giraph/lib/TestTextDoubleDoubleAdjacencyListVertexInputFormat.java",
+			"rightBegin":1,
+			"rightEnd":158
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/lib/TextDoubleDoubleAdjacencyListVertexInputFormat.java",
+			"rightBegin":1,
+			"rightEnd":74
+		}
+	]
+]

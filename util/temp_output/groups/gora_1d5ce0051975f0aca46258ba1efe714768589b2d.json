@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/serializers/AvroSerializer.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/serializers/AvroSerializer.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

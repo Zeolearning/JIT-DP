@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/jdbc/HsqlSetupTableUtil.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/jdbc/HsqlSetupTableUtil.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

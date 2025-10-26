@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"rightBegin":91,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"rightBegin":90,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"rightBegin":78,
+			"rightEnd":77
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

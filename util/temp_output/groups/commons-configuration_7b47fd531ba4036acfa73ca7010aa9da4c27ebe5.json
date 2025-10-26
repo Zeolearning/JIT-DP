@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/DefaultConfigurationKey.java",
+			"rightBegin":1,
+			"rightEnd":855
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/tree/TestDefaultExpressionEngine.java",
+			"rightBegin":1,
+			"rightEnd":530
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/tree/DefaultExpressionEngine.java",
+			"rightBegin":1,
+			"rightEnd":545
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/tree/TestDefaultConfigurationKey.java",
+			"rightBegin":1,
+			"rightEnd":476
+		}
+	]
+]

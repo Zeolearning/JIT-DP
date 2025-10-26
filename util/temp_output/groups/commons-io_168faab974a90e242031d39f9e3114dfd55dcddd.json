@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/test/org/apache/commons/io/CopyUtilsTest.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	]
+]

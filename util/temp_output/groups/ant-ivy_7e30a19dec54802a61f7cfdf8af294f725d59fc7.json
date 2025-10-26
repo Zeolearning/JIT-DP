@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/VsftpResolver.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/vsftp/VsftpResource.java",
+			"rightBegin":1,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/vsftp/VsftpRepository.java",
+			"rightBegin":1,
+			"rightEnd":330
+		}
+	]
+]

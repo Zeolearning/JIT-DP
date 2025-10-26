@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMap.java",
+			"leftBegin":391,
+			"leftEnd":391,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMap.java",
+			"rightBegin":391,
+			"rightEnd":391
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMap.java",
+			"leftBegin":386,
+			"leftEnd":386,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMap.java",
+			"rightBegin":386,
+			"rightEnd":386
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/hadoop/RedelmFileWriter.java",
+			"leftBegin":58,
+			"leftEnd":59,
+			"rightPath":"redelm-pig/src/main/java/redelm/hadoop/RedelmFileWriter.java",
+			"rightBegin":59,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"redelm-pig/src/main/java/redelm/hadoop/RedelmFileWriter.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"redelm-pig/src/main/java/redelm/hadoop/RedelmFileWriter.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

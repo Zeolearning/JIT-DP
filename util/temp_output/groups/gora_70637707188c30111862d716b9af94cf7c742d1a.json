@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/mapreduce/TestHBaseStoreMapReduceSerialization.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/examples/java/org/apache/gora/examples/mapreduce/MapReduceSerialization.java",
+			"rightBegin":1,
+			"rightEnd":159
+		}
+	]
+]

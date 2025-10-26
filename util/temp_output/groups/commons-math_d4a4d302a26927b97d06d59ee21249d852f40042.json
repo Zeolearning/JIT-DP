@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"rightBegin":70,
+			"rightEnd":97
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"leftBegin":18,
+			"leftEnd":17,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/AbstractStorelessUnivariateStatistic.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

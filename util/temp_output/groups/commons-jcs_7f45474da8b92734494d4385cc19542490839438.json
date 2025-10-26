@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileUtils.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileUtils.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileUtils.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/file/CacheFileUtils.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

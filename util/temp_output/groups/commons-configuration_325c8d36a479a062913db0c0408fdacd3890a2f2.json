@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"leftBegin":870,
+			"leftEnd":869,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"rightBegin":870,
+			"rightEnd":884
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/MultiFileHierarchicalConfiguration.java",
+			"leftBegin":482,
+			"leftEnd":482,
+			"rightPath":"src/java/org/apache/commons/configuration/MultiFileHierarchicalConfiguration.java",
+			"rightBegin":482,
+			"rightEnd":482
+		}
+	]
+]

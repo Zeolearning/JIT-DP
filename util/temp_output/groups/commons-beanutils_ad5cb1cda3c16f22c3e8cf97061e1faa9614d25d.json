@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/BooleanConverter.java",
+			"leftBegin":223,
+			"leftEnd":223,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/BooleanConverter.java",
+			"rightBegin":223,
+			"rightEnd":223
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java",
+			"leftBegin":446,
+			"leftEnd":469,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java",
+			"rightBegin":447,
+			"rightEnd":448
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

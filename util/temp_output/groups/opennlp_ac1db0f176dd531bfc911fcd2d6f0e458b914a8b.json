@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokSpanEventStream.java",
+			"leftBegin":116,
+			"leftEnd":117,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokSpanEventStream.java",
+			"rightBegin":116,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenSample.java",
+			"leftBegin":59,
+			"leftEnd":62,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenSample.java",
+			"rightBegin":59,
+			"rightEnd":62
+		}
+	]
+]

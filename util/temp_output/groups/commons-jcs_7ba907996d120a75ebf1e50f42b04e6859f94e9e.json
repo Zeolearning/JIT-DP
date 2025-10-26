@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"rightBegin":180,
+			"rightEnd":181
+		},
+		{
+			"leftPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"leftBegin":9,
+			"leftEnd":8,
+			"rightPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"rightBegin":9,
+			"rightEnd":9
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"src/test/org/apache/jcs/utils/threadpool/ThreadPoolManagerUnitTest.java",
+			"rightBegin":163,
+			"rightEnd":178
+		}
+	]
+]

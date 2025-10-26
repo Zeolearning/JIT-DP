@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"leftBegin":29,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"leftBegin":176,
+			"leftEnd":177,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"rightBegin":175,
+			"rightEnd":175
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"leftBegin":206,
+			"leftEnd":206,
+			"rightPath":"src/test/java/org/apache/commons/lang3/RegExUtilsTest.java",
+			"rightBegin":204,
+			"rightEnd":204
+		}
+	]
+]

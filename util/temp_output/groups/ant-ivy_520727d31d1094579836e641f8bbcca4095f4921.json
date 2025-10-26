@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"leftBegin":192,
+			"leftEnd":197,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"rightBegin":194,
+			"rightEnd":199
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

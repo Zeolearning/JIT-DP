@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/polynomials/PolynomialsUtils.java",
+			"leftBegin":280,
+			"leftEnd":279,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/polynomials/PolynomialsUtils.java",
+			"rightBegin":280,
+			"rightEnd":293
+		}
+	]
+]

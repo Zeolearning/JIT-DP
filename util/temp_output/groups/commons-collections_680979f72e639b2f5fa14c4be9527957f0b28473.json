@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"leftBegin":472,
+			"leftEnd":472,
+			"rightPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"rightBegin":473,
+			"rightEnd":476
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"leftBegin":464,
+			"leftEnd":464,
+			"rightPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"rightBegin":463,
+			"rightEnd":465
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"leftBegin":460,
+			"leftEnd":460,
+			"rightPath":"src/main/java/org/apache/commons/collections/bag/AbstractMapBag.java",
+			"rightBegin":460,
+			"rightEnd":459
+		}
+	]
+]

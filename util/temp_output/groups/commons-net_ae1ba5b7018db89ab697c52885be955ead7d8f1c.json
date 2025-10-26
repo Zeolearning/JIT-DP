@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/telnet/TelnetClientTest.java",
+			"leftBegin":759,
+			"leftEnd":758,
+			"rightPath":"src/test/java/org/apache/commons/net/telnet/TelnetClientTest.java",
+			"rightBegin":759,
+			"rightEnd":759
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/DownloadListings.java",
+			"leftBegin":130,
+			"leftEnd":129,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/DownloadListings.java",
+			"rightBegin":130,
+			"rightEnd":130
+		}
+	]
+]

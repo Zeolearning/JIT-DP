@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestFileConfiguration.java",
+			"leftBegin":520,
+			"leftEnd":522,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestFileConfiguration.java",
+			"rightBegin":522,
+			"rightEnd":527
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestFileConfiguration.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestFileConfiguration.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	]
+]

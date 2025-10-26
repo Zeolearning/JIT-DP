@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"leftBegin":56,
+			"leftEnd":61,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

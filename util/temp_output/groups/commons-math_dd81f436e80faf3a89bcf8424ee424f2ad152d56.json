@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatistics.java",
+			"leftBegin":308,
+			"leftEnd":317,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatistics.java",
+			"rightBegin":310,
+			"rightEnd":319
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatistics.java",
+			"leftBegin":307,
+			"leftEnd":306,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatistics.java",
+			"rightBegin":307,
+			"rightEnd":308
+		}
+	]
+]

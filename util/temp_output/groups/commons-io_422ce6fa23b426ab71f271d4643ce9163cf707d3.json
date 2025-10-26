@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/TeeInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/TeeInputStream.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	]
+]

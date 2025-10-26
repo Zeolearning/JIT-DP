@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/dictionary/AbbreviationDictionaryTest.java",
+			"rightBegin":1,
+			"rightEnd":171
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/AbbreviationDictionary.java",
+			"rightBegin":1,
+			"rightEnd":268
+		}
+	]
+]

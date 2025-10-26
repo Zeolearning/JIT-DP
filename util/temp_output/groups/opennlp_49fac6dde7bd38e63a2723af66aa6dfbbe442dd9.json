@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelWriter.java",
+			"leftBegin":90,
+			"leftEnd":92,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelWriter.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	]
+]

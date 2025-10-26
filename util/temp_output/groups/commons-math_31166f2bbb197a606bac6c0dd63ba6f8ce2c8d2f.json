@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/StorelessUnivariateStatisticAbstractTest.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/StorelessUnivariateStatisticAbstractTest.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/StorelessUnivariateStatisticAbstractTest.java",
+			"leftBegin":86,
+			"leftEnd":87,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/StorelessUnivariateStatisticAbstractTest.java",
+			"rightBegin":86,
+			"rightEnd":87
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"rightBegin":61,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"rightBegin":69,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/primitives/TestIntList.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

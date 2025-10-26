@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-solr/src/main/java/org/apache/gora/solr/store/SolrStore.java",
+			"leftBegin":329,
+			"leftEnd":329,
+			"rightPath":"gora-solr/src/main/java/org/apache/gora/solr/store/SolrStore.java",
+			"rightBegin":329,
+			"rightEnd":329
+		},
+		{
+			"leftPath":"gora-solr/src/main/java/org/apache/gora/solr/store/SolrStore.java",
+			"leftBegin":315,
+			"leftEnd":315,
+			"rightPath":"gora-solr/src/main/java/org/apache/gora/solr/store/SolrStore.java",
+			"rightBegin":315,
+			"rightEnd":315
+		}
+	]
+]

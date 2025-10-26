@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/ListGenericArray.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/ListGenericArray.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/persistency/TestListGenericArray.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	]
+]

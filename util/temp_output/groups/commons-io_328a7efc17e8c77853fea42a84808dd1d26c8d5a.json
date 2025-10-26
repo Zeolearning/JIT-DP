@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":301,
+			"leftEnd":300,
+			"rightPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":312,
+			"rightEnd":312
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":300,
+			"leftEnd":299,
+			"rightPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":304,
+			"rightEnd":310
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":291,
+			"leftEnd":298,
+			"rightPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":293,
+			"rightEnd":302
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":23,
+			"rightEnd":24
+		}
+	]
+]

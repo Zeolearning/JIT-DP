@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterThread.java",
+			"leftBegin":179,
+			"leftEnd":179,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterThread.java",
+			"rightBegin":179,
+			"rightEnd":178
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterThread.java",
+			"leftBegin":182,
+			"leftEnd":181,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterThread.java",
+			"rightBegin":181,
+			"rightEnd":181
+		}
+	]
+]

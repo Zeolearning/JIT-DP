@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/nntp/post.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/examples/nntp/PostMessage.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

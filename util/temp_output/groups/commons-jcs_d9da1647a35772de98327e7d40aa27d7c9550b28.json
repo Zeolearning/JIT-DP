@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManager.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/java/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManager.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

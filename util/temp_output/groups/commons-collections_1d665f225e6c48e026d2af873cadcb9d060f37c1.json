@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

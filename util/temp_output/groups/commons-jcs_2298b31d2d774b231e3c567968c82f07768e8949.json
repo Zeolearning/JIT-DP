@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefFileCache.java",
+			"rightBegin":1,
+			"rightEnd":393
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/soft/SoftRefFileCacheSafe.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	]
+]

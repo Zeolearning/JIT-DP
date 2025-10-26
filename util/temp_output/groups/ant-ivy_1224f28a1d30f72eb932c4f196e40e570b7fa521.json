@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/conflict/LatestConflictManagerTest.java",
+			"rightBegin":1,
+			"rightEnd":63
+		}
+	]
+]

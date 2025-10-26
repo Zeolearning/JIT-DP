@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/IntHashMapTest.java",
+			"leftBegin":1,
+			"leftEnd":128,
+			"rightPath":"src/test/org/apache/commons/lang/IntHashMapTest.java",
+			"rightBegin":1,
+			"rightEnd":141
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"leftBegin":32,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"rightBegin":32,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"leftBegin":48,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"rightBegin":48,
+			"rightEnd":50
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"leftBegin":519,
+			"leftEnd":519,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"rightBegin":518,
+			"rightEnd":517
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"leftBegin":431,
+			"leftEnd":432,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"rightBegin":432,
+			"rightEnd":431
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/lang/reflect/MethodUtils.java",
+			"rightBegin":78,
+			"rightEnd":79
+		}
+	]
+]

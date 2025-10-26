@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/math3/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"rightBegin":44,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/ml/neuralnet/oned/NeuronString.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/math3/ml/neuralnet/oned/NeuronString.java",
+			"rightBegin":34,
+			"rightEnd":37
+		}
+	]
+]

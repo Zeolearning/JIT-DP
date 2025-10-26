@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedBeanPropertySetterBuilder.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedBeanPropertySetterBuilder.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedBeanPropertySetterBuilder.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedBeanPropertySetterBuilder.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

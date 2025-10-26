@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/AuthenticatingIMAPClient.java",
+			"leftBegin":143,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/AuthenticatingIMAPClient.java",
+			"rightBegin":143,
+			"rightEnd":143
+		}
+	]
+]

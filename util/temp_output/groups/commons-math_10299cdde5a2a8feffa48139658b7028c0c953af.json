@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MultidimensionalCounter.java",
+			"rightBegin":1,
+			"rightEnd":299
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MultidimensionalCounterTest.java",
+			"rightBegin":1,
+			"rightEnd":169
+		}
+	]
+]

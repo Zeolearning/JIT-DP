@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SetPropertiesRule.java",
+			"leftBegin":209,
+			"leftEnd":208,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SetPropertiesRule.java",
+			"rightBegin":210,
+			"rightEnd":210
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SetPropertiesRule.java",
+			"leftBegin":208,
+			"leftEnd":207,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SetPropertiesRule.java",
+			"rightBegin":208,
+			"rightEnd":208
+		}
+	]
+]

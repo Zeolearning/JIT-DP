@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/QCodec.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/QCodec.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/net/QCodec.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/codec/net/QCodec.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/key/KeyGeneratorUtilUnitTest.java",
+			"leftBegin":1,
+			"leftEnd":250,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/net/AddressUtil.java",
+			"leftBegin":1,
+			"leftEnd":134,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/net/AddressUtilUnitTest.java",
+			"leftBegin":1,
+			"leftEnd":39,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/key/KeyGeneratorUtil.java",
+			"leftBegin":1,
+			"leftEnd":190,
+			"rightPath":null
+		}
+	]
+]

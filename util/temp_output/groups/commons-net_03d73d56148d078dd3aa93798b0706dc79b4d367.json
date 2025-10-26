@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPRequestPacket.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/main/java/org/apache/commons/net/tftp/TFTPRequestPacket.java",
+			"rightBegin":147,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/DefaultFTPFileEntryParserFactory.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/DefaultFTPFileEntryParserFactory.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

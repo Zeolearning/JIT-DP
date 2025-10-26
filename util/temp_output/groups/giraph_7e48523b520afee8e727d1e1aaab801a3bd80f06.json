@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/yarn/TestYarnJob.java",
+			"leftBegin":207,
+			"leftEnd":207,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/yarn/TestYarnJob.java",
+			"rightBegin":207,
+			"rightEnd":207
+		},
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/yarn/TestYarnJob.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/yarn/TestYarnJob.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"leftBegin":75,
+			"leftEnd":94,
+			"rightPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"rightBegin":64,
+			"rightEnd":63
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"leftBegin":52,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"rightBegin":52,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"leftBegin":56,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/compress/AbstractTestCase.java",
+			"rightBegin":54,
+			"rightEnd":55
+		}
+	]
+]

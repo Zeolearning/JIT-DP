@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Interpolation.java",
+			"leftBegin":13,
+			"leftEnd":13,
+			"rightPath":"src/java/org/apache/commons/lang/Interpolation.java",
+			"rightBegin":13,
+			"rightEnd":13
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Interpolation.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/java/org/apache/commons/lang/Interpolation.java",
+			"rightBegin":84,
+			"rightEnd":83
+		}
+	]
+]

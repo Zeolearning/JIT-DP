@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/commons/math/util/BeanTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/commons/math/util/BeanTransformer.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	]
+]

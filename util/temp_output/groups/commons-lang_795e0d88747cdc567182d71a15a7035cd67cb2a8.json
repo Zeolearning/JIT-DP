@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/IllegalClassExceptionTest.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/lang/IllegalClassExceptionTest.java",
+			"rightBegin":64,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/IllegalClassExceptionTest.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/lang/IllegalClassExceptionTest.java",
+			"rightBegin":93,
+			"rightEnd":105
+		}
+	]
+]

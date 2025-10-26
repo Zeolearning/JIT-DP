@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/tasks/VfsTask.java",
+			"leftBegin":51,
+			"leftEnd":53,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/tasks/VfsTask.java",
+			"rightBegin":51,
+			"rightEnd":54
+		}
+	]
+]

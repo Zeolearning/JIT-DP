@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"leftBegin":29,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"rightBegin":29,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/InvertibleRealLinearOperator.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

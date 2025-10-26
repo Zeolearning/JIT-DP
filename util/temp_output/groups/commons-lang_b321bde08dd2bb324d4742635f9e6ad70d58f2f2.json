@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrLookupTest.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrLookupTest.java",
+			"rightBegin":61,
+			"rightEnd":61
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrLookupTest.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrLookupTest.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

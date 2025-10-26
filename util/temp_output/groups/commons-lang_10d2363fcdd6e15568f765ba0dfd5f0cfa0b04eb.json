@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"leftBegin":20,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"rightBegin":20,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"leftBegin":48,
+			"leftEnd":58,
+			"rightPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"rightBegin":45,
+			"rightEnd":51
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"leftBegin":77,
+			"leftEnd":110,
+			"rightPath":"src/test/java/org/apache/commons/lang3/CharEncodingTest.java",
+			"rightBegin":70,
+			"rightEnd":69
+		}
+	]
+]

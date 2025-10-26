@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/conflict/LatestConflictManagerTest.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"test/java/org/apache/ivy/plugins/conflict/LatestConflictManagerTest.java",
+			"rightBegin":121,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/conflict/LatestConflictManagerTest.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"test/java/org/apache/ivy/plugins/conflict/LatestConflictManagerTest.java",
+			"rightBegin":92,
+			"rightEnd":99
+		}
+	]
+]

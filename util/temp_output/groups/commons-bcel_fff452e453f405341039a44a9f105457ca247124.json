@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"leftBegin":102,
+			"leftEnd":103,
+			"rightPath":"src/java/org/apache/bcel/generic/ClassGen.java",
+			"rightBegin":102,
+			"rightEnd":105
+		}
+	]
+]

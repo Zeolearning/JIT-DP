@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+			"leftBegin":37,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+			"rightBegin":37,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+			"rightBegin":38,
+			"rightEnd":39
+		}
+	]
+]

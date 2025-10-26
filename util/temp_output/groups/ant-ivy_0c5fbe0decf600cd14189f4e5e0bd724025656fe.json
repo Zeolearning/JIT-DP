@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"leftBegin":369,
+			"leftEnd":369,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java",
+			"rightBegin":369,
+			"rightEnd":370
+		}
+	]
+]

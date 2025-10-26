@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IteratorIntIterator.java",
+			"rightBegin":1,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntIteratorIterator.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"rightBegin":1,
+			"rightEnd":163
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/CollectionIntCollection.java",
+			"rightBegin":1,
+			"rightEnd":157
+		}
+	]
+]

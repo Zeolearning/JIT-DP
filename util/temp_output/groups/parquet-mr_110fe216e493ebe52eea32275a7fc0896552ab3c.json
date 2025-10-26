@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/codec/CodecConfigTest.java",
+			"leftBegin":38,
+			"leftEnd":39,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/codec/CodecConfigTest.java",
+			"rightBegin":38,
+			"rightEnd":39
+		}
+	]
+]

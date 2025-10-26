@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java",
+			"leftBegin":889,
+			"leftEnd":889,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java",
+			"rightBegin":889,
+			"rightEnd":889
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"leftBegin":554,
+			"leftEnd":554,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"rightBegin":554,
+			"rightEnd":554
+		}
+	]
+]

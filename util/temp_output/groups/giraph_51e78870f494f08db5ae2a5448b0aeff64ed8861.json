@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/examples/SimplePageRankVertex.java",
+			"leftBegin":157,
+			"leftEnd":158,
+			"rightPath":"src/main/java/org/apache/giraph/examples/SimplePageRankVertex.java",
+			"rightBegin":156,
+			"rightEnd":156
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/examples/SimplePageRankVertex.java",
+			"leftBegin":154,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/giraph/examples/SimplePageRankVertex.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	]
+]

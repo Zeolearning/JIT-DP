@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"leftBegin":102,
+			"leftEnd":105,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"rightBegin":101,
+			"rightEnd":108
+		},
+		{
+			"leftPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"leftBegin":99,
+			"leftEnd":100,
+			"rightPath":"gora-aerospike/src/main/java/org/apache/gora/aerospike/store/AerospikeStore.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	]
+]

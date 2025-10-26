@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"leftBegin":3833,
+			"leftEnd":3833,
+			"rightPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"rightBegin":3833,
+			"rightEnd":3832
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"leftBegin":3861,
+			"leftEnd":3860,
+			"rightPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"rightBegin":3860,
+			"rightEnd":3886
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	]
+]

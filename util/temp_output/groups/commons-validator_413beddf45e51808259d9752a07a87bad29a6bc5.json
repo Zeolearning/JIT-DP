@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"leftBegin":148,
+			"leftEnd":150,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"rightBegin":143,
+			"rightEnd":144
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"leftBegin":7,
+			"leftEnd":7,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"rightBegin":7,
+			"rightEnd":7
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"leftBegin":139,
+			"leftEnd":146,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResults.java",
+			"rightBegin":139,
+			"rightEnd":141
+		}
+	]
+]

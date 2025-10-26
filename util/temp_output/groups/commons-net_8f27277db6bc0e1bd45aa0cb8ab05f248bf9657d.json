@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/telnet/TelnetTestResponder.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/test/java/org/apache/commons/net/telnet/TelnetTestResponder.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

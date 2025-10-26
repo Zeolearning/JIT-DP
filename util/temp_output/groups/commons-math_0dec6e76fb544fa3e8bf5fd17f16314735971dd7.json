@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/AbstractIntegerDistributionTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/AbstractIntegerDistributionTest.java",
+			"rightBegin":31,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/AbstractIntegerDistributionTest.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/AbstractIntegerDistributionTest.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

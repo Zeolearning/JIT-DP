@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/Java7Support.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/io/Java7Support.java",
+			"rightBegin":84,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/Java7Support.java",
+			"leftBegin":111,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/io/Java7Support.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	]
+]

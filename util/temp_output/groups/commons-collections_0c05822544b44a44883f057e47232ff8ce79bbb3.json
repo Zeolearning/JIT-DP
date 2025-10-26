@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java",
+			"leftBegin":40,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java",
+			"rightBegin":40,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java",
+			"leftBegin":61,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java",
+			"rightBegin":50,
+			"rightEnd":59
+		}
+	]
+]

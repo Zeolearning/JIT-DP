@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/geometry/euclidean/oned/SubOrientedPoint.java",
+			"leftBegin":62,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/math4/geometry/euclidean/oned/SubOrientedPoint.java",
+			"rightBegin":62,
+			"rightEnd":71
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/geometry/euclidean/oned/SubOrientedPoint.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/math4/geometry/euclidean/oned/SubOrientedPoint.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/geometry/euclidean/oned/SubOrientedPointTest.java",
+			"rightBegin":1,
+			"rightEnd":168
+		}
+	]
+]

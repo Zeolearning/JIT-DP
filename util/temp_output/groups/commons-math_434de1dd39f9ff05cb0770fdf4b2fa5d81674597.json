@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/SplineInterpolator.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/SplineInterpolator.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/LinearInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/interpolation/LinearInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":136
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"rightBegin":51,
+			"rightEnd":51
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"rightBegin":28,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"leftBegin":41,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/ivy/util/HostUtil.java",
+			"rightBegin":44,
+			"rightEnd":49
+		}
+	]
+]

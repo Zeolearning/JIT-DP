@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/XMLConfiguration.java",
+			"leftBegin":1142,
+			"leftEnd":1142,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/XMLConfiguration.java",
+			"rightBegin":1142,
+			"rightEnd":1142
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":282,
+			"leftEnd":282,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":282,
+			"rightEnd":282
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/MapConfiguration.java",
+			"rightBegin":286,
+			"rightEnd":287
+		}
+	]
+]

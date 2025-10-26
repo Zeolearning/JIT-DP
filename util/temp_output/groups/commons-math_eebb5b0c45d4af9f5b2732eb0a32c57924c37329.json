@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/moment/StandardDeviationTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/moment/StandardDeviationTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/moment/StandardDeviationTest.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/moment/StandardDeviationTest.java",
+			"rightBegin":59,
+			"rightEnd":69
+		}
+	]
+]

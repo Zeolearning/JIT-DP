@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/ExceptionTestSuite.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"src/test/org/apache/commons/lang/exception/ExceptionTestSuite.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

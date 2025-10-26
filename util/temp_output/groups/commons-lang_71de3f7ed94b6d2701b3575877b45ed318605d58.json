@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/Tokenizer.java",
+			"rightBegin":1,
+			"rightEnd":878
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/TokenizerTest.java",
+			"rightBegin":1,
+			"rightEnd":344
+		}
+	]
+]

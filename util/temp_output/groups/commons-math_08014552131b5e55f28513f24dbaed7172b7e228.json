@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/ArithmeticUtilsTest.java",
+			"leftBegin":401,
+			"leftEnd":401,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/ArithmeticUtilsTest.java",
+			"rightBegin":401,
+			"rightEnd":401
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/ArithmeticUtilsTest.java",
+			"leftBegin":398,
+			"leftEnd":399,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/ArithmeticUtilsTest.java",
+			"rightBegin":398,
+			"rightEnd":399
+		}
+	]
+]

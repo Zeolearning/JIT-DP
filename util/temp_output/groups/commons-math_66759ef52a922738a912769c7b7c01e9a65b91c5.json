@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/BiDiagonalTransformer.java",
+			"rightBegin":1,
+			"rightEnd":390
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/linear/BiDiagonalTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":160
+		}
+	]
+]

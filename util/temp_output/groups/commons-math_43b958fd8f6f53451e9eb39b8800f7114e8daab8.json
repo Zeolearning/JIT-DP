@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+			"leftBegin":329,
+			"leftEnd":332,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+			"rightBegin":328,
+			"rightEnd":328
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+			"rightBegin":110,
+			"rightEnd":109
+		}
+	]
+]

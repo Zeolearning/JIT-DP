@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"leftBegin":90,
+			"leftEnd":92,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"rightBegin":89,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"rightBegin":34,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"rightBegin":25,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/ivy/osgi/core/ManifestParser.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

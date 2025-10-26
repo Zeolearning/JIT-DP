@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"leftBegin":50,
+			"leftEnd":55,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"rightBegin":52,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"leftBegin":45,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"rightBegin":47,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/math3/genetics/OnePointCrossoverTest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

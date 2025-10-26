@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/convert/TupleConverter.java",
+			"leftBegin":111,
+			"leftEnd":114,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/convert/TupleConverter.java",
+			"rightBegin":111,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"leftBegin":201,
+			"leftEnd":202,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/ParquetLoader.java",
+			"rightBegin":201,
+			"rightEnd":202
+		}
+	]
+]

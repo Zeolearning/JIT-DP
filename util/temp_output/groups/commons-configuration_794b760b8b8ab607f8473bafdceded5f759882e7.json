@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestAbstractHierarchicalConfiguration.java",
+			"leftBegin":913,
+			"leftEnd":912,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestAbstractHierarchicalConfiguration.java",
+			"rightBegin":913,
+			"rightEnd":957
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractHierarchicalConfiguration.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractHierarchicalConfiguration.java",
+			"rightBegin":163,
+			"rightEnd":163
+		}
+	]
+]

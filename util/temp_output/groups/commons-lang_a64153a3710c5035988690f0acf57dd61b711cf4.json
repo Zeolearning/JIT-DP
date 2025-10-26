@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":1055,
+			"leftEnd":1055,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":1055,
+			"rightEnd":1055
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":1193,
+			"leftEnd":1193,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":1193,
+			"rightEnd":1193
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":1099,
+			"leftEnd":1099,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":1099,
+			"rightEnd":1099
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":1237,
+			"leftEnd":1237,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":1237,
+			"rightEnd":1237
+		}
+	]
+]

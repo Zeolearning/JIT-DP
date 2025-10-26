@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileNameParser.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileNameParser.java",
+			"rightBegin":28,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileNameParser.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileNameParser.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

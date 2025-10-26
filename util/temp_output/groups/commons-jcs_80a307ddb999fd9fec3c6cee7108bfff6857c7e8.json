@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/ShrinkerThread.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/ShrinkerThread.java",
+			"rightBegin":81,
+			"rightEnd":95
+		},
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/ShrinkerThread.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/ShrinkerThread.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	]
+]

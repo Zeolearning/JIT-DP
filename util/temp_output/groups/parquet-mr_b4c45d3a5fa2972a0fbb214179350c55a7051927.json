@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConverter.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConverter.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	]
+]

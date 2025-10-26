@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/Validator.java",
+			"leftBegin":350,
+			"leftEnd":350,
+			"rightPath":"src/share/org/apache/commons/validator/Validator.java",
+			"rightBegin":350,
+			"rightEnd":350
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/ParameterTestValidator.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/ParameterTest.java",
+			"rightBegin":1,
+			"rightEnd":145
+		}
+	]
+]

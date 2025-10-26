@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"leftBegin":276,
+			"leftEnd":275,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"rightBegin":283,
+			"rightEnd":288
+		},
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"leftBegin":268,
+			"leftEnd":267,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"rightBegin":269,
+			"rightEnd":274
+		},
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/DumpCommand.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

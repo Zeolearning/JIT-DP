@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/Java7SupportTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/java/org/apache/commons/io/Java7SupportTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/Java7SupportTest.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/test/java/org/apache/commons/io/Java7SupportTest.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

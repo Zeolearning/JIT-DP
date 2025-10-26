@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"leftBegin":284,
+			"leftEnd":284,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"rightBegin":278,
+			"rightEnd":277
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"leftBegin":174,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"rightBegin":170,
+			"rightEnd":170
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"leftBegin":169,
+			"leftEnd":172,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionConstants.java",
+			"rightBegin":169,
+			"rightEnd":168
+		}
+	]
+]

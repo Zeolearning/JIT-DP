@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/CollectionUtilsTest.java",
+			"leftBegin":574,
+			"leftEnd":574,
+			"rightPath":"src/test/java/org/apache/commons/collections4/CollectionUtilsTest.java",
+			"rightBegin":574,
+			"rightEnd":574
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"leftBegin":62,
+			"leftEnd":71,
+			"rightPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"rightBegin":80,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"rightBegin":42,
+			"rightEnd":59
+		}
+	]
+]

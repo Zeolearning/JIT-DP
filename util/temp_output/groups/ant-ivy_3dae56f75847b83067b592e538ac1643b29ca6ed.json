@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyCacheTask.java",
+			"rightBegin":89,
+			"rightEnd":92
+		}
+	]
+]

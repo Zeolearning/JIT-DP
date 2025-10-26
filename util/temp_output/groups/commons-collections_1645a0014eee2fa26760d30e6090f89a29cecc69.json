@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/AbstractUntypedIteratorDecorator.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/AbstractEmptyMapIterator.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	]
+]

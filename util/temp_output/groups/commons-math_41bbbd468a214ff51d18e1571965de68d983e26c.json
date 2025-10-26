@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/EulerFieldIntegratorTest.java",
+			"rightBegin":1,
+			"rightEnd":247
+		}
+	]
+]

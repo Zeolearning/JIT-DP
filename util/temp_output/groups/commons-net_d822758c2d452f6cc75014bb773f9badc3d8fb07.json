@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/examples/MainTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/java/examples/MainTest.java",
+			"rightBegin":22,
+			"rightEnd":25
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"leftBegin":426,
+			"leftEnd":426,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"rightBegin":424,
+			"rightEnd":424
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"leftBegin":424,
+			"leftEnd":424,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"rightBegin":423,
+			"rightEnd":422
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/RandomDataGeneratorTest.java",
+			"rightBegin":46,
+			"rightEnd":45
+		}
+	]
+]

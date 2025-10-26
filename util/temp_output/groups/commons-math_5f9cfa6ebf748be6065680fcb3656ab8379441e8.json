@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"leftBegin":404,
+			"leftEnd":404,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTest.java",
+			"rightBegin":404,
+			"rightEnd":404
+		}
+	]
+]

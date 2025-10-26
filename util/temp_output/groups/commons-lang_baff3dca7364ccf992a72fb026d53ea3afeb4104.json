@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringUtilsEqualsIndexOfTest.java",
+			"leftBegin":277,
+			"leftEnd":276,
+			"rightPath":"src/test/org/apache/commons/lang/StringUtilsEqualsIndexOfTest.java",
+			"rightBegin":277,
+			"rightEnd":310
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":1037,
+			"leftEnd":1036,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":1037,
+			"rightEnd":1066
+		}
+	]
+]

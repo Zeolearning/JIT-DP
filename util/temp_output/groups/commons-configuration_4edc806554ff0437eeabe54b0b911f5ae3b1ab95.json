@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/reloading/TestReloadingController.java",
+			"rightBegin":1,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingListener.java",
+			"rightBegin":1,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingEvent.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingController.java",
+			"rightBegin":1,
+			"rightEnd":183
+		}
+	]
+]

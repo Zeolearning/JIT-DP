@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":90,
+			"rightEnd":89
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/HashCodeBuilderTest.java",
+			"leftBegin":1,
+			"leftEnd":262,
+			"rightPath":null
+		},
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	]
+]

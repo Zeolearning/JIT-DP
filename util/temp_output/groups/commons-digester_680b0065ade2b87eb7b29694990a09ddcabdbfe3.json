@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/SetNestedPropertiesRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":388
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/TestOthers.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

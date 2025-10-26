@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+			"leftBegin":258,
+			"leftEnd":257,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+			"rightBegin":258,
+			"rightEnd":258
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"leftBegin":170,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"rightBegin":171,
+			"rightEnd":171
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"leftBegin":134,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"rightBegin":134,
+			"rightEnd":134
+		}
+	]
+]

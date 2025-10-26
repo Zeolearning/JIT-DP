@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ArrayStack.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ArrayStack.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPReply.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPReply.java",
+			"rightBegin":141,
+			"rightEnd":149
+		}
+	]
+]

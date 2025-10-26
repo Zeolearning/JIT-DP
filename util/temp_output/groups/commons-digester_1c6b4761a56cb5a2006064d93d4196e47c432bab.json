@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/FactoryCreateRule.java",
+			"leftBegin":394,
+			"leftEnd":394,
+			"rightPath":"src/java/org/apache/commons/digester/FactoryCreateRule.java",
+			"rightBegin":395,
+			"rightEnd":396
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/FactoryCreateRule.java",
+			"leftBegin":372,
+			"leftEnd":372,
+			"rightPath":"src/java/org/apache/commons/digester/FactoryCreateRule.java",
+			"rightBegin":372,
+			"rightEnd":373
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedIntegerDistribution.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedIntegerDistribution.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedIntegerDistribution.java",
+			"leftBegin":118,
+			"leftEnd":120,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/EnumeratedIntegerDistribution.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	]
+]

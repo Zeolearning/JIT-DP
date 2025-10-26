@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ResourceDownloader.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ArtifactResourceResolver.java",
+			"rightBegin":1,
+			"rightEnd":29
+		}
+	]
+]

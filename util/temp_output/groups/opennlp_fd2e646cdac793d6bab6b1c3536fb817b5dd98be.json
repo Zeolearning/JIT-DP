@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CmdLineUtil.java",
+			"leftBegin":305,
+			"leftEnd":305,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CmdLineUtil.java",
+			"rightBegin":306,
+			"rightEnd":308
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CmdLineUtil.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CmdLineUtil.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

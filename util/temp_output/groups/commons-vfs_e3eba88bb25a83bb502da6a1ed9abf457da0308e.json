@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileObject.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileObject.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileObject.java",
+			"leftBegin":160,
+			"leftEnd":159,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/zip/ZipFileObject.java",
+			"rightBegin":161,
+			"rightEnd":170
+		}
+	]
+]

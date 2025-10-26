@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/Main.java",
+			"leftBegin":297,
+			"leftEnd":296,
+			"rightPath":"src/java/org/apache/ivy/Main.java",
+			"rightBegin":298,
+			"rightEnd":298
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/Main.java",
+			"leftBegin":185,
+			"leftEnd":184,
+			"rightPath":"src/java/org/apache/ivy/Main.java",
+			"rightBegin":185,
+			"rightEnd":185
+		}
+	]
+]

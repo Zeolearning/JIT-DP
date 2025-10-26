@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/dfp/DfpTest.java",
+			"leftBegin":1655,
+			"leftEnd":1654,
+			"rightPath":"src/test/java/org/apache/commons/math4/dfp/DfpTest.java",
+			"rightBegin":1655,
+			"rightEnd":1664
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/dfp/Dfp.java",
+			"leftBegin":927,
+			"leftEnd":927,
+			"rightPath":"src/main/java/org/apache/commons/math4/dfp/Dfp.java",
+			"rightBegin":927,
+			"rightEnd":927
+		}
+	]
+]

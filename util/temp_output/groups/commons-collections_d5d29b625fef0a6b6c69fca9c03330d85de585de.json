@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/map/AbstractMapTest.java",
+			"leftBegin":2002,
+			"leftEnd":2001,
+			"rightPath":"src/test/java/org/apache/commons/collections/map/AbstractMapTest.java",
+			"rightBegin":2003,
+			"rightEnd":2009
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections/map/AbstractMapTest.java",
+			"leftBegin":1924,
+			"leftEnd":1924,
+			"rightPath":"src/test/java/org/apache/commons/collections/map/AbstractMapTest.java",
+			"rightBegin":1924,
+			"rightEnd":1925
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"leftBegin":365,
+			"leftEnd":365,
+			"rightPath":"src/main/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"rightBegin":365,
+			"rightEnd":369
+		}
+	]
+]

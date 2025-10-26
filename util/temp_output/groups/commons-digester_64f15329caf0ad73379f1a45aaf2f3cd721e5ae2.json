@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RecordedInvocation.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	]
+]

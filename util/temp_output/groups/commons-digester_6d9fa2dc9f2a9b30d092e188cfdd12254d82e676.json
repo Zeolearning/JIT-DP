@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/catalog/CatalogDigester.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/examples/api/catalog/Main.java",
+			"rightBegin":2,
+			"rightEnd":2
+		},
+		{
+			"leftPath":"src/examples/api/catalog/CatalogDigester.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/examples/api/catalog/Main.java",
+			"rightBegin":39,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"src/examples/api/catalog/CatalogDigester.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/examples/api/catalog/Main.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/examples/api/catalog/CatalogDigester.java",
+			"leftBegin":223,
+			"leftEnd":223,
+			"rightPath":"src/examples/api/catalog/Main.java",
+			"rightBegin":223,
+			"rightEnd":223
+		}
+	]
+]

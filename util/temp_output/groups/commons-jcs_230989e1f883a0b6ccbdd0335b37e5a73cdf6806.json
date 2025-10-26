@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/access/CacheAccessUnitTest.java",
+			"leftBegin":363,
+			"leftEnd":362,
+			"rightPath":"src/test/org/apache/commons/jcs/access/CacheAccessUnitTest.java",
+			"rightBegin":363,
+			"rightEnd":409
+		}
+	]
+]

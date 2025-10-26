@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"leftBegin":360,
+			"leftEnd":359,
+			"rightPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"rightBegin":374,
+			"rightEnd":384
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"rightBegin":31,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"test/java/org/apache/ivy/util/ConfiguratorTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

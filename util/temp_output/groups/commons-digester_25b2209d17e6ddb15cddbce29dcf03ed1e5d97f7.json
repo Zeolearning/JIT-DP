@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/parser/XercesParser.java",
+			"rightBegin":1,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/parser/GenericParser.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/ParserFeatureSetterFactory.java",
+			"rightBegin":1,
+			"rightEnd":120
+		}
+	]
+]

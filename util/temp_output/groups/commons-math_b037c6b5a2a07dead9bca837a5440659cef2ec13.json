@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver2.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver2.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+			"leftBegin":37,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

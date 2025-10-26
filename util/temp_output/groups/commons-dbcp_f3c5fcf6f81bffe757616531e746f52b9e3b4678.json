@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/AbandonedTrace.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/dbcp/AbandonedTrace.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

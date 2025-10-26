@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"leftBegin":549,
+			"leftEnd":548,
+			"rightPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"rightBegin":549,
+			"rightEnd":551
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"leftBegin":1,
+			"leftEnd":3,
+			"rightPath":"src/java/org/apache/commons/dbcp/BasicDataSource.java",
+			"rightBegin":1,
+			"rightEnd":3
+		}
+	]
+]

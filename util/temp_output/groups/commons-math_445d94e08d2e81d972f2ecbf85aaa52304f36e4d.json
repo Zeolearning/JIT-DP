@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/QRDecompositionImpl.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/java/org/apache/commons/math/linear/QRDecompositionImpl.java",
+			"rightBegin":169,
+			"rightEnd":169
+		}
+	]
+]

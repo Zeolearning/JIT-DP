@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/POP3SClient.java",
+			"leftBegin":209,
+			"leftEnd":210,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/POP3SClient.java",
+			"rightBegin":209,
+			"rightEnd":210
+		}
+	]
+]

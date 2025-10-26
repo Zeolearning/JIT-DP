@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"leftBegin":83,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"rightBegin":83,
+			"rightEnd":103
+		}
+	]
+]

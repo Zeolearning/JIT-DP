@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/DummyStepHandler.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/DummyStepHandler.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/DummyStepHandler.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/DummyStepHandler.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

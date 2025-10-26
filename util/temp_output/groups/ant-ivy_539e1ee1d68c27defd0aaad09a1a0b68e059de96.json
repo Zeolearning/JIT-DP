@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"leftBegin":37,
+			"leftEnd":38,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManagerTest.java",
+			"leftBegin":130,
+			"leftEnd":130,
+			"rightPath":"test/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManagerTest.java",
+			"rightBegin":130,
+			"rightEnd":131
+		}
+	]
+]

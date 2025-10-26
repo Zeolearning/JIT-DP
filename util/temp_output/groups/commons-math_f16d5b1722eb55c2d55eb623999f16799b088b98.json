@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/MatrixUtils.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/MatrixUtils.java",
+			"rightBegin":221,
+			"rightEnd":238
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/MatrixUtils.java",
+			"leftBegin":213,
+			"leftEnd":212,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/MatrixUtils.java",
+			"rightBegin":213,
+			"rightEnd":213
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"leftBegin":192,
+			"leftEnd":192,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"rightBegin":192,
+			"rightEnd":192
+		}
+	]
+]

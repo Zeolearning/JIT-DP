@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/ChunkedWriter.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/io/output/ChunkedWriter.java",
+			"rightBegin":24,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/output/ChunkedOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/output/ChunkedWriterTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	]
+]

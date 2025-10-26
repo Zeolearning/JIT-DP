@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/BuilderConfigurationWrapperFactory.java",
+			"rightBegin":1,
+			"rightEnd":332
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestBuilderConfigurationWrapperFactory.java",
+			"rightBegin":1,
+			"rightEnd":238
+		}
+	]
+]

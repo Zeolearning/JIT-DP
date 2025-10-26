@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/LZ77Compressor.java",
+			"rightBegin":1,
+			"rightEnd":195
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/Parameters.java",
+			"rightBegin":1,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/lz77support/ParametersTest.java",
+			"rightBegin":1,
+			"rightEnd":110
+		}
+	]
+]

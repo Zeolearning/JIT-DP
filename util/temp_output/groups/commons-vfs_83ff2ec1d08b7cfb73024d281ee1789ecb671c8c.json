@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"rightBegin":87,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpFileSystem.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	]
+]

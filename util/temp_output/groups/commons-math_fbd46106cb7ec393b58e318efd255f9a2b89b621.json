@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/BigFractionField.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/commons/math/fraction/BigFractionField.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/fraction/BigFractionFieldTest.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/BigFractionField.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/math/fraction/BigFractionField.java",
+			"rightBegin":68,
+			"rightEnd":75
+		}
+	]
+]

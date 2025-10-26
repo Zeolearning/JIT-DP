@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"leftBegin":421,
+			"leftEnd":444,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"rightBegin":421,
+			"rightEnd":422
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"leftBegin":460,
+			"leftEnd":459,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"rightBegin":438,
+			"rightEnd":464
+		}
+	]
+]

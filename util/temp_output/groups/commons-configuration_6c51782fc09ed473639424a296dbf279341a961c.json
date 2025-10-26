@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/XMLConfigurationFactory.java",
+			"rightBegin":1,
+			"rightEnd":851
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLConfigurationFactory.java",
+			"rightBegin":1,
+			"rightEnd":433
+		}
+	]
+]

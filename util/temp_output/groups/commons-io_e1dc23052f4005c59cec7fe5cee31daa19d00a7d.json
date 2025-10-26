@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/CharSequenceReader.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/commons/io/input/CharSequenceReader.java",
+			"rightBegin":33,
+			"rightEnd":32
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/CharSequenceReader.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/io/input/CharSequenceReader.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

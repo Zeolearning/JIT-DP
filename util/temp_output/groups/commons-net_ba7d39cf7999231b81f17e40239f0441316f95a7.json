@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/DatagramSocketClient.java",
+			"leftBegin":157,
+			"leftEnd":157,
+			"rightPath":"src/main/java/org/apache/commons/net/DatagramSocketClient.java",
+			"rightBegin":157,
+			"rightEnd":159
+		}
+	]
+]

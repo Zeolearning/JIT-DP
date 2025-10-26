@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/test/java/parquet/thrift/TestProtocolReadToWrite.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"parquet-thrift/src/test/java/parquet/thrift/TestProtocolReadToWrite.java",
+			"rightBegin":124,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2DTest.java",
+			"leftBegin":848,
+			"leftEnd":847,
+			"rightPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2DTest.java",
+			"rightBegin":848,
+			"rightEnd":873
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"leftBegin":198,
+			"leftEnd":197,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"rightBegin":200,
+			"rightEnd":204
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/NeuronSquareMesh2D.java",
+			"rightBegin":44,
+			"rightEnd":46
+		}
+	]
+]

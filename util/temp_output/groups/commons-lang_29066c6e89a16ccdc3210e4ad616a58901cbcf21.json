@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/PairTest.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/test/java/org/apache/commons/lang3/PairTest.java",
+			"rightBegin":99,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Pair.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Pair.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Pair.java",
+			"leftBegin":166,
+			"leftEnd":165,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Pair.java",
+			"rightBegin":167,
+			"rightEnd":174
+		}
+	]
+]

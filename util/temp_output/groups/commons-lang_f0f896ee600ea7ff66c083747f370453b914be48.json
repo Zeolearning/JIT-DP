@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/exception/AbstractExceptionContextTest.java",
+			"leftBegin":182,
+			"leftEnd":183,
+			"rightPath":"src/test/java/org/apache/commons/lang3/exception/AbstractExceptionContextTest.java",
+			"rightBegin":182,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/exception/AbstractExceptionContextTest.java",
+			"leftBegin":185,
+			"leftEnd":184,
+			"rightPath":"src/test/java/org/apache/commons/lang3/exception/AbstractExceptionContextTest.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	]
+]

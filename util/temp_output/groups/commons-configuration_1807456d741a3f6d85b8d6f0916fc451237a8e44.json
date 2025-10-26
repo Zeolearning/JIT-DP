@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/SynchronizerTestImpl.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/configuration/SynchronizerTestImpl.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

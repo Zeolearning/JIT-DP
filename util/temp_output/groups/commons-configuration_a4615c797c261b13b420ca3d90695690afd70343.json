@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"leftBegin":1438,
+			"leftEnd":1438,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"rightBegin":1438,
+			"rightEnd":1438
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"leftBegin":508,
+			"leftEnd":508,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"rightBegin":508,
+			"rightEnd":508
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"leftBegin":411,
+			"leftEnd":411,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"rightBegin":411,
+			"rightEnd":411
+		}
+	]
+]

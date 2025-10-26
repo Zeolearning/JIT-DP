@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"leftBegin":333,
+			"leftEnd":333,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PStmtKey.java",
+			"rightBegin":333,
+			"rightEnd":335
+		}
+	]
+]

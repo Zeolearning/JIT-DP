@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpClientFactory.java",
+			"leftBegin":125,
+			"leftEnd":125,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/ftp/FtpClientFactory.java",
+			"rightBegin":125,
+			"rightEnd":125
+		}
+	]
+]

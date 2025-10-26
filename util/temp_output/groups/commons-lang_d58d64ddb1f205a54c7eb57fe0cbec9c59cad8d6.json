@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"leftBegin":156,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"rightBegin":156,
+			"rightEnd":156
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java",
+			"rightBegin":158,
+			"rightEnd":158
+		}
+	]
+]

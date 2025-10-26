@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"leftBegin":596,
+			"leftEnd":595,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"rightBegin":599,
+			"rightEnd":633
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDefaultConfigurationBuilder.java",
+			"rightBegin":22,
+			"rightEnd":24
+		}
+	]
+]

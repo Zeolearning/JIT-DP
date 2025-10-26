@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/event/ConfigurationErrorListener.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/event/ConfigurationErrorEvent.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	]
+]

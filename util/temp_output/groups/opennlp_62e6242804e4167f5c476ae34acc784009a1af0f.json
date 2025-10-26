@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/params/DetailedFMeasureEvaluatorParams.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/params/DetailedFMeasureEvaluatorParams.java",
+			"rightBegin":32,
+			"rightEnd":34
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"leftBegin":640,
+			"leftEnd":644,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"rightBegin":683,
+			"rightEnd":682
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"leftBegin":615,
+			"leftEnd":614,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"rightBegin":615,
+			"rightEnd":657
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"leftBegin":650,
+			"leftEnd":649,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"rightBegin":688,
+			"rightEnd":692
+		}
+	]
+]

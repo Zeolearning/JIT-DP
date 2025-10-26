@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/AbstractRemoteAuxiliaryCache.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/AbstractRemoteAuxiliaryCache.java",
+			"rightBegin":145,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/AbstractRemoteAuxiliaryCache.java",
+			"leftBegin":121,
+			"leftEnd":124,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/AbstractRemoteAuxiliaryCache.java",
+			"rightBegin":121,
+			"rightEnd":121
+		}
+	]
+]

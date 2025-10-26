@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"leftBegin":290,
+			"leftEnd":289,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"rightBegin":291,
+			"rightEnd":335
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDataConfiguration.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

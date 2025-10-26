@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CVParams.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CVParams.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorCrossValidatorTool.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorCrossValidatorTool.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

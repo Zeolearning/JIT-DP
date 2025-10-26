@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"leftBegin":626,
+			"leftEnd":627,
+			"rightPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"rightBegin":626,
+			"rightEnd":629
+		}
+	]
+]

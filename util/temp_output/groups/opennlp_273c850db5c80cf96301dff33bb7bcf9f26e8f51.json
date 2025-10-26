@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"leftBegin":54,
+			"leftEnd":56,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"rightBegin":56,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java",
+			"rightBegin":53,
+			"rightEnd":54
+		}
+	]
+]

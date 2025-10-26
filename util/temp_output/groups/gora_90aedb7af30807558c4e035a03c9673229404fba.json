@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"leftBegin":383,
+			"leftEnd":382,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"rightBegin":383,
+			"rightEnd":386
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/StatefulHashMap.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/StatefulHashMap.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/StatefulHashMap.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/StatefulHashMap.java",
+			"rightBegin":58,
+			"rightEnd":57
+		}
+	]
+]

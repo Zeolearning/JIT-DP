@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256DecoderTest.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256DecoderTest.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256DecoderTest.java",
+			"leftBegin":41,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256DecoderTest.java",
+			"rightBegin":41,
+			"rightEnd":40
+		}
+	]
+]

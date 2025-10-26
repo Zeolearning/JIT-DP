@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":94,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":41,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

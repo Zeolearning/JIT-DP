@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.java",
+			"rightBegin":154,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/NetwareFTPEntryParser.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":1007,
+			"leftEnd":1007,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":1007,
+			"rightEnd":1007
+		}
+	]
+]

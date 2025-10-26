@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"leftBegin":112,
+			"leftEnd":117,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"rightBegin":68,
+			"rightEnd":73
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"leftBegin":35,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"rightBegin":35,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPReply.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

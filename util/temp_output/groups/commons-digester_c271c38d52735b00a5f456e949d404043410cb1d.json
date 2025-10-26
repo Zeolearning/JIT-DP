@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"leftBegin":43,
+			"leftEnd":42,
+			"rightPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"rightBegin":46,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"leftBegin":6,
+			"leftEnd":5,
+			"rightPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"rightBegin":6,
+			"rightEnd":6
+		},
+		{
+			"leftPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"leftBegin":7,
+			"leftEnd":6,
+			"rightPath":"src/examples/edsl/atom/src/main/java/org/apache/commons/digester3/edsl/atom/Main.java",
+			"rightBegin":8,
+			"rightEnd":9
+		}
+	]
+]

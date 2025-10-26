@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/test/java/parquet/cascading/ParquetTupleSchemeTest.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"parquet-cascading/src/test/java/parquet/cascading/TestParquetTupleScheme.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-scrooge/src/test/parquet/scrooge/ParquetScroogeSchemeTest.java",
+			"leftBegin":1,
+			"leftEnd":11,
+			"rightPath":null
+		}
+	]
+]

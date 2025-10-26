@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/sort/SortEngine.java",
+			"leftBegin":46,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/ivy/core/sort/SortEngine.java",
+			"rightBegin":46,
+			"rightEnd":58
+		}
+	]
+]

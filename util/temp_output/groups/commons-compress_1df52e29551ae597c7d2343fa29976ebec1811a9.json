@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/tar/TarInputStream.java",
+			"leftBegin":200,
+			"leftEnd":199,
+			"rightPath":"src/java/org/apache/commons/compress/tar/TarInputStream.java",
+			"rightBegin":200,
+			"rightEnd":206
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/compress/tar/TarInputStream.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/compress/tar/TarInputStream.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

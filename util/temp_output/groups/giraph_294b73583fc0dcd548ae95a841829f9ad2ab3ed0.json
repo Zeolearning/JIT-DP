@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/SendMessageToAllCache.java",
+			"rightBegin":1,
+			"rightEnd":308
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/requests/SendWorkerOneToAllMessagesRequest.java",
+			"rightBegin":1,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ByteArrayOneToAllMessages.java",
+			"rightBegin":1,
+			"rightEnd":168
+		}
+	]
+]

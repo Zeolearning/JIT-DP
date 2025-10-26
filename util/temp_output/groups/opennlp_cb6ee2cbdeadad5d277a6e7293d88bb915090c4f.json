@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/DictionaryLemmatizer.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/DictionaryLemmatizer.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/DictionaryLemmatizerTest.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":807,
+			"leftEnd":808,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":806,
+			"rightEnd":807
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":794,
+			"leftEnd":794,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":794,
+			"rightEnd":793
+		}
+	]
+]

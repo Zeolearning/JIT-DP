@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/MultiValueMap.java",
+			"leftBegin":256,
+			"leftEnd":257,
+			"rightPath":"src/java/org/apache/commons/collections/map/MultiValueMap.java",
+			"rightBegin":256,
+			"rightEnd":259
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/MultiValueMap.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/collections/map/MultiValueMap.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	]
+]

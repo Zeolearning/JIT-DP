@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"rightBegin":149,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"rightBegin":153,
+			"rightEnd":152
+		}
+	]
+]

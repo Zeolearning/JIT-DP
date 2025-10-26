@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/InstructionComparator.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/java/org/apache/bcel/generic/InstructionComparator.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

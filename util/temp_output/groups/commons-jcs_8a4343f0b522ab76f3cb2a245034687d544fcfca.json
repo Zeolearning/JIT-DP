@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/jcs/jcache/jmx/JMXs.java",
+			"leftBegin":8,
+			"leftEnd":9,
+			"rightPath":"src/main/java/org/apache/commons/jcs/jcache/jmx/JMXs.java",
+			"rightBegin":8,
+			"rightEnd":7
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/jcs/jcache/jmx/JMXs.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/jcs/jcache/jmx/JMXs.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

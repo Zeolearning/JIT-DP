@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/GraggBulirschStoerIntegratorTest.java",
+			"leftBegin":40,
+			"leftEnd":41,
+			"rightPath":"src/test/org/apache/commons/math/ode/GraggBulirschStoerIntegratorTest.java",
+			"rightBegin":40,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/ode/FirstOrderIntegratorFactoryImpl.java",
+			"rightBegin":1,
+			"rightEnd":278
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/ode/FirstOrderIntegratorFactory.java",
+			"rightBegin":1,
+			"rightEnd":297
+		}
+	]
+]

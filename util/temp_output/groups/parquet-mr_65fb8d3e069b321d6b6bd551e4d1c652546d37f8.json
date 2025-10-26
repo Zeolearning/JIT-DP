@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"leftBegin":271,
+			"leftEnd":270,
+			"rightPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"rightBegin":271,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"leftBegin":92,
+			"leftEnd":115,
+			"rightPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"rightBegin":92,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"leftBegin":271,
+			"leftEnd":270,
+			"rightPath":"parquet-column/src/test/java/parquet/column/values/rle/TestRunLengthBitPackingHybridEncoder.java",
+			"rightBegin":247,
+			"rightEnd":270
+		}
+	]
+]

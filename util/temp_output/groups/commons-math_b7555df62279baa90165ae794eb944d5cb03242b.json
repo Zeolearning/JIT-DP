@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+			"leftBegin":808,
+			"leftEnd":807,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+			"rightBegin":808,
+			"rightEnd":816
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/MathArrays.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/MathArrays.java",
+			"rightBegin":51,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/ResizableDoubleArrayTest.java",
+			"leftBegin":561,
+			"leftEnd":560,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/ResizableDoubleArrayTest.java",
+			"rightBegin":561,
+			"rightEnd":586
+		}
+	]
+]

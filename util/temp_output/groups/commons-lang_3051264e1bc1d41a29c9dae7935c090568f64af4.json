@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsRemoveTest.java",
+			"leftBegin":487,
+			"leftEnd":486,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ArrayUtilsRemoveTest.java",
+			"rightBegin":487,
+			"rightEnd":675
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"leftBegin":6298,
+			"leftEnd":6297,
+			"rightPath":"src/main/java/org/apache/commons/lang3/ArrayUtils.java",
+			"rightBegin":6298,
+			"rightEnd":6568
+		}
+	]
+]

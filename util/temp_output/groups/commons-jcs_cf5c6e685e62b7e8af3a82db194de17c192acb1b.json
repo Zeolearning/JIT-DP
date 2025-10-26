@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/MakeJCacheCDIIntercetporFriendly.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/MakeJCacheCDIInterceptorFriendly.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

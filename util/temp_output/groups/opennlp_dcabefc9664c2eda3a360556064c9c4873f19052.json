@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/LemmatizerME.java",
+			"rightBegin":1,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/LemmatizerModel.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringUtil.java",
+			"leftBegin":235,
+			"leftEnd":234,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/StringUtil.java",
+			"rightBegin":235,
+			"rightEnd":306
+		}
+	]
+]

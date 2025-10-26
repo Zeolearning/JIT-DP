@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/test/org/apache/commons/io/output/ByteArrayOutputStreamTestCase.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

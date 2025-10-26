@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":1343,
+			"leftEnd":1342,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":1343,
+			"rightEnd":1351
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/parser/AbstractModuleDescriptorParser.java",
+			"leftBegin":87,
+			"leftEnd":88,
+			"rightPath":"src/java/fr/jayasoft/ivy/parser/AbstractModuleDescriptorParser.java",
+			"rightBegin":87,
+			"rightEnd":93
+		}
+	]
+]

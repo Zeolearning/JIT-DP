@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"rightBegin":65,
+			"rightEnd":68
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"rightBegin":52,
+			"rightEnd":55
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

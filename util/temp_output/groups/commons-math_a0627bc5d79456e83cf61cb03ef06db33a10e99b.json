@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/general/MinpackTest.java",
+			"leftBegin":1199,
+			"leftEnd":1198,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/general/MinpackTest.java",
+			"rightBegin":1199,
+			"rightEnd":1199
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/estimation/MinpackTest.java",
+			"leftBegin":1209,
+			"leftEnd":1208,
+			"rightPath":"src/test/java/org/apache/commons/math/estimation/MinpackTest.java",
+			"rightBegin":1209,
+			"rightEnd":1209
+		}
+	]
+]

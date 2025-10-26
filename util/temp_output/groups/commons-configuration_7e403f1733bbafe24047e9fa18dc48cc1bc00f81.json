@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/convert/TestDefaultConversionHandler.java",
+			"leftBegin":286,
+			"leftEnd":285,
+			"rightPath":"src/test/java/org/apache/commons/configuration/convert/TestDefaultConversionHandler.java",
+			"rightBegin":286,
+			"rightEnd":308
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"leftBegin":71,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"rightBegin":74,
+			"rightEnd":102
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/configuration/convert/DefaultConversionHandler.java",
+			"rightBegin":53,
+			"rightEnd":55
+		}
+	]
+]

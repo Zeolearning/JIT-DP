@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/linear/SimplexTableauTest.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/linear/SimplexTableauTest.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

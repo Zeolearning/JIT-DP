@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationXMLReader.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationXMLReader.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationXMLReader.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationXMLReader.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

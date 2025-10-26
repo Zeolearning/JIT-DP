@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"leftBegin":43,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"rightBegin":43,
+			"rightEnd":60
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"rightBegin":105,
+			"rightEnd":106
+		}
+	]
+]

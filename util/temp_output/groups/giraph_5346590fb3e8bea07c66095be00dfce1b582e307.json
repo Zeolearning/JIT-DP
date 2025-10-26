@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/utils/AnnotationUtils.java",
+			"rightBegin":1,
+			"rightEnd":254
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/examples/Algorithm.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	]
+]

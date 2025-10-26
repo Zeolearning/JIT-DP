@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":456,
+			"leftEnd":456,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":461,
+			"rightEnd":461
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":454,
+			"leftEnd":453,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":454,
+			"rightEnd":458
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"leftBegin":88,
+			"leftEnd":89,
+			"rightPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":88,
+			"rightEnd":89
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":80,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/ArrayStack.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

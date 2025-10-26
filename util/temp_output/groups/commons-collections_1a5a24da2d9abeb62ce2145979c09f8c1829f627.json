@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/buffer/PredicatedBuffer.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/collections/buffer/PredicatedBuffer.java",
+			"rightBegin":57,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/buffer/BoundedBuffer.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/collections/buffer/BoundedBuffer.java",
+			"rightBegin":85,
+			"rightEnd":86
+		}
+	]
+]

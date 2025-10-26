@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"leftBegin":264,
+			"leftEnd":264,
+			"rightPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"rightBegin":258,
+			"rightEnd":258
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"leftBegin":25,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"leftBegin":13,
+			"leftEnd":14,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"rightBegin":13,
+			"rightEnd":14
+		},
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTupleScheme.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

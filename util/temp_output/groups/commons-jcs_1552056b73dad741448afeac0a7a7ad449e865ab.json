@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java",
+			"leftBegin":918,
+			"leftEnd":918,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java",
+			"rightBegin":922,
+			"rightEnd":921
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java",
+			"leftBegin":916,
+			"leftEnd":915,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java",
+			"rightBegin":916,
+			"rightEnd":919
+		}
+	]
+]

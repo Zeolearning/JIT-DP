@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/PoissonDistribution.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/PoissonDistribution.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/PoissonDistribution.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/PoissonDistribution.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

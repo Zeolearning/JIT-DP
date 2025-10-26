@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"rightBegin":87,
+			"rightEnd":86
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"leftBegin":81,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"rightBegin":80,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	]
+]

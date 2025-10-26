@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DelegatingConnection.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/java/org/apache/commons/dbcp/DelegatingConnection.java",
+			"rightBegin":82,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/DelegatingConnection.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/commons/dbcp/DelegatingConnection.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

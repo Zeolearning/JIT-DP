@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/StringEscapeUtilsTest.java",
+			"leftBegin":426,
+			"leftEnd":425,
+			"rightPath":"src/test/java/org/apache/commons/lang3/StringEscapeUtilsTest.java",
+			"rightBegin":426,
+			"rightEnd":432
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"leftBegin":89,
+			"leftEnd":102,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"rightBegin":87,
+			"rightEnd":95
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"leftBegin":82,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+			"rightBegin":82,
+			"rightEnd":85
+		}
+	]
+]

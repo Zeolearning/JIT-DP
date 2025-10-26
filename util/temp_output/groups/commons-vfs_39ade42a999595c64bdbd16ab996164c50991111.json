@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/FileTypeMap.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/FileTypeMap.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/FileTypeMap.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/FileTypeMap.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	]
+]

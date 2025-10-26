@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"rightBegin":97,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/org/apache/parquet/avro/AvroReadSupport.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"parquet-avro/src/main/java/org/apache/parquet/avro/AvroReadSupport.java",
+			"rightBegin":46,
+			"rightEnd":47
+		}
+	]
+]

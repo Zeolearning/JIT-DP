@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathInternalError.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathInternalError.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathInternalError.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathInternalError.java",
+			"rightBegin":48,
+			"rightEnd":57
+		}
+	]
+]

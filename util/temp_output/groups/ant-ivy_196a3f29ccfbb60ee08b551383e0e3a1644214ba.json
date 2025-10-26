@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"leftBegin":195,
+			"leftEnd":195,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"rightBegin":231,
+			"rightEnd":230
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"leftBegin":193,
+			"leftEnd":192,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyPublishTest.java",
+			"rightBegin":193,
+			"rightEnd":228
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"leftBegin":35,
+			"leftEnd":40,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"rightBegin":35,
+			"rightEnd":45
+		}
+	]
+]

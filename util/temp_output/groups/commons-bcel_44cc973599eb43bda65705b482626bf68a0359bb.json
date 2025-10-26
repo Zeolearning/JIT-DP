@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"leftBegin":619,
+			"leftEnd":624,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Subroutines.java",
+			"rightBegin":619,
+			"rightEnd":622
+		}
+	]
+]

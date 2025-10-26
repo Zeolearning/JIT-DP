@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"leftBegin":339,
+			"leftEnd":338,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"rightBegin":343,
+			"rightEnd":346
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"leftBegin":246,
+			"leftEnd":245,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"rightBegin":248,
+			"rightEnd":249
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"leftBegin":87,
+			"leftEnd":88,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportParser.java",
+			"rightBegin":87,
+			"rightEnd":90
+		}
+	]
+]

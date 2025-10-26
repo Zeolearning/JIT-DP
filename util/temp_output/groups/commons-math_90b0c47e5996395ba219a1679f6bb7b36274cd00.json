@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":217,
+			"leftEnd":222,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":219,
+			"rightEnd":220
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":215,
+			"leftEnd":215,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":214,
+			"rightEnd":217
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":207,
+			"leftEnd":207,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":207,
+			"rightEnd":206
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":205,
+			"leftEnd":205,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":205,
+			"rightEnd":205
+		}
+	]
+]

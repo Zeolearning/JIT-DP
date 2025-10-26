@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/NodeCreateRuleProvider.java",
+			"leftBegin":103,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/NodeCreateRuleProvider.java",
+			"rightBegin":103,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/NodeCreateRuleProvider.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/NodeCreateRuleProvider.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	]
+]

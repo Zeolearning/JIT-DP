@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"leftBegin":239,
+			"leftEnd":238,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"rightBegin":241,
+			"rightEnd":245
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ConfigurationUtils.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

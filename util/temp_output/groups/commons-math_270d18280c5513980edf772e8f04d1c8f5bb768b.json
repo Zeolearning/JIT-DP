@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"leftBegin":241,
+			"leftEnd":242,
+			"rightPath":"src/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+			"rightBegin":241,
+			"rightEnd":242
+		}
+	]
+]

@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/share/org/apache/commons/beanutils/PropertyUtils.java",
+			"rightBegin":1,
+			"rightEnd":932
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/share/org/apache/commons/beanutils/ConvertUtils.java",
+			"rightBegin":1,
+			"rightEnd":565
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/share/org/apache/commons/beanutils/BeanUtils.java",
+			"rightBegin":1,
+			"rightEnd":488
+		}
+	]
+]

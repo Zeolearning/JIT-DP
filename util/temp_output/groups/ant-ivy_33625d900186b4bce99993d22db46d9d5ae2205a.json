@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/external/m2/PomModuleDescriptorParserTest.java",
+			"leftBegin":106,
+			"leftEnd":105,
+			"rightPath":"test/java/org/apache/ivy/external/m2/PomModuleDescriptorParserTest.java",
+			"rightBegin":106,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/external/m2/PomModuleDescriptorParser.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"src/java/org/apache/ivy/external/m2/PomModuleDescriptorParser.java",
+			"rightBegin":175,
+			"rightEnd":175
+		}
+	]
+]

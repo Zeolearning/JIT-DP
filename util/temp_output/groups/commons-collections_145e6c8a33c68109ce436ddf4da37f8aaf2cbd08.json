@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"leftBegin":268,
+			"leftEnd":268,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"rightBegin":268,
+			"rightEnd":268
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"rightBegin":77,
+			"rightEnd":77
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

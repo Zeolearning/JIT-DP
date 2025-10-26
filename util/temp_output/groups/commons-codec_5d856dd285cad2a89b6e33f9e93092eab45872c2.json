@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"leftBegin":370,
+			"leftEnd":369,
+			"rightPath":"src/test/org/apache/commons/codec/language/SoundexTest.java",
+			"rightBegin":370,
+			"rightEnd":381
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/Soundex.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/codec/language/Soundex.java",
+			"rightBegin":52,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/Soundex.java",
+			"leftBegin":32,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/codec/language/Soundex.java",
+			"rightBegin":32,
+			"rightEnd":31
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestNullJNDIEnvironmentValues.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/configuration/TestNullJNDIEnvironmentValues.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/bcel/data/PLSETestClass2.java",
+			"rightBegin":1,
+			"rightEnd":30
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/GammaDistribution.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/GammaDistribution.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/GammaDistribution.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/GammaDistribution.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	]
+]

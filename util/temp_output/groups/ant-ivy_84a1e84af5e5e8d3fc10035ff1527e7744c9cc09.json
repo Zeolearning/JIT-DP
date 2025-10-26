@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"leftBegin":377,
+			"leftEnd":380,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"rightBegin":383,
+			"rightEnd":382
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"leftBegin":375,
+			"leftEnd":374,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"rightBegin":376,
+			"rightEnd":380
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"leftBegin":366,
+			"leftEnd":365,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/IvyPatternHelper.java",
+			"rightBegin":366,
+			"rightEnd":366
+		}
+	]
+]

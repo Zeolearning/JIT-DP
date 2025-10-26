@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/cache/LRUFilesCache.java",
+			"leftBegin":60,
+			"leftEnd":62,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/cache/LRUFilesCache.java",
+			"rightBegin":60,
+			"rightEnd":62
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/filter/ColumnPredicates.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"parquet-column/src/main/java/parquet/filter/ColumnPredicates.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/filter/ColumnPredicates.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"parquet-column/src/main/java/parquet/filter/ColumnPredicates.java",
+			"rightBegin":179,
+			"rightEnd":179
+		}
+	]
+]

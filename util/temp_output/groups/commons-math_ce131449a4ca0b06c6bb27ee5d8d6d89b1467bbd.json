@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/HitHistogram.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/UnifiedDistanceMatrix.java",
+			"rightBegin":1,
+			"rightEnd":203
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/SmoothedDataHistogram.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/TopographicErrorHistogram.java",
+			"rightBegin":1,
+			"rightEnd":91
+		}
+	]
+]

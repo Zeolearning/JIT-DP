@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/correlation/CovarianceTest.java",
+			"rightBegin":1,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/Covariance.java",
+			"rightBegin":1,
+			"rightEnd":205
+		}
+	]
+]

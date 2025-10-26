@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/complex/ComplexFormatAbstractTest.java",
+			"leftBegin":351,
+			"leftEnd":350,
+			"rightPath":"src/test/org/apache/commons/math/complex/ComplexFormatAbstractTest.java",
+			"rightBegin":352,
+			"rightEnd":357
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/complex/ComplexFormatAbstractTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/org/apache/commons/math/complex/ComplexFormatAbstractTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/ComplexFormat.java",
+			"leftBegin":377,
+			"leftEnd":377,
+			"rightPath":"src/java/org/apache/commons/math/complex/ComplexFormat.java",
+			"rightBegin":377,
+			"rightEnd":379
+		}
+	]
+]

@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/functor/Executor.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/functor/ExecutorException.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/functor/ExecutorUtils.java",
+			"rightBegin":1,
+			"rightEnd":689
+		}
+	]
+]

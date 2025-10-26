@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/ISINCheckDigitTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/ISINCheckDigitTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

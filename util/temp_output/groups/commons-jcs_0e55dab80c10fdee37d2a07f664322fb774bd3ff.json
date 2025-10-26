@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"leftBegin":42,
+			"leftEnd":54,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"rightBegin":42,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"leftBegin":3,
+			"leftEnd":2,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"rightBegin":3,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"leftBegin":24,
+			"leftEnd":25,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/behavior/ICacheEventQueue.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

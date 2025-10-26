@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"rightBegin":119,
+			"rightEnd":119
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"rightBegin":65,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

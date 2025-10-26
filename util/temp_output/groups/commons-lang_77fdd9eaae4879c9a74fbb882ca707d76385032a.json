@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/text/CompositeFormatTest.java",
+			"rightBegin":1,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/text/CompositeFormat.java",
+			"rightBegin":1,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

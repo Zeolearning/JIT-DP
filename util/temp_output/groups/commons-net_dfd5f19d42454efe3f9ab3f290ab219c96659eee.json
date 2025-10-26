@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.java",
+			"leftBegin":338,
+			"leftEnd":338,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.java",
+			"rightBegin":339,
+			"rightEnd":339
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/OS400FTPEntryParser.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

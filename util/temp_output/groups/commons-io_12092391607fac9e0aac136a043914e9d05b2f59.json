@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"rightBegin":81,
+			"rightEnd":81
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	]
+]

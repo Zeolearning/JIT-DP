@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorAttribute.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorAttribute.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorAttribute.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorAttribute.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	]
+]

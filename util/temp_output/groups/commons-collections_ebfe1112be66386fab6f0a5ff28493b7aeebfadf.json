@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/set/MapBackedSetTest.java",
+			"leftBegin":45,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/collections4/set/MapBackedSetTest.java",
+			"rightBegin":45,
+			"rightEnd":50
+		}
+	]
+]

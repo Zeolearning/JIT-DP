@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"leftBegin":218,
+			"leftEnd":218,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"rightBegin":221,
+			"rightEnd":221
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"leftBegin":212,
+			"leftEnd":213,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java",
+			"rightBegin":212,
+			"rightEnd":216
+		}
+	]
+]

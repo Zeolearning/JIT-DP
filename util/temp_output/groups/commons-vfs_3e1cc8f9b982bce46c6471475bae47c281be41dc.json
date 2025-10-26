@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/MonitorInputStream.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/MonitorInputStream.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

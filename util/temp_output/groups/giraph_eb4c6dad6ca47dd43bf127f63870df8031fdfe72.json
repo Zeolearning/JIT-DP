@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"leftBegin":143,
+			"leftEnd":144,
+			"rightPath":"src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"rightBegin":142,
+			"rightEnd":142
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"src/main/java/org/apache/giraph/graph/LongDoubleFloatDoubleVertex.java",
+			"rightBegin":137,
+			"rightEnd":136
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/CholeskyDecomposition.java",
+			"leftBegin":1,
+			"leftEnd":307,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/CholeskyDecomposition.java",
+			"rightBegin":1,
+			"rightEnd":307
+		}
+	]
+]

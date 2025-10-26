@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"leftBegin":918,
+			"leftEnd":918,
+			"rightPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"rightBegin":947,
+			"rightEnd":946
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"leftBegin":291,
+			"leftEnd":290,
+			"rightPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"rightBegin":298,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/validator/Field.java",
+			"rightBegin":107,
+			"rightEnd":113
+		}
+	]
+]

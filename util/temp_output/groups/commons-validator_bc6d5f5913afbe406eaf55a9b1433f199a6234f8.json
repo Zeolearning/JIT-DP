@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.java",
+			"rightBegin":68,
+			"rightEnd":69
+		}
+	]
+]

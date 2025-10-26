@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/ArrayFieldVector.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/ArrayFieldVector.java",
+			"rightBegin":43,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/ArrayFieldVector.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/ArrayFieldVector.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

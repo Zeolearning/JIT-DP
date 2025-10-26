@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"leftBegin":73,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

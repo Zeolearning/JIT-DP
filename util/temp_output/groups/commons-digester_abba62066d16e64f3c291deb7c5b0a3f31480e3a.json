@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/WithMemoryRulesBinder.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/WithMemoryRulesBinder.java",
+			"rightBegin":44,
+			"rightEnd":50
+		}
+	]
+]

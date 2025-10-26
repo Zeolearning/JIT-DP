@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"rightBegin":228,
+			"rightEnd":231
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"leftBegin":151,
+			"leftEnd":150,
+			"rightPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"rightBegin":153,
+			"rightEnd":153
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/ivy/core/IvyPatternHelper.java",
+			"rightBegin":64,
+			"rightEnd":65
+		}
+	]
+]

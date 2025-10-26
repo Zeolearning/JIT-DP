@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/providers/ObjectCreateRuleProvider.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/providers/ObjectCreateRuleProvider.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

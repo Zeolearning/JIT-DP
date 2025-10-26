@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/document-markup/SetTextSegmentRule.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/document-markup/TextSegmentHandler.java",
+			"rightBegin":1,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/document-markup/MarkupDigester.java",
+			"rightBegin":1,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/document-markup/Main.java",
+			"rightBegin":1,
+			"rightEnd":85
+		}
+	]
+]

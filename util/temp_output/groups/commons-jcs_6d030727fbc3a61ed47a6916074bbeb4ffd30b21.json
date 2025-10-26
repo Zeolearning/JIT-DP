@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/AbstractAuxiliaryCache.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/AbstractAuxiliaryCache.java",
+			"rightBegin":62,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/AbstractAuxiliaryCache.java",
+			"leftBegin":63,
+			"leftEnd":77,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/AbstractAuxiliaryCache.java",
+			"rightBegin":74,
+			"rightEnd":75
+		}
+	]
+]

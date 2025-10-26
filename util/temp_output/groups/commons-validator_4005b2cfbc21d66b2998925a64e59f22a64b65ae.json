@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/InetAddressValidator.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/InetAddressValidator.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/InetAddressValidator.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/InetAddressValidator.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

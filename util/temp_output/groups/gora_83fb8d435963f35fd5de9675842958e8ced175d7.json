@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"rightBegin":127,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"leftBegin":113,
+			"leftEnd":114,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"rightBegin":113,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"leftBegin":120,
+			"leftEnd":121,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/filter/FilterList.java",
+			"rightBegin":120,
+			"rightEnd":121
+		}
+	]
+]

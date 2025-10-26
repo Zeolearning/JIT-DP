@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/TestStrictConfigurationComparator.java",
+			"rightBegin":1,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/StrictConfigurationComparator.java",
+			"rightBegin":1,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationComparator.java",
+			"rightBegin":1,
+			"rightEnd":74
+		}
+	]
+]

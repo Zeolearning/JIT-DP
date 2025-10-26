@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"leftBegin":202,
+			"leftEnd":204,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"rightBegin":202,
+			"rightEnd":204
+		}
+	]
+]

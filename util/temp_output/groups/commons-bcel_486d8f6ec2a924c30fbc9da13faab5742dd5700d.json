@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/Class2HTML.java",
+			"leftBegin":178,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/bcel/util/Class2HTML.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/Class2HTML.java",
+			"leftBegin":175,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/bcel/util/Class2HTML.java",
+			"rightBegin":175,
+			"rightEnd":174
+		}
+	]
+]

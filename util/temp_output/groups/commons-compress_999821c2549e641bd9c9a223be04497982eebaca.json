@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"leftBegin":118,
+			"leftEnd":123,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"rightBegin":118,
+			"rightEnd":118
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

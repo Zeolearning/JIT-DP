@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/UnivariateStatisticAbstractTest.java",
+			"rightBegin":116,
+			"rightEnd":144
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+			"leftBegin":520,
+			"leftEnd":520,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+			"rightBegin":520,
+			"rightEnd":520
+		}
+	]
+]

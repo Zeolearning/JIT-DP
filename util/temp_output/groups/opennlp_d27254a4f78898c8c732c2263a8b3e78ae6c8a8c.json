@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/Evaluator.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/Evaluator.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/Evaluator.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/Evaluator.java",
+			"rightBegin":42,
+			"rightEnd":44
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"leftBegin":268,
+			"leftEnd":268,
+			"rightPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"rightBegin":272,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"leftBegin":268,
+			"leftEnd":267,
+			"rightPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"rightBegin":268,
+			"rightEnd":271
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/commons/configuration/BasePropertiesConfiguration.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	]
+]

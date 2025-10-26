@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":461,
+			"leftEnd":461,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":461,
+			"rightEnd":460
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":461,
+			"leftEnd":460,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":459,
+			"rightEnd":460
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"leftBegin":218,
+			"leftEnd":219,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTP.java",
+			"rightBegin":218,
+			"rightEnd":217
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/tar/TarInputStream.java",
+			"leftBegin":440,
+			"leftEnd":440,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/tar/TarInputStream.java",
+			"rightBegin":440,
+			"rightEnd":440
+		}
+	]
+]

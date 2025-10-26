@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/eval/ConllXPosTaggerEval.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/eval/ConllXPosTaggerEval.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/eval/ConllXPosTaggerEval.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/eval/ConllXPosTaggerEval.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	]
+]

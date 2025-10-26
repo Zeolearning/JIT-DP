@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/impl/DefaultFileMonitor.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/cache/SoftRefFilesCache.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/cache/SoftRefFilesCache.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

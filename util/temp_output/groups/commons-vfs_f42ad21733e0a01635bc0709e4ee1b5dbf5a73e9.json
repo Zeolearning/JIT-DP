@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/FileExtensionSelectorTest.java",
+			"leftBegin":83,
+			"leftEnd":84,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/FileExtensionSelectorTest.java",
+			"rightBegin":83,
+			"rightEnd":84
+		}
+	]
+]

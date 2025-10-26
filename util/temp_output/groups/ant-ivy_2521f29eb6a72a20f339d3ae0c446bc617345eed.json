@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"leftBegin":102,
+			"leftEnd":102,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"rightBegin":106,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"leftBegin":96,
+			"leftEnd":97,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyArtifactReport.java",
+			"rightBegin":96,
+			"rightEnd":101
+		}
+	]
+]

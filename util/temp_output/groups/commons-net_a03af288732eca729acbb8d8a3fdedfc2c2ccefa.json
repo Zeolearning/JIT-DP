@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/TestConnectTimeout.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/TestConnectTimeout.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

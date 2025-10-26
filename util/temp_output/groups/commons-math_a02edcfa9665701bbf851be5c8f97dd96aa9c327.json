@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/Well1024aTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/commons/math/random/Well1024aTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

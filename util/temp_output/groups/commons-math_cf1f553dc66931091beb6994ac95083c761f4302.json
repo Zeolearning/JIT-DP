@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"leftBegin":448,
+			"leftEnd":447,
+			"rightPath":"src/test/java/org/apache/commons/math3/special/GammaTest.java",
+			"rightBegin":448,
+			"rightEnd":956
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Gamma.java",
+			"leftBegin":626,
+			"leftEnd":625,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Gamma.java",
+			"rightBegin":630,
+			"rightEnd":700
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/special/Gamma.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"src/main/java/org/apache/commons/math3/special/Gamma.java",
+			"rightBegin":89,
+			"rightEnd":92
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManagerUnitTest.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManagerUnitTest.java",
+			"rightBegin":54,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManagerUnitTest.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/disk/jdbc/JDBCDiskCachePoolAccessManagerUnitTest.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

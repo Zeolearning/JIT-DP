@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/PUTFIELD.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/bcel/generic/PUTFIELD.java",
+			"rightBegin":69,
+			"rightEnd":71
+		}
+	]
+]

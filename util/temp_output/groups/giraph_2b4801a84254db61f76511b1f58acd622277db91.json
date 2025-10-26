@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/VertexResolver.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/giraph/graph/VertexResolver.java",
+			"rightBegin":86,
+			"rightEnd":92
+		}
+	]
+]

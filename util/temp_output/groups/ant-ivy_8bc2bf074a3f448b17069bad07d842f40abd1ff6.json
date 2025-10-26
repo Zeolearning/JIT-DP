@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"rightBegin":86,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"rightBegin":80,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"rightBegin":68,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/AbstractRepository.java",
+			"rightBegin":75,
+			"rightEnd":74
+		}
+	]
+]

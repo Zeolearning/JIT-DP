@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"leftBegin":210,
+			"leftEnd":210,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"rightBegin":213,
+			"rightEnd":214
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"leftBegin":186,
+			"leftEnd":186,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"rightBegin":186,
+			"rightEnd":187
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"leftBegin":194,
+			"leftEnd":194,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"rightBegin":195,
+			"rightEnd":196
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"leftBegin":202,
+			"leftEnd":202,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/SynchronizedFileObject.java",
+			"rightBegin":204,
+			"rightEnd":205
+		}
+	]
+]

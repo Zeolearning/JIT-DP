@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField.java",
+			"leftBegin":109,
+			"leftEnd":109,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	]
+]

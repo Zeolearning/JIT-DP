@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/store/DataStore.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/store/DataStore.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"leftBegin":500,
+			"leftEnd":500,
+			"rightPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"rightBegin":500,
+			"rightEnd":502
+		}
+	]
+]

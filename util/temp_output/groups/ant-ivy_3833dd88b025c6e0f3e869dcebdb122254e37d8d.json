@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"leftBegin":224,
+			"leftEnd":227,
+			"rightPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"rightBegin":224,
+			"rightEnd":228
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"leftBegin":122,
+			"leftEnd":121,
+			"rightPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"rightBegin":123,
+			"rightEnd":123
+		},
+		{
+			"leftPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"leftBegin":74,
+			"leftEnd":75,
+			"rightPath":"parquet-test-hadoop2/src/test/java/parquet/hadoop2/TestInputOutputFormat.java",
+			"rightBegin":75,
+			"rightEnd":76
+		}
+	]
+]

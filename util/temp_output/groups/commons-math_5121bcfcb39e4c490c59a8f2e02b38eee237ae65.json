@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/userguide/RandomVectorGeneratorExamples.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/math3/userguide/LowDiscrepancyGeneratorComparison.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/userguide/ClusteringExamples.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/math3/userguide/ClusterAlgorithmComparison.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

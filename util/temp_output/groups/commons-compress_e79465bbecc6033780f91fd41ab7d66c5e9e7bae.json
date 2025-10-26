@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"leftBegin":168,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"rightBegin":170,
+			"rightEnd":170
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"leftBegin":177,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"rightBegin":180,
+			"rightEnd":180
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"leftBegin":146,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java",
+			"rightBegin":146,
+			"rightEnd":152
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"leftBegin":171,
+			"leftEnd":173,
+			"rightPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"leftBegin":154,
+			"leftEnd":159,
+			"rightPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"leftBegin":140,
+			"leftEnd":142,
+			"rightPath":"src/java/org/apache/commons/configuration/XMLConfiguration.java",
+			"rightBegin":140,
+			"rightEnd":140
+		}
+	]
+]

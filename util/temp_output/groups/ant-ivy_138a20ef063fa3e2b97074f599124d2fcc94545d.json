@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyConfigureTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyConfigureTest.java",
+			"rightBegin":75,
+			"rightEnd":86
+		}
+	]
+]

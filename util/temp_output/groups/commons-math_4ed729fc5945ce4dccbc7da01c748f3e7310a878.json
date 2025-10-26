@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/ExponentialDistributionTest.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/ExponentialDistributionTest.java",
+			"rightBegin":119,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/NormalDistributionTest.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/NormalDistributionTest.java",
+			"rightBegin":131,
+			"rightEnd":132
+		}
+	]
+]

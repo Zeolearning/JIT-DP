@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"leftBegin":3092,
+			"leftEnd":3091,
+			"rightPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"rightBegin":3092,
+			"rightEnd":3096
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"leftBegin":572,
+			"leftEnd":571,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"rightBegin":572,
+			"rightEnd":580
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/converters/StringConverter.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/converters/StringConverter.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/converters/StringConverterTestCase.java",
+			"rightBegin":1,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/converters/StringConverter.java",
+			"leftBegin":89,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/converters/StringConverter.java",
+			"rightBegin":89,
+			"rightEnd":95
+		}
+	]
+]

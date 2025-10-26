@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/CharSet.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/java/org/apache/commons/lang/CharSet.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/CharSet.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"src/java/org/apache/commons/lang/CharSet.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

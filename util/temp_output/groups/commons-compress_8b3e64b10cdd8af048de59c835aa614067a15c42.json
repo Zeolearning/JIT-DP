@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"leftBegin":106,
+			"leftEnd":106,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	]
+]

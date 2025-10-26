@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache-openjpa/src/main/java/org/apache/commons/jcs/jcache/openjpa/OpenJPAJCacheDataCacheManager.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"commons-jcs-jcache-openjpa/src/main/java/org/apache/commons/jcs/jcache/openjpa/OpenJPAJCacheDataCacheManager.java",
+			"rightBegin":72,
+			"rightEnd":75
+		}
+	]
+]

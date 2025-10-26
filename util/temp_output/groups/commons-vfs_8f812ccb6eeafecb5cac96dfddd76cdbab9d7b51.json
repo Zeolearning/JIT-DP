@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/impl/SynchronizedFileObject.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/impl/SynchronizedFileObject.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/cache/OnCallRefreshFileObject.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/cache/OnCallRefreshFileObject.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/impl/DecoratedFileObject.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/impl/DecoratedFileObject.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	]
+]

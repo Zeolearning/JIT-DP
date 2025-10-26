@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java",
+			"rightBegin":97,
+			"rightEnd":101
+		}
+	]
+]

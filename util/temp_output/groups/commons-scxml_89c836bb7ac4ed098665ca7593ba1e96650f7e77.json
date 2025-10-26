@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/StateTest.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/StateTest.java",
+			"rightBegin":127,
+			"rightEnd":127
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/StateTest.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/StateTest.java",
+			"rightBegin":147,
+			"rightEnd":147
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"leftBegin":324,
+			"leftEnd":324,
+			"rightPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"rightBegin":324,
+			"rightEnd":324
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/io/EndianUtils.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

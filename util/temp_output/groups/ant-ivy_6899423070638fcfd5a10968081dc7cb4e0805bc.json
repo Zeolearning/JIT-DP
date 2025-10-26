@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"leftBegin":221,
+			"leftEnd":221,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"rightBegin":221,
+			"rightEnd":221
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"leftBegin":212,
+			"leftEnd":212,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/RepositoryResolver.java",
+			"rightBegin":212,
+			"rightEnd":212
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+			"leftBegin":783,
+			"leftEnd":796,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+			"rightBegin":783,
+			"rightEnd":782
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+			"leftBegin":641,
+			"leftEnd":641,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+			"rightBegin":641,
+			"rightEnd":641
+		}
+	]
+]

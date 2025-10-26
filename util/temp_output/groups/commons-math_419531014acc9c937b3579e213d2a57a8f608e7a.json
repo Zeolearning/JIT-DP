@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/LeastSquaresConverter.java",
+			"leftBegin":59,
+			"leftEnd":64,
+			"rightPath":"src/java/org/apache/commons/math/optimization/LeastSquaresConverter.java",
+			"rightBegin":57,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/LeastSquaresConverter.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"src/java/org/apache/commons/math/optimization/LeastSquaresConverter.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/mutable/MutableBooleanTest.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/test/org/apache/commons/lang/mutable/MutableBooleanTest.java",
+			"rightBegin":110,
+			"rightEnd":111
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/mutable/MutableBooleanTest.java",
+			"leftBegin":104,
+			"leftEnd":103,
+			"rightPath":"src/test/org/apache/commons/lang/mutable/MutableBooleanTest.java",
+			"rightBegin":104,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/mutable/MutableBoolean.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/commons/lang/mutable/MutableBoolean.java",
+			"rightBegin":101,
+			"rightEnd":119
+		}
+	]
+]

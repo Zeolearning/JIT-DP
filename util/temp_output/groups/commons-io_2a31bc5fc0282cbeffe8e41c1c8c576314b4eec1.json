@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"leftBegin":19,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"rightBegin":19,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"leftBegin":29,
+			"leftEnd":32,
+			"rightPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"rightBegin":29,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/io/FileDeleteStrategyTestCase.java",
+			"rightBegin":40,
+			"rightEnd":47
+		}
+	]
+]

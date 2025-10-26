@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java",
+			"leftBegin":176,
+			"leftEnd":178,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java",
+			"rightBegin":180,
+			"rightEnd":187
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java",
+			"leftBegin":152,
+			"leftEnd":153,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java",
+			"rightBegin":152,
+			"rightEnd":157
+		}
+	]
+]

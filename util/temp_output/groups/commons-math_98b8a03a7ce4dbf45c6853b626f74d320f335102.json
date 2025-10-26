@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"leftBegin":130,
+			"leftEnd":131,
+			"rightPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"rightBegin":130,
+			"rightEnd":131
+		}
+	]
+]

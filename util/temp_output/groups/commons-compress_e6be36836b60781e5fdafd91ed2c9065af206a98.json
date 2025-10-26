@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreatorTest.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/InputStreamSupplier.java",
+			"rightBegin":1,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java",
+			"rightBegin":1,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ScatterGatherBackingStoreSupplier.java",
+			"rightBegin":1,
+			"rightEnd":30
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java",
+			"leftBegin":138,
+			"leftEnd":141,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java",
+			"rightBegin":138,
+			"rightEnd":138
+		}
+	]
+]

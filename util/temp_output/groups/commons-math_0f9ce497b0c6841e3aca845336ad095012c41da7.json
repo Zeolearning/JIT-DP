@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/RandomUtils.java",
+			"leftBegin":486,
+			"leftEnd":486,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/RandomUtils.java",
+			"rightBegin":486,
+			"rightEnd":486
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/RandomUtils.java",
+			"leftBegin":482,
+			"leftEnd":482,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/RandomUtils.java",
+			"rightBegin":482,
+			"rightEnd":482
+		}
+	]
+]

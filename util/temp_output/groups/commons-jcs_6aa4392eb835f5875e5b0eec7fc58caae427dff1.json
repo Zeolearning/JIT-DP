@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/net/AddressUtilUnitTest.java",
+			"leftBegin":36,
+			"leftEnd":37,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/net/AddressUtilUnitTest.java",
+			"rightBegin":36,
+			"rightEnd":37
+		}
+	]
+]

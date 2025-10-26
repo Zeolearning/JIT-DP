@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/test/java/org/apache/giraph/block_app/library/triangles/TestUndirectedTriangleCounting.java",
+			"rightBegin":1,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/main/java/org/apache/giraph/block_app/library/triangles/package-info.java",
+			"rightBegin":1,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-block-app-8/src/main/java/org/apache/giraph/block_app/library/triangles/UndirectedTriangleCountingBlockFactory.java",
+			"rightBegin":1,
+			"rightEnd":157
+		}
+	]
+]

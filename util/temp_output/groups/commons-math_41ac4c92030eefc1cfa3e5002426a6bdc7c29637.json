@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/GeometricMean.java",
+			"leftBegin":76,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/GeometricMean.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

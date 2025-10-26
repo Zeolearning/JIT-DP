@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"leftBegin":219,
+			"leftEnd":223,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"rightBegin":218,
+			"rightEnd":221
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"leftBegin":209,
+			"leftEnd":216,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"rightBegin":210,
+			"rightEnd":215
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"leftBegin":208,
+			"leftEnd":207,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestFixedOrderComparator.java",
+			"rightBegin":208,
+			"rightEnd":208
+		}
+	]
+]

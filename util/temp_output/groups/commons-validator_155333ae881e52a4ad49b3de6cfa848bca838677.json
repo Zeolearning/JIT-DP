@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

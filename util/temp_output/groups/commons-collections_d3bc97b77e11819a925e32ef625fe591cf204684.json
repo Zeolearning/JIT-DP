@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestIterator.java",
+			"rightBegin":1,
+			"rightEnd":115
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestArrayIterator.java",
+			"leftBegin":1,
+			"leftEnd":117,
+			"rightPath":"src/test/org/apache/commons/collections/TestArrayIterator.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

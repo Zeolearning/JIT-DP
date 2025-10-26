@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-lucene/src/main/java/org/apache/gora/lucene/query/LuceneResult.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"gora-lucene/src/main/java/org/apache/gora/lucene/query/LuceneResult.java",
+			"rightBegin":127,
+			"rightEnd":138
+		}
+	]
+]

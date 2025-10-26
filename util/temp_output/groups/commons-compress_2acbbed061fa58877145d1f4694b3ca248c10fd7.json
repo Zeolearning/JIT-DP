@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":409,
+			"leftEnd":410,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":409,
+			"rightEnd":408
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":403,
+			"leftEnd":403,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":403,
+			"rightEnd":403
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":405,
+			"leftEnd":405,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":405,
+			"rightEnd":405
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":399,
+			"leftEnd":399,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":399,
+			"rightEnd":399
+		}
+	]
+]

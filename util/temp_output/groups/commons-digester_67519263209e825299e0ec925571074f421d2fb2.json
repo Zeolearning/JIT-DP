@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/xmlrules/XmlLoadException.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/digester/xmlrules/XmlLoadException.java",
+			"rightBegin":47,
+			"rightEnd":54
+		}
+	]
+]

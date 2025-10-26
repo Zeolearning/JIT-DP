@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityEscaper.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityEscaper.java",
+			"rightBegin":75,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/translate/NumericEntityEscaperTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/NumericEntityEscaperTest.java",
+			"rightBegin":50,
+			"rightEnd":61
+		}
+	]
+]

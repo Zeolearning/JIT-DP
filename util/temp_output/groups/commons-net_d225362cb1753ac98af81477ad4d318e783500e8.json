@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":131,
+			"rightEnd":150
+		},
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	]
+]

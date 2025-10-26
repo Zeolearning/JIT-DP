@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"auxiliary-builds/javagroups/src/test/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheTest.java",
+			"rightBegin":1,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"auxiliary-builds/javagroups/src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheFactory.java",
+			"rightBegin":1,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"auxiliary-builds/javagroups/src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheAttributes.java",
+			"rightBegin":1,
+			"rightEnd":171
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"auxiliary-builds/javagroups/src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCache.java",
+			"rightBegin":1,
+			"rightEnd":441
+		}
+	]
+]

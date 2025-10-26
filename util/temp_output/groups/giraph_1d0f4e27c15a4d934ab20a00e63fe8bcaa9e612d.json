@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/examples/SimpleOutDegreeCountVertex.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/examples/SimpleInDegreeCountVertex.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

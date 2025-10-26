@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"leftBegin":173,
+			"leftEnd":172,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"rightBegin":178,
+			"rightEnd":195
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"rightBegin":19,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	]
+]

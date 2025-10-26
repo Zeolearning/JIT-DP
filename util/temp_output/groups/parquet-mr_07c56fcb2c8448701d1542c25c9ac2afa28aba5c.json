@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/LemireBitPacking.java",
+			"leftBegin":16,
+			"leftEnd":15,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/LemireBitPacking.java",
+			"rightBegin":16,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingGenerator.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingGenerator.java",
+			"rightBegin":39,
+			"rightEnd":44
+		}
+	]
+]

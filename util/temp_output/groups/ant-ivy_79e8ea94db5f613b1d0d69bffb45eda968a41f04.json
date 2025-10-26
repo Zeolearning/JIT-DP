@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"leftBegin":244,
+			"leftEnd":243,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"rightBegin":244,
+			"rightEnd":253
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/LogReportOutputter.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

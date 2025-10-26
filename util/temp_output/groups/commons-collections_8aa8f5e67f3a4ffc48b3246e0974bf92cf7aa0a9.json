@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/comparators/FixedOrderComparator.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/main/java/org/apache/commons/collections/comparators/FixedOrderComparator.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ExtendedProperties.java",
+			"leftBegin":1502,
+			"leftEnd":1502,
+			"rightPath":"src/main/java/org/apache/commons/collections/ExtendedProperties.java",
+			"rightBegin":1502,
+			"rightEnd":1502
+		}
+	]
+]

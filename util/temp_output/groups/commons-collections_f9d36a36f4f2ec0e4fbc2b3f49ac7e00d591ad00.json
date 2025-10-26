@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"leftBegin":128,
+			"leftEnd":128,
+			"rightPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"rightBegin":128,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"rightBegin":124,
+			"rightEnd":124
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

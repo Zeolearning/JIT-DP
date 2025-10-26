@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/codec/binary/Binary.java",
+			"rightBegin":1,
+			"rightEnd":545
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/binary/BinaryTest.java",
+			"rightBegin":1,
+			"rightEnd":1792
+		}
+	]
+]

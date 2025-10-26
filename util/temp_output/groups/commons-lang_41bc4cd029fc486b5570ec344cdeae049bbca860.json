@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"rightBegin":67,
+			"rightEnd":68
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"leftBegin":73,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/RecursiveToStringStyleTest.java",
+			"rightBegin":75,
+			"rightEnd":77
+		}
+	]
+]

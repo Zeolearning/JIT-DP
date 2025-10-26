@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanUtilsBenchCase.java",
+			"rightBegin":1,
+			"rightEnd":418
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/BenchBean.java",
+			"rightBegin":1,
+			"rightEnd":191
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/PropertyUtilsBenchCase.java",
+			"rightBegin":1,
+			"rightEnd":311
+		}
+	]
+]

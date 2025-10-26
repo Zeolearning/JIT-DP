@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"leftBegin":201,
+			"leftEnd":201,
+			"rightPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"rightBegin":201,
+			"rightEnd":201
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

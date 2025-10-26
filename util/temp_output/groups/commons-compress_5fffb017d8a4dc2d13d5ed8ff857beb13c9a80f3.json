@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"leftBegin":379,
+			"leftEnd":380,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"rightBegin":378,
+			"rightEnd":378
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"leftBegin":375,
+			"leftEnd":375,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"rightBegin":375,
+			"rightEnd":374
+		}
+	]
+]

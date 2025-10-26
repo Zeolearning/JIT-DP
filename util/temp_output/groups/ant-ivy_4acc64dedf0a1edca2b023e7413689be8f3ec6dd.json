@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/external/m2/PomModuleDescriptorParserTest.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"test/java/fr/jayasoft/ivy/external/m2/PomModuleDescriptorParserTest.java",
+			"rightBegin":60,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/external/m2/PomModuleDescriptorParser.java",
+			"leftBegin":155,
+			"leftEnd":162,
+			"rightPath":"src/java/fr/jayasoft/ivy/external/m2/PomModuleDescriptorParser.java",
+			"rightBegin":155,
+			"rightEnd":164
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java",
+			"rightBegin":54,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

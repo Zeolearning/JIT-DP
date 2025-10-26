@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/PoolKey.java",
+			"leftBegin":26,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/PoolKey.java",
+			"rightBegin":26,
+			"rightEnd":29
+		}
+	]
+]

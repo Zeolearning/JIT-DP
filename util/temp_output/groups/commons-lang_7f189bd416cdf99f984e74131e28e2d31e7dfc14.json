@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"src/test/java/org/apache/commons/lang3/reflect/ConstructorUtilsTest.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

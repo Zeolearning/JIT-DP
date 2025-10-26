@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/RepositoryResolver.java",
+			"leftBegin":138,
+			"leftEnd":138,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/RepositoryResolver.java",
+			"rightBegin":140,
+			"rightEnd":140
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/RepositoryResolver.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/RepositoryResolver.java",
+			"rightBegin":137,
+			"rightEnd":138
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCacheRemovalUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"leftBegin":570,
+			"leftEnd":570,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"rightBegin":570,
+			"rightEnd":570
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"leftBegin":557,
+			"leftEnd":557,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/jdbc/JDBCDiskCache.java",
+			"rightBegin":557,
+			"rightEnd":557
+		}
+	]
+]

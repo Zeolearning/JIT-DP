@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/WindowsLineEndingInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/UnixLineEndingInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/WindowsLineEndingInputStream.java",
+			"rightBegin":1,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/UnixLineEndingInputStream.java",
+			"rightBegin":1,
+			"rightEnd":110
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multiset/package-info.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multiset/package-info.java",
+			"rightBegin":31,
+			"rightEnd":31
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multiset/package-info.java",
+			"leftBegin":33,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multiset/package-info.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multiset/SynchronizedMultiSet.java",
+			"rightBegin":1,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multiset/PredicatedMultiSet.java",
+			"rightBegin":1,
+			"rightEnd":137
+		}
+	]
+]

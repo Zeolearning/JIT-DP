@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"leftBegin":332,
+			"leftEnd":332,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"rightBegin":333,
+			"rightEnd":332
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"leftBegin":325,
+			"leftEnd":330,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"rightBegin":326,
+			"rightEnd":331
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"leftBegin":321,
+			"leftEnd":323,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileSystem.java",
+			"rightBegin":321,
+			"rightEnd":324
+		}
+	]
+]

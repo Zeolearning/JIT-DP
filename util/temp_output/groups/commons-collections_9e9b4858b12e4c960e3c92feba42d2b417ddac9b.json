@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"leftBegin":100,
+			"leftEnd":104,
+			"rightPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"rightBegin":99,
+			"rightEnd":103
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/collections/MapPerformance.java",
+			"rightBegin":63,
+			"rightEnd":62
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":1,
+			"leftEnd":302,
+			"rightPath":"src/test/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":1,
+			"rightEnd":302
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/WildcardFileFilter.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/DirectoryWalker.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/java/org/apache/commons/io/DirectoryWalker.java",
+			"rightBegin":249,
+			"rightEnd":249
+		}
+	]
+]

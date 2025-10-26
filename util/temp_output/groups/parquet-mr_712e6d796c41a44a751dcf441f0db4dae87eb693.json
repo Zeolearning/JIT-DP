@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/DataWritableReadSupport.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/DataWritableReadSupport.java",
+			"rightBegin":32,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/DataWritableReadSupport.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/read/DataWritableReadSupport.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

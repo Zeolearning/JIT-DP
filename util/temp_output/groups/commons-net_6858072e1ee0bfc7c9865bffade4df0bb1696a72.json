@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"rightBegin":41,
+			"rightEnd":46
+		}
+	]
+]

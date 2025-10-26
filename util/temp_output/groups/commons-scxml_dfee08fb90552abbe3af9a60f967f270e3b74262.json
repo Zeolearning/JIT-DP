@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLDigester.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLDigester.java",
+			"rightBegin":38,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLDigester.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLDigester.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	]
+]

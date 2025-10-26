@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/TarTestCase.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/TarTestCase.java",
+			"rightBegin":94,
+			"rightEnd":96
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/ModelTestSuite.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/ModelTestSuite.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/EnvTestSuite.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/EnvTestSuite.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/env/jsp/EnvJspTestSuite.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/scxml/env/jsp/EnvJspTestSuite.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

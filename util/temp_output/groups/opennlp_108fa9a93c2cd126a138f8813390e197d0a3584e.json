@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"rightBegin":23,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/POSModelSerializer.java",
+			"rightBegin":41,
+			"rightEnd":46
+		}
+	]
+]

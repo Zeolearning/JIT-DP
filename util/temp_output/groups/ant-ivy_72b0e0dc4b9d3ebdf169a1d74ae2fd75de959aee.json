@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/resolver/FileSystemResolverTest.java",
+			"leftBegin":430,
+			"leftEnd":430,
+			"rightPath":"test/java/fr/jayasoft/ivy/resolver/FileSystemResolverTest.java",
+			"rightBegin":430,
+			"rightEnd":430
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"leftBegin":999,
+			"leftEnd":998,
+			"rightPath":"test/java/fr/jayasoft/ivy/ResolveTest.java",
+			"rightBegin":999,
+			"rightEnd":1019
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"leftBegin":1022,
+			"leftEnd":1022,
+			"rightPath":"src/java/fr/jayasoft/ivy/IvyNode.java",
+			"rightBegin":1022,
+			"rightEnd":1022
+		}
+	]
+]

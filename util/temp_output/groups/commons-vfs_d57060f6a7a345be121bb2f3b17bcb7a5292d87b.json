@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"leftBegin":513,
+			"leftEnd":530,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"rightBegin":515,
+			"rightEnd":536
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"leftBegin":509,
+			"leftEnd":509,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"rightBegin":512,
+			"rightEnd":511
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"leftBegin":507,
+			"leftEnd":507,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/AbstractFileSystem.java",
+			"rightBegin":507,
+			"rightEnd":510
+		}
+	]
+]

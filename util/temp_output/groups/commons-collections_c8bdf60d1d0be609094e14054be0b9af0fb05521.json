@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"leftBegin":1067,
+			"leftEnd":1067,
+			"rightPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"rightBegin":1067,
+			"rightEnd":1067
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/IterableUtilsTest.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"src/test/java/org/apache/commons/collections4/IterableUtilsTest.java",
+			"rightBegin":304,
+			"rightEnd":304
+		}
+	]
+]

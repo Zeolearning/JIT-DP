@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

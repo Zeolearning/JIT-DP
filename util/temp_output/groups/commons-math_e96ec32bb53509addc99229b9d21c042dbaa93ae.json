@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/SparseRealVector.java",
+			"leftBegin":1293,
+			"leftEnd":1293,
+			"rightPath":"src/java/org/apache/commons/math/linear/SparseRealVector.java",
+			"rightBegin":1293,
+			"rightEnd":1293
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/SparseFieldVector.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/java/org/apache/commons/math/linear/SparseFieldVector.java",
+			"rightBegin":93,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/SparseFieldVector.java",
+			"leftBegin":584,
+			"leftEnd":583,
+			"rightPath":"src/java/org/apache/commons/math/linear/SparseFieldVector.java",
+			"rightBegin":583,
+			"rightEnd":636
+		}
+	]
+]

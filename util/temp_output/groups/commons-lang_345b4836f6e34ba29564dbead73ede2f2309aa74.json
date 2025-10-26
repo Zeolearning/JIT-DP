@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/OctalUnescaper.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/StringEscapeUtils.java",
+			"leftBegin":131,
+			"leftEnd":130,
+			"rightPath":"src/main/java/org/apache/commons/lang3/StringEscapeUtils.java",
+			"rightBegin":132,
+			"rightEnd":132
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/StringEscapeUtils.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/lang3/StringEscapeUtils.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/OctalUnescaperTest.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	]
+]

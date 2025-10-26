@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/memoryleaktests/pojotests/SomePojo.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/memoryleaktests/pojotests/SomeMappedPojo.java",
+			"rightBegin":1,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/memoryleaktests/pojotests/CustomInteger.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/memoryleaktests/MemoryLeakTestCase.java",
+			"rightBegin":1,
+			"rightEnd":430
+		}
+	]
+]

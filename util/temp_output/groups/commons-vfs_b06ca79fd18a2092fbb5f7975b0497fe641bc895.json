@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

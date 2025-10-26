@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/SetNext.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/SetNext.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/rules/SetRoot.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/rules/SetRoot.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

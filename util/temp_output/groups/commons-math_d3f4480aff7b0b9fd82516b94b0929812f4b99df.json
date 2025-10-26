@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"leftBegin":287,
+			"leftEnd":288,
+			"rightPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"rightBegin":288,
+			"rightEnd":287
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"leftBegin":294,
+			"leftEnd":311,
+			"rightPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"rightBegin":293,
+			"rightEnd":293
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/java/org/apache/commons/math/stat/AbstractStoreUnivariate.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

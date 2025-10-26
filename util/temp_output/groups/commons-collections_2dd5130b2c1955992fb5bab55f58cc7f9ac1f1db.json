@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/FactoryUtils.java",
+			"rightBegin":1,
+			"rightEnd":177
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/LazyCollections.java",
+			"rightBegin":1,
+			"rightEnd":594
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/SimpleObjectFactory.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	]
+]

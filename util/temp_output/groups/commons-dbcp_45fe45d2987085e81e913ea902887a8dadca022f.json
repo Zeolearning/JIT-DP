@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestConnectionPool.java",
+			"leftBegin":548,
+			"leftEnd":548,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestConnectionPool.java",
+			"rightBegin":548,
+			"rightEnd":548
+		}
+	]
+]

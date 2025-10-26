@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-brat-annotator/src/main/java/opennlp/bratann/NameFinderResource.java",
+			"rightBegin":1,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-brat-annotator/src/main/java/opennlp/bratann/NameFinderAnnService.java",
+			"rightBegin":1,
+			"rightEnd":119
+		}
+	]
+]

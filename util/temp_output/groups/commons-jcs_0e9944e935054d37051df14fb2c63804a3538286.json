@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDisk.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDisk.java",
+			"rightBegin":255,
+			"rightEnd":255
+		}
+	]
+]

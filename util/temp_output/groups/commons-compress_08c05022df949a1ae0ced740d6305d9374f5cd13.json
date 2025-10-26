@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java",
+			"rightBegin":113,
+			"rightEnd":155
+		}
+	]
+]

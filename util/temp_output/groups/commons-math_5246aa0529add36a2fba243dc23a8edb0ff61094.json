@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"leftBegin":172,
+			"leftEnd":171,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"rightBegin":142,
+			"rightEnd":179
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"leftBegin":149,
+			"leftEnd":150,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"rightBegin":119,
+			"rightEnd":120
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"leftBegin":98,
+			"leftEnd":128,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/nonstiff/AbstractRungeKuttaFieldStepInterpolatorTest.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	]
+]

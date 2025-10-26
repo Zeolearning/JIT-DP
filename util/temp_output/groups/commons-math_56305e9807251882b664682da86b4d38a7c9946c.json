@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/distribution/TDistributionTest.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/test/org/apache/commons/math/distribution/TDistributionTest.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/distribution/TDistributionTest.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/test/org/apache/commons/math/distribution/TDistributionTest.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

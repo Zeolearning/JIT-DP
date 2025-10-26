@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/DetailedFMeasureListener.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/DetailedFMeasureListener.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/DetailedFMeasureListener.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/DetailedFMeasureListener.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

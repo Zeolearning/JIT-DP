@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"leftBegin":62,
+			"leftEnd":63,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/ZipFileObjectTestCase.java",
+			"rightBegin":62,
+			"rightEnd":63
+		}
+	]
+]

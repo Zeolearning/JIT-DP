@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"leftBegin":181,
+			"leftEnd":182,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"rightBegin":181,
+			"rightEnd":182
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"rightBegin":149,
+			"rightEnd":149
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"rightBegin":52,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/generic/JDKGenericDumpTestCase.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/test/java/org/apache/bcel/generic/JdkGenericDumpTestCase.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	]
+]

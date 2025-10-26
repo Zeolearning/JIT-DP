@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/PoolableManagedConnectionFactory.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/PoolableManagedConnectionFactory.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

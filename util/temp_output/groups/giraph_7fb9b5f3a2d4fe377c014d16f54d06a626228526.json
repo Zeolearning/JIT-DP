@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/GraphvizOutputFormat.java",
+			"rightBegin":1,
+			"rightEnd":244
+		}
+	]
+]

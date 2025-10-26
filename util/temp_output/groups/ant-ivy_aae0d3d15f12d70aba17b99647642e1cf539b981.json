@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"leftBegin":210,
+			"leftEnd":209,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"rightBegin":214,
+			"rightEnd":224
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"rightBegin":29,
+			"rightEnd":30
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/ChainResolver.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	]
+]

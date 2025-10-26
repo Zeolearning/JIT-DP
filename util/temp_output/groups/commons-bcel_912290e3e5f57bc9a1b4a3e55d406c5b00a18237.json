@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Annotations.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/java/org/apache/bcel/classfile/Annotations.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AnnotationEntry.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/bcel/classfile/AnnotationEntry.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Annotations.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/bcel/classfile/Annotations.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

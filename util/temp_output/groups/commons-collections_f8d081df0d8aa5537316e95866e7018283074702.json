@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"rightBegin":92,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"leftBegin":3,
+			"leftEnd":2,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"rightBegin":3,
+			"rightEnd":3
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/org/apache/commons/collections/comparators/TestComparator.java",
+			"rightBegin":26,
+			"rightEnd":34
+		}
+	]
+]

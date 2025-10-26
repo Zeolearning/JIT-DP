@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/p2/P2MetadataParser.java",
+			"leftBegin":426,
+			"leftEnd":425,
+			"rightPath":"src/java/org/apache/ivy/osgi/p2/P2MetadataParser.java",
+			"rightBegin":426,
+			"rightEnd":428
+		}
+	]
+]

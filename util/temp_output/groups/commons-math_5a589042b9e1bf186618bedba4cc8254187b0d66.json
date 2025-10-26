@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"leftBegin":422,
+			"leftEnd":423,
+			"rightPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"rightBegin":424,
+			"rightEnd":423
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"leftBegin":343,
+			"leftEnd":342,
+			"rightPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"rightBegin":343,
+			"rightEnd":343
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"leftBegin":421,
+			"leftEnd":420,
+			"rightPath":"src/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+			"rightBegin":422,
+			"rightEnd":422
+		}
+	]
+]

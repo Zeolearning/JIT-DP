@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/java/org/apache/ivy/util/url/URLHandlerDispatcher.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	]
+]

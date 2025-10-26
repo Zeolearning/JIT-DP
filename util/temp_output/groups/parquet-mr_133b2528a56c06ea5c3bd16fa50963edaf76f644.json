@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/SkippableException.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	]
+]

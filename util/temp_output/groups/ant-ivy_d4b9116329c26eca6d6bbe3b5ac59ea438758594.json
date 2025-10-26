@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/m2/PomReader.java",
+			"leftBegin":549,
+			"leftEnd":548,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/m2/PomReader.java",
+			"rightBegin":549,
+			"rightEnd":550
+		}
+	]
+]

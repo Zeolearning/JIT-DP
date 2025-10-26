@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/zip/test/FileLockTestCase.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	]
+]

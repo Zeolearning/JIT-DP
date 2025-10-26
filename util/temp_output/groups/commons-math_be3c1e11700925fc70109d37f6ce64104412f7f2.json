@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":80,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":56,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":40,
+			"rightEnd":44
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

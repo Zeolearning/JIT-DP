@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-uima/src/main/java/opennlp/uima/namefind/NameFinder.java",
+			"leftBegin":172,
+			"leftEnd":171,
+			"rightPath":"opennlp-uima/src/main/java/opennlp/uima/namefind/NameFinder.java",
+			"rightBegin":172,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-uima/src/main/java/opennlp/uima/namefind/NameFinder.java",
+			"leftBegin":213,
+			"leftEnd":213,
+			"rightPath":"opennlp-uima/src/main/java/opennlp/uima/namefind/NameFinder.java",
+			"rightBegin":215,
+			"rightEnd":215
+		}
+	]
+]

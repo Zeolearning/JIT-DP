@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/RulesBinder.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/RulesBinder.java",
+			"rightBegin":54,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/AbstractRulesModule.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/AbstractRulesModule.java",
+			"rightBegin":82,
+			"rightEnd":89
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/LinkedRuleBuilder.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	]
+]

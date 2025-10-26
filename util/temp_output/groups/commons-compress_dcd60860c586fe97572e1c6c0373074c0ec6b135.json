@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"rightBegin":48,
+			"rightEnd":51
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/FileBasedScatterGatherBackingStore.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

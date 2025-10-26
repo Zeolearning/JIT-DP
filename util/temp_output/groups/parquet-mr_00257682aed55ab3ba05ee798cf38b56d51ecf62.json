@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"redelm-pig/src/test/java/redelm/pig/TestPigSchemaConverter.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"redelm-pig/src/test/java/redelm/pig/TestPigSchemaConverter.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

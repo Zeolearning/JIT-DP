@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

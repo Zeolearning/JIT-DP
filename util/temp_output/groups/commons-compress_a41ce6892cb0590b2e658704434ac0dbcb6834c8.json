@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"leftBegin":99,
+			"leftEnd":98,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java",
+			"rightBegin":99,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java",
+			"leftBegin":528,
+			"leftEnd":528,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java",
+			"rightBegin":528,
+			"rightEnd":529
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java",
+			"leftBegin":424,
+			"leftEnd":423,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java",
+			"rightBegin":424,
+			"rightEnd":492
+		}
+	]
+]

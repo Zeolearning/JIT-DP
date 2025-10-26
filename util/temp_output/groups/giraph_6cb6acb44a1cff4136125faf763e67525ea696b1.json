@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/TaskInfo.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/TaskInfo.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	]
+]

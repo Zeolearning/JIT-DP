@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/EventType.java",
+			"leftBegin":128,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/EventType.java",
+			"rightBegin":128,
+			"rightEnd":153
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestConfigurationEventTypes.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestConfigurationEventTypes.java",
+			"rightBegin":83,
+			"rightEnd":128
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestConfigurationEventTypes.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestConfigurationEventTypes.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

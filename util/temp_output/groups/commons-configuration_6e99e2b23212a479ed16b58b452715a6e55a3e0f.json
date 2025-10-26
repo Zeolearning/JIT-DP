@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/NodeModel.java",
+			"leftBegin":135,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/NodeModel.java",
+			"rightBegin":135,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"leftBegin":367,
+			"leftEnd":366,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/InMemoryNodeModel.java",
+			"rightBegin":367,
+			"rightEnd":373
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/TrackedNodeModel.java",
+			"leftBegin":199,
+			"leftEnd":198,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/TrackedNodeModel.java",
+			"rightBegin":199,
+			"rightEnd":205
+		}
+	]
+]

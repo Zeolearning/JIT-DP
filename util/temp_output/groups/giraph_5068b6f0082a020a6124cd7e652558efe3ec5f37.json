@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/partition/PartitionUtils.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/partition/PartitionUtils.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/partition/PartitionUtils.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/partition/PartitionUtils.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-examples/src/test/java/org/apache/giraph/aggregators/TestAggregatorsHandling.java",
+			"leftBegin":141,
+			"leftEnd":141,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/aggregators/TestAggregatorsHandling.java",
+			"rightBegin":141,
+			"rightEnd":141
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-examples/src/test/java/org/apache/giraph/aggregators/TestAggregatorsHandling.java",
+			"leftBegin":132,
+			"leftEnd":133,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/aggregators/TestAggregatorsHandling.java",
+			"rightBegin":132,
+			"rightEnd":133
+		}
+	]
+]

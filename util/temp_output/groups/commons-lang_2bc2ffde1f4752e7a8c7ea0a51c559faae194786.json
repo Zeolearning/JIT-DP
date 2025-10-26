@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"leftBegin":195,
+			"leftEnd":195,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"rightBegin":195,
+			"rightEnd":195
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"leftBegin":193,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"rightBegin":193,
+			"rightEnd":193
+		}
+	]
+]

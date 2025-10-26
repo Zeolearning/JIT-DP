@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/buffer/TransformedBuffer.java",
+			"leftBegin":73,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/collections/buffer/TransformedBuffer.java",
+			"rightBegin":73,
+			"rightEnd":77
+		}
+	]
+]

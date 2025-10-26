@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/JsonStringConfOption.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/JsonStringConfOption.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	]
+]

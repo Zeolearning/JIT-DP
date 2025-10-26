@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleWriteSupport.java",
+			"rightBegin":59,
+			"rightEnd":62
+		}
+	]
+]

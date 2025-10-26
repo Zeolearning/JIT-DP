@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"leftBegin":728,
+			"leftEnd":727,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"rightBegin":728,
+			"rightEnd":739
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"leftBegin":263,
+			"leftEnd":262,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"rightBegin":263,
+			"rightEnd":265
+		}
+	]
+]

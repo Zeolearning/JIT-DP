@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/DummyStepInterpolatorTest.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/test/org/apache/commons/math/ode/DummyStepInterpolatorTest.java",
+			"rightBegin":101,
+			"rightEnd":129
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/SMTPMail.java",
+			"leftBegin":97,
+			"leftEnd":98,
+			"rightPath":"src/main/java/examples/mail/SMTPMail.java",
+			"rightBegin":96,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/SMTPMail.java",
+			"leftBegin":91,
+			"leftEnd":92,
+			"rightPath":"src/main/java/examples/mail/SMTPMail.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/SMTPMail.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/examples/mail/SMTPMail.java",
+			"rightBegin":93,
+			"rightEnd":93
+		}
+	]
+]

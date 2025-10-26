@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileSystemConfigBuilder.java",
+			"leftBegin":39,
+			"leftEnd":41,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileSystemConfigBuilder.java",
+			"rightBegin":39,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileSystemConfigBuilder.java",
+			"leftBegin":51,
+			"leftEnd":71,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileSystemConfigBuilder.java",
+			"rightBegin":48,
+			"rightEnd":47
+		}
+	]
+]

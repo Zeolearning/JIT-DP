@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/POP3Mail.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/examples/mail/POP3Mail.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/POP3Mail.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/main/java/examples/mail/POP3Mail.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/POP3Mail.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"src/main/java/examples/mail/POP3Mail.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

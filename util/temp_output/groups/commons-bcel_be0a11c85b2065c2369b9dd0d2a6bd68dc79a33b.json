@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/InstructionList.java",
+			"leftBegin":680,
+			"leftEnd":681,
+			"rightPath":"src/main/java/org/apache/bcel/generic/InstructionList.java",
+			"rightBegin":680,
+			"rightEnd":682
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/DetectCompressorTestCase.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/DetectCompressorTestCase.java",
+			"rightBegin":118,
+			"rightEnd":142
+		}
+	]
+]

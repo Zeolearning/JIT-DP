@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"rightBegin":60,
+			"rightEnd":60
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"rightBegin":55,
+			"rightEnd":55
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

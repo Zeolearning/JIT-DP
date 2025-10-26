@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/ArrayConverterTestCase.java",
+			"leftBegin":186,
+			"leftEnd":185,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ArrayConverterTestCase.java",
+			"rightBegin":186,
+			"rightEnd":239
+		}
+	]
+]

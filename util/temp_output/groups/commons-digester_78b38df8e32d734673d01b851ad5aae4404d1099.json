@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"leftBegin":212,
+			"leftEnd":212,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":212,
+			"rightEnd":212
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"leftBegin":166,
+			"leftEnd":168,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":166,
+			"rightEnd":168
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/java/org/apache/commons/digester/NodeCreateRule.java",
+			"rightBegin":170,
+			"rightEnd":170
+		}
+	]
+]

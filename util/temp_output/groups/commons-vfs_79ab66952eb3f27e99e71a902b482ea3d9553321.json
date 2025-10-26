@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/AbstractTestSuite.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/AbstractTestSuite.java",
+			"rightBegin":164,
+			"rightEnd":164
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/AbstractTestSuite.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/AbstractTestSuite.java",
+			"rightBegin":33,
+			"rightEnd":34
+		}
+	]
+]

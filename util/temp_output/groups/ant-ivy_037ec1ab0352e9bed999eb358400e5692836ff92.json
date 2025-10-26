@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"leftBegin":83,
+			"leftEnd":82,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"rightBegin":86,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyRetrieveTest.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	]
+]

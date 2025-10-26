@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliUtils.java",
+			"leftBegin":78,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/brotli/BrotliUtils.java",
+			"rightBegin":78,
+			"rightEnd":79
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolingDriver.java",
+			"leftBegin":126,
+			"leftEnd":142,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolingDriver.java",
+			"rightBegin":126,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/PoolingDriver.java",
+			"leftBegin":144,
+			"leftEnd":143,
+			"rightPath":"src/java/org/apache/commons/dbcp2/PoolingDriver.java",
+			"rightBegin":132,
+			"rightEnd":140
+		}
+	]
+]

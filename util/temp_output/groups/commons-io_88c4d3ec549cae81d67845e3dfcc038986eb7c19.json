@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/TaggedOutputStreamTest.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/test/java/org/apache/commons/io/output/TaggedOutputStreamTest.java",
+			"rightBegin":98,
+			"rightEnd":98
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/TaggedOutputStreamTest.java",
+			"leftBegin":119,
+			"leftEnd":118,
+			"rightPath":"src/test/java/org/apache/commons/io/output/TaggedOutputStreamTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

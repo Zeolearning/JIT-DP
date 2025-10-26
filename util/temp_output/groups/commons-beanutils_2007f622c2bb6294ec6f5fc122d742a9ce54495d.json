@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":230,
+			"leftEnd":230,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":227,
+			"rightEnd":228
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":214,
+			"leftEnd":214,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":211,
+			"rightEnd":211
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":49,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":49,
+			"rightEnd":48
+		}
+	]
+]

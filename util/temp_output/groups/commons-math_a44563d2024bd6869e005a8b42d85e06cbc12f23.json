@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

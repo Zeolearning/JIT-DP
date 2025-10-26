@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileObject.java",
+			"leftBegin":265,
+			"leftEnd":269,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileObject.java",
+			"rightBegin":265,
+			"rightEnd":265
+		}
+	]
+]

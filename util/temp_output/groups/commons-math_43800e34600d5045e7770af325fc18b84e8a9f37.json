@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldSecondaryEquations.java",
+			"rightBegin":1,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldODEStateAndDerivative.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldODEState.java",
+			"rightBegin":1,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldFirstOrderDifferentialEquations.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	]
+]

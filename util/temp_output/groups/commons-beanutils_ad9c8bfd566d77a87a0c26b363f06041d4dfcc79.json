@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/URLConverterTestCase.java",
+			"rightBegin":1,
+			"rightEnd":156
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/URLConverter.java",
+			"rightBegin":1,
+			"rightEnd":172
+		}
+	]
+]

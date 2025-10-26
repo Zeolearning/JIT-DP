@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"leftBegin":247,
+			"leftEnd":247,
+			"rightPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"rightBegin":247,
+			"rightEnd":247
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"rightBegin":79,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/beanutils/WrapDynaBean.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

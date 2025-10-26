@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/XmlStreamReaderTest.java",
+			"leftBegin":219,
+			"leftEnd":231,
+			"rightPath":"src/test/java/org/apache/commons/io/input/XmlStreamReaderTest.java",
+			"rightBegin":219,
+			"rightEnd":228
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"leftBegin":312,
+			"leftEnd":313,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"rightBegin":310,
+			"rightEnd":310
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"leftBegin":50,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"leftBegin":307,
+			"leftEnd":308,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl.java",
+			"rightBegin":306,
+			"rightEnd":306
+		}
+	]
+]

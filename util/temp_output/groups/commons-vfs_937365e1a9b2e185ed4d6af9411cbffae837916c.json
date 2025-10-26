@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileSelectorInfo.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/DefaultFileSelectorInfo.java",
+			"rightBegin":57,
+			"rightEnd":61
+		}
+	]
+]

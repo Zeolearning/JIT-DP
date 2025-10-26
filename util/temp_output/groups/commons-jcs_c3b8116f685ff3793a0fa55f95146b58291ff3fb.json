@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"leftBegin":367,
+			"leftEnd":367,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"rightBegin":367,
+			"rightEnd":367
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"src/test/org/apache/commons/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"rightBegin":286,
+			"rightEnd":286
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/UtilsTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/codec/net/UtilsTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/UtilsTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/codec/net/UtilsTest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

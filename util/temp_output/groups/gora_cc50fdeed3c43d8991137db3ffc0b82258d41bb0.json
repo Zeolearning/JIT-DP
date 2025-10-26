@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraMapping.java",
+			"leftBegin":165,
+			"leftEnd":165,
+			"rightPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraMapping.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	],
+	[
+		{
+			"leftPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraMapping.java",
+			"leftBegin":170,
+			"leftEnd":171,
+			"rightPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraMapping.java",
+			"rightBegin":170,
+			"rightEnd":171
+		}
+	]
+]

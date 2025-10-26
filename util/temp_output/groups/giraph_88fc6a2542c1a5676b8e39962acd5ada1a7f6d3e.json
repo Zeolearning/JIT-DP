@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"leftBegin":505,
+			"leftEnd":505,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"rightBegin":505,
+			"rightEnd":505
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/messages/SequentialFileMessageStore.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/messages/SequentialFileMessageStore.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

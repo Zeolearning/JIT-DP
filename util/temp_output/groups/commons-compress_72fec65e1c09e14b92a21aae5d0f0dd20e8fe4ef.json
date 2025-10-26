@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"leftBegin":288,
+			"leftEnd":289,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"rightBegin":288,
+			"rightEnd":289
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"leftBegin":227,
+			"leftEnd":228,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.java",
+			"rightBegin":227,
+			"rightEnd":228
+		}
+	]
+]

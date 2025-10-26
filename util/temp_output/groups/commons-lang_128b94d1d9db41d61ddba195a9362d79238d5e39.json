@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"leftBegin":242,
+			"leftEnd":242,
+			"rightPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"rightBegin":241,
+			"rightEnd":241
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"leftBegin":229,
+			"leftEnd":229,
+			"rightPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"rightBegin":228,
+			"rightEnd":228
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"leftBegin":218,
+			"leftEnd":218,
+			"rightPath":"src/test/org/apache/commons/lang3/ArrayUtilsAddTest.java",
+			"rightBegin":218,
+			"rightEnd":217
+		}
+	]
+]

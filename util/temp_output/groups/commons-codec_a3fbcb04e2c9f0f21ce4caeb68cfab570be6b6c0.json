@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/RFC1522CodecTest.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/org/apache/commons/codec/net/RFC1522CodecTest.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

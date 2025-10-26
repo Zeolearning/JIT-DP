@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/org/apache/parquet/hadoop/TestMemoryManager.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/hadoop/TestMemoryManager.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/BaseRandomGenerator.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	]
+]

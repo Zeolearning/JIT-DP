@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/tuple/PairTest.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/test/java/org/apache/commons/lang3/tuple/PairTest.java",
+			"rightBegin":108,
+			"rightEnd":120
+		}
+	]
+]

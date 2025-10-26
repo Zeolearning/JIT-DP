@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/TestStatisticTest.java",
+			"leftBegin":16,
+			"leftEnd":16,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TestStatisticTest.java",
+			"rightBegin":16,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/TestStatisticTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TestStatisticTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

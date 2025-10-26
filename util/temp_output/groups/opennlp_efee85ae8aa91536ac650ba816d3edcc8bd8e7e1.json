@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerME.java",
+			"leftBegin":172,
+			"leftEnd":172,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/chunker/ChunkerME.java",
+			"rightBegin":172,
+			"rightEnd":174
+		}
+	]
+]

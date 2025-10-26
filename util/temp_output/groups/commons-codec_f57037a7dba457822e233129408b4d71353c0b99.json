@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/net/QCodecTest.java",
+			"rightBegin":1,
+			"rightEnd":222
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/net/BCodecTest.java",
+			"rightBegin":1,
+			"rightEnd":179
+		}
+	]
+]

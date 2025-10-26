@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/utils/discovery/UDPDiscoveryReceiver.java",
+			"leftBegin":171,
+			"leftEnd":171,
+			"rightPath":"src/java/org/apache/jcs/utils/discovery/UDPDiscoveryReceiver.java",
+			"rightBegin":171,
+			"rightEnd":180
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/utils/discovery/UDPDiscoveryReceiver.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/java/org/apache/jcs/utils/discovery/UDPDiscoveryReceiver.java",
+			"rightBegin":169,
+			"rightEnd":169
+		}
+	]
+]

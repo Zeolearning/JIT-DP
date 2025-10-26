@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"leftBegin":115,
+			"leftEnd":116,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"rightBegin":115,
+			"rightEnd":116
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"rightBegin":122,
+			"rightEnd":123
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"rightBegin":128,
+			"rightEnd":129
+		}
+	]
+]

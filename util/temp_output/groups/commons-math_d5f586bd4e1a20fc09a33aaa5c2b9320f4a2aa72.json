@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"leftBegin":371,
+			"leftEnd":371,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"rightBegin":369,
+			"rightEnd":377
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"leftBegin":362,
+			"leftEnd":364,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"rightBegin":363,
+			"rightEnd":362
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

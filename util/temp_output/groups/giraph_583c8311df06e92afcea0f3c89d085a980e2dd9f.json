@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/MatrixSumAggregator.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/MatrixSumAggregator.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java",
+			"leftBegin":433,
+			"leftEnd":433,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java",
+			"rightBegin":433,
+			"rightEnd":437
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java",
+			"leftBegin":430,
+			"leftEnd":430,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java",
+			"rightBegin":430,
+			"rightEnd":430
+		}
+	]
+]

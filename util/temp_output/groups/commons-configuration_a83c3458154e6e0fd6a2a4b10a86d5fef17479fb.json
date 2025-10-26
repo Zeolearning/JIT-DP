@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestConfigurationFactory.java",
+			"leftBegin":225,
+			"leftEnd":225,
+			"rightPath":"src/test/org/apache/commons/configuration/TestConfigurationFactory.java",
+			"rightBegin":225,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestConfigurationFactory.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/test/org/apache/commons/configuration/TestConfigurationFactory.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

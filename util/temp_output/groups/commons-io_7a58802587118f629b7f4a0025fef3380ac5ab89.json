@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"leftBegin":247,
+			"leftEnd":249,
+			"rightPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"rightBegin":247,
+			"rightEnd":249
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"leftBegin":212,
+			"leftEnd":214,
+			"rightPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"rightBegin":212,
+			"rightEnd":214
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DateFormatUtilsTest.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/test/org/apache/commons/lang/time/DateFormatUtilsTest.java",
+			"rightBegin":226,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DateFormatUtilsTest.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"src/test/org/apache/commons/lang/time/DateFormatUtilsTest.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	]
+]

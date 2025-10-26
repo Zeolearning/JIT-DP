@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"leftBegin":911,
+			"leftEnd":911,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"rightBegin":911,
+			"rightEnd":911
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"leftBegin":106,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"rightBegin":106,
+			"rightEnd":107
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"leftBegin":71,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"rightBegin":71,
+			"rightEnd":72
+		}
+	]
+]

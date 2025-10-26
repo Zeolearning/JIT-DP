@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/VertexInputFormatDescription.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/VertexInputFormatDescription.java",
+			"rightBegin":123,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/EdgeInputFormatDescription.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/EdgeInputFormatDescription.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/MappingInputFormatDescription.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/io/formats/multi/MappingInputFormatDescription.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

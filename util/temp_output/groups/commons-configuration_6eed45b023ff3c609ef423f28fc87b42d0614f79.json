@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DataConfiguration.java",
+			"leftBegin":818,
+			"leftEnd":817,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DataConfiguration.java",
+			"rightBegin":819,
+			"rightEnd":819
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DataConfiguration.java",
+			"leftBegin":801,
+			"leftEnd":800,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DataConfiguration.java",
+			"rightBegin":801,
+			"rightEnd":801
+		}
+	]
+]

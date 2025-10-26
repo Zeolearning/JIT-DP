@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/AnnotationElementValue.java",
+			"leftBegin":48,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/AnnotationElementValue.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

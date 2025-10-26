@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/interpol/TestEnvironmentLookup.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/interpol/EnvironmentLookup.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	]
+]

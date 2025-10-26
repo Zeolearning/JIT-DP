@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/MockReader.java",
+			"rightBegin":1,
+			"rightEnd":293
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/MockReaderTestCase.java",
+			"rightBegin":1,
+			"rightEnd":253
+		}
+	]
+]

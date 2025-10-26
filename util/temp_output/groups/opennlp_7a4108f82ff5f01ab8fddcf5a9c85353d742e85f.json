@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/Sequence.java",
+			"leftBegin":47,
+			"leftEnd":54,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/Sequence.java",
+			"rightBegin":47,
+			"rightEnd":54
+		}
+	]
+]

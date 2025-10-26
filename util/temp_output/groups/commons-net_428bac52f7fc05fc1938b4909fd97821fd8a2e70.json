@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"leftBegin":404,
+			"leftEnd":403,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"rightBegin":430,
+			"rightEnd":430
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"rightBegin":82,
+			"rightEnd":107
+		}
+	]
+]

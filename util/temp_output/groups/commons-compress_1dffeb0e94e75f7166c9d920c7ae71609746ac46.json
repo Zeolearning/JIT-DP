@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java",
+			"rightBegin":66,
+			"rightEnd":81
+		}
+	]
+]

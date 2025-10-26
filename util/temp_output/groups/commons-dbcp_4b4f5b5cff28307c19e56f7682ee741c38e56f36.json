@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"rightBegin":76,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestJOCLed.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

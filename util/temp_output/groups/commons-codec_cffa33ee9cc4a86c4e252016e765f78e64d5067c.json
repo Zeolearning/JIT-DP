@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/binary/BaseNCodecOutputStream.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"src/java/org/apache/commons/codec/binary/BaseNCodecOutputStream.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"leftBegin":210,
+			"leftEnd":210,
+			"rightPath":"src/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"rightBegin":210,
+			"rightEnd":210
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

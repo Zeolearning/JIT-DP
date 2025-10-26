@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskCache.java",
+			"leftBegin":561,
+			"leftEnd":561,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskCache.java",
+			"rightBegin":561,
+			"rightEnd":561
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskCache.java",
+			"leftBegin":736,
+			"leftEnd":746,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/block/BlockDiskCache.java",
+			"rightBegin":736,
+			"rightEnd":735
+		}
+	]
+]

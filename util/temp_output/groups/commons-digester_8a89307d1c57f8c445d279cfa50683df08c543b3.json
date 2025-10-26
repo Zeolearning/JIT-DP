@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/providers/PathCallParamRuleProvider.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/providers/PathCallParamRuleProvider.java",
+			"rightBegin":30,
+			"rightEnd":31
+		}
+	]
+]

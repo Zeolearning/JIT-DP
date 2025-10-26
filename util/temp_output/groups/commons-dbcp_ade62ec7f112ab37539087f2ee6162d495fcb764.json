@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestJndi.java",
+			"leftBegin":151,
+			"leftEnd":151,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestJndi.java",
+			"rightBegin":151,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/datasources/TestFactory.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/test/org/apache/commons/dbcp2/datasources/TestFactory.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

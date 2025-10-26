@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/xmlrules/addressbook/Person.java",
+			"rightBegin":1,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/xmlrules/addressbook/Main.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/xmlrules/addressbook/AddressBook.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	]
+]

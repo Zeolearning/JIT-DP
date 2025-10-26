@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java",
+			"rightBegin":40,
+			"rightEnd":40
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java",
+			"leftBegin":44,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java",
+			"rightBegin":44,
+			"rightEnd":53
+		}
+	]
+]

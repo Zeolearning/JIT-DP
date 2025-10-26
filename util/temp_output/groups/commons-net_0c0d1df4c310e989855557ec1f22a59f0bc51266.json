@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"rightBegin":185,
+			"rightEnd":185
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"leftBegin":176,
+			"leftEnd":175,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"rightBegin":175,
+			"rightEnd":183
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"leftBegin":174,
+			"leftEnd":174,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/FTPParseTestFramework.java",
+			"rightBegin":174,
+			"rightEnd":173
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/ConditionalFileFilterAbstractTestCase.java",
+			"leftBegin":78,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/ConditionalFileFilterAbstractTestCase.java",
+			"rightBegin":78,
+			"rightEnd":80
+		}
+	]
+]

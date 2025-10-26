@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"leftBegin":397,
+			"leftEnd":397,
+			"rightPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"rightBegin":406,
+			"rightEnd":406
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"leftBegin":392,
+			"leftEnd":392,
+			"rightPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"rightBegin":393,
+			"rightEnd":401
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/lang/ClassUtilsTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/NonPositiveDefiniteLinearOperatorException.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/NonPositiveDefiniteLinearOperatorException.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	]
+]

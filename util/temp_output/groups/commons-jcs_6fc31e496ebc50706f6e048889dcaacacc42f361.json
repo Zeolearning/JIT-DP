@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/jcs/utils/access/JCSWorkerHelper.java",
+			"rightBegin":1,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/jcs/utils/access/JCSWorker.java",
+			"rightBegin":1,
+			"rightEnd":236
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/experimental/org/apache/jcs/utils/access/AbstractJCSWorkerHelper.java",
+			"rightBegin":1,
+			"rightEnd":29
+		}
+	]
+]

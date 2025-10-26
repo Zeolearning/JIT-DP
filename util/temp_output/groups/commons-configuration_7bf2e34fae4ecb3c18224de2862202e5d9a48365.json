@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"leftBegin":296,
+			"leftEnd":318,
+			"rightPath":"src/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"rightBegin":297,
+			"rightEnd":297
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

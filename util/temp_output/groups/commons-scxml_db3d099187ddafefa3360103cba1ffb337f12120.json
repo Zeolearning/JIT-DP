@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/AssignTest.java",
+			"leftBegin":86,
+			"leftEnd":87,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/AssignTest.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	]
+]

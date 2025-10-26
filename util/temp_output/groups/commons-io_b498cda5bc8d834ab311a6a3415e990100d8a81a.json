@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"rightBegin":38,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"rightBegin":67,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/LineIteratorTestCase.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/test/java/org/apache/commons/io/LineIteratorTestCase.java",
+			"rightBegin":232,
+			"rightEnd":244
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/LineIteratorTestCase.java",
+			"leftBegin":221,
+			"leftEnd":221,
+			"rightPath":"src/test/java/org/apache/commons/io/LineIteratorTestCase.java",
+			"rightBegin":221,
+			"rightEnd":221
+		}
+	]
+]

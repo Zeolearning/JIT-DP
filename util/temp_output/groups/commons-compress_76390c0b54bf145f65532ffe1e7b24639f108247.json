@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/MemoryLimitException.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/compress/MemoryLimitException.java",
+			"rightBegin":33,
+			"rightEnd":34
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/map/ReferenceIdentityMap.java",
+			"rightBegin":1,
+			"rightEnd":212
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java",
+			"rightBegin":1,
+			"rightEnd":292
+		}
+	]
+]

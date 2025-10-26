@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/scxml/invoke/InvokeTest.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

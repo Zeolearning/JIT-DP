@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/perceptron/PerceptronTrainer.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/perceptron/PerceptronTrainer.java",
+			"rightBegin":94,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/perceptron/PerceptronTrainer.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/perceptron/PerceptronTrainer.java",
+			"rightBegin":89,
+			"rightEnd":92
+		}
+	]
+]

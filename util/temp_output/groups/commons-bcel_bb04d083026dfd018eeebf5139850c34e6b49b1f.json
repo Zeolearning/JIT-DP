@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/BCELifier.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/bcel/util/BCELifier.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/ExceptionConst.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/bcel/ExceptionConst.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

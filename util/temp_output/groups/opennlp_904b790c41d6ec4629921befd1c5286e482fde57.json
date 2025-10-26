@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/BioCodecTest.java",
+			"rightBegin":1,
+			"rightEnd":263
+		}
+	]
+]

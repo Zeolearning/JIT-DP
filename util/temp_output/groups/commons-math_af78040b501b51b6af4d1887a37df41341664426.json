@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":981,
+			"leftEnd":981,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":981,
+			"rightEnd":981
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":942,
+			"leftEnd":942,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":942,
+			"rightEnd":942
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":907,
+			"leftEnd":907,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":907,
+			"rightEnd":907
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":868,
+			"leftEnd":868,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":868,
+			"rightEnd":868
+		}
+	]
+]

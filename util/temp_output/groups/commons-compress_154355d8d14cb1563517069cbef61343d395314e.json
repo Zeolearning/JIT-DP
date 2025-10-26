@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"rightBegin":64,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"leftBegin":29,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"rightBegin":29,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/compress/changes/Change.java",
+			"rightBegin":33,
+			"rightEnd":35
+		}
+	]
+]

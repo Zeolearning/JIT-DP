@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/examples/Mini/MiniC.java",
+			"leftBegin":28,
+			"leftEnd":29,
+			"rightPath":"src/examples/Mini/MiniC.java",
+			"rightBegin":28,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/Mini/MiniC.java",
+			"leftBegin":63,
+			"leftEnd":64,
+			"rightPath":"src/examples/Mini/MiniC.java",
+			"rightBegin":63,
+			"rightEnd":64
+		}
+	]
+]

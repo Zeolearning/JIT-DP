@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/Nysiis.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/Nysiis.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	]
+]

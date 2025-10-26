@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"leftBegin":343,
+			"leftEnd":343,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"rightBegin":343,
+			"rightEnd":343
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"leftBegin":310,
+			"leftEnd":310,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"rightBegin":310,
+			"rightEnd":310
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"leftBegin":276,
+			"leftEnd":276,
+			"rightPath":"src/java/org/apache/commons/lang/text/StrMatcher.java",
+			"rightBegin":276,
+			"rightEnd":276
+		}
+	]
+]

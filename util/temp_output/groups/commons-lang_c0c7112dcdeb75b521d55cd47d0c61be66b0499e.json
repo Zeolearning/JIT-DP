@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/Computable.java",
+			"rightBegin":1,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/MemoizerTest.java",
+			"rightBegin":1,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/Memoizer.java",
+			"rightBegin":1,
+			"rightEnd":133
+		}
+	]
+]

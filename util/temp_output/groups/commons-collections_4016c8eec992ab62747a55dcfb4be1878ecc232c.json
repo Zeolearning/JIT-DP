@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/TreeBidiMap.java",
+			"leftBegin":2095,
+			"leftEnd":2095,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/TreeBidiMap.java",
+			"rightBegin":2095,
+			"rightEnd":2095
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/TreeBidiMap.java",
+			"leftBegin":414,
+			"leftEnd":414,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/TreeBidiMap.java",
+			"rightBegin":414,
+			"rightEnd":414
+		}
+	]
+]

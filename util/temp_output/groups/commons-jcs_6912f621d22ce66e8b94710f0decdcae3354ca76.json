@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/AbstractDiskCacheAttributes.java",
+			"leftBegin":80,
+			"leftEnd":81,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/disk/AbstractDiskCacheAttributes.java",
+			"rightBegin":80,
+			"rightEnd":85
+		}
+	]
+]

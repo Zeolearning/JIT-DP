@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"leftBegin":262,
+			"leftEnd":261,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"rightBegin":266,
+			"rightEnd":269
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"rightBegin":220,
+			"rightEnd":223
+		}
+	]
+]

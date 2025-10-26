@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"leftBegin":187,
+			"leftEnd":186,
+			"rightPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"rightBegin":226,
+			"rightEnd":265
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"leftBegin":147,
+			"leftEnd":146,
+			"rightPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"rightBegin":147,
+			"rightEnd":185
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/IOTestSuite.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/io/IOTestSuite.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/IOTestSuite.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/test/org/apache/commons/io/IOTestSuite.java",
+			"rightBegin":77,
+			"rightEnd":79
+		}
+	]
+]

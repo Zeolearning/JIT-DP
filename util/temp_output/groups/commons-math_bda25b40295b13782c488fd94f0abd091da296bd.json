@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"leftBegin":439,
+			"leftEnd":439,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java",
+			"rightBegin":439,
+			"rightEnd":459
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SchurTransformer.java",
+			"leftBegin":372,
+			"leftEnd":374,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SchurTransformer.java",
+			"rightBegin":370,
+			"rightEnd":372
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SchurTransformer.java",
+			"leftBegin":367,
+			"leftEnd":370,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SchurTransformer.java",
+			"rightBegin":367,
+			"rightEnd":368
+		}
+	]
+]

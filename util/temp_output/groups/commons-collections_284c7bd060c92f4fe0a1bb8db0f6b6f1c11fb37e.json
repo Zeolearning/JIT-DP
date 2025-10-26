@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/iterators/TestAll.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/TestAll.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

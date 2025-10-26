@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/compress/bzip2/CRC.java",
+			"rightBegin":1,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/compress/bzip2/CBZip2OutputStream.java",
+			"rightBegin":1,
+			"rightEnd":2021
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/compress/bzip2/CBZip2InputStream.java",
+			"rightBegin":1,
+			"rightEnd":953
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/compress/bzip2/BZip2Constants.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

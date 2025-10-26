@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginCreateRule.java",
+			"leftBegin":395,
+			"leftEnd":395,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginCreateRule.java",
+			"rightBegin":395,
+			"rightEnd":395
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginCreateRule.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginCreateRule.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	]
+]

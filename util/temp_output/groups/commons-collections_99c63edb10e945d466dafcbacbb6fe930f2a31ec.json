@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java",
+			"leftBegin":55,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java",
+			"rightBegin":55,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

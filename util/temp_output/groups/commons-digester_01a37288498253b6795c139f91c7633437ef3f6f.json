@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/binder/BinderClassLoaderTestCase.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	]
+]

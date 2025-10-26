@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/deflate/DeflateParametersTest.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":39
+		}
+	]
+]

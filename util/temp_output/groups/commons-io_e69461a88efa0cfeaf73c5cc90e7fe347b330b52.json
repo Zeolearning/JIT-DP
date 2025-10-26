@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"leftBegin":537,
+			"leftEnd":536,
+			"rightPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"rightBegin":553,
+			"rightEnd":580
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"leftBegin":368,
+			"leftEnd":367,
+			"rightPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"rightBegin":374,
+			"rightEnd":383
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"leftBegin":244,
+			"leftEnd":243,
+			"rightPath":"src/test/org/apache/commons/io/DirectoryWalkerTestCase.java",
+			"rightBegin":244,
+			"rightEnd":249
+		}
+	]
+]

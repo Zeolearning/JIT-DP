@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/plist/TestXMLPropertyListConfiguration.java",
+			"leftBegin":174,
+			"leftEnd":174,
+			"rightPath":"src/test/org/apache/commons/configuration/plist/TestXMLPropertyListConfiguration.java",
+			"rightBegin":174,
+			"rightEnd":174
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/plist/TestPropertyListConfiguration.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/test/org/apache/commons/configuration/plist/TestPropertyListConfiguration.java",
+			"rightBegin":163,
+			"rightEnd":163
+		}
+	]
+]

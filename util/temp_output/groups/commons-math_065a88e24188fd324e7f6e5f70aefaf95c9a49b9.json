@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/TestStatisticTest.java",
+			"rightBegin":1,
+			"rightEnd":115
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/TestStatisticImpl.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/TestStatistic.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	]
+]

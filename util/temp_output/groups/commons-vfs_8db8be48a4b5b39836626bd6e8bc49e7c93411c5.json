@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/provider/local/test/LocalProviderTestCase.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/local/test/LocalProviderTestCase.java",
+			"rightBegin":82,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/provider/local/test/FileNameTestCase.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/local/test/FileNameTests.java",
+			"rightBegin":66,
+			"rightEnd":66
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/provider/local/test/FileNameTestCase.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/local/test/FileNameTests.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

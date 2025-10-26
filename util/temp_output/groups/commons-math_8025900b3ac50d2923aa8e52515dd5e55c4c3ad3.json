@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/ConjugateGradient.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/ConjugateGradient.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/EnumConfOption.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/EnumConfOption.java",
+			"rightBegin":98,
+			"rightEnd":109
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/leastsquares/LeastSquaresFactory.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/leastsquares/LeastSquaresFactory.java",
+			"rightBegin":78,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/leastsquares/LeastSquaresFactory.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/leastsquares/LeastSquaresFactory.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

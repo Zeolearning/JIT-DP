@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"rightBegin":156,
+			"rightEnd":158
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"leftBegin":139,
+			"leftEnd":141,
+			"rightPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"rightBegin":139,
+			"rightEnd":140
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/collections/map/DefaultedMap.java",
+			"rightBegin":153,
+			"rightEnd":152
+		}
+	]
+]

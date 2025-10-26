@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AttributeReader.java",
+			"leftBegin":58,
+			"leftEnd":61,
+			"rightPath":"src/java/org/apache/bcel/classfile/AttributeReader.java",
+			"rightBegin":58,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AttributeReader.java",
+			"leftBegin":67,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/bcel/classfile/AttributeReader.java",
+			"rightBegin":68,
+			"rightEnd":97
+		}
+	]
+]

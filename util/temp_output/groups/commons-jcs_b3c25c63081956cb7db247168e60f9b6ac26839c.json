@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/engine/control/event/behavior/IElementEventQueue.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	]
+]

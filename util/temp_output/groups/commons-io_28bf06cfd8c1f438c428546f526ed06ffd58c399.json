@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1064,
+			"leftEnd":1065,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1065,
+			"rightEnd":1065
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1024,
+			"leftEnd":1024,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1026,
+			"rightEnd":1025
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":78,
+			"rightEnd":80
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/descriptive/DescriptiveStatistics.java",
+			"leftBegin":356,
+			"leftEnd":360,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/descriptive/DescriptiveStatistics.java",
+			"rightBegin":356,
+			"rightEnd":358
+		}
+	]
+]

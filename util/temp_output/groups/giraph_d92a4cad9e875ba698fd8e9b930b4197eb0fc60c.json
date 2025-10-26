@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"leftBegin":31,
+			"leftEnd":32,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"rightBegin":34,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/metrics/GiraphMetrics.java",
+			"rightBegin":20,
+			"rightEnd":22
+		}
+	]
+]

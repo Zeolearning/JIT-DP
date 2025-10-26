@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ReturnaddressType.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/bcel/generic/ReturnaddressType.java",
+			"rightBegin":51,
+			"rightEnd":55
+		}
+	]
+]

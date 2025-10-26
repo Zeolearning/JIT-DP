@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/SetNestedPropertiesRuleTestCase.java",
+			"leftBegin":333,
+			"leftEnd":332,
+			"rightPath":"src/test/org/apache/commons/digester/SetNestedPropertiesRuleTestCase.java",
+			"rightBegin":333,
+			"rightEnd":364
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/SetNestedPropertiesRuleTestCase.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"src/test/org/apache/commons/digester/SetNestedPropertiesRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	]
+]

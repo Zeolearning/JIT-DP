@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/CompressorStreamFactoryRoundtripTest.java",
+			"leftBegin":1,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/CompressorStreamFactoryRoundtripTest.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	]
+]

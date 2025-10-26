@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"leftBegin":4586,
+			"leftEnd":4585,
+			"rightPath":"test/java/org/apache/ivy/core/resolve/ResolveTest.java",
+			"rightBegin":4586,
+			"rightEnd":4612
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java",
+			"rightBegin":255,
+			"rightEnd":261
+		}
+	]
+]

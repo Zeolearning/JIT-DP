@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"leftBegin":1111,
+			"leftEnd":1112,
+			"rightPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"rightBegin":1111,
+			"rightEnd":1112
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"leftBegin":1030,
+			"leftEnd":1030,
+			"rightPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"rightBegin":1030,
+			"rightEnd":1030
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"leftBegin":1027,
+			"leftEnd":1027,
+			"rightPath":"src/main/java/org/apache/commons/collections4/CollectionUtils.java",
+			"rightBegin":1027,
+			"rightEnd":1027
+		}
+	]
+]

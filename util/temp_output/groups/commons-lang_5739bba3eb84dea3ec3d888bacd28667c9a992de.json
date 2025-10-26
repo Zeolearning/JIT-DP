@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/Range.java",
+			"leftBegin":342,
+			"leftEnd":342,
+			"rightPath":"src/java/org/apache/commons/lang3/Range.java",
+			"rightBegin":342,
+			"rightEnd":342
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/Range.java",
+			"leftBegin":339,
+			"leftEnd":339,
+			"rightPath":"src/java/org/apache/commons/lang3/Range.java",
+			"rightBegin":339,
+			"rightEnd":339
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java",
+			"leftBegin":37,
+			"leftEnd":40,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java",
+			"rightBegin":37,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/PredicateUtilsTest.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/collections4/PredicateUtilsTest.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/CollectionUtilsTest.java",
+			"leftBegin":1346,
+			"leftEnd":1347,
+			"rightPath":"src/test/java/org/apache/commons/collections4/CollectionUtilsTest.java",
+			"rightBegin":1346,
+			"rightEnd":1347
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Annotations.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Annotations.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Annotations.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Annotations.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

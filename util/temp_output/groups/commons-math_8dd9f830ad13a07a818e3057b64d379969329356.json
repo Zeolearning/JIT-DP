@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDSTest.java",
+			"leftBegin":513,
+			"leftEnd":517,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDSTest.java",
+			"rightBegin":509,
+			"rightEnd":509
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDSTest.java",
+			"leftBegin":489,
+			"leftEnd":493,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDSTest.java",
+			"rightBegin":489,
+			"rightEnd":489
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDS.java",
+			"leftBegin":789,
+			"leftEnd":788,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/RotationDS.java",
+			"rightBegin":789,
+			"rightEnd":795
+		}
+	]
+]

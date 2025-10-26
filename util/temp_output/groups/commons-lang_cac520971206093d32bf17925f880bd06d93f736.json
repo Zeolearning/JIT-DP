@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"leftBegin":2581,
+			"leftEnd":2582,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"rightBegin":2596,
+			"rightEnd":2597
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"leftBegin":2581,
+			"leftEnd":2580,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"rightBegin":2581,
+			"rightEnd":2595
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"leftBegin":2578,
+			"leftEnd":2578,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"rightBegin":2578,
+			"rightEnd":2578
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"leftBegin":2576,
+			"leftEnd":2576,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+			"rightBegin":2576,
+			"rightEnd":2576
+		}
+	]
+]

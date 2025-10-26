@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java",
+			"leftBegin":552,
+			"leftEnd":552,
+			"rightPath":"src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java",
+			"rightBegin":552,
+			"rightEnd":552
+		}
+	]
+]

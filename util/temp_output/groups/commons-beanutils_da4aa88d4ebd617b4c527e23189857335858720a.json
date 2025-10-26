@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertingWrapDynaBean.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertingWrapDynaBean.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertingWrapDynaBean.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertingWrapDynaBean.java",
+			"rightBegin":77,
+			"rightEnd":78
+		}
+	]
+]

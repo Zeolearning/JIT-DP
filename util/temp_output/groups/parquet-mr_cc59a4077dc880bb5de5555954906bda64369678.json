@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/parquet/avro/AvroIndexedRecordConverter.java",
+			"leftBegin":160,
+			"leftEnd":159,
+			"rightPath":"parquet-avro/src/main/java/parquet/avro/AvroIndexedRecordConverter.java",
+			"rightBegin":161,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-avro/src/main/java/parquet/avro/AvroIndexedRecordConverter.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"parquet-avro/src/main/java/parquet/avro/AvroIndexedRecordConverter.java",
+			"rightBegin":155,
+			"rightEnd":156
+		}
+	]
+]

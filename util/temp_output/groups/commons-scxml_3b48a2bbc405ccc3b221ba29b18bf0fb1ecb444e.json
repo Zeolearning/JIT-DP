@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/TriggerEvent.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/main/java/org/apache/commons/scxml/TriggerEvent.java",
+			"rightBegin":127,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/TriggerEvent.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/scxml/TriggerEvent.java",
+			"rightBegin":131,
+			"rightEnd":154
+		}
+	]
+]

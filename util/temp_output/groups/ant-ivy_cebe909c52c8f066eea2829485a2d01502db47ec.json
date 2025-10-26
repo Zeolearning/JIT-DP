@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"leftBegin":245,
+			"leftEnd":245,
+			"rightPath":"src/java/fr/jayasoft/ivy/resolver/AbstractResolver.java",
+			"rightBegin":245,
+			"rightEnd":245
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/matcher/NoMatcher.java",
+			"rightBegin":1,
+			"rightEnd":27
+		}
+	]
+]

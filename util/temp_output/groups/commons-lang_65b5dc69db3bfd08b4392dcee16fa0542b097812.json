@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"leftBegin":170,
+			"leftEnd":171,
+			"rightPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"rightBegin":170,
+			"rightEnd":169
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"leftBegin":173,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/lang/CharRange.java",
+			"rightBegin":171,
+			"rightEnd":174
+		}
+	]
+]

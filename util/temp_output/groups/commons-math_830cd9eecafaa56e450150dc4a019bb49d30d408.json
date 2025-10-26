@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/FiniteDifferencesDifferentiator.java",
+			"rightBegin":1,
+			"rightEnd":306
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/FiniteDifferencesDifferentiatorTest.java",
+			"rightBegin":1,
+			"rightEnd":264
+		}
+	]
+]

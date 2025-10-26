@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/XmlRulesModule.java",
+			"leftBegin":84,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/XmlRulesModule.java",
+			"rightBegin":84,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/SetNestedPropertiesIgnoreRule.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	]
+]

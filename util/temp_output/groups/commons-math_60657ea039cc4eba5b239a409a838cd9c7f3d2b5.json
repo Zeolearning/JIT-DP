@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/FastMathResources.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math/util/FastMathResources.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

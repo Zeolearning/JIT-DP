@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"leftBegin":374,
+			"leftEnd":374,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"rightBegin":374,
+			"rightEnd":374
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"leftBegin":371,
+			"leftEnd":371,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"rightBegin":371,
+			"rightEnd":371
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/collections4/set/ListOrderedSet.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	]
+]

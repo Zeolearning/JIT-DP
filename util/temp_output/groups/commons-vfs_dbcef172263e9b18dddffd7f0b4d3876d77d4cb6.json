@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/webdav/WebdavFileObject.java",
+			"leftBegin":287,
+			"leftEnd":287,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/webdav/WebdavFileObject.java",
+			"rightBegin":287,
+			"rightEnd":287
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/webdav/WebdavFileObject.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/webdav/WebdavFileObject.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

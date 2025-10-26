@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"leftBegin":38,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"rightBegin":39,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"leftBegin":18,
+			"leftEnd":17,
+			"rightPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/java/org/apache/commons/collections/set/MapBackedSet.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

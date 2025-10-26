@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/CodeValidator.java",
+			"leftBegin":263,
+			"leftEnd":262,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/CodeValidator.java",
+			"rightBegin":257,
+			"rightEnd":262
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/routines/CodeValidator.java",
+			"leftBegin":249,
+			"leftEnd":254,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/CodeValidator.java",
+			"rightBegin":249,
+			"rightEnd":248
+		}
+	]
+]

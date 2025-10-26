@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/OpenIntToFieldTest.java",
+			"leftBegin":13,
+			"leftEnd":13,
+			"rightPath":"src/test/org/apache/commons/math/util/OpenIntToFieldTest.java",
+			"rightBegin":29,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/OpenIntToFieldTest.java",
+			"leftBegin":1,
+			"leftEnd":0,
+			"rightPath":"src/test/org/apache/commons/math/util/OpenIntToFieldTest.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	]
+]

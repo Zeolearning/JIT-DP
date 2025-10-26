@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/nonstiff/TestProblem4.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/test/org/apache/commons/math/ode/nonstiff/TestProblem4.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"leftBegin":137,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"rightBegin":143,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"leftBegin":89,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"rightBegin":89,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"rightBegin":122,
+			"rightEnd":124
+		}
+	]
+]

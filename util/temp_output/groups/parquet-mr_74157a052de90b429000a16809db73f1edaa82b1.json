@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"rightBegin":175,
+			"rightEnd":175
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"rightBegin":53,
+			"rightEnd":53
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"parquet-column/src/main/java/parquet/column/impl/ColumnWriterImpl.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

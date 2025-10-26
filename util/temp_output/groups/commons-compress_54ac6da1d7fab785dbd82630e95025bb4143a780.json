@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"leftBegin":179,
+			"leftEnd":178,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"rightBegin":179,
+			"rightEnd":185
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SetNestedPropertiesRule.java",
+			"leftBegin":284,
+			"leftEnd":288,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SetNestedPropertiesRule.java",
+			"rightBegin":283,
+			"rightEnd":285
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/SetNestedPropertiesRule.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/digester3/SetNestedPropertiesRule.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	]
+]

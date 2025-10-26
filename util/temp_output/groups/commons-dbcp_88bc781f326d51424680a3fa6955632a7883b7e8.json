@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":319,
+			"leftEnd":321,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":320,
+			"rightEnd":323
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":315,
+			"leftEnd":316,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":314,
+			"rightEnd":317
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"leftBegin":311,
+			"leftEnd":312,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PoolingConnection.java",
+			"rightBegin":311,
+			"rightEnd":311
+		}
+	]
+]

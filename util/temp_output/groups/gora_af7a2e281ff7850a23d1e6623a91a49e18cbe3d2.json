@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/store/TestMongoStore.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/store/TestMongoStore.java",
+			"rightBegin":64,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/store/TestMongoStore.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/store/TestMongoStore.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

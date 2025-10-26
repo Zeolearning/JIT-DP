@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":313,
+			"leftEnd":313,
+			"rightPath":"src/test/java/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":317,
+			"rightEnd":317
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"leftBegin":293,
+			"leftEnd":293,
+			"rightPath":"src/test/java/org/apache/commons/io/FileCleaningTrackerTestCase.java",
+			"rightBegin":293,
+			"rightEnd":297
+		}
+	]
+]

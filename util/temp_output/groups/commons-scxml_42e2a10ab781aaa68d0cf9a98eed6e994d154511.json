@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/LogUtils.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/LogUtils.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/LogUtils.java",
+			"leftBegin":69,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/LogUtils.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

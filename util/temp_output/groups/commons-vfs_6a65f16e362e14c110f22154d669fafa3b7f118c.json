@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"leftBegin":717,
+			"leftEnd":717,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"rightBegin":717,
+			"rightEnd":717
+		}
+	]
+]

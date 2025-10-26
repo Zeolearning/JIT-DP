@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyRetrieve.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyRetrieve.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyRetrieve.java",
+			"leftBegin":102,
+			"leftEnd":101,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyRetrieve.java",
+			"rightBegin":103,
+			"rightEnd":108
+		}
+	]
+]

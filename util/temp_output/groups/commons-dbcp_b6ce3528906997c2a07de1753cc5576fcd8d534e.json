@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"leftBegin":128,
+			"leftEnd":128,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/AbandonedTrace.java",
+			"rightBegin":129,
+			"rightEnd":133
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"rightBegin":178,
+			"rightEnd":178
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

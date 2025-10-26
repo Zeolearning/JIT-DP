@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"leftBegin":477,
+			"leftEnd":495,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"rightBegin":538,
+			"rightEnd":538
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"leftBegin":474,
+			"leftEnd":473,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"rightBegin":534,
+			"rightEnd":534
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"leftBegin":396,
+			"leftEnd":395,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/NodeStructureHelper.java",
+			"rightBegin":396,
+			"rightEnd":455
+		}
+	]
+]

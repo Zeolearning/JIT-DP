@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/ConfigurationConverter.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/ConfigurationConverter.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/CombinedConfiguration.java",
+			"leftBegin":828,
+			"leftEnd":828,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/CombinedConfiguration.java",
+			"rightBegin":828,
+			"rightEnd":828
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/ConstructorUtilsTestCase.java",
+			"leftBegin":150,
+			"leftEnd":149,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/ConstructorUtilsTestCase.java",
+			"rightBegin":150,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ConstructorUtils.java",
+			"leftBegin":197,
+			"leftEnd":196,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ConstructorUtils.java",
+			"rightBegin":197,
+			"rightEnd":199
+		}
+	]
+]

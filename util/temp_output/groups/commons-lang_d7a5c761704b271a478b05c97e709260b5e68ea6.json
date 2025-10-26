@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"leftBegin":226,
+			"leftEnd":254,
+			"rightPath":"src/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"rightBegin":226,
+			"rightEnd":225
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+			"rightBegin":170,
+			"rightEnd":170
+		}
+	]
+]

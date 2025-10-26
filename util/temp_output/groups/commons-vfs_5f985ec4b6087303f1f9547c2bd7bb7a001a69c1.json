@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	]
+]

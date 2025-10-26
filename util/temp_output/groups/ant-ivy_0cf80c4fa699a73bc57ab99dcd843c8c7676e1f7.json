@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/report/XmlReportOutputter.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/java/fr/jayasoft/ivy/report/XmlReportOutputter.java",
+			"rightBegin":22,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/report/XmlReportOutputter.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/java/fr/jayasoft/ivy/report/XmlReportOutputter.java",
+			"rightBegin":138,
+			"rightEnd":146
+		}
+	]
+]

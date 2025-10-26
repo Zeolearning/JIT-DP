@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/managed/ManagedDataSource.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/commons/dbcp2/managed/ManagedDataSource.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

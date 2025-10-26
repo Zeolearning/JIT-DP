@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"leftBegin":31,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"rightBegin":31,
+			"rightEnd":32
+		}
+	]
+]

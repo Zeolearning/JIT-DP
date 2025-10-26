@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/MySQLGeoNamesGazLinkable.java",
+			"leftBegin":7,
+			"leftEnd":7,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/MySQLGeoNamesGazLinkable.java",
+			"rightBegin":7,
+			"rightEnd":6
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/MySQLGeoNamesGazLinkable.java",
+			"leftBegin":59,
+			"leftEnd":60,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/MySQLGeoNamesGazLinkable.java",
+			"rightBegin":58,
+			"rightEnd":59
+		}
+	]
+]

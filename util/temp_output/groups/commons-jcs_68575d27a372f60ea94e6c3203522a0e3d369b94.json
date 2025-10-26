@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/AbstractDiskCache.java",
+			"leftBegin":263,
+			"leftEnd":268,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/AbstractDiskCache.java",
+			"rightBegin":259,
+			"rightEnd":259
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/AbstractDiskCache.java",
+			"leftBegin":254,
+			"leftEnd":257,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/AbstractDiskCache.java",
+			"rightBegin":254,
+			"rightEnd":253
+		}
+	]
+]

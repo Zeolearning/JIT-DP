@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/TupleWriteSupport.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/TupleWriteSupport.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/DefaultURLStreamHandler.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/DefaultURLStreamHandler.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"leftBegin":376,
+			"leftEnd":376,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/AbstractFileObject.java",
+			"rightBegin":376,
+			"rightEnd":376
+		}
+	]
+]

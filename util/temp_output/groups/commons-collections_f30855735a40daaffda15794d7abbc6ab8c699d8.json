@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java",
+			"leftBegin":192,
+			"leftEnd":192,
+			"rightPath":"src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java",
+			"rightBegin":192,
+			"rightEnd":199
+		}
+	]
+]

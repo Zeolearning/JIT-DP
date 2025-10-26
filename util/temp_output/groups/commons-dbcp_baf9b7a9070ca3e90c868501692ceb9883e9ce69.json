@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"rightBegin":101,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"leftBegin":3,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"rightBegin":3,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/java/org/apache/commons/dbcp/AbandonedObjectPool.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

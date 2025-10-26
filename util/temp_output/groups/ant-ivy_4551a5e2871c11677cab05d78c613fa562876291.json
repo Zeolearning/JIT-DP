@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"leftBegin":783,
+			"leftEnd":783,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"rightBegin":783,
+			"rightEnd":783
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"leftBegin":1052,
+			"leftEnd":1052,
+			"rightPath":"src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java",
+			"rightBegin":1052,
+			"rightEnd":1055
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileName.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileName.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileName.java",
+			"leftBegin":114,
+			"leftEnd":115,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/AbstractFileName.java",
+			"rightBegin":114,
+			"rightEnd":115
+		}
+	]
+]

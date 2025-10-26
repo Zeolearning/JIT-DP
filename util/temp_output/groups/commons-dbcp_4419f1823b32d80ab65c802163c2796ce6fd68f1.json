@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/java/org/apache/commons/jocl/ConstructorUtil.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"leftBegin":96,
+			"leftEnd":97,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/converters/ProtoMessageConverter.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-protobuf/src/test/java/parquet/proto/ProtoRecordConverterTest.java",
+			"leftBegin":133,
+			"leftEnd":132,
+			"rightPath":"parquet-protobuf/src/test/java/parquet/proto/ProtoRecordConverterTest.java",
+			"rightBegin":134,
+			"rightEnd":159
+		},
+		{
+			"leftPath":"parquet-protobuf/src/test/java/parquet/proto/ProtoRecordConverterTest.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"parquet-protobuf/src/test/java/parquet/proto/ProtoRecordConverterTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

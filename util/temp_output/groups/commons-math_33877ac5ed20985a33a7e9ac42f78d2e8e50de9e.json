@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DerivativeStructure.java",
+			"leftBegin":431,
+			"leftEnd":430,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DerivativeStructure.java",
+			"rightBegin":431,
+			"rightEnd":443
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"leftBegin":902,
+			"leftEnd":901,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"rightBegin":902,
+			"rightEnd":921
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DerivativeStructureTest.java",
+			"leftBegin":385,
+			"leftEnd":384,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/DerivativeStructureTest.java",
+			"rightBegin":385,
+			"rightEnd":406
+		}
+	]
+]

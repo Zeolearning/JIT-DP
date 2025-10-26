@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":173,
+			"leftEnd":174,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":173,
+			"rightEnd":174
+		}
+	]
+]

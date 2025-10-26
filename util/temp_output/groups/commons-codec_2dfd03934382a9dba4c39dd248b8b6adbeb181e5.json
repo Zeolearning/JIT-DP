@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"leftBegin":370,
+			"leftEnd":374,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"rightBegin":370,
+			"rightEnd":374
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"leftBegin":202,
+			"leftEnd":203,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"rightBegin":202,
+			"rightEnd":203
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"leftBegin":332,
+			"leftEnd":334,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/UnixCrypt.java",
+			"rightBegin":332,
+			"rightEnd":334
+		}
+	]
+]

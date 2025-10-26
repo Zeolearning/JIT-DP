@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"annotations-processor/src/test/java/org/apache/commons/digester3/annotations/processor/Item.java",
+			"rightBegin":1,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"annotations-processor/src/test/java/org/apache/commons/digester3/annotations/processor/Image.java",
+			"rightBegin":1,
+			"rightEnd":159
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"annotations-processor/src/test/java/org/apache/commons/digester3/annotations/processor/Channel.java",
+			"rightBegin":1,
+			"rightEnd":173
+		}
+	]
+]

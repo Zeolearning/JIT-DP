@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/MetaphoneTest.java",
+			"leftBegin":405,
+			"leftEnd":407,
+			"rightPath":"src/test/org/apache/commons/codec/language/MetaphoneTest.java",
+			"rightBegin":405,
+			"rightEnd":414
+		}
+	]
+]

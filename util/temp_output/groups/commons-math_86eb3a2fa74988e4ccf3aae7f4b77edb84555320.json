@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateActionTest.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/test/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateActionTest.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	]
+]

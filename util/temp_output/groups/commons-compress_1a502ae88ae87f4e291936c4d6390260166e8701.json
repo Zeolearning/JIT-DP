@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":429,
+			"leftEnd":429,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":434,
+			"rightEnd":433
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":425,
+			"leftEnd":427,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":425,
+			"rightEnd":432
+		}
+	]
+]

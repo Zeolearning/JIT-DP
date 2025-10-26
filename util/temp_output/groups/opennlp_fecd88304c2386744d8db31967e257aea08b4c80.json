@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"leftBegin":97,
+			"leftEnd":98,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/cmdline/ArgumentParserTest.java",
+			"rightBegin":98,
+			"rightEnd":109
+		}
+	]
+]

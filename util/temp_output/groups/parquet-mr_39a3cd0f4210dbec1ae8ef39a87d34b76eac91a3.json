@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/codec/SnappyCompressor.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/codec/SnappyCompressor.java",
+			"rightBegin":116,
+			"rightEnd":116
+		}
+	]
+]

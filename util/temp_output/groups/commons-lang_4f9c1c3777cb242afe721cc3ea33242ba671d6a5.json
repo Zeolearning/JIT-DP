@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/HashCodeBuilderTest.java",
+			"leftBegin":550,
+			"leftEnd":549,
+			"rightPath":"src/test/org/apache/commons/lang/builder/HashCodeBuilderTest.java",
+			"rightBegin":550,
+			"rightEnd":558
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/HashCodeBuilder.java",
+			"leftBegin":972,
+			"leftEnd":971,
+			"rightPath":"src/java/org/apache/commons/lang/builder/HashCodeBuilder.java",
+			"rightBegin":972,
+			"rightEnd":983
+		}
+	]
+]

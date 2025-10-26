@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/coref/mention/DefaultParse.java",
+			"leftBegin":239,
+			"leftEnd":239,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/coref/mention/DefaultParse.java",
+			"rightBegin":239,
+			"rightEnd":239
+		}
+	]
+]

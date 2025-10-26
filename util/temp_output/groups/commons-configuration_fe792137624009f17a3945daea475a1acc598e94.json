@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersBeanInfo.java",
+			"rightBegin":1,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/BuilderParametersBeanInfo.java",
+			"rightBegin":1,
+			"rightEnd":219
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/BasicBuilderParametersBeanInfo.java",
+			"rightBegin":1,
+			"rightEnd":34
+		}
+	]
+]

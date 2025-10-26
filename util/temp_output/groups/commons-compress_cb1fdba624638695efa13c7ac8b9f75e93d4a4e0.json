@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java",
+			"rightBegin":59,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipShort.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipShort.java",
+			"rightBegin":34,
+			"rightEnd":40
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"leftBegin":220,
+			"leftEnd":220,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"rightBegin":223,
+			"rightEnd":223
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"leftBegin":123,
+			"leftEnd":123,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"rightBegin":126,
+			"rightEnd":126
+		},
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"leftBegin":105,
+			"leftEnd":111,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java",
+			"rightBegin":105,
+			"rightEnd":114
+		}
+	]
+]

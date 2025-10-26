@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/distribution/ZipfDistributionTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/distribution/ZipfDistributionImpl.java",
+			"rightBegin":1,
+			"rightEnd":178
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/distribution/ZipfDistribution.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":307,
+			"leftEnd":307,
+			"rightPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":307,
+			"rightEnd":313
+		}
+	]
+]

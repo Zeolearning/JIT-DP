@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java",
+			"leftBegin":204,
+			"leftEnd":203,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java",
+			"rightBegin":205,
+			"rightEnd":205
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java",
+			"leftBegin":169,
+			"leftEnd":168,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java",
+			"rightBegin":169,
+			"rightEnd":169
+		}
+	]
+]

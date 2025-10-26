@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"leftBegin":186,
+			"leftEnd":186,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/IBANCheckDigitTest.java",
+			"rightBegin":186,
+			"rightEnd":191
+		}
+	]
+]

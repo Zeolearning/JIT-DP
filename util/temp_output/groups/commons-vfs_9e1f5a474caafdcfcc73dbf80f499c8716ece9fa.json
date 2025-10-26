@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs/provider/mime/MimeFileObject.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs/provider/mime/MimeFileObject.java",
+			"rightBegin":145,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":"sandbox/src/main/java/org/apache/commons/vfs/provider/mime/MimeFileObject.java",
+			"leftBegin":146,
+			"leftEnd":148,
+			"rightPath":"sandbox/src/main/java/org/apache/commons/vfs/provider/mime/MimeFileObject.java",
+			"rightBegin":151,
+			"rightEnd":152
+		}
+	]
+]

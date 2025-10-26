@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"leftBegin":104,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"rightBegin":105,
+			"rightEnd":109
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"leftBegin":102,
+			"leftEnd":102,
+			"rightPath":"src/main/java/org/apache/commons/net/util/TrustManagerUtils.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	]
+]

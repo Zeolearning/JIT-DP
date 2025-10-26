@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	]
+]

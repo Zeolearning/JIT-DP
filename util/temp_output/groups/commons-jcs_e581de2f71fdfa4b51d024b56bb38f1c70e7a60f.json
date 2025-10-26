@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"rightBegin":33,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"leftBegin":21,
+			"leftEnd":30,
+			"rightPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"commons-jcs-jcache-extras/src/test/java/org/apache/commons/jcs/jcache/extras/web/JCacheFilterTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

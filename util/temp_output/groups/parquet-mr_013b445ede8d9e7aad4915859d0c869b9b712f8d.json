@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/Encoding.java",
+			"leftBegin":195,
+			"leftEnd":196,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/Encoding.java",
+			"rightBegin":196,
+			"rightEnd":197
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/Encoding.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/Encoding.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

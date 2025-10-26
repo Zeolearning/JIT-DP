@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ComparableComparator.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ComparableComparator.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ComparableComparator.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ComparableComparator.java",
+			"rightBegin":76,
+			"rightEnd":90
+		}
+	]
+]

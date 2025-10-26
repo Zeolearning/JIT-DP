@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/ex/ConfigurationRuntimeException.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/ex/ConfigurationRuntimeException.java",
+			"rightBegin":58,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/BaseHierarchicalConfiguration.java",
+			"leftBegin":366,
+			"leftEnd":366,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/BaseHierarchicalConfiguration.java",
+			"rightBegin":367,
+			"rightEnd":367
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/BaseHierarchicalConfiguration.java",
+			"leftBegin":363,
+			"leftEnd":363,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/BaseHierarchicalConfiguration.java",
+			"rightBegin":363,
+			"rightEnd":364
+		}
+	]
+]

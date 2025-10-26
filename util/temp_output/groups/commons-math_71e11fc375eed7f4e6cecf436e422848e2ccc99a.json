@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"leftBegin":108,
+			"leftEnd":117,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"rightBegin":96,
+			"rightEnd":96
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"leftBegin":95,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"rightBegin":87,
+			"rightEnd":87
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"leftBegin":80,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/clustering/EuclideanIntegerPoint.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

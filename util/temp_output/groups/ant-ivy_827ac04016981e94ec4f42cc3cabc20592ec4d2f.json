@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/core/deliver/DeliverTest.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"test/java/org/apache/ivy/core/deliver/DeliverTest.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	]
+]

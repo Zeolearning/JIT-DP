@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/exception/AbstractNestableTestCase.java",
+			"rightBegin":1,
+			"rightEnd":701
+		}
+	]
+]

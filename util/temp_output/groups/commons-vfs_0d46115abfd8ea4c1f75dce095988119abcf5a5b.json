@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/FileObject.java",
+			"leftBegin":359,
+			"leftEnd":359,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/FileObject.java",
+			"rightBegin":359,
+			"rightEnd":359
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/FileObject.java",
+			"leftBegin":348,
+			"leftEnd":348,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/FileObject.java",
+			"rightBegin":348,
+			"rightEnd":348
+		}
+	]
+]

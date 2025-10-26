@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/logging/behavior/ICacheEventLogger.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/logging/behavior/ICacheEventLogger.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/stats/StatElement.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/stats/StatElement.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

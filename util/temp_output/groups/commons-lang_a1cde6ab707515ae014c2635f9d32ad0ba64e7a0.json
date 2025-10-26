@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/DigitalBase10SizeUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":123
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/DigitalBase2SizeUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":123
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java",
+			"leftBegin":1964,
+			"leftEnd":1971,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java",
+			"rightBegin":1966,
+			"rightEnd":1965
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java",
+			"leftBegin":1959,
+			"leftEnd":1962,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java",
+			"rightBegin":1959,
+			"rightEnd":1964
+		}
+	]
+]

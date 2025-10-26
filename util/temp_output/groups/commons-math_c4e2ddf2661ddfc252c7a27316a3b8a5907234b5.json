@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/MathUtils.java",
+			"leftBegin":112,
+			"leftEnd":111,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/MathUtils.java",
+			"rightBegin":113,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/util/MathUtils.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math4/util/MathUtils.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/obr/RequirementFilterTest.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"test/java/org/apache/ivy/osgi/obr/RequirementFilterTest.java",
+			"rightBegin":49,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/obr/filter/RequirementFilterParser.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"src/java/org/apache/ivy/osgi/obr/filter/RequirementFilterParser.java",
+			"rightBegin":174,
+			"rightEnd":174
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/obr/filter/RequirementFilterParser.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/java/org/apache/ivy/osgi/obr/filter/RequirementFilterParser.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	]
+]

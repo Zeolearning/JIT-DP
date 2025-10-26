@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+			"rightBegin":150,
+			"rightEnd":150
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+			"leftBegin":161,
+			"leftEnd":161,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+			"rightBegin":161,
+			"rightEnd":161
+		}
+	]
+]

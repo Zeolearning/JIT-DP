@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"rightBegin":67,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"leftBegin":65,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/dbcp/managed/TestBasicManagedDataSource.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/spherical/twod/Circle.java",
+			"leftBegin":327,
+			"leftEnd":327,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/spherical/twod/Circle.java",
+			"rightBegin":319,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/spherical/twod/Circle.java",
+			"leftBegin":276,
+			"leftEnd":283,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/spherical/twod/Circle.java",
+			"rightBegin":276,
+			"rightEnd":275
+		}
+	]
+]

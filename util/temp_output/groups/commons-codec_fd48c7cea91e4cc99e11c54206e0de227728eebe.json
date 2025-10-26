@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/DigestUtils.java",
+			"leftBegin":788,
+			"leftEnd":787,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/DigestUtils.java",
+			"rightBegin":780,
+			"rightEnd":803
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/DigestUtils.java",
+			"leftBegin":49,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/DigestUtils.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

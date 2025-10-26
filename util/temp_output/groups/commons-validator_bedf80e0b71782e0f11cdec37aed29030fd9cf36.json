@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/VerhoeffCheckDigit.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/VerhoeffCheckDigit.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/checkdigit/VerhoeffCheckDigit.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/share/org/apache/commons/validator/routines/checkdigit/VerhoeffCheckDigit.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

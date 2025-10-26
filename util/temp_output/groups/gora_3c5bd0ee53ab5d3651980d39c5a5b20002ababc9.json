@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-goraci/src/main/java/org/apache/gora/goraci/rackspace/package-info.java",
+			"rightBegin":1,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-goraci/src/main/java/org/apache/gora/goraci/rackspace/RackspaceOrchestration.java",
+			"rightBegin":1,
+			"rightEnd":151
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/store/DataStoreFactory.java",
+			"leftBegin":23,
+			"leftEnd":25,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/store/DataStoreFactory.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	]
+]

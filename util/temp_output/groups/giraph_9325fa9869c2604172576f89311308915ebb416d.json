@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyWorkerAggregatorRequestProcessor.java",
+			"leftBegin":127,
+			"leftEnd":129,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyWorkerAggregatorRequestProcessor.java",
+			"rightBegin":127,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyWorkerAggregatorRequestProcessor.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyWorkerAggregatorRequestProcessor.java",
+			"rightBegin":129,
+			"rightEnd":131
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"leftBegin":719,
+			"leftEnd":719,
+			"rightPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"rightBegin":719,
+			"rightEnd":719
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"leftBegin":652,
+			"leftEnd":652,
+			"rightPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"rightBegin":652,
+			"rightEnd":652
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"leftBegin":699,
+			"leftEnd":699,
+			"rightPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"rightBegin":699,
+			"rightEnd":699
+		}
+	]
+]

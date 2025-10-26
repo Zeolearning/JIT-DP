@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ObjectUtilsTest.java",
+			"leftBegin":219,
+			"leftEnd":219,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ObjectUtilsTest.java",
+			"rightBegin":219,
+			"rightEnd":227
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ObjectUtilsTest.java",
+			"leftBegin":221,
+			"leftEnd":221,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ObjectUtilsTest.java",
+			"rightBegin":229,
+			"rightEnd":229
+		}
+	]
+]

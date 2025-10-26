@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResult.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResult.java",
+			"rightBegin":95,
+			"rightEnd":104
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/EmailValidatorTest.java",
+			"leftBegin":476,
+			"leftEnd":475,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/EmailValidatorTest.java",
+			"rightBegin":476,
+			"rightEnd":502
+		}
+	]
+]

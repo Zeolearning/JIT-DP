@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/TransformedMapTest.java",
+			"leftBegin":91,
+			"leftEnd":92,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/TransformedMapTest.java",
+			"rightBegin":91,
+			"rightEnd":92
+		}
+	]
+]

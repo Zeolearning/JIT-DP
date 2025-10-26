@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/math/FractionTest.java",
+			"leftBegin":646,
+			"leftEnd":645,
+			"rightPath":"src/test/java/org/apache/commons/lang3/math/FractionTest.java",
+			"rightBegin":651,
+			"rightEnd":655
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/math/FractionTest.java",
+			"leftBegin":333,
+			"leftEnd":332,
+			"rightPath":"src/test/java/org/apache/commons/lang3/math/FractionTest.java",
+			"rightBegin":333,
+			"rightEnd":337
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/math/Fraction.java",
+			"leftBegin":582,
+			"leftEnd":583,
+			"rightPath":"src/main/java/org/apache/commons/lang3/math/Fraction.java",
+			"rightBegin":582,
+			"rightEnd":590
+		}
+	]
+]

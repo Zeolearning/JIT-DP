@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"rightBegin":40,
+			"rightEnd":40
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPSServerSocketFactory.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

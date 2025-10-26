@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/ContinuedFractionTest.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/test/org/apache/commons/math/util/ContinuedFractionTest.java",
+			"rightBegin":35,
+			"rightEnd":35
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/ContinuedFractionTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/org/apache/commons/math/util/ContinuedFractionTest.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	]
+]

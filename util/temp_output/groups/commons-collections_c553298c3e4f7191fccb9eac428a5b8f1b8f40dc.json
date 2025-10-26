@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/Bag.java",
+			"leftBegin":242,
+			"leftEnd":241,
+			"rightPath":"src/java/org/apache/commons/collections/Bag.java",
+			"rightBegin":242,
+			"rightEnd":265
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/Bag.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/java/org/apache/commons/collections/Bag.java",
+			"rightBegin":80,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/Bag.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/Bag.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	]
+]

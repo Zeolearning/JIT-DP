@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"leftBegin":89,
+			"leftEnd":89,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

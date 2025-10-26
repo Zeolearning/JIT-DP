@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/lzma/LZMAUtils.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/lzma/LZMAUtils.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZUtils.java",
+			"leftBegin":171,
+			"leftEnd":171,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZUtils.java",
+			"rightBegin":171,
+			"rightEnd":171
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"rightBegin":121,
+			"rightEnd":121
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedNestedPropertiesBuilder.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	]
+]

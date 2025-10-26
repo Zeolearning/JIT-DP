@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/CopyUtils.java",
+			"leftBegin":332,
+			"leftEnd":332,
+			"rightPath":"src/java/org/apache/commons/io/CopyUtils.java",
+			"rightBegin":332,
+			"rightEnd":332
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/CopyUtils.java",
+			"leftBegin":117,
+			"leftEnd":117,
+			"rightPath":"src/java/org/apache/commons/io/CopyUtils.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	]
+]

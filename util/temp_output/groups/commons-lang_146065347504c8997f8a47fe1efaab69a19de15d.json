@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java",
+			"leftBegin":525,
+			"leftEnd":525,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java",
+			"rightBegin":525,
+			"rightEnd":525
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":348,
+			"leftEnd":348,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":348,
+			"rightEnd":348
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"leftBegin":299,
+			"leftEnd":299,
+			"rightPath":"src/main/java/org/apache/commons/lang3/Validate.java",
+			"rightBegin":299,
+			"rightEnd":299
+		}
+	]
+]

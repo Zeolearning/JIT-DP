@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/time/DurationFormatUtils.java",
+			"leftBegin":643,
+			"leftEnd":642,
+			"rightPath":"src/java/org/apache/commons/lang/time/DurationFormatUtils.java",
+			"rightBegin":641,
+			"rightEnd":641
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/time/DurationFormatUtils.java",
+			"leftBegin":640,
+			"leftEnd":641,
+			"rightPath":"src/java/org/apache/commons/lang/time/DurationFormatUtils.java",
+			"rightBegin":640,
+			"rightEnd":639
+		}
+	]
+]

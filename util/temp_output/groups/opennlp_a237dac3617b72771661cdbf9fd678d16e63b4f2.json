@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"leftBegin":37,
+			"leftEnd":116,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"rightBegin":112,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"leftBegin":20,
+			"leftEnd":33,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"rightBegin":20,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADNameSampleStreamTest.java",
+			"rightBegin":37,
+			"rightEnd":111
+		}
+	]
+]

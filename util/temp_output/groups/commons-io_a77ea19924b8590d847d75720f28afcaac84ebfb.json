@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/ProxyWriter.java",
+			"rightBegin":1,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/ProxyReader.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

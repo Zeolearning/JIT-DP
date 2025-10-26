@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"leftBegin":144,
+			"leftEnd":146,
+			"rightPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"rightBegin":144,
+			"rightEnd":166
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"rightBegin":86,
+			"rightEnd":86
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

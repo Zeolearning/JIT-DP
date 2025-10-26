@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"rightBegin":33,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/schema/PrimitiveComparator.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

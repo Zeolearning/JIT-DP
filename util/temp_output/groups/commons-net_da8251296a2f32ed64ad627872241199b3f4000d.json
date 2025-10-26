@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/net/io/CRLFLineReader.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"rightBegin":178,
+			"rightEnd":178
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAP.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

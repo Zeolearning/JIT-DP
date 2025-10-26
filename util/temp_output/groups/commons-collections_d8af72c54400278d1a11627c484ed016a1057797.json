@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/ResetableListIterator.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/ResetableIterator.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	]
+]

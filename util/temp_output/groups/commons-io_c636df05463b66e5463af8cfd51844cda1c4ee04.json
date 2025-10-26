@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"leftBegin":189,
+			"leftEnd":189,
+			"rightPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"rightBegin":189,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/BrokenInputStream.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/io/input/BrokenInputStream.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

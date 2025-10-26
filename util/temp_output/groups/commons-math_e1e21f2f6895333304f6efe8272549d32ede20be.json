@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/CorrelatedRandomVectorGeneratorTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/org/apache/commons/math/random/CorrelatedRandomVectorGeneratorTest.java",
+			"rightBegin":42,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/CorrelatedRandomVectorGenerator.java",
+			"leftBegin":256,
+			"leftEnd":256,
+			"rightPath":"src/java/org/apache/commons/math/random/CorrelatedRandomVectorGenerator.java",
+			"rightBegin":256,
+			"rightEnd":256
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":5417,
+			"leftEnd":5417,
+			"rightPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":5417,
+			"rightEnd":5417
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":41,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":41,
+			"rightEnd":40
+		}
+	]
+]

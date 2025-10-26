@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"rightBegin":92,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ParquetWriteProtocol.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

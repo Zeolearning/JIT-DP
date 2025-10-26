@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/util/FlagsTest.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"src/test/java/org/apache/commons/validator/util/FlagsTest.java",
+			"rightBegin":86,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/util/Flags.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/validator/util/Flags.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/validator/util/Flags.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/main/java/org/apache/commons/validator/util/Flags.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	]
+]

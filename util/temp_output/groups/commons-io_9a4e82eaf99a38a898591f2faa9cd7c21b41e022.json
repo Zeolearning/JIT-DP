@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/monitor/FilesystemObserverTestCase.java",
+			"leftBegin":417,
+			"leftEnd":416,
+			"rightPath":"src/test/org/apache/commons/io/monitor/FilesystemObserverTestCase.java",
+			"rightBegin":417,
+			"rightEnd":422
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/FactoryCreateBuilder.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/FactoryCreateBuilder.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/FactoryCreateBuilderImpl.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/FactoryCreateBuilderImpl.java",
+			"rightBegin":78,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/FactoryCreateBuilderImpl.java",
+			"leftBegin":80,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/FactoryCreateBuilderImpl.java",
+			"rightBegin":80,
+			"rightEnd":81
+		}
+	]
+]

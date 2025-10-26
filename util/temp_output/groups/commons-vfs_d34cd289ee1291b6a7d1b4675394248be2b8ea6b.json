@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileObject.java",
+			"leftBegin":152,
+			"leftEnd":152,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/provider/hdfs/HdfsFileObject.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	]
+]

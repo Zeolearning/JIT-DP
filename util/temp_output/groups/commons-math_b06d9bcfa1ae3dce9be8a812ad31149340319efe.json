@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/GaussianFitter.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/GaussianFitter.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fitting/GaussianFitter.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/math3/fitting/GaussianFitter.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	]
+]

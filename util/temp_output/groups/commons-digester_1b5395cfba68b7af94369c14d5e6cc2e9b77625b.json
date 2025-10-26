@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/XMLSchemaTestCase.java",
+			"leftBegin":58,
+			"leftEnd":78,
+			"rightPath":"src/test/java/org/apache/commons/digester3/XMLSchemaTestCase.java",
+			"rightBegin":58,
+			"rightEnd":61
+		}
+	]
+]

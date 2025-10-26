@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"rightBegin":56,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/examples/rss/src/main/java/org/apache/commons/digester3/rss/Channel.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	]
+]

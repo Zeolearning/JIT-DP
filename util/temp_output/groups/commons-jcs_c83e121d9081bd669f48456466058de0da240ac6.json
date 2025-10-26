@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"auxiliary-builds/jdk15/yajcache/cache/src/net/sf/yajcache/core/CacheManager.java",
+			"leftBegin":15,
+			"leftEnd":14,
+			"rightPath":"auxiliary-builds/jdk15/yajcache/cache/src/net/sf/yajcache/core/CacheManager.java",
+			"rightBegin":15,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"auxiliary-builds/jdk15/yajcache/cache/src/net/sf/yajcache/core/CacheManager.java",
+			"leftBegin":76,
+			"leftEnd":79,
+			"rightPath":"auxiliary-builds/jdk15/yajcache/cache/src/net/sf/yajcache/core/CacheManager.java",
+			"rightBegin":78,
+			"rightEnd":79
+		}
+	]
+]

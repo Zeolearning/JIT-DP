@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DatabaseConfiguration.java",
+			"leftBegin":211,
+			"leftEnd":211,
+			"rightPath":"src/java/org/apache/commons/configuration/DatabaseConfiguration.java",
+			"rightBegin":211,
+			"rightEnd":211
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/DatabaseConfiguration.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/configuration/DatabaseConfiguration.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

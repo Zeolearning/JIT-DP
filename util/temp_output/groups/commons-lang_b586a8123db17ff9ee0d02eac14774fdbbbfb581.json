@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/math/IntRangeTest.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/lang/math/IntRangeTest.java",
+			"rightBegin":63,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/math/IntRangeTest.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"src/test/org/apache/commons/lang/math/IntRangeTest.java",
+			"rightBegin":139,
+			"rightEnd":142
+		}
+	]
+]

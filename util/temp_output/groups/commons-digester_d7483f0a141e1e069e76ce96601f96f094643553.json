@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ObjectCreationFactory.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/digester3/spi/ObjectCreationFactory.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rulesbinder/LinkedRuleBuilder.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

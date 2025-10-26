@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/ConstantInitializerTest.java",
+			"rightBegin":1,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	]
+]

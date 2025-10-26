@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/authentications/PLAIN_AuthenticationTest.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/authentications/PLAIN_AuthenticationTest.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/store/TestMongoStore34.java",
+			"rightBegin":1,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/authentications/SCRAM_SHA_1_AuthenticationTest.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/authentications/SCRAM_SHA_1_AuthenticationTest.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

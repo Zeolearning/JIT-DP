@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/Main.java",
+			"leftBegin":165,
+			"leftEnd":165,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/Main.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	]
+]

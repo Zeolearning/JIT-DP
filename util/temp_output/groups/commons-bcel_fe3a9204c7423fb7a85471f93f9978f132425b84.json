@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"examples/listclass.java",
+			"leftBegin":147,
+			"leftEnd":146,
+			"rightPath":"examples/listclass.java",
+			"rightBegin":147,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":"examples/listclass.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"examples/listclass.java",
+			"rightBegin":145,
+			"rightEnd":145
+		}
+	]
+]

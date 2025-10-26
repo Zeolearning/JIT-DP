@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":256,
+			"leftEnd":256,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":256,
+			"rightEnd":256
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/RealVector.java",
+			"rightBegin":251,
+			"rightEnd":251
+		}
+	]
+]

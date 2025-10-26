@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-uima/src/test/java/opennlp/uima/util/CasUtil.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-uima/src/test/java/opennlp/uima/util/AnnotationComboIteratorTest.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-uima/src/main/java/opennlp/uima/util/AnnotationComboIterator.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"opennlp-uima/src/main/java/opennlp/uima/util/AnnotationComboIterator.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

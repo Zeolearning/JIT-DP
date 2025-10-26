@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestListOrderedMap.java",
+			"leftBegin":302,
+			"leftEnd":301,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestListOrderedMap.java",
+			"rightBegin":302,
+			"rightEnd":327
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/ListOrderedMap.java",
+			"leftBegin":226,
+			"leftEnd":225,
+			"rightPath":"src/java/org/apache/commons/collections/map/ListOrderedMap.java",
+			"rightBegin":227,
+			"rightEnd":241
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/ListOrderedMap.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/commons/collections/map/ListOrderedMap.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	]
+]

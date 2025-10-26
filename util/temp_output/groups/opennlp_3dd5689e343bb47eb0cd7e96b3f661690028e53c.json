@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/coref/CoreferenceConverterTool.java",
+			"rightBegin":1,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CLI.java",
+			"leftBegin":136,
+			"leftEnd":135,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CLI.java",
+			"rightBegin":137,
+			"rightEnd":137
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CLI.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/CLI.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

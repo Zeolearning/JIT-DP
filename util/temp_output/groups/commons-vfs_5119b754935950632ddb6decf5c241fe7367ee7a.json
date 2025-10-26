@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"leftBegin":235,
+			"leftEnd":236,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"rightBegin":242,
+			"rightEnd":243
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"leftBegin":148,
+			"leftEnd":147,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"rightBegin":148,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/AbstractSyncTask.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

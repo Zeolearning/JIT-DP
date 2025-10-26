@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/utils/BitInputStreamTest.java",
+			"leftBegin":170,
+			"leftEnd":169,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/BitInputStreamTest.java",
+			"rightBegin":171,
+			"rightEnd":171
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/utils/BitInputStreamTest.java",
+			"leftBegin":146,
+			"leftEnd":145,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/BitInputStreamTest.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

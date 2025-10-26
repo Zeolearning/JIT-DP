@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/IvyNode.java",
+			"leftBegin":856,
+			"leftEnd":861,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/IvyNode.java",
+			"rightBegin":856,
+			"rightEnd":865
+		}
+	]
+]

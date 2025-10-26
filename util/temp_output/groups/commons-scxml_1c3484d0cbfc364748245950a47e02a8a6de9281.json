@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/Builtin.java",
+			"leftBegin":64,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/scxml/Builtin.java",
+			"rightBegin":63,
+			"rightEnd":63
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/Builtin.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/scxml/Builtin.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	]
+]

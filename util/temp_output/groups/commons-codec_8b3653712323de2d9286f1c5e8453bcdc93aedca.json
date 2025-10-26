@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/HmacUtils.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/HmacUtils.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/HmacUtils.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/HmacUtils.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

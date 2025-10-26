@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"rightBegin":82,
+			"rightEnd":82
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSet.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

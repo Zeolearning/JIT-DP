@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"leftBegin":531,
+			"leftEnd":531,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java",
+			"rightBegin":531,
+			"rightEnd":531
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/messages/DiskBackedMessageStore.java",
+			"leftBegin":117,
+			"leftEnd":119,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/messages/DiskBackedMessageStore.java",
+			"rightBegin":117,
+			"rightEnd":121
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/util/FastMathTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/math3/util/FastMathTest.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/FastMath.java",
+			"leftBegin":878,
+			"leftEnd":877,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/FastMath.java",
+			"rightBegin":879,
+			"rightEnd":879
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/util/FastMath.java",
+			"leftBegin":876,
+			"leftEnd":875,
+			"rightPath":"src/main/java/org/apache/commons/math3/util/FastMath.java",
+			"rightBegin":876,
+			"rightEnd":876
+		}
+	]
+]

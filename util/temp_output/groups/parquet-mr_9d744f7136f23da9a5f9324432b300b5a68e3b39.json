@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"rightBegin":113,
+			"rightEnd":113
+		},
+		{
+			"leftPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"parquet-scrooge/src/test/java/org/apache/parquet/scrooge/ScroogeStructConverterTest.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/StrTokenizerTest.java",
+			"leftBegin":770,
+			"leftEnd":771,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/StrTokenizerTest.java",
+			"rightBegin":770,
+			"rightEnd":771
+		}
+	]
+]

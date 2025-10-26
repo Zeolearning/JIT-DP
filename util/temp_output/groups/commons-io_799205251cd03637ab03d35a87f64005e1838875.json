@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/DeferredFileOutputStream.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/io/output/DeferredFileOutputStream.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	]
+]

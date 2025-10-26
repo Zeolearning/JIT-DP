@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/PackageTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/PackageTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/filefilter/PackageTestSuite.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	]
+]

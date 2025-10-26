@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/mapreduce/PersistentSerialization.java",
+			"leftBegin":26,
+			"leftEnd":27,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/mapreduce/PersistentSerialization.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

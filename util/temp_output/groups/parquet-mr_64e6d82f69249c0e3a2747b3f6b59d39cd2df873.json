@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"leftBegin":805,
+			"leftEnd":805,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"rightBegin":805,
+			"rightEnd":805
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"leftBegin":793,
+			"leftEnd":793,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"rightBegin":793,
+			"rightEnd":793
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/schema/ConversionPatterns.java",
+			"leftBegin":26,
+			"leftEnd":27,
+			"rightPath":"parquet-column/src/main/java/parquet/schema/ConversionPatterns.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

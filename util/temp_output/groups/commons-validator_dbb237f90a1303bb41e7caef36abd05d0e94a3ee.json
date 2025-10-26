@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/share/org/apache/commons/validator/routines/CodeValidator.java",
+			"rightBegin":1,
+			"rightEnd":328
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/routines/CodeValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":249
+		}
+	]
+]

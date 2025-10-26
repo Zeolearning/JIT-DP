@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optimization/univariate/UnivariatePointValuePair.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/math3/optimization/univariate/UnivariatePointValuePair.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

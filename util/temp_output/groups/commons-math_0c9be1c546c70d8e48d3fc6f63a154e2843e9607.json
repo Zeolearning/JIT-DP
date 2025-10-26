@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/Fraction.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/math/fraction/Fraction.java",
+			"rightBegin":68,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/BigFraction.java",
+			"leftBegin":71,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/math/fraction/BigFraction.java",
+			"rightBegin":71,
+			"rightEnd":72
+		}
+	]
+]

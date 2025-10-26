@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/dictionary/DictionaryValuesWriter.java",
+			"leftBegin":198,
+			"leftEnd":198,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/dictionary/DictionaryValuesWriter.java",
+			"rightBegin":198,
+			"rightEnd":198
+		}
+	]
+]

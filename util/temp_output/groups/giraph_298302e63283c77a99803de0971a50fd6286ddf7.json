@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/CommunicationsInterface.java",
+			"leftBegin":27,
+			"leftEnd":32,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/CommunicationsInterface.java",
+			"rightBegin":27,
+			"rightEnd":32
+		},
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/CommunicationsInterface.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/CommunicationsInterface.java",
+			"rightBegin":65,
+			"rightEnd":64
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/ArrayFieldVectorTest.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/ArrayFieldVectorTest.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/AuthenticatingSMTPClient.java",
+			"leftBegin":56,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/AuthenticatingSMTPClient.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/smtp/AuthenticatingSMTPClient.java",
+			"leftBegin":52,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/net/smtp/AuthenticatingSMTPClient.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

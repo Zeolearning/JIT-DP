@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+			"leftBegin":18,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+			"rightBegin":18,
+			"rightEnd":17
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

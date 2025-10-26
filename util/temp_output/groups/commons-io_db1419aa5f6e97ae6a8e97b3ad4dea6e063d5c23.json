@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":1058,
+			"leftEnd":1058,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":1059,
+			"rightEnd":1059
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":1032,
+			"leftEnd":1032,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":1033,
+			"rightEnd":1033
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":965,
+			"leftEnd":965,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":966,
+			"rightEnd":966
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/Base64.java",
+			"leftBegin":116,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/Base64.java",
+			"rightBegin":116,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/ComplexUtils.java",
+			"leftBegin":224,
+			"leftEnd":224,
+			"rightPath":"src/java/org/apache/commons/math/complex/ComplexUtils.java",
+			"rightBegin":227,
+			"rightEnd":227
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/complex/ComplexUtils.java",
+			"leftBegin":219,
+			"leftEnd":218,
+			"rightPath":"src/java/org/apache/commons/math/complex/ComplexUtils.java",
+			"rightBegin":219,
+			"rightEnd":221
+		}
+	]
+]

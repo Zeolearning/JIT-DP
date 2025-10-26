@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+			"leftBegin":597,
+			"leftEnd":596,
+			"rightPath":"src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+			"rightBegin":597,
+			"rightEnd":597
+		}
+	]
+]

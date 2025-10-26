@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/PoolablePreparedStatement.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/PoolablePreparedStatement.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

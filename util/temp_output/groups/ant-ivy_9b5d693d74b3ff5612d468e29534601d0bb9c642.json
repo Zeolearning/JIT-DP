@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"leftBegin":231,
+			"leftEnd":235,
+			"rightPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"rightBegin":232,
+			"rightEnd":235
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"leftBegin":287,
+			"leftEnd":291,
+			"rightPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"rightBegin":287,
+			"rightEnd":290
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/ivy/core/search/SearchEngine.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

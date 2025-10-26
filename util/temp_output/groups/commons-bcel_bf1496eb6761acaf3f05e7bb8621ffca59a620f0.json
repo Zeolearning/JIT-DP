@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Code.java",
+			"leftBegin":317,
+			"leftEnd":317,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Code.java",
+			"rightBegin":317,
+			"rightEnd":317
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Code.java",
+			"leftBegin":315,
+			"leftEnd":315,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Code.java",
+			"rightBegin":315,
+			"rightEnd":315
+		}
+	]
+]

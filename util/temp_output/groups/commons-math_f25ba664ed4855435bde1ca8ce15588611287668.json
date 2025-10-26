@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/complex/QuaternionTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/math3/complex/QuaternionTest.java",
+			"rightBegin":50,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/complex/Quaternion.java",
+			"leftBegin":93,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/math3/complex/Quaternion.java",
+			"rightBegin":93,
+			"rightEnd":93
+		}
+	]
+]

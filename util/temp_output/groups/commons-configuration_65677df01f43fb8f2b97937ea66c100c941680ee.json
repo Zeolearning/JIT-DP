@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/io/TestAbsoluteNameLocationStrategy.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/io/AbsoluteNameLocationStrategy.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	]
+]

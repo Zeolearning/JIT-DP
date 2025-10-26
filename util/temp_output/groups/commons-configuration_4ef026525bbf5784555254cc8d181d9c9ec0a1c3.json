@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"rightBegin":19,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java",
+			"rightBegin":27,
+			"rightEnd":28
+		}
+	]
+]

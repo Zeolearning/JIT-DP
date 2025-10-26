@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"leftBegin":184,
+			"leftEnd":186,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"rightBegin":185,
+			"rightEnd":197
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

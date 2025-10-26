@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/concurrent/BackgroundInitializerTest.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/org/apache/commons/lang/concurrent/BackgroundInitializerTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"leftBegin":429,
+			"leftEnd":429,
+			"rightPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"rightBegin":429,
+			"rightEnd":429
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/concurrent/MultiBackgroundInitializerTest.java",
+			"leftBegin":273,
+			"leftEnd":273,
+			"rightPath":"src/test/org/apache/commons/lang/concurrent/MultiBackgroundInitializerTest.java",
+			"rightBegin":273,
+			"rightEnd":273
+		}
+	]
+]

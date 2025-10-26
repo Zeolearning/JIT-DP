@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"leftBegin":381,
+			"leftEnd":381,
+			"rightPath":"src/test/java/org/apache/commons/lang3/AnnotationUtilsTest.java",
+			"rightBegin":381,
+			"rightEnd":381
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/EnumUtilsTest.java",
+			"leftBegin":426,
+			"leftEnd":426,
+			"rightPath":"src/test/java/org/apache/commons/lang3/EnumUtilsTest.java",
+			"rightBegin":426,
+			"rightEnd":426
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/EnumUtilsTest.java",
+			"leftBegin":421,
+			"leftEnd":421,
+			"rightPath":"src/test/java/org/apache/commons/lang3/EnumUtilsTest.java",
+			"rightBegin":421,
+			"rightEnd":421
+		}
+	]
+]

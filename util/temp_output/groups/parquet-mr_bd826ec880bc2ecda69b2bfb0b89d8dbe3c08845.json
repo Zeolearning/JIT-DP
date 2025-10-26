@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-hive/src/test/java/parquet/hive/TestParquetSerDe.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

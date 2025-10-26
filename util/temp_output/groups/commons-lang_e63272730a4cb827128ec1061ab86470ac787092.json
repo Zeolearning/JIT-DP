@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/event/EventListenerSupport.java",
+			"leftBegin":311,
+			"leftEnd":311,
+			"rightPath":"src/main/java/org/apache/commons/lang3/event/EventListenerSupport.java",
+			"rightBegin":311,
+			"rightEnd":311
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/event/EventListenerSupport.java",
+			"leftBegin":302,
+			"leftEnd":303,
+			"rightPath":"src/main/java/org/apache/commons/lang3/event/EventListenerSupport.java",
+			"rightBegin":302,
+			"rightEnd":303
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/Vertex.java",
+			"leftBegin":443,
+			"leftEnd":443,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/Vertex.java",
+			"rightBegin":443,
+			"rightEnd":443
+		}
+	]
+]

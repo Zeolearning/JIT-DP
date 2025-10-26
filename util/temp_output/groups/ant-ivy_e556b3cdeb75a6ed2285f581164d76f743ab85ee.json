@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ArtifactId.java",
+			"leftBegin":70,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ArtifactId.java",
+			"rightBegin":70,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor.java",
+			"leftBegin":340,
+			"leftEnd":341,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor.java",
+			"rightBegin":340,
+			"rightEnd":342
+		}
+	]
+]

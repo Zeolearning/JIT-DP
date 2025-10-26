@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"leftBegin":166,
+			"leftEnd":166,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"rightBegin":168,
+			"rightEnd":169
+		}
+	],
+	[
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"rightBegin":30,
+			"rightEnd":30
+		},
+		{
+			"leftPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"gora-hbase/src/test/java/org/apache/gora/hbase/util/HBaseClusterSingleton.java",
+			"rightBegin":156,
+			"rightEnd":157
+		}
+	]
+]

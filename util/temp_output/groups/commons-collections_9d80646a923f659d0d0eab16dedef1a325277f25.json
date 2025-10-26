@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":582,
+			"leftEnd":581,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":585,
+			"rightEnd":679
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":510,
+			"leftEnd":509,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":510,
+			"rightEnd":512
+		}
+	]
+]

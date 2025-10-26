@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"rightBegin":155,
+			"rightEnd":157
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/job/JobProgressTrackerService.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+			"rightBegin":66,
+			"rightEnd":66
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

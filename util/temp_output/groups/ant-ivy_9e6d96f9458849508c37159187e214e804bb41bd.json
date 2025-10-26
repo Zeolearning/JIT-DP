@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyResourcesTest.java",
+			"leftBegin":184,
+			"leftEnd":183,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyResourcesTest.java",
+			"rightBegin":184,
+			"rightEnd":268
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyResources.java",
+			"leftBegin":183,
+			"leftEnd":182,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyResources.java",
+			"rightBegin":183,
+			"rightEnd":183
+		}
+	]
+]

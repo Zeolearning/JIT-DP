@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/package-info.java",
+			"rightBegin":1,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/MapVisualization.java",
+			"rightBegin":1,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/twod/util/MapDataVisualization.java",
+			"rightBegin":1,
+			"rightEnd":37
+		}
+	]
+]

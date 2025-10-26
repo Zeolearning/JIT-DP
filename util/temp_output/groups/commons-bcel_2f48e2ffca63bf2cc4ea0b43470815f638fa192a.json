@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"examples/JasminVisitor.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"examples/JasminVisitor.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"examples/JasminVisitor.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"examples/JasminVisitor.java",
+			"rightBegin":1,
+			"rightEnd":0
+		}
+	]
+]

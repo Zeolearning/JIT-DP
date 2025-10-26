@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"leftBegin":234,
+			"leftEnd":234,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java",
+			"rightBegin":234,
+			"rightEnd":234
+		}
+	]
+]

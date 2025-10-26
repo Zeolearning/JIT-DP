@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"leftBegin":179,
+			"leftEnd":180,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"rightBegin":181,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"leftBegin":162,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java",
+			"rightBegin":162,
+			"rightEnd":165
+		}
+	]
+]

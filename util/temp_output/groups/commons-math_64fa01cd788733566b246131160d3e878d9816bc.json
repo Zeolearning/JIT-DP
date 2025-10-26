@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+			"rightBegin":1,
+			"rightEnd":270
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/correlation/PearsonsCorrelationTest.java",
+			"rightBegin":1,
+			"rightEnd":274
+		}
+	]
+]

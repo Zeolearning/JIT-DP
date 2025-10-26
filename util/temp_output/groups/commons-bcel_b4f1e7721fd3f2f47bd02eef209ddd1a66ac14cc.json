@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/ARRAYLENGTH.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/bcel/generic/ARRAYLENGTH.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

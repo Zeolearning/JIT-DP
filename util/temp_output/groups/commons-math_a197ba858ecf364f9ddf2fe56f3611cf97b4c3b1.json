@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"leftBegin":206,
+			"leftEnd":205,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"rightBegin":206,
+			"rightEnd":302
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+			"leftBegin":297,
+			"leftEnd":297,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+			"rightBegin":297,
+			"rightEnd":297
+		}
+	]
+]

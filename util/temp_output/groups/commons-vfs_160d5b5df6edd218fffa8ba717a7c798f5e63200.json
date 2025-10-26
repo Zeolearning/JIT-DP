@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftps/test/AbstractFtpsProviderTestCase.java",
+			"leftBegin":172,
+			"leftEnd":173,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftps/test/AbstractFtpsProviderTestCase.java",
+			"rightBegin":172,
+			"rightEnd":180
+		}
+	]
+]

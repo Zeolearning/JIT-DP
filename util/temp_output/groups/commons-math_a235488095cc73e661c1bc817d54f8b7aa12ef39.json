@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/CubicSplineFunction.java",
+			"rightBegin":1,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/InterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":360
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/SplineInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/UnivariateRealInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	]
+]

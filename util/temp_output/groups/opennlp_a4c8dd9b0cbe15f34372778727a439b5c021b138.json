@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"rightBegin":61,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"leftBegin":61,
+			"leftEnd":67,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"rightBegin":57,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"rightBegin":41,
+			"rightEnd":40
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"leftBegin":43,
+			"leftEnd":46,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

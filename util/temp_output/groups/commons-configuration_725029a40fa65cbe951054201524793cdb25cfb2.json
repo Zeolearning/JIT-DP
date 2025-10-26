@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiWrapDynaBean.java",
+			"leftBegin":211,
+			"leftEnd":210,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiWrapDynaBean.java",
+			"rightBegin":212,
+			"rightEnd":238
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiWrapDynaBean.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiWrapDynaBean.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiWrapDynaBean.java",
+			"rightBegin":73,
+			"rightEnd":77
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorOutputStreamTest.java",
+			"leftBegin":31,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorOutputStreamTest.java",
+			"rightBegin":31,
+			"rightEnd":37
+		}
+	]
+]

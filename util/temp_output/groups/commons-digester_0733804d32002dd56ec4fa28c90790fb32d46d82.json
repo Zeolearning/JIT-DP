@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/ObjectParamRuleTestCase.java",
+			"leftBegin":144,
+			"leftEnd":150,
+			"rightPath":"src/test/org/apache/commons/digester/ObjectParamRuleTestCase.java",
+			"rightBegin":144,
+			"rightEnd":150
+		}
+	]
+]

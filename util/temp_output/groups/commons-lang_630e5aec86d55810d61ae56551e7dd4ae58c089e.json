@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"leftBegin":842,
+			"leftEnd":841,
+			"rightPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"rightBegin":848,
+			"rightEnd":851
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"leftBegin":472,
+			"leftEnd":489,
+			"rightPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"rightBegin":474,
+			"rightEnd":495
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/org/apache/commons/lang/time/DateUtilsTest.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	]
+]

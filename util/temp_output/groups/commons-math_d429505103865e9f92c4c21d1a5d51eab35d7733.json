@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/DefaultTransformerTest.java",
+			"leftBegin":98,
+			"leftEnd":103,
+			"rightPath":"src/test/java/org/apache/commons/math/util/DefaultTransformerTest.java",
+			"rightBegin":98,
+			"rightEnd":98
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/DefaultTransformerTest.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/test/java/org/apache/commons/math/util/DefaultTransformerTest.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/regression/MillerUpdatingRegressionTest.java",
+			"leftBegin":717,
+			"leftEnd":717,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/regression/MillerUpdatingRegressionTest.java",
+			"rightBegin":717,
+			"rightEnd":717
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/fraction/FractionTest.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"src/test/java/org/apache/commons/math4/fraction/FractionTest.java",
+			"rightBegin":266,
+			"rightEnd":276
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fraction/Fraction.java",
+			"leftBegin":600,
+			"leftEnd":600,
+			"rightPath":"src/main/java/org/apache/commons/math4/fraction/Fraction.java",
+			"rightBegin":600,
+			"rightEnd":600
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fraction/Fraction.java",
+			"leftBegin":569,
+			"leftEnd":569,
+			"rightPath":"src/main/java/org/apache/commons/math4/fraction/Fraction.java",
+			"rightBegin":569,
+			"rightEnd":569
+		}
+	]
+]

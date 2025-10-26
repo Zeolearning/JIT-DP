@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorOutputStream.java",
+			"leftBegin":138,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorOutputStream.java",
+			"rightBegin":135,
+			"rightEnd":134
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorOutputStream.java",
+			"leftBegin":133,
+			"leftEnd":136,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorOutputStream.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	]
+]

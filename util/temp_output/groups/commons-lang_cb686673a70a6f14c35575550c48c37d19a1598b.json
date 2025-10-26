@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/JavaVersionTest.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/test/java/org/apache/commons/lang3/JavaVersionTest.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/JavaVersion.java",
+			"leftBegin":194,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/lang3/JavaVersion.java",
+			"rightBegin":194,
+			"rightEnd":195
+		}
+	]
+]

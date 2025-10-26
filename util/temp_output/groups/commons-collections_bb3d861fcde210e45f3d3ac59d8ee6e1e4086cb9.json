@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/trie/CharacterKeyAnalyzer.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/collections4/trie/CharacterKeyAnalyzer.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/trie/CharacterKeyAnalyzer.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/collections4/trie/CharacterKeyAnalyzer.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

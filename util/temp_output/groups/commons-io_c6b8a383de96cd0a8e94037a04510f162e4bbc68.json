@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"leftBegin":1538,
+			"leftEnd":1540,
+			"rightPath":"src/main/java/org/apache/commons/io/FileUtils.java",
+			"rightBegin":1538,
+			"rightEnd":1539
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/FileUtilsCopyToFileTestCase.java",
+			"rightBegin":1,
+			"rightEnd":102
+		}
+	]
+]

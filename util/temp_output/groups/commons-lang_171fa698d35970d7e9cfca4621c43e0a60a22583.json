@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/EscapeUtils.java",
+			"leftBegin":62,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/EscapeUtils.java",
+			"rightBegin":62,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/EscapeLowAsciiAsUnicode.java",
+			"leftBegin":1,
+			"leftEnd":69,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/EscapeNonAsciiAsUnicode.java",
+			"leftBegin":1,
+			"leftEnd":44,
+			"rightPath":null
+		}
+	]
+]

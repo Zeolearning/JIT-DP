@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestDatabaseConfiguration.java",
+			"leftBegin":406,
+			"leftEnd":405,
+			"rightPath":"src/test/org/apache/commons/configuration/TestDatabaseConfiguration.java",
+			"rightBegin":406,
+			"rightEnd":418
+		}
+	]
+]

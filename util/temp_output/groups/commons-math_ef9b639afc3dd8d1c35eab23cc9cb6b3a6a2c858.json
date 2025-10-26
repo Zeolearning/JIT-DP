@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClustererTest.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClustererTest.java",
+			"rightBegin":96,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":1626,
+			"leftEnd":1626,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":1626,
+			"rightEnd":1626
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":1624,
+			"leftEnd":1624,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":1624,
+			"rightEnd":1624
+		}
+	]
+]

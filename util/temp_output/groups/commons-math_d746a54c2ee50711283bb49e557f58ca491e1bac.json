@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/exception/util/LocalizedFormatsTest.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/math4/exception/util/LocalizedFormatsTest.java",
+			"rightBegin":25,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/exception/util/LocalizedFormatsTest.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/math4/exception/util/LocalizedFormatsTest.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

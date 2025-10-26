@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/BeanUtils.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/beanutils/BeanUtils.java",
+			"rightBegin":59,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/BeanUtils.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/java/org/apache/commons/beanutils/BeanUtils.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

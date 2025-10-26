@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/SystemUtilsTest.java",
+			"rightBegin":1,
+			"rightEnd":281
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

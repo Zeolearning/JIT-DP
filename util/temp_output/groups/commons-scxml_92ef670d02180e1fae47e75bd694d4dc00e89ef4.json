@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLDigester.java",
+			"leftBegin":1310,
+			"leftEnd":1311,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLDigester.java",
+			"rightBegin":1310,
+			"rightEnd":1311
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLDigester.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLDigester.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/list/AbstractTestList.java",
+			"leftBegin":1041,
+			"leftEnd":1041,
+			"rightPath":"src/test/org/apache/commons/collections/list/AbstractTestList.java",
+			"rightBegin":1041,
+			"rightEnd":1041
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/list/AbstractTestList.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/org/apache/commons/collections/list/AbstractTestList.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

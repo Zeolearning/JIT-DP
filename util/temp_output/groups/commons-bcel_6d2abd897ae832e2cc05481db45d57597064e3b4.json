@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/classfile/RuntimeVisibleParameterAnnotations.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/classfile/RuntimeInvisibleParameterAnnotations.java",
+			"rightBegin":1,
+			"rightEnd":54
+		}
+	]
+]

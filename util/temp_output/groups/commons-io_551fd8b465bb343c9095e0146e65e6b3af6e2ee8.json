@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/test/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"rightBegin":89,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"leftBegin":80,
+			"leftEnd":79,
+			"rightPath":"src/test/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FileCleanerTestCase.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/org/apache/commons/io/FileCleanerTestCase.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	]
+]

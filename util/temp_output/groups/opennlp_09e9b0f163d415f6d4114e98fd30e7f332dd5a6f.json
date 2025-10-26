@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/stemmer/PorterStemmerTest.java",
+			"rightBegin":1,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/stemmer/Stemmer.java",
+			"rightBegin":1,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/stemmer/PorterStemmer.java",
+			"rightBegin":1,
+			"rightEnd":412
+		}
+	]
+]

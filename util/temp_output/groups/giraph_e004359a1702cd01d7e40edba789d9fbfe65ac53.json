@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/RecordReaderWrapper.java",
+			"leftBegin":54,
+			"leftEnd":56,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/RecordReaderWrapper.java",
+			"rightBegin":54,
+			"rightEnd":54
+		},
+		{
+			"leftPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/RecordReaderWrapper.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"giraph-hive/src/main/java/org/apache/giraph/hive/input/RecordReaderWrapper.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/math/JVMRandom.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/lang/math/JVMRandom.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/math/JVMRandom.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/commons/lang/math/JVMRandom.java",
+			"rightBegin":69,
+			"rightEnd":73
+		}
+	]
+]

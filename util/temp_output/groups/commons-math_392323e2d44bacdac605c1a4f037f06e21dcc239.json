@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"leftBegin":290,
+			"leftEnd":291,
+			"rightPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"rightBegin":290,
+			"rightEnd":291
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"leftBegin":288,
+			"leftEnd":288,
+			"rightPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"rightBegin":288,
+			"rightEnd":288
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"src/main/java/org/apache/commons/math4/exception/util/ExceptionContext.java",
+			"rightBegin":286,
+			"rightEnd":286
+		}
+	]
+]

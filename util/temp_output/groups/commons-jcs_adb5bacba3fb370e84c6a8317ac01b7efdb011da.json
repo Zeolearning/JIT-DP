@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/behavior/IRemoteCacheServer.java",
+			"leftBegin":4,
+			"leftEnd":4,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/behavior/IRemoteCacheServer.java",
+			"rightBegin":4,
+			"rightEnd":5
+		},
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/behavior/IRemoteCacheServer.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/server/behavior/IRemoteCacheServer.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

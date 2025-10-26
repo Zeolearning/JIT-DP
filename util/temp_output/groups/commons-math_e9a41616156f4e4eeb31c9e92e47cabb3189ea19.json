@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"rightBegin":38,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"leftBegin":219,
+			"leftEnd":218,
+			"rightPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"rightBegin":228,
+			"rightEnd":548
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"rightBegin":19,
+			"rightEnd":24
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"leftBegin":320,
+			"leftEnd":319,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"rightBegin":321,
+			"rightEnd":321
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"rightBegin":174,
+			"rightEnd":174
+		}
+	]
+]

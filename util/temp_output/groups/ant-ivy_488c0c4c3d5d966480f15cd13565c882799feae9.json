@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

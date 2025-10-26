@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheFactory.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCacheAttributes.java",
+			"rightBegin":1,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/javagroups/JavaGroupsCache.java",
+			"rightBegin":1,
+			"rightEnd":386
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/example/ShowProperties.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/vfs/example/ShowProperties.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/example/ShowProperties.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/vfs/example/ShowProperties.java",
+			"rightBegin":75,
+			"rightEnd":84
+		}
+	]
+]

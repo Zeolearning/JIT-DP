@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/bm/Rule.java",
+			"leftBegin":514,
+			"leftEnd":518,
+			"rightPath":"src/java/org/apache/commons/codec/language/bm/Rule.java",
+			"rightBegin":524,
+			"rightEnd":524
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/bm/Rule.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/java/org/apache/commons/codec/language/bm/Rule.java",
+			"rightBegin":232,
+			"rightEnd":241
+		}
+	]
+]

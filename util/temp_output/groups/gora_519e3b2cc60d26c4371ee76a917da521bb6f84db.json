@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseTableConnection.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseTableConnection.java",
+			"rightBegin":81,
+			"rightEnd":86
+		}
+	]
+]

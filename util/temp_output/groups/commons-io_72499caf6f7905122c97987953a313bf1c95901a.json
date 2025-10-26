@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/ByteOrderFactory.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/io/ByteOrderFactory.java",
+			"rightBegin":28,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/ByteOrderFactory.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/io/ByteOrderFactory.java",
+			"rightBegin":42,
+			"rightEnd":44
+		}
+	]
+]

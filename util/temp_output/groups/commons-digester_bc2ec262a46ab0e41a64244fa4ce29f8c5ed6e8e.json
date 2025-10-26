@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/addressbook/Person.java",
+			"rightBegin":1,
+			"rightEnd":107
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/addressbook/AddressBookDigester.java",
+			"rightBegin":1,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/examples/api/addressbook/AddressBook.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	]
+]

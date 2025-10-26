@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/analysis/UnivariateRealSolverFactory.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/math/analysis/UnivariateRealSolverFactory.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/analysis/UnivariateRealSolverFactory.java",
+			"leftBegin":59,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/commons/math/analysis/UnivariateRealSolverFactory.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

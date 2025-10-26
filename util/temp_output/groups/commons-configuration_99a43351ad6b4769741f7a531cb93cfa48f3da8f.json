@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/CompositeConfiguration.java",
+			"leftBegin":238,
+			"leftEnd":246,
+			"rightPath":"src/java/org/apache/commons/configuration/CompositeConfiguration.java",
+			"rightBegin":238,
+			"rightEnd":237
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/CompositeConfiguration.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/commons/configuration/CompositeConfiguration.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

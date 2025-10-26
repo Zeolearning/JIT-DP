@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":640,
+			"leftEnd":640,
+			"rightPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":640,
+			"rightEnd":640
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":637,
+			"leftEnd":637,
+			"rightPath":"src/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":637,
+			"rightEnd":637
+		}
+	]
+]

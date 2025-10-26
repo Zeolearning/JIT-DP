@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationFactory.java",
+			"leftBegin":155,
+			"leftEnd":154,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationFactory.java",
+			"rightBegin":155,
+			"rightEnd":157
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationFactory.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationFactory.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

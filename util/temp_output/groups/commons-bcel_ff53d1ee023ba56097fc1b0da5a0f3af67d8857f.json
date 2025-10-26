@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/OperandStack.java",
+			"leftBegin":161,
+			"leftEnd":161,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/OperandStack.java",
+			"rightBegin":161,
+			"rightEnd":161
+		}
+	]
+]

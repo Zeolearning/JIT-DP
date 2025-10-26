@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/binary/Base32.java",
+			"leftBegin":352,
+			"leftEnd":352,
+			"rightPath":"src/java/org/apache/commons/codec/binary/Base32.java",
+			"rightBegin":352,
+			"rightEnd":352
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/binary/Base32.java",
+			"leftBegin":245,
+			"leftEnd":245,
+			"rightPath":"src/java/org/apache/commons/codec/binary/Base32.java",
+			"rightBegin":245,
+			"rightEnd":245
+		}
+	]
+]

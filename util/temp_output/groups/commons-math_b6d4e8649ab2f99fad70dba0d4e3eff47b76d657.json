@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/DescriptiveStatisticsTest.java",
+			"rightBegin":78,
+			"rightEnd":88
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"leftBegin":378,
+			"leftEnd":377,
+			"rightPath":"src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+			"rightBegin":378,
+			"rightEnd":378
+		}
+	]
+]

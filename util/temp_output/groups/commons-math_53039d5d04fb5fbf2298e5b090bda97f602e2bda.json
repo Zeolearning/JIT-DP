@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/LevyDistributionTest.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/LevyDistribution.java",
+			"rightBegin":1,
+			"rightEnd":143
+		}
+	]
+]

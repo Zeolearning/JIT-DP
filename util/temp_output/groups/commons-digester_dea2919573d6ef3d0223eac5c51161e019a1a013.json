@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"leftBegin":115,
+			"leftEnd":115,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"rightBegin":117,
+			"rightEnd":117
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/LoaderFromStream.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

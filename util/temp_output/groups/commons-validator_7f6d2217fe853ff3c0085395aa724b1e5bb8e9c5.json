@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/custom/CustomValidatorResources.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResources.java",
+			"leftBegin":202,
+			"leftEnd":202,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResources.java",
+			"rightBegin":205,
+			"rightEnd":212
+		},
+		{
+			"leftPath":"src/share/org/apache/commons/validator/ValidatorResources.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/share/org/apache/commons/validator/ValidatorResources.java",
+			"rightBegin":57,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/CustomValidatorResourcesTest.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	]
+]

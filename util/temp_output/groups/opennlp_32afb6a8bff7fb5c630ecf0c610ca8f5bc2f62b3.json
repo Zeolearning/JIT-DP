@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/eval/SourceForgeModelEval.java",
+			"leftBegin":92,
+			"leftEnd":93,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/eval/SourceForgeModelEval.java",
+			"rightBegin":93,
+			"rightEnd":94
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/eval/SourceForgeModelEval.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/eval/SourceForgeModelEval.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

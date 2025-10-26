@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"leftBegin":486,
+			"leftEnd":485,
+			"rightPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"rightBegin":486,
+			"rightEnd":515
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"leftBegin":293,
+			"leftEnd":293,
+			"rightPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"rightBegin":293,
+			"rightEnd":293
+		}
+	]
+]

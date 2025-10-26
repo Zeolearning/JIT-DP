@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-sql/src/test/java/org/apache/gora/sql/GoraSqlTestDriver.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"gora-sql/src/test/java/org/apache/gora/sql/GoraSqlTestDriver.java",
+			"rightBegin":49,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"gora-sql/src/test/java/org/apache/gora/sql/GoraSqlTestDriver.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"gora-sql/src/test/java/org/apache/gora/sql/GoraSqlTestDriver.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

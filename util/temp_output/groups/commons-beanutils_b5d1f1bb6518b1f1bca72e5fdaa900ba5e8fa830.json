@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/LocaleBeanificationTestCase.java",
+			"leftBegin":462,
+			"leftEnd":461,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/LocaleBeanificationTestCase.java",
+			"rightBegin":469,
+			"rightEnd":514
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/LocaleBeanificationTestCase.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/LocaleBeanificationTestCase.java",
+			"rightBegin":33,
+			"rightEnd":39
+		}
+	]
+]

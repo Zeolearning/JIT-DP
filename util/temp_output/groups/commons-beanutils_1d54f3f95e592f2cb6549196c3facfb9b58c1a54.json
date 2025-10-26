@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"optional/bean-collections/src/java/org/apache/commons/beanutils/BeanComparator.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"optional/bean-collections/src/java/org/apache/commons/beanutils/BeanComparator.java",
+			"rightBegin":158,
+			"rightEnd":181
+		}
+	],
+	[
+		{
+			"leftPath":"optional/bean-collections/src/java/org/apache/commons/beanutils/BeanComparator.java",
+			"leftBegin":159,
+			"leftEnd":158,
+			"rightPath":"optional/bean-collections/src/java/org/apache/commons/beanutils/BeanComparator.java",
+			"rightBegin":183,
+			"rightEnd":190
+		}
+	]
+]

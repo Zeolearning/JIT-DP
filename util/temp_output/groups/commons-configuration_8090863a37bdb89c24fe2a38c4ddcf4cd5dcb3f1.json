@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingController.java",
+			"leftBegin":39,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingController.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/reloading/ReloadingListener.java",
+			"leftBegin":1,
+			"leftEnd":47,
+			"rightPath":null
+		}
+	]
+]

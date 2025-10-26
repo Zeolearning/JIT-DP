@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperExt.java",
+			"leftBegin":165,
+			"leftEnd":166,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperExt.java",
+			"rightBegin":165,
+			"rightEnd":169
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/BspServiceMaster.java",
+			"leftBegin":681,
+			"leftEnd":680,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/BspServiceMaster.java",
+			"rightBegin":681,
+			"rightEnd":691
+		}
+	]
+]

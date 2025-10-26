@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolverTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"leftBegin":186,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java",
+			"rightBegin":186,
+			"rightEnd":186
+		}
+	]
+]

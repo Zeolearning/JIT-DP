@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java",
+			"leftBegin":370,
+			"leftEnd":370,
+			"rightPath":"src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java",
+			"rightBegin":370,
+			"rightEnd":370
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

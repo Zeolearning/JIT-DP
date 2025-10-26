@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/repo/AbstractOSGiResolver.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/AbstractOSGiResolver.java",
+			"rightBegin":111,
+			"rightEnd":117
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexWriter.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexWriter.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexInputFormat.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexInputFormat.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexReader.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/lib/VISVertexReader.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	]
+]

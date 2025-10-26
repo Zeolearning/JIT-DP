@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/TrainingParams.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/TrainingParams.java",
+			"rightBegin":45,
+			"rightEnd":48
+		}
+	]
+]

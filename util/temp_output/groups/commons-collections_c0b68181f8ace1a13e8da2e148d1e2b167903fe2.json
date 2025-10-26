@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractMapDecorator.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractMapDecorator.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/AbstractMapDecorator.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/collections/map/AbstractMapDecorator.java",
+			"rightBegin":44,
+			"rightEnd":52
+		}
+	]
+]

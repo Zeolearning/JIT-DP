@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/reloading/RandomReloadingDetector.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/reloading/AlwaysReloadingDetector.java",
+			"rightBegin":1,
+			"rightEnd":41
+		}
+	]
+]

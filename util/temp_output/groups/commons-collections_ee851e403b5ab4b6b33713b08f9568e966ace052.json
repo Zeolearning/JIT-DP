@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/collections4/properties/SortedPropertiesTest.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/collections4/properties/SortedProperties.java",
+			"rightBegin":1,
+			"rightEnd":51
+		}
+	]
+]

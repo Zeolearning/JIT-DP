@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/TriDiagonalTransformer.java",
+			"leftBegin":130,
+			"leftEnd":131,
+			"rightPath":"src/java/org/apache/commons/math/linear/TriDiagonalTransformer.java",
+			"rightBegin":130,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/TriDiagonalTransformer.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/commons/math/linear/TriDiagonalTransformer.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	]
+]

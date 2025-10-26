@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/ArchiveUtils.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/ArchiveUtils.java",
+			"rightBegin":29,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java",
+			"rightBegin":31,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"rightBegin":31,
+			"rightEnd":34
+		}
+	]
+]

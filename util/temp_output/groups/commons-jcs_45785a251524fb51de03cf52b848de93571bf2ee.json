@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/remote/http/client/RemoteHttpCacheDispatcher.java",
+			"leftBegin":139,
+			"leftEnd":138,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/remote/http/client/RemoteHttpCacheDispatcher.java",
+			"rightBegin":139,
+			"rightEnd":142
+		}
+	]
+]

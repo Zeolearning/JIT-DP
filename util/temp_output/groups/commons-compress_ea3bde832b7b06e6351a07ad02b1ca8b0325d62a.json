@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"rightBegin":185,
+			"rightEnd":228
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"rightBegin":229,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"leftBegin":137,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java",
+			"rightBegin":137,
+			"rightEnd":136
+		}
+	]
+]

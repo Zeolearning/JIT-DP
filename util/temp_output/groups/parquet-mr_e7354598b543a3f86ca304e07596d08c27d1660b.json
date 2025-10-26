@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/ValidatingRecordConsumer.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"redelm-column/src/main/java/redelm/io/ValidatingRecordConsumer.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"leftBegin":152,
+			"leftEnd":152,
+			"rightPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"rightBegin":151,
+			"rightEnd":151
+		},
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	]
+]

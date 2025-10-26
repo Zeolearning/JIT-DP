@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/interpolation/InterpolatingMicrosphere.java",
+			"rightBegin":1,
+			"rightEnd":386
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/interpolation/MicrosphereProjectionInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":149
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/interpolation/InterpolatingMicrosphere2D.java",
+			"rightBegin":1,
+			"rightEnd":87
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/interpolation/MicrosphereProjectionInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":166
+		}
+	]
+]

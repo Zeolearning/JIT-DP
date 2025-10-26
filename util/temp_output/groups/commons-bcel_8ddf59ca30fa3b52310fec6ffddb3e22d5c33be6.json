@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"leftBegin":213,
+			"leftEnd":212,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"rightBegin":213,
+			"rightEnd":213
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"leftBegin":211,
+			"leftEnd":211,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"rightBegin":211,
+			"rightEnd":211
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"leftBegin":209,
+			"leftEnd":209,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/BCELifier.java",
+			"rightBegin":209,
+			"rightEnd":209
+		}
+	]
+]

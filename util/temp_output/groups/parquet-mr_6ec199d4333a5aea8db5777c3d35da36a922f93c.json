@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/DeprecatedInputFormatTest.java",
+			"leftBegin":119,
+			"leftEnd":119,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/DeprecatedInputFormatTest.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

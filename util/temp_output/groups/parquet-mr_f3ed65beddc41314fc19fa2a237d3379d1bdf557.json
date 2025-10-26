@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/summary/ValueStat.java",
+			"leftBegin":21,
+			"leftEnd":22,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/summary/ValueStat.java",
+			"rightBegin":21,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-pig/src/test/java/parquet/pig/summary/TestSummary.java",
+			"leftBegin":143,
+			"leftEnd":142,
+			"rightPath":"parquet-pig/src/test/java/parquet/pig/summary/TestSummary.java",
+			"rightBegin":143,
+			"rightEnd":160
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/StringPattern.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/featuregen/StringPattern.java",
+			"rightBegin":48,
+			"rightEnd":54
+		}
+	]
+]

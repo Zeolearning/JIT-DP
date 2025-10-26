@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/ReversedLinesFileReaderTestParamBlockSize.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/io/input/ReversedLinesFileReaderTestParamBlockSize.java",
+			"rightBegin":43,
+			"rightEnd":44
+		}
+	]
+]

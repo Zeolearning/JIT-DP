@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/PermissionsTests.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/PermissionsTests.java",
+			"rightBegin":21,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/PermissionsTests.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/PermissionsTests.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

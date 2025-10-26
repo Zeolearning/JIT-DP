@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/ApacheURLLister.java",
+			"leftBegin":166,
+			"leftEnd":165,
+			"rightPath":"src/java/org/apache/ivy/util/url/ApacheURLLister.java",
+			"rightBegin":166,
+			"rightEnd":170
+		}
+	]
+]

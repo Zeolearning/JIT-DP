@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"leftBegin":449,
+			"leftEnd":456,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"rightBegin":450,
+			"rightEnd":460
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"leftBegin":444,
+			"leftEnd":447,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"rightBegin":444,
+			"rightEnd":448
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"leftBegin":439,
+			"leftEnd":439,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"rightBegin":439,
+			"rightEnd":439
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"leftBegin":442,
+			"leftEnd":442,
+			"rightPath":"src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+			"rightBegin":442,
+			"rightEnd":442
+		}
+	]
+]

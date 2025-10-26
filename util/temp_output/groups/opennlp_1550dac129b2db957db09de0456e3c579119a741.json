@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java",
+			"leftBegin":86,
+			"leftEnd":88,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java",
+			"leftBegin":78,
+			"leftEnd":80,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStream.java",
+			"leftBegin":47,
+			"leftEnd":49,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStream.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/convert/HiveSchemaConverter.java",
+			"leftBegin":121,
+			"leftEnd":122,
+			"rightPath":"parquet-hive/parquet-hive-storage-handler/src/main/java/org/apache/hadoop/hive/ql/io/parquet/convert/HiveSchemaConverter.java",
+			"rightBegin":121,
+			"rightEnd":122
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/schema/GroupType.java",
+			"leftBegin":210,
+			"leftEnd":209,
+			"rightPath":"parquet-column/src/main/java/parquet/schema/GroupType.java",
+			"rightBegin":210,
+			"rightEnd":210
+		}
+	]
+]

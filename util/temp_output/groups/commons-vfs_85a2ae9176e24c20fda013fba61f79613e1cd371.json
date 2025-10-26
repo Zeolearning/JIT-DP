@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileSystemException.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/vfs/FileSystemException.java",
+			"rightBegin":59,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileSystemException.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/vfs/FileSystemException.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

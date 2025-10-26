@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/UnmodifiableBuffer.java",
+			"rightBegin":1,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/SynchronizedBuffer.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/PredicatedBuffer.java",
+			"rightBegin":1,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/decorators/BlockingBuffer.java",
+			"rightBegin":1,
+			"rightEnd":140
+		}
+	]
+]

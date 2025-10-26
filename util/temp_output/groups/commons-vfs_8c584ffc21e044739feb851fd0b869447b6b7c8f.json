@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"leftBegin":226,
+			"leftEnd":226,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"rightBegin":235,
+			"rightEnd":235
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"leftBegin":220,
+			"leftEnd":220,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"rightBegin":220,
+			"rightEnd":229
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileName.java",
+			"leftBegin":176,
+			"leftEnd":175,
+			"rightPath":"src/java/org/apache/commons/vfs/FileName.java",
+			"rightBegin":176,
+			"rightEnd":180
+		}
+	]
+]

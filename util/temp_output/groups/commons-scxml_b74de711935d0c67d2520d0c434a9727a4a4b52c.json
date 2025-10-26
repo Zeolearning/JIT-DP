@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"leftBegin":159,
+			"leftEnd":158,
+			"rightPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"rightBegin":161,
+			"rightEnd":167
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"rightBegin":58,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"rightBegin":75,
+			"rightEnd":76
+		}
+	]
+]

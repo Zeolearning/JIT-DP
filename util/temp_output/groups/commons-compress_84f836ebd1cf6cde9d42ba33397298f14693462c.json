@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"leftBegin":614,
+			"leftEnd":616,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"rightBegin":614,
+			"rightEnd":614
+		}
+	]
+]

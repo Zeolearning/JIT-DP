@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestXMLConfiguration.java",
+			"leftBegin":1461,
+			"leftEnd":1461,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestXMLConfiguration.java",
+			"rightBegin":1461,
+			"rightEnd":1464
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/XMLConfiguration.java",
+			"leftBegin":633,
+			"leftEnd":633,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/XMLConfiguration.java",
+			"rightBegin":633,
+			"rightEnd":637
+		}
+	]
+]

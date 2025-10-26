@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathParseException.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathParseException.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

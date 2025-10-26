@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+			"leftBegin":266,
+			"leftEnd":266,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+			"rightBegin":266,
+			"rightEnd":266
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":292,
+			"leftEnd":293,
+			"rightPath":"src/main/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":292,
+			"rightEnd":293
+		}
+	]
+]

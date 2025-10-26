@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/statics/Pass3aVerifier.java",
+			"leftBegin":815,
+			"leftEnd":816,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/statics/Pass3aVerifier.java",
+			"rightBegin":815,
+			"rightEnd":818
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/Constants.java",
+			"leftBegin":365,
+			"leftEnd":364,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/Constants.java",
+			"rightBegin":365,
+			"rightEnd":373
+		}
+	]
+]

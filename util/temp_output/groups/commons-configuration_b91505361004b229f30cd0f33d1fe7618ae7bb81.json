@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/ReloadingBuilderSupportListener.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/ReloadingBuilderSupportListener.java",
+			"rightBegin":26,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/builder/ReloadingBuilderSupportListener.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/builder/ReloadingBuilderSupportListener.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

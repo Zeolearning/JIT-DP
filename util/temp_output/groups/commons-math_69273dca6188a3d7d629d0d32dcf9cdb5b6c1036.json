@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/ode/nonstiff/ClassicalRungeKuttaIntegratorTest.java",
+			"leftBegin":313,
+			"leftEnd":312,
+			"rightPath":"src/test/java/org/apache/commons/math3/ode/nonstiff/ClassicalRungeKuttaIntegratorTest.java",
+			"rightBegin":313,
+			"rightEnd":336
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaIntegrator.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaIntegrator.java",
+			"rightBegin":122,
+			"rightEnd":134
+		}
+	]
+]

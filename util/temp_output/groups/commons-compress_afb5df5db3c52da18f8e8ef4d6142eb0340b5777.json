@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/XZTestCase.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/XZTestCase.java",
+			"rightBegin":35,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/compressors/XZTestCase.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/XZTestCase.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

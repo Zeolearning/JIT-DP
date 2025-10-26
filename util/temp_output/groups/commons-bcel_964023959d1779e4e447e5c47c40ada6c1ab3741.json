@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/BranchHandle.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/BranchHandle.java",
+			"rightBegin":79,
+			"rightEnd":81
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/BranchHandle.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/BranchHandle.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	]
+]

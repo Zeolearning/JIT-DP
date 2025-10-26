@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/beanutils/DynaBeanMapDecorator.java",
+			"rightBegin":1,
+			"rightEnd":394
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaBeanMapDecoratorTestCase.java",
+			"rightBegin":1,
+			"rightEnd":375
+		}
+	]
+]

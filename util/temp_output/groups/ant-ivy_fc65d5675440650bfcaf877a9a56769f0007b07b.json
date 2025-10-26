@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"rightBegin":70,
+			"rightEnd":72
+		},
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"test/java/fr/jayasoft/ivy/xml/XmlModuleDescriptorParserTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/XMLHelper.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/XMLHelper.java",
+			"rightBegin":85,
+			"rightEnd":88
+		}
+	]
+]

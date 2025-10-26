@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/disk/indexed/IndexedDiskCacheOptimizationUnitTest.java",
+			"rightBegin":68,
+			"rightEnd":69
+		}
+	]
+]

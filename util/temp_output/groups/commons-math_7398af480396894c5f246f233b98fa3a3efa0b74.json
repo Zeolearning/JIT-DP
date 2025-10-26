@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/events/Action.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/events/FieldEventHandler.java",
+			"rightBegin":1,
+			"rightEnd":180
+		}
+	]
+]

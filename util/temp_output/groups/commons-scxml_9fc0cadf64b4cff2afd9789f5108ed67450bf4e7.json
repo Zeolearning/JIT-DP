@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/ModelTestSuite.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/ModelTestSuite.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/StatelessModelTest.java",
+			"rightBegin":1,
+			"rightEnd":196
+		}
+	]
+]

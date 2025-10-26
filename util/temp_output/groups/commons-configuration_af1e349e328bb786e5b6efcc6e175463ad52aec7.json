@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/web/AppletConfiguration.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/configuration/web/AppletConfiguration.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/web/AppletConfiguration.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/configuration/web/AppletConfiguration.java",
+			"rightBegin":54,
+			"rightEnd":54
+		}
+	]
+]

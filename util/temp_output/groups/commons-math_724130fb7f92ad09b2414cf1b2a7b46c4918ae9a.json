@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/IterationListener.java",
+			"leftBegin":1,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/commons/math/util/IterationListener.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/IterationEvent.java",
+			"leftBegin":1,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/math/util/IterationEvent.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/IterationManager.java",
+			"leftBegin":1,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/commons/math/util/IterationManager.java",
+			"rightBegin":1,
+			"rightEnd":155
+		}
+	]
+]

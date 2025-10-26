@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/IteratorChain.java",
+			"rightBegin":1,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestIteratorChain.java",
+			"rightBegin":1,
+			"rightEnd":180
+		}
+	]
+]

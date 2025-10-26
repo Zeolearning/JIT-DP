@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/events/CloseEventsTest.java",
+			"rightBegin":1,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"leftBegin":403,
+			"leftEnd":405,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"rightBegin":402,
+			"rightEnd":402
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"leftBegin":401,
+			"leftEnd":401,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"rightBegin":401,
+			"rightEnd":400
+		}
+	]
+]

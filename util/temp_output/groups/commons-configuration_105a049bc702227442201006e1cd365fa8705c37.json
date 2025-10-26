@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/MockStaticMemoryInitialContextFactory.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/configuration/MockStaticMemoryInitialContextFactory.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

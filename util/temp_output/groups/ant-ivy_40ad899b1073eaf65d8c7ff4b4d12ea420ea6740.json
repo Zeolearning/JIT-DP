@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"leftBegin":331,
+			"leftEnd":330,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"rightBegin":340,
+			"rightEnd":348
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"leftBegin":84,
+			"leftEnd":83,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver.java",
+			"rightBegin":84,
+			"rightEnd":92
+		}
+	]
+]

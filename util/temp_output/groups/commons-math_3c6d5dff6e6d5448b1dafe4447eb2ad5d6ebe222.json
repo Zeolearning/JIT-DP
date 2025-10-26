@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/TestUtils.java",
+			"leftBegin":172,
+			"leftEnd":173,
+			"rightPath":"src/test/java/org/apache/commons/math/TestUtils.java",
+			"rightBegin":172,
+			"rightEnd":173
+		}
+	]
+]

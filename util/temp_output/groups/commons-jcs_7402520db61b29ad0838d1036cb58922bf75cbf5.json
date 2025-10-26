@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/LRUMapJCS.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	]
+]

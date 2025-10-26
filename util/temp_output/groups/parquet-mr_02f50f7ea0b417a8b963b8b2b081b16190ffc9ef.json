@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/MessageColumnIO.java",
+			"leftBegin":102,
+			"leftEnd":104,
+			"rightPath":"parquet-column/src/main/java/parquet/io/MessageColumnIO.java",
+			"rightBegin":102,
+			"rightEnd":104
+		}
+	]
+]

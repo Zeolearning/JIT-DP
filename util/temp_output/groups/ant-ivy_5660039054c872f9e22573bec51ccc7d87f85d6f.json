@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":252,
+			"leftEnd":253,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":265,
+			"rightEnd":269
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":181,
+			"leftEnd":180,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":185,
+			"rightEnd":193
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":36,
+			"rightEnd":36
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"leftBegin":10,
+			"leftEnd":9,
+			"rightPath":"src/java/fr/jayasoft/ivy/ant/IvyReport.java",
+			"rightBegin":10,
+			"rightEnd":12
+		}
+	]
+]

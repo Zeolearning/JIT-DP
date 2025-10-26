@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"rightBegin":54,
+			"rightEnd":56
+		}
+	]
+]

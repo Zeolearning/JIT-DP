@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"leftBegin":314,
+			"leftEnd":316,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java",
+			"rightBegin":314,
+			"rightEnd":314
+		}
+	]
+]

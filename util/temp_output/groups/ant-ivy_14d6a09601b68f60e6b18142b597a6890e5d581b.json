@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"leftBegin":226,
+			"leftEnd":230,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"rightBegin":225,
+			"rightEnd":229
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"leftBegin":180,
+			"leftEnd":184,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"rightBegin":179,
+			"rightEnd":183
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"leftBegin":98,
+			"leftEnd":102,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/PackagerResolverTest.java",
+			"rightBegin":98,
+			"rightEnd":101
+		}
+	]
+]

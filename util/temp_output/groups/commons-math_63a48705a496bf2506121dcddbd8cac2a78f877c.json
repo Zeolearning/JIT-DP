@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/fraction/FractionTest.java",
+			"leftBegin":246,
+			"leftEnd":245,
+			"rightPath":"src/test/java/org/apache/commons/math3/fraction/FractionTest.java",
+			"rightBegin":246,
+			"rightEnd":256
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+			"leftBegin":597,
+			"leftEnd":597,
+			"rightPath":"src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+			"rightBegin":597,
+			"rightEnd":597
+		}
+	]
+]

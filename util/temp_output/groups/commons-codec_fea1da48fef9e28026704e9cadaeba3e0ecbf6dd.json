@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/BinaryEncoderAbstractTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/codec/BinaryEncoderAbstractTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/BinaryEncoderAbstractTest.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/codec/BinaryEncoderAbstractTest.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

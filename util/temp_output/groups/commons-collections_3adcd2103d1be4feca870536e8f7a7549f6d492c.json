@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/AbstractObjectTest.java",
+			"leftBegin":300,
+			"leftEnd":300,
+			"rightPath":"src/test/java/org/apache/commons/collections4/AbstractObjectTest.java",
+			"rightBegin":300,
+			"rightEnd":304
+		}
+	]
+]

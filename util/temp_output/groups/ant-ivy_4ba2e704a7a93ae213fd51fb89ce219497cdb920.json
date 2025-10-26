@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorWriter.java",
+			"leftBegin":344,
+			"leftEnd":345,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorWriter.java",
+			"rightBegin":344,
+			"rightEnd":344
+		}
+	]
+]

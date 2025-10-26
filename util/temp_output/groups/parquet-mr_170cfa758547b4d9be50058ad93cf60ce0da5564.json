@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/org/apache/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"leftBegin":126,
+			"leftEnd":135,
+			"rightPath":"parquet-thrift/src/main/java/org/apache/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"rightBegin":126,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/org/apache/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"leftBegin":137,
+			"leftEnd":147,
+			"rightPath":"parquet-thrift/src/main/java/org/apache/parquet/hadoop/thrift/ThriftBytesWriteSupport.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

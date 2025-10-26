@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingValuesWriter.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingValuesWriter.java",
+			"rightBegin":39,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingValuesWriter.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BitPackingValuesWriter.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

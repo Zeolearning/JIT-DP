@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/ArrayUtilsTest.java",
+			"rightBegin":1,
+			"rightEnd":152
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"src/test/org/apache/commons/lang/LangTestSuite.java",
+			"rightBegin":89,
+			"rightEnd":89
+		}
+	]
+]

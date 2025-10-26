@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"leftBegin":285,
+			"leftEnd":285,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"rightBegin":283,
+			"rightEnd":288
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"rightBegin":40,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java",
+			"rightBegin":39,
+			"rightEnd":38
+		}
+	]
+]

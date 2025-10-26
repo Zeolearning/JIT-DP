@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/ftp/FTPClientExample.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"src/main/java/examples/ftp/FTPClientExample.java",
+			"rightBegin":168,
+			"rightEnd":179
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/ftp/FTPClientExample.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"src/main/java/examples/ftp/FTPClientExample.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	]
+]

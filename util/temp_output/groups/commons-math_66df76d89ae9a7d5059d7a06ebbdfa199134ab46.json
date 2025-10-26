@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MessageFactory.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/OutOfRangeException.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+			"rightBegin":1,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/DimensionMismatchException.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	]
+]

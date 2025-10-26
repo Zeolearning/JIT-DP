@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/ResourceConstants.java",
+			"leftBegin":1,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/ResourceConstants.java",
+			"rightBegin":1,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/Caverphone.java",
+			"leftBegin":1,
+			"leftEnd":103,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/Caverphone.java",
+			"rightBegin":1,
+			"rightEnd":103
+		}
+	]
+]

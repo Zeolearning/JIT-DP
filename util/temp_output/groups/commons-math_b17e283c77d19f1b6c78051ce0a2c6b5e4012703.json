@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/regression/MillerUpdatingRegression.java",
+			"leftBegin":783,
+			"leftEnd":783,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/regression/MillerUpdatingRegression.java",
+			"rightBegin":783,
+			"rightEnd":783
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/regression/MillerUpdatingRegression.java",
+			"leftBegin":774,
+			"leftEnd":774,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/regression/MillerUpdatingRegression.java",
+			"rightBegin":774,
+			"rightEnd":774
+		}
+	]
+]

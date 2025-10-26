@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"leftBegin":209,
+			"leftEnd":221,
+			"rightPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"rightBegin":207,
+			"rightEnd":217
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"leftBegin":54,
+			"leftEnd":55,
+			"rightPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"rightBegin":54,
+			"rightEnd":53
+		}
+	]
+]

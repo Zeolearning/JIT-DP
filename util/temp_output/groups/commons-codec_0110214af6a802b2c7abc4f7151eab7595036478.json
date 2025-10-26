@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"rightBegin":54,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/BeiderMorseEncoder.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/BeiderMorseEncoder.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

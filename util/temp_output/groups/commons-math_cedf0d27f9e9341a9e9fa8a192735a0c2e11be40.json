@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/MultivariateNormalDistributionTest.java",
+			"leftBegin":133,
+			"leftEnd":132,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/MultivariateNormalDistributionTest.java",
+			"rightBegin":134,
+			"rightEnd":153
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/MultivariateNormalDistributionTest.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/MultivariateNormalDistributionTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java",
+			"rightBegin":183,
+			"rightEnd":183
+		}
+	]
+]

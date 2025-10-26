@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/metadata/CompressionCodecName.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/metadata/CompressionCodecName.java",
+			"rightBegin":39,
+			"rightEnd":41
+		}
+	]
+]

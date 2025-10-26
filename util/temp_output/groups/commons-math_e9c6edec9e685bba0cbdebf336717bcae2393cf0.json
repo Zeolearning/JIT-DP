@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/correlation/StorelessCovariance.java",
+			"leftBegin":170,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/correlation/StorelessCovariance.java",
+			"rightBegin":170,
+			"rightEnd":170
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/correlation/StorelessCovariance.java",
+			"leftBegin":200,
+			"leftEnd":199,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/correlation/StorelessCovariance.java",
+			"rightBegin":201,
+			"rightEnd":201
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/BaseMultivariateRealOptimizer.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/BaseMultivariateRealOptimizer.java",
+			"rightBegin":76,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractScalarOptimizer.java",
+			"leftBegin":135,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractScalarOptimizer.java",
+			"rightBegin":136,
+			"rightEnd":144
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractScalarOptimizer.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractScalarOptimizer.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

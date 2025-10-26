@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyAntSettings.java",
+			"leftBegin":277,
+			"leftEnd":277,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyAntSettings.java",
+			"rightBegin":277,
+			"rightEnd":277
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyAntSettings.java",
+			"leftBegin":274,
+			"leftEnd":274,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyAntSettings.java",
+			"rightBegin":274,
+			"rightEnd":274
+		}
+	]
+]

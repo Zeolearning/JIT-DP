@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/bcel6/generic/GeneratingAnnotatedClassesTestCase.java",
+			"leftBegin":148,
+			"leftEnd":148,
+			"rightPath":"src/test/java/org/apache/commons/bcel6/generic/GeneratingAnnotatedClassesTestCase.java",
+			"rightBegin":148,
+			"rightEnd":149
+		}
+	]
+]

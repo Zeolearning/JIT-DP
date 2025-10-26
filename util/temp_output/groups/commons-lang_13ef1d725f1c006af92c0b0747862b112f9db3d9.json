@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/ConcurrentUtils.java",
+			"rightBegin":1,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/ConcurrentException.java",
+			"rightBegin":1,
+			"rightEnd":69
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStream.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStream.java",
+			"rightBegin":66,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"leftBegin":302,
+			"leftEnd":302,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/dictionary/serializer/DictionarySerializer.java",
+			"rightBegin":302,
+			"rightEnd":303
+		}
+	]
+]

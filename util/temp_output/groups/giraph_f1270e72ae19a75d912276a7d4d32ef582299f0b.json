@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"leftBegin":76,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"rightBegin":85,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"leftBegin":51,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"rightBegin":77,
+			"rightEnd":77
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/giraph/benchmark/PageRankBenchmark.java",
+			"rightBegin":48,
+			"rightEnd":72
+		}
+	]
+]

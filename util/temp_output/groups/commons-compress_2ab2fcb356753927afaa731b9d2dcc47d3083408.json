@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"rightBegin":167,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"leftBegin":164,
+			"leftEnd":166,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"leftBegin":163,
+			"leftEnd":162,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/bzip2/BlockSort.java",
+			"rightBegin":163,
+			"rightEnd":163
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/UTF8ZipFilesTest.java",
+			"rightBegin":1,
+			"rightEnd":187
+		}
+	]
+]

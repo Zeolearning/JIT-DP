@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/SoundexTest.java",
+			"leftBegin":230,
+			"leftEnd":229,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/SoundexTest.java",
+			"rightBegin":230,
+			"rightEnd":230
+		}
+	]
+]

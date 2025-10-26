@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/http/test/HttpProviderTestCase.java",
+			"leftBegin":205,
+			"leftEnd":204,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/http/test/HttpProviderTestCase.java",
+			"rightBegin":205,
+			"rightEnd":210
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"leftBegin":176,
+			"leftEnd":176,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"rightBegin":176,
+			"rightEnd":177
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"leftBegin":195,
+			"leftEnd":195,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"rightBegin":195,
+			"rightEnd":195
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"leftBegin":189,
+			"leftEnd":189,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"rightBegin":189,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"leftBegin":192,
+			"leftEnd":192,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java",
+			"rightBegin":192,
+			"rightEnd":192
+		}
+	]
+]

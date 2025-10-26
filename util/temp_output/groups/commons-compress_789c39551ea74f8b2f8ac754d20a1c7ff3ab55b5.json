@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/Archiver.java",
+			"leftBegin":120,
+			"leftEnd":119,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/Archiver.java",
+			"rightBegin":120,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/examples/SevenZArchiverTest.java",
+			"rightBegin":1,
+			"rightEnd":124
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/examples/ParameterizedArchiverTest.java",
+			"rightBegin":1,
+			"rightEnd":153
+		}
+	]
+]

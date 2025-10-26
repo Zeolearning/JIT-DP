@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/POP3MessageInfo.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/POP3MessageInfo.java",
+			"rightBegin":86,
+			"rightEnd":90
+		}
+	]
+]

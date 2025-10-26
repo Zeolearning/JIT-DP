@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TesterPreparedStatement.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TesterPreparedStatement.java",
+			"rightBegin":100,
+			"rightEnd":102
+		}
+	]
+]

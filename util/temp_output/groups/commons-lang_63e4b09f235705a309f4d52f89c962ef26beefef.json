@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"leftBegin":58,
+			"leftEnd":127,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"rightBegin":11,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"leftBegin":1,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"rightBegin":1,
+			"rightEnd":7
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"leftBegin":53,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"rightBegin":9,
+			"rightEnd":9
+		}
+	]
+]

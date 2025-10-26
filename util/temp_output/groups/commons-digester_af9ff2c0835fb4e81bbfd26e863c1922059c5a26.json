@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"leftBegin":165,
+			"leftEnd":165,
+			"rightPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"rightBegin":139,
+			"rightEnd":139
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/java/org/apache/commons/digester/AbstractRulesImpl.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	]
+]

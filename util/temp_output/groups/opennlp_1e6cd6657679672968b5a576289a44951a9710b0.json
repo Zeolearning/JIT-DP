@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/BaseToolFactory.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/BaseToolFactory.java",
+			"rightBegin":78,
+			"rightEnd":89
+		}
+	]
+]

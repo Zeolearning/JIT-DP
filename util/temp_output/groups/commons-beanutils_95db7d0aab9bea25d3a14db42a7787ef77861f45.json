@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"leftBegin":506,
+			"leftEnd":506,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"rightBegin":505,
+			"rightEnd":505
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"leftBegin":501,
+			"leftEnd":501,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"rightBegin":500,
+			"rightEnd":500
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/BeanMap.java",
+			"rightBegin":38,
+			"rightEnd":37
+		}
+	]
+]

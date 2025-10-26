@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/version/PatternVersionMatcher.java",
+			"rightBegin":1,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/version/Match.java",
+			"rightBegin":1,
+			"rightEnd":117
+		}
+	]
+]

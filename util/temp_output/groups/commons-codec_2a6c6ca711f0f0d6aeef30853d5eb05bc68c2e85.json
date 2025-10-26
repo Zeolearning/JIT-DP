@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/Sha2Crypt.java",
+			"leftBegin":543,
+			"leftEnd":543,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/Sha2Crypt.java",
+			"rightBegin":543,
+			"rightEnd":543
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/digest/Sha2Crypt.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/codec/digest/Sha2Crypt.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

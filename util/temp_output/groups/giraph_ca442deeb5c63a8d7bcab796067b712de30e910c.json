@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/BspServiceWorker.java",
+			"leftBegin":797,
+			"leftEnd":796,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/BspServiceWorker.java",
+			"rightBegin":796,
+			"rightEnd":796
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/BspServiceWorker.java",
+			"leftBegin":792,
+			"leftEnd":792,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/BspServiceWorker.java",
+			"rightBegin":792,
+			"rightEnd":791
+		}
+	]
+]

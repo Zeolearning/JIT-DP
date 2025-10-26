@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/vfs/test/UrlStructureTests.java",
+			"rightBegin":78,
+			"rightEnd":79
+		}
+	]
+]

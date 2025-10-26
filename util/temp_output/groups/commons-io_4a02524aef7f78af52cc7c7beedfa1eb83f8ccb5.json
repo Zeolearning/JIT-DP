@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"leftBegin":787,
+			"leftEnd":786,
+			"rightPath":"src/test/org/apache/commons/io/FilenameUtilsTestCase.java",
+			"rightBegin":787,
+			"rightEnd":810
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"leftBegin":980,
+			"leftEnd":979,
+			"rightPath":"src/java/org/apache/commons/io/FilenameUtils.java",
+			"rightBegin":980,
+			"rightEnd":983
+		}
+	]
+]

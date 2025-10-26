@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/digester3/DTDValidationTestCase.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"core/src/test/java/org/apache/commons/digester3/DTDValidationTestCase.java",
+			"rightBegin":113,
+			"rightEnd":134
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/digester3/DTDValidationTestCase.java",
+			"leftBegin":1,
+			"leftEnd":1,
+			"rightPath":"core/src/test/java/org/apache/commons/digester3/DTDValidationTestCase.java",
+			"rightBegin":1,
+			"rightEnd":1
+		}
+	]
+]

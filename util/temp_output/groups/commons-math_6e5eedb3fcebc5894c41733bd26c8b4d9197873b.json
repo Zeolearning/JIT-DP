@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/TricubicInterpolatingFunction.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/TricubicInterpolatingFunction.java",
+			"rightBegin":38,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/TricubicInterpolatingFunction.java",
+			"leftBegin":36,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/TricubicInterpolatingFunction.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

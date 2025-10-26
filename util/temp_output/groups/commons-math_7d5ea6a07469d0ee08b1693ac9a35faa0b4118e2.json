@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/EigenDecomposition.java",
+			"rightBegin":1,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/DecompositionSolver.java",
+			"leftBegin":25,
+			"leftEnd":28,
+			"rightPath":"src/java/org/apache/commons/math/linear/DecompositionSolver.java",
+			"rightBegin":25,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/linear/SingularValueDecomposition.java",
+			"rightBegin":1,
+			"rightEnd":140
+		}
+	]
+]

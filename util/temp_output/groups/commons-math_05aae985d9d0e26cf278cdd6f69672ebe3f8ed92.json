@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/UniformCrossover.java",
+			"leftBegin":115,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/UniformCrossover.java",
+			"rightBegin":115,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/NPointCrossover.java",
+			"leftBegin":142,
+			"leftEnd":143,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/NPointCrossover.java",
+			"rightBegin":142,
+			"rightEnd":143
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/OnePointCrossover.java",
+			"leftBegin":108,
+			"leftEnd":109,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/OnePointCrossover.java",
+			"rightBegin":108,
+			"rightEnd":109
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/PerformanceTest.java",
+			"leftBegin":86,
+			"leftEnd":88,
+			"rightPath":"src/test/java/org/apache/bcel/PerformanceTest.java",
+			"rightBegin":86,
+			"rightEnd":90
+		}
+	]
+]

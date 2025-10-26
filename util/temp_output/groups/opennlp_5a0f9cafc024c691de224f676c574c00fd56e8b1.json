@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ngram/NGramModel.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ngram/NGramModel.java",
+			"rightBegin":178,
+			"rightEnd":178
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ngram/NGramModel.java",
+			"leftBegin":171,
+			"leftEnd":171,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ngram/NGramModel.java",
+			"rightBegin":171,
+			"rightEnd":171
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/langdetect/LanguageDetectorContextGenerator.java",
+			"leftBegin":61,
+			"leftEnd":61,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/langdetect/LanguageDetectorContextGenerator.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	]
+]

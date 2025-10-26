@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/transform/FastFourierTransformer.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/math/transform/FastFourierTransformer.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/transform/FastCosineTransformer.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/math/transform/FastCosineTransformer.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/transform/FastSineTransformer.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/math/transform/FastSineTransformer.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

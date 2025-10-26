@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPClient.java",
+			"leftBegin":380,
+			"leftEnd":379,
+			"rightPath":"src/main/java/org/apache/commons/net/tftp/TFTPClient.java",
+			"rightBegin":387,
+			"rightEnd":393
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPClient.java",
+			"leftBegin":180,
+			"leftEnd":179,
+			"rightPath":"src/main/java/org/apache/commons/net/tftp/TFTPClient.java",
+			"rightBegin":180,
+			"rightEnd":186
+		}
+	]
+]

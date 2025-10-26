@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/substitution/CompoundSubstitutorTestCase.java",
+			"rightBegin":1,
+			"rightEnd":169
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/substitution/CompoundSubstitutor.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

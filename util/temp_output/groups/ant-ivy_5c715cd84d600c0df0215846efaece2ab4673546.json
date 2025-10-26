@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependencyTree.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependencyTree.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyDependencyTreeTest.java",
+			"leftBegin":140,
+			"leftEnd":140,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyDependencyTreeTest.java",
+			"rightBegin":140,
+			"rightEnd":140
+		}
+	]
+]

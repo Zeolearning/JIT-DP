@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/AbstractFieldMatrix.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/AbstractFieldMatrix.java",
+			"rightBegin":127,
+			"rightEnd":161
+		}
+	]
+]

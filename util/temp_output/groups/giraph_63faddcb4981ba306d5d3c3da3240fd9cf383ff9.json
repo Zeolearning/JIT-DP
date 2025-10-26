@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"rightBegin":54,
+			"rightEnd":73
+		},
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"rightBegin":40,
+			"rightEnd":40
+		},
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/utils/LoggerUtils.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

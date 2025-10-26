@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ColumnData.java",
+			"leftBegin":1,
+			"leftEnd":88,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/metadata/ColumnMetaData.java",
+			"leftBegin":1,
+			"leftEnd":37,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/PageConsumer.java",
+			"leftBegin":1,
+			"leftEnd":24,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/BlockData.java",
+			"leftBegin":1,
+			"leftEnd":52,
+			"rightPath":null
+		}
+	]
+]

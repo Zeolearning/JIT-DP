@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/local/LocalFile.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/local/LocalFile.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/local/LocalFile.java",
+			"leftBegin":181,
+			"leftEnd":180,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/local/LocalFile.java",
+			"rightBegin":182,
+			"rightEnd":198
+		}
+	]
+]

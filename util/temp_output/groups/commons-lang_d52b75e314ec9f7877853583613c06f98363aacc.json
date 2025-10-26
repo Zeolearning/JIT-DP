@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"leftBegin":366,
+			"leftEnd":365,
+			"rightPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"rightBegin":368,
+			"rightEnd":368
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"leftBegin":398,
+			"leftEnd":397,
+			"rightPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"rightBegin":401,
+			"rightEnd":409
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"leftBegin":18,
+			"leftEnd":17,
+			"rightPath":"src/test/org/apache/commons/lang/ValidateTest.java",
+			"rightBegin":18,
+			"rightEnd":19
+		}
+	]
+]

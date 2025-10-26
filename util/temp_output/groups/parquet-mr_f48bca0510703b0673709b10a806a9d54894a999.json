@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/MemoryManager.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/MemoryManager.java",
+			"rightBegin":111,
+			"rightEnd":114
+		}
+	]
+]

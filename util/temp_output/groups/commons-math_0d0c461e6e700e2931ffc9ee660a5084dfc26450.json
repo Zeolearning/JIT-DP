@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"rightBegin":225,
+			"rightEnd":226
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/events/OverlappingEventsTest.java",
+			"rightBegin":1,
+			"rightEnd":161
+		}
+	]
+]

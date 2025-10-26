@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"leftBegin":185,
+			"leftEnd":184,
+			"rightPath":"src/main/java/org/apache/bcel/util/SyntheticRepository.java",
+			"rightBegin":185,
+			"rightEnd":191
+		}
+	]
+]

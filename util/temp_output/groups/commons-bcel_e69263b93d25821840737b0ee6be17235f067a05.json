@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/statics/Pass1Verifier.java",
+			"leftBegin":165,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/statics/Pass1Verifier.java",
+			"rightBegin":165,
+			"rightEnd":167
+		}
+	]
+]

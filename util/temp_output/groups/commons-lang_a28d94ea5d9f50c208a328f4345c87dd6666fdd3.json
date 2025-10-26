@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/TimedSemaphoreTest.java",
+			"leftBegin":171,
+			"leftEnd":171,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/TimedSemaphoreTest.java",
+			"rightBegin":171,
+			"rightEnd":171
+		}
+	]
+]

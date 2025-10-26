@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"leftBegin":104,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"rightBegin":105,
+			"rightEnd":109
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/IOUtils.java",
+			"rightBegin":111,
+			"rightEnd":111
+		}
+	]
+]

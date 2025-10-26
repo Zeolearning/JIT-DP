@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/remote/http/server/RemoteCacheServiceAdaptorUnitTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/remote/http/server/RemoteCacheServiceAdaptorUnitTest.java",
+			"rightBegin":38,
+			"rightEnd":57
+		}
+	]
+]

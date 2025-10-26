@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/OpenMapRealMatrixTest.java",
+			"rightBegin":1,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"rightBegin":50,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

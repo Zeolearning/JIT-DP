@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/time/DateUtilsFragmentTest.java",
+			"leftBegin":535,
+			"leftEnd":534,
+			"rightPath":"src/test/java/org/apache/commons/lang3/time/DateUtilsFragmentTest.java",
+			"rightBegin":535,
+			"rightEnd":547
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":1695,
+			"leftEnd":1695,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":1695,
+			"rightEnd":1695
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"leftBegin":1692,
+			"leftEnd":1692,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+			"rightBegin":1692,
+			"rightEnd":1692
+		}
+	]
+]

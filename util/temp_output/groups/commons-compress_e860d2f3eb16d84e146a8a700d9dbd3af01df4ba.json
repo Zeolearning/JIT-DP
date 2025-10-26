@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+			"leftBegin":259,
+			"leftEnd":259,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+			"rightBegin":259,
+			"rightEnd":259
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipFileTest.java",
+			"leftBegin":229,
+			"leftEnd":228,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ZipFileTest.java",
+			"rightBegin":229,
+			"rightEnd":240
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+			"leftBegin":245,
+			"leftEnd":245,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java",
+			"rightBegin":245,
+			"rightEnd":245
+		}
+	]
+]

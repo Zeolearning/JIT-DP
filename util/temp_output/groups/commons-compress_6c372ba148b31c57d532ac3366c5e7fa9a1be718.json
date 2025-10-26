@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":104,
+			"leftEnd":103,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":104,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFileTest.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFileTest.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	]
+]

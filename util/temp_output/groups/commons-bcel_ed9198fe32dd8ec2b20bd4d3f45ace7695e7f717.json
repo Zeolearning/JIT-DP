@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1177,
+			"leftEnd":1177,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1178,
+			"rightEnd":1196
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":1176,
+			"leftEnd":1175,
+			"rightPath":"src/java/org/apache/bcel/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":1176,
+			"rightEnd":1176
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"leftBegin":565,
+			"leftEnd":566,
+			"rightPath":"src/java/org/apache/bcel/verifier/statics/Pass3aVerifier.java",
+			"rightBegin":565,
+			"rightEnd":583
+		}
+	]
+]

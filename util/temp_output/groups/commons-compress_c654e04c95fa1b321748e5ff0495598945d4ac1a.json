@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/CharsetNames.java",
+			"leftBegin":1,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/CharsetNames.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/Charsets.java",
+			"leftBegin":1,
+			"leftEnd":141,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/Charsets.java",
+			"rightBegin":1,
+			"rightEnd":159
+		}
+	]
+]

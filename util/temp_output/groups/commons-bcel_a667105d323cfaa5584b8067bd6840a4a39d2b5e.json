@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"leftBegin":16,
+			"leftEnd":16,
+			"rightPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"rightBegin":16,
+			"rightEnd":16
+		},
+		{
+			"leftPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"src/test/java/org/apache/bcel/EnclosingMethodAttributeTestCase.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

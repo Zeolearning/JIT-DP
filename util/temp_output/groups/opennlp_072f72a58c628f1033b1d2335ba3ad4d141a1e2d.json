@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"leftBegin":68,
+			"leftEnd":84,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"rightBegin":63,
+			"rightEnd":63
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"leftBegin":20,
+			"leftEnd":23,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"rightBegin":20,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	]
+]

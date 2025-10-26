@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/CharSequenceUtilsTest.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/test/java/org/apache/commons/lang3/CharSequenceUtilsTest.java",
+			"rightBegin":75,
+			"rightEnd":178
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":194,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":194,
+			"rightEnd":207
+		}
+	]
+]

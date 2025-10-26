@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"rightBegin":168,
+			"rightEnd":168
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"leftBegin":160,
+			"leftEnd":160,
+			"rightPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"rightBegin":160,
+			"rightEnd":160
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/test/java/org/apache/commons/math3/transform/FastSineTransformerTest.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	]
+]

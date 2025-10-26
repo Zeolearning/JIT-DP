@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/GzipUtilsTestCase.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/gzip/GzipUtils.java",
+			"rightBegin":1,
+			"rightEnd":140
+		}
+	]
+]

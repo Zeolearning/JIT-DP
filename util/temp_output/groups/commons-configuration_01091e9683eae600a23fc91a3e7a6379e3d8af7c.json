@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationUtils.java",
+			"leftBegin":295,
+			"leftEnd":295,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationUtils.java",
+			"rightBegin":294,
+			"rightEnd":293
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationUtils.java",
+			"leftBegin":291,
+			"leftEnd":293,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationUtils.java",
+			"rightBegin":291,
+			"rightEnd":292
+		}
+	]
+]

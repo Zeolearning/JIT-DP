@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/parser/ParseSampleStream.java",
+			"leftBegin":36,
+			"leftEnd":36,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/parser/ParseSampleStream.java",
+			"rightBegin":36,
+			"rightEnd":41
+		}
+	]
+]

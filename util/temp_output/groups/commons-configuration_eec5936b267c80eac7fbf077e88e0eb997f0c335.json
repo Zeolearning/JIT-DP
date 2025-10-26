@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/interpol/ConstantLookup.java",
+			"leftBegin":110,
+			"leftEnd":112,
+			"rightPath":"src/java/org/apache/commons/configuration/interpol/ConstantLookup.java",
+			"rightBegin":110,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/interpol/TestConstantLookup.java",
+			"leftBegin":123,
+			"leftEnd":122,
+			"rightPath":"src/test/org/apache/commons/configuration/interpol/TestConstantLookup.java",
+			"rightBegin":125,
+			"rightEnd":137
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/interpol/TestConstantLookup.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/org/apache/commons/configuration/interpol/TestConstantLookup.java",
+			"rightBegin":19,
+			"rightEnd":20
+		}
+	]
+]

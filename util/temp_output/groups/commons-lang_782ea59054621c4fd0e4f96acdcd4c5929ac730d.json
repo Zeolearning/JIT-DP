@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.java",
+			"leftBegin":562,
+			"leftEnd":562,
+			"rightPath":"src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.java",
+			"rightBegin":562,
+			"rightEnd":562
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/exception/DefaultExceptionContext.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/lang3/exception/DefaultExceptionContext.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/memory/mru/MRUMemoryCache.java",
+			"leftBegin":491,
+			"leftEnd":492,
+			"rightPath":"src/java/org/apache/jcs/engine/memory/mru/MRUMemoryCache.java",
+			"rightBegin":491,
+			"rightEnd":495
+		}
+	]
+]

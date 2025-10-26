@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/LogAnalyticsSpark.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/LogAnalyticsSpark.java",
+			"rightBegin":54,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/LogAnalyticsSpark.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/LogAnalyticsSpark.java",
+			"rightBegin":73,
+			"rightEnd":76
+		}
+	]
+]

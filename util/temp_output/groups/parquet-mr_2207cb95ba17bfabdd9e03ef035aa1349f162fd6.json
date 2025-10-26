@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"leftBegin":157,
+			"leftEnd":184,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoWriteSupport.java",
+			"rightBegin":157,
+			"rightEnd":193
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoSchemaConverter.java",
+			"leftBegin":92,
+			"leftEnd":111,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoSchemaConverter.java",
+			"rightBegin":93,
+			"rightEnd":106
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoSchemaConverter.java",
+			"leftBegin":90,
+			"leftEnd":89,
+			"rightPath":"parquet-protobuf/src/main/java/parquet/proto/ProtoSchemaConverter.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	]
+]

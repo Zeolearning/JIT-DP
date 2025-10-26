@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"rightBegin":20,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/bcel/generic/ObjectType.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

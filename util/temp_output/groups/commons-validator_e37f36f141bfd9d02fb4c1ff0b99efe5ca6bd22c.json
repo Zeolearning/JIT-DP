@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/MultipleConfigFilesTest.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/validator/MultipleConfigFilesTest.java",
+			"rightBegin":79,
+			"rightEnd":125
+		}
+	]
+]

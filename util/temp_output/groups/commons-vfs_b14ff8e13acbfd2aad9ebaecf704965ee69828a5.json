@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/CopyTask.java",
+			"leftBegin":18,
+			"leftEnd":17,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/CopyTask.java",
+			"rightBegin":18,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/tasks/CopyTask.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/vfs/tasks/CopyTask.java",
+			"rightBegin":77,
+			"rightEnd":79
+		}
+	]
+]

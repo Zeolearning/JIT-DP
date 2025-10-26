@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/PooledConnectionImpl.java",
+			"leftBegin":503,
+			"leftEnd":503,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/PooledConnectionImpl.java",
+			"rightBegin":503,
+			"rightEnd":503
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/tree/ImmutableNode.java",
+			"leftBegin":226,
+			"leftEnd":225,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/tree/ImmutableNode.java",
+			"rightBegin":226,
+			"rightEnd":226
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/tree/ImmutableNode.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/tree/ImmutableNode.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	]
+]

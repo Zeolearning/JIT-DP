@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/AdaptiveStepsizeFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":366
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/nonstiff/EmbeddedRungeKuttaFieldIntegrator.java",
+			"rightBegin":1,
+			"rightEnd":379
+		}
+	]
+]

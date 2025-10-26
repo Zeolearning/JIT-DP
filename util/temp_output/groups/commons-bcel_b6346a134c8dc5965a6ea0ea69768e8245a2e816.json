@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/CodeHTML.java",
+			"leftBegin":538,
+			"leftEnd":538,
+			"rightPath":"src/main/java/org/apache/bcel/util/CodeHTML.java",
+			"rightBegin":538,
+			"rightEnd":538
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/CodeHTML.java",
+			"leftBegin":368,
+			"leftEnd":368,
+			"rightPath":"src/main/java/org/apache/bcel/util/CodeHTML.java",
+			"rightBegin":368,
+			"rightEnd":368
+		}
+	]
+]

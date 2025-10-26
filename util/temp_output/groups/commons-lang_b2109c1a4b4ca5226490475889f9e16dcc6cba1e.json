@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"leftBegin":421,
+			"leftEnd":422,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"rightBegin":419,
+			"rightEnd":420
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"leftBegin":357,
+			"leftEnd":358,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"rightBegin":357,
+			"rightEnd":356
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java",
+			"rightBegin":107,
+			"rightEnd":107
+		}
+	]
+]

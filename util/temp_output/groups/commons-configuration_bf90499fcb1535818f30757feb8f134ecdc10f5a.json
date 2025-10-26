@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"rightBegin":58,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestHierarchicalConfigurationEvents.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

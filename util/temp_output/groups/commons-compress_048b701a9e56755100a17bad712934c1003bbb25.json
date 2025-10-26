@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/ArchiveUtilsTest.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/test/java/org/apache/commons/compress/ArchiveUtilsTest.java",
+			"rightBegin":85,
+			"rightEnd":97
+		}
+	]
+]

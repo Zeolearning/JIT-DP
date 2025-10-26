@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/functors/PrototypeFactory.java",
+			"leftBegin":199,
+			"leftEnd":201,
+			"rightPath":"src/java/org/apache/commons/collections/functors/PrototypeFactory.java",
+			"rightBegin":199,
+			"rightEnd":199
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"leftBegin":627,
+			"leftEnd":627,
+			"rightPath":"src/java/org/apache/commons/collections/ExtendedProperties.java",
+			"rightBegin":627,
+			"rightEnd":627
+		}
+	]
+]

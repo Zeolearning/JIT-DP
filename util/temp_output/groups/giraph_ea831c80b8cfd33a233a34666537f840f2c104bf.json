@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java",
+			"rightBegin":141,
+			"rightEnd":143
+		}
+	]
+]

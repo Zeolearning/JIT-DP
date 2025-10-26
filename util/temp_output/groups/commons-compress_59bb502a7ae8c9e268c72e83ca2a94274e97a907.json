@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java",
+			"rightBegin":27,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

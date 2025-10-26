@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SchurTransformer.java",
+			"rightBegin":1,
+			"rightEnd":446
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":134
+		}
+	]
+]

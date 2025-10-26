@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/filters/DefaultFactoryTest.java",
+			"leftBegin":124,
+			"leftEnd":123,
+			"rightPath":"gora-mongodb/src/test/java/org/apache/gora/mongodb/filters/DefaultFactoryTest.java",
+			"rightBegin":124,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/DefaultFactory.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/DefaultFactory.java",
+			"rightBegin":118,
+			"rightEnd":119
+		},
+		{
+			"leftPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/DefaultFactory.java",
+			"leftBegin":153,
+			"leftEnd":152,
+			"rightPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/filters/DefaultFactory.java",
+			"rightBegin":154,
+			"rightEnd":169
+		}
+	]
+]

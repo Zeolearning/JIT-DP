@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/test/java/org/apache/giraph/io/hcatalog/TestHiveUtils.java",
+			"rightBegin":1,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/io/hcatalog/HiveUtils.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	]
+]

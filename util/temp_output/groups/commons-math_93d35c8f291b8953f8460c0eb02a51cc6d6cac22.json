@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/analysis/integration/gauss/GaussIntegratorFactory.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/integration/gauss/GaussIntegratorFactory.java",
+			"rightBegin":38,
+			"rightEnd":58
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/analysis/integration/gauss/LaguerreTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/analysis/integration/gauss/LaguerreRuleFactory.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

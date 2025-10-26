@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestDataConfiguration.java",
+			"leftBegin":301,
+			"leftEnd":307,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestDataConfiguration.java",
+			"rightBegin":301,
+			"rightEnd":304
+		}
+	]
+]

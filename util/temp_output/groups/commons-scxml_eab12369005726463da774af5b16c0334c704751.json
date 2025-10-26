@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Cancel.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Cancel.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

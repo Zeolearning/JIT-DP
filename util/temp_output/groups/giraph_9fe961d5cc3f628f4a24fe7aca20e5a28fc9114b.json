@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":186,
+			"leftEnd":186,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":186,
+			"rightEnd":186
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/RunTest.java",
+			"leftBegin":46,
+			"leftEnd":50,
+			"rightPath":"src/test/org/apache/commons/vfs/RunTest.java",
+			"rightBegin":46,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/RunTest.java",
+			"leftBegin":52,
+			"leftEnd":53,
+			"rightPath":"src/test/org/apache/commons/vfs/RunTest.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

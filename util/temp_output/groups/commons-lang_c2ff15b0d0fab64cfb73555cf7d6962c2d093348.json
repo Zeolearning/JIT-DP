@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/JavaVersionTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/lang3/JavaVersionTest.java",
+			"rightBegin":42,
+			"rightEnd":44
+		}
+	]
+]

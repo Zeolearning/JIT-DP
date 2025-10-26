@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/FieldInstruction.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/FieldInstruction.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

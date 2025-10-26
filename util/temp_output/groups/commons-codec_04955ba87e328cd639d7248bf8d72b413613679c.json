@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"leftBegin":183,
+			"leftEnd":184,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"rightBegin":189,
+			"rightEnd":190
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"rightBegin":36,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"leftBegin":174,
+			"leftEnd":175,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"rightBegin":180,
+			"rightEnd":181
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/SparseFieldVectorTest.java",
+			"leftBegin":1,
+			"leftEnd":218,
+			"rightPath":"src/test/org/apache/commons/math/linear/SparseFieldVectorTest.java",
+			"rightBegin":1,
+			"rightEnd":218
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/clustering/Clusterable.java",
+			"leftBegin":1,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/math/stat/clustering/Clusterable.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/util/OpenIntToFieldHashMap.java",
+			"leftBegin":1,
+			"leftEnd":616,
+			"rightPath":"src/java/org/apache/commons/math/util/OpenIntToFieldHashMap.java",
+			"rightBegin":1,
+			"rightEnd":616
+		}
+	]
+]

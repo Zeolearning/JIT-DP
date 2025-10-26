@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/descriptive/MultivariateSummaryStatistics.java",
+			"leftBegin":331,
+			"leftEnd":331,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/descriptive/MultivariateSummaryStatistics.java",
+			"rightBegin":331,
+			"rightEnd":331
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/stat/descriptive/MultivariateSummaryStatistics.java",
+			"leftBegin":322,
+			"leftEnd":323,
+			"rightPath":"src/main/java/org/apache/commons/math4/stat/descriptive/MultivariateSummaryStatistics.java",
+			"rightBegin":322,
+			"rightEnd":323
+		}
+	]
+]

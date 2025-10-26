@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestManual.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/ml/model/SimpleEventStreamBuilder.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/ml/model/TwoPassDataIndexerTest.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/ml/model/OnePassRealValueDataIndexerTest.java",
+			"rightBegin":1,
+			"rightEnd":116
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/ml/model/OnePassDataIndexerTest.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	]
+]

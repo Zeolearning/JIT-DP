@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEnginePerformanceTest.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/PhoneticEnginePerformanceTest.java",
+			"rightBegin":95,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"leftBegin":120,
+			"leftEnd":125,
+			"rightPath":"src/main/java/org/apache/commons/codec/language/bm/Languages.java",
+			"rightBegin":120,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/examples/java/org/apache/gora/examples/WebPageDataCreator.java",
+			"leftBegin":108,
+			"leftEnd":110,
+			"rightPath":"gora-core/src/examples/java/org/apache/gora/examples/WebPageDataCreator.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/util/StringUtils.java",
+			"leftBegin":37,
+			"leftEnd":38,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/util/StringUtils.java",
+			"rightBegin":38,
+			"rightEnd":39
+		},
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/util/StringUtils.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/util/StringUtils.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

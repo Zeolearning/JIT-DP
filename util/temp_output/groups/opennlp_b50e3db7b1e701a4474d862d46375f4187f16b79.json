@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/TwentyNewsgroupSampleStream.java",
+			"rightBegin":1,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":114,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/TwentyNewsgroupSampleStreamFactory.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	]
+]

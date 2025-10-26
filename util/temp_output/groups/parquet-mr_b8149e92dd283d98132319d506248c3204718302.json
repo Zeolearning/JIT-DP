@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-thrift/src/test/java/parquet/thrift/pig/TestParquetThriftStorer.java",
+			"rightBegin":1,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/pig/TupleToThriftWriteSupport.java",
+			"rightBegin":1,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/pig/ParquetThriftStorer.java",
+			"rightBegin":1,
+			"rightEnd":77
+		}
+	]
+]

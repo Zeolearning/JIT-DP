@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"leftBegin":149,
+			"leftEnd":148,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/packager/PackagerCacheEntry.java",
+			"rightBegin":149,
+			"rightEnd":149
+		}
+	]
+]

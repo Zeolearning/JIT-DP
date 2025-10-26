@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TesterDriver.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/dbcp/TesterDriver.java",
+			"rightBegin":72,
+			"rightEnd":74
+		}
+	]
+]

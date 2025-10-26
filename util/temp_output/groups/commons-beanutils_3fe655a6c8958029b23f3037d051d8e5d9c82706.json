@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/BaseLocaleConverter.java",
+			"leftBegin":236,
+			"leftEnd":235,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/BaseLocaleConverter.java",
+			"rightBegin":236,
+			"rightEnd":238
+		}
+	]
+]

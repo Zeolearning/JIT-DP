@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"leftBegin":438,
+			"leftEnd":437,
+			"rightPath":"src/main/java/org/apache/commons/digester3/CallMethodRule.java",
+			"rightBegin":438,
+			"rightEnd":438
+		}
+	]
+]

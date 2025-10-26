@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/ANEWARRAY.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/bcel/generic/ANEWARRAY.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

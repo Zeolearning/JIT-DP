@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"leftBegin":471,
+			"leftEnd":472,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/PassiveExpiringMap.java",
+			"rightBegin":471,
+			"rightEnd":471
+		}
+	]
+]

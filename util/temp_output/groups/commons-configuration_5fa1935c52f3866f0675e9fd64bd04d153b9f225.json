@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"leftBegin":525,
+			"leftEnd":526,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"rightBegin":531,
+			"rightEnd":532
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"rightBegin":103,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java",
+			"rightBegin":97,
+			"rightEnd":99
+		}
+	]
+]

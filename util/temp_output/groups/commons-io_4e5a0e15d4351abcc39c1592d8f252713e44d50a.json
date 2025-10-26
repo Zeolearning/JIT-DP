@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/ProxyInputStream.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/org/apache/commons/io/input/ProxyInputStream.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/output/ProxyOutputStream.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/java/org/apache/commons/io/output/ProxyOutputStream.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

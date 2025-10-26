@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/CorrelatedRandomVectorGeneratorTest.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/CorrelatedRandomVectorGeneratorTest.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	]
+]

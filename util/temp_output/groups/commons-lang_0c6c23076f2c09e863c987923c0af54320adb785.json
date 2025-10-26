@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"leftBegin":394,
+			"leftEnd":393,
+			"rightPath":"src/test/org/apache/commons/lang3/builder/EqualsBuilderTest.java",
+			"rightBegin":394,
+			"rightEnd":402
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"leftBegin":843,
+			"leftEnd":842,
+			"rightPath":"src/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"rightBegin":843,
+			"rightEnd":849
+		}
+	]
+]

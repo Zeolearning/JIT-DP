@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/dbinsert/src/main/java/org/apache/commons/digester3/examples/api/dbinsert/RowInserterRule.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/examples/api/dbinsert/src/main/java/org/apache/commons/digester3/examples/api/dbinsert/RowInserterRule.java",
+			"rightBegin":23,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/examples/api/dbinsert/src/main/java/org/apache/commons/digester3/examples/api/dbinsert/RowInserterRule.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/examples/api/dbinsert/src/main/java/org/apache/commons/digester3/examples/api/dbinsert/RowInserterRule.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

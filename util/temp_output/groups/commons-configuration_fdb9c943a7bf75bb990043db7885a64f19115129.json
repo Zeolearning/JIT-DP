@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"rightBegin":149,
+			"rightEnd":149
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"rightBegin":85,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"rightBegin":78,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/test/java/org/apache/commons/configuration/MockInitialContextFactory.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

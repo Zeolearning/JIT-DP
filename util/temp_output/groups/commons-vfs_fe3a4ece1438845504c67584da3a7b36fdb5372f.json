@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"leftBegin":235,
+			"leftEnd":236,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"rightBegin":237,
+			"rightEnd":238
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"leftBegin":230,
+			"leftEnd":231,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"rightBegin":232,
+			"rightEnd":233
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"leftBegin":229,
+			"leftEnd":228,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/test/NamingTests.java",
+			"rightBegin":229,
+			"rightEnd":230
+		}
+	]
+]

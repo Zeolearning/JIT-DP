@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestList.java",
+			"leftBegin":770,
+			"leftEnd":770,
+			"rightPath":"src/test/org/apache/commons/collections/TestList.java",
+			"rightBegin":770,
+			"rightEnd":769
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestList.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/test/org/apache/commons/collections/TestList.java",
+			"rightBegin":92,
+			"rightEnd":92
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestList.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/collections/TestList.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

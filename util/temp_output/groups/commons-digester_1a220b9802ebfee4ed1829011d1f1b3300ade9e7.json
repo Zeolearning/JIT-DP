@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/CallMethodRule.java",
+			"leftBegin":52,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/CallMethodRule.java",
+			"rightBegin":52,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/CallMethodRule.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/CallMethodRule.java",
+			"rightBegin":71,
+			"rightEnd":74
+		}
+	]
+]

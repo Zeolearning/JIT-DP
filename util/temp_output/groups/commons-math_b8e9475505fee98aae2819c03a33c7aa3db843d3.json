@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":557,
+			"leftEnd":556,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":560,
+			"rightEnd":560
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":556,
+			"leftEnd":555,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":558,
+			"rightEnd":558
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":555,
+			"leftEnd":554,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":556,
+			"rightEnd":556
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"leftBegin":554,
+			"leftEnd":553,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/regression/SimpleRegressionTest.java",
+			"rightBegin":554,
+			"rightEnd":554
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/MasterThread.java",
+			"leftBegin":173,
+			"leftEnd":174,
+			"rightPath":"src/main/java/org/apache/giraph/graph/MasterThread.java",
+			"rightBegin":173,
+			"rightEnd":174
+		}
+	]
+]

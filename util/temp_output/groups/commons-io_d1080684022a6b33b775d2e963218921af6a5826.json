@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/CountingInputStream.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"src/java/org/apache/commons/io/input/CountingInputStream.java",
+			"rightBegin":74,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/input/CountingInputStreamTest.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"src/test/org/apache/commons/io/input/CountingInputStreamTest.java",
+			"rightBegin":154,
+			"rightEnd":168
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/input/CountingInputStreamTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/io/input/CountingInputStreamTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

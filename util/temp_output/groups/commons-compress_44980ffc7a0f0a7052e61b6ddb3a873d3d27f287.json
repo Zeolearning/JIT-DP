@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"leftBegin":40,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"rightBegin":39,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"rightBegin":30,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/ArchiveSinks.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

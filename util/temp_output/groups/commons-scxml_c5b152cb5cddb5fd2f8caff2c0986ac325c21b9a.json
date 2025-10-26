@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/SCXMLTestSuite.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/test/java/org/apache/commons/scxml/SCXMLTestSuite.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/scxml/TieBreakerTest.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

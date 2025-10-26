@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/ToStringBuilder.java",
+			"leftBegin":103,
+			"leftEnd":103,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ToStringBuilder.java",
+			"rightBegin":103,
+			"rightEnd":103
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/builder/ToStringBuilder.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/java/org/apache/commons/lang/builder/ToStringBuilder.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	]
+]

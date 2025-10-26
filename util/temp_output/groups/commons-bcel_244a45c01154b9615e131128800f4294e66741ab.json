@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/IINC.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/bcel/generic/IINC.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

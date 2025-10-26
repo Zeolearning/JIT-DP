@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"leftBegin":60,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"rightBegin":58,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/bcel/util/ByteSequence.java",
+			"rightBegin":57,
+			"rightEnd":56
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/examples/org/apache/commons/vfs/libcheck/FtpCheck.java",
+			"leftBegin":86,
+			"leftEnd":85,
+			"rightPath":"src/examples/org/apache/commons/vfs/libcheck/FtpCheck.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/org/apache/commons/vfs/libcheck/FtpCheck.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/examples/org/apache/commons/vfs/libcheck/FtpCheck.java",
+			"rightBegin":88,
+			"rightEnd":88
+		}
+	]
+]

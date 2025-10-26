@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/examples/api/catalog/src/main/java/org/apache/commons/digester3/examples/api/catalog/BookFactory.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

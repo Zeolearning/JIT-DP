@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"leftBegin":180,
+			"leftEnd":183,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"rightBegin":182,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"leftBegin":226,
+			"leftEnd":228,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"rightBegin":225,
+			"rightEnd":225
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

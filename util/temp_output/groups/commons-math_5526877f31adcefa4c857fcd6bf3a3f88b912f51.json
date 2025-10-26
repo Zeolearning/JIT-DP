@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"leftBegin":893,
+			"leftEnd":893,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"rightBegin":893,
+			"rightEnd":893
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"leftBegin":831,
+			"leftEnd":831,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+			"rightBegin":831,
+			"rightEnd":831
+		}
+	]
+]

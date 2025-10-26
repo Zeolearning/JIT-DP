@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/sftp/SftpClientFactory.java",
+			"leftBegin":158,
+			"leftEnd":159,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/sftp/SftpClientFactory.java",
+			"rightBegin":158,
+			"rightEnd":159
+		}
+	]
+]

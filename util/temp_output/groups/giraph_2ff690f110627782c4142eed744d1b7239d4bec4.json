@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/LogVersions.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/benchmark/GiraphBenchmark.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/benchmark/GiraphBenchmark.java",
+			"rightBegin":28,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/benchmark/GiraphBenchmark.java",
+			"leftBegin":83,
+			"leftEnd":84,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/benchmark/GiraphBenchmark.java",
+			"rightBegin":84,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/GiraphDepVersions.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	]
+]

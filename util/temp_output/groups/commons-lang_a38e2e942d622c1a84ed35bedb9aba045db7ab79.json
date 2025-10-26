@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/ExtendedMessageFormatTest.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"src/test/org/apache/commons/lang/text/ExtendedMessageFormatTest.java",
+			"rightBegin":96,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"leftBegin":422,
+			"leftEnd":421,
+			"rightPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"rightBegin":422,
+			"rightEnd":422
+		}
+	]
+]

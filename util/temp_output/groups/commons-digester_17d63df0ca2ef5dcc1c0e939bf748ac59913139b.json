@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/spi/ObjectCreationFactory.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/digester3/spi/ObjectCreationFactory.java",
+			"rightBegin":40,
+			"rightEnd":45
+		}
+	]
+]

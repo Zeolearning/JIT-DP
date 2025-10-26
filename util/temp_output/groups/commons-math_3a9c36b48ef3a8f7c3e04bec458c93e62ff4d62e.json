@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"rightBegin":153,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"leftBegin":147,
+			"leftEnd":148,
+			"rightPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"rightBegin":147,
+			"rightEnd":148
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"leftBegin":137,
+			"leftEnd":138,
+			"rightPath":"src/java/org/apache/commons/math/fraction/FractionFormat.java",
+			"rightBegin":137,
+			"rightEnd":138
+		}
+	]
+]

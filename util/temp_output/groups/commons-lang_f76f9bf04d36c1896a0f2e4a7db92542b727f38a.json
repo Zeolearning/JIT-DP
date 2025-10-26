@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/TimeTestSuite.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/lang/time/TimeTestSuite.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/TimeTestSuite.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/test/org/apache/commons/lang/time/TimeTestSuite.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

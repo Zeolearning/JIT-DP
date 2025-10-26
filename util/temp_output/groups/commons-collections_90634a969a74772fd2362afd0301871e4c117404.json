@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"leftBegin":843,
+			"leftEnd":845,
+			"rightPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"rightBegin":839,
+			"rightEnd":839
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"leftBegin":818,
+			"leftEnd":820,
+			"rightPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"rightBegin":816,
+			"rightEnd":816
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"leftBegin":78,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/collections4/IteratorUtilsTest.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	]
+]

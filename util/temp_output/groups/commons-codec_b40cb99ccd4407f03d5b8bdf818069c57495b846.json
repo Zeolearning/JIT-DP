@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"rightBegin":59,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"leftBegin":54,
+			"leftEnd":54,
+			"rightPath":"src/java/org/apache/commons/codec/net/URLCodec.java",
+			"rightBegin":54,
+			"rightEnd":55
+		}
+	]
+]

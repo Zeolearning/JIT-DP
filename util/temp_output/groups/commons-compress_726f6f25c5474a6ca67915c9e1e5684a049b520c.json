@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarInputStream.java",
+			"leftBegin":305,
+			"leftEnd":305,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/tar/TarInputStream.java",
+			"rightBegin":305,
+			"rightEnd":305
+		}
+	]
+]

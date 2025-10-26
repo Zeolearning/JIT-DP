@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/core/ExecutionEnvironmentProfileLoaderTest.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"test/java/org/apache/ivy/osgi/core/ExecutionEnvironmentProfileLoaderTest.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/core/ExecutionEnvironmentProfileLoaderTest.java",
+			"leftBegin":32,
+			"leftEnd":50,
+			"rightPath":"test/java/org/apache/ivy/osgi/core/ExecutionEnvironmentProfileLoaderTest.java",
+			"rightBegin":32,
+			"rightEnd":52
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"rightBegin":76,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"leftBegin":46,
+			"leftEnd":47,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"leftBegin":4,
+			"leftEnd":4,
+			"rightPath":"src/java/fr/jayasoft/ivy/repository/vfs/VfsResource.java",
+			"rightBegin":4,
+			"rightEnd":4
+		}
+	]
+]

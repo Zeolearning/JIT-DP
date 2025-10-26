@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"leftBegin":885,
+			"leftEnd":885,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java",
+			"rightBegin":885,
+			"rightEnd":885
+		}
+	]
+]

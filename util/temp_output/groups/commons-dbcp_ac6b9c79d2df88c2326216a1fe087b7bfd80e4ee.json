@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/datasources/CPDSConnectionFactory.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/commons/dbcp2/datasources/CPDSConnectionFactory.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

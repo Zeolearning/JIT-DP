@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/CacheEventQueue.java",
+			"leftBegin":226,
+			"leftEnd":226,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/CacheEventQueue.java",
+			"rightBegin":226,
+			"rightEnd":226
+		},
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/CacheEventQueue.java",
+			"leftBegin":203,
+			"leftEnd":203,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/CacheEventQueue.java",
+			"rightBegin":203,
+			"rightEnd":203
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ExceptionHandlers.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ExceptionHandlers.java",
+			"rightBegin":68,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/ExceptionHandlers.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/ExceptionHandlers.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

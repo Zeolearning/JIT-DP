@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/net/time/TimeTestSimpleServer.java",
+			"rightBegin":1,
+			"rightEnd":205
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/net/time/TimeTCPClientTest.java",
+			"rightBegin":1,
+			"rightEnd":172
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/net/ntp/TimeStampTest.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

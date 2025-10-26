@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":123,
+			"rightEnd":123
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+			"rightBegin":29,
+			"rightEnd":30
+		}
+	]
+]

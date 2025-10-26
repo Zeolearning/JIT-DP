@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"leftBegin":181,
+			"leftEnd":181,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"rightBegin":181,
+			"rightEnd":181
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"leftBegin":179,
+			"leftEnd":179,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"rightBegin":179,
+			"rightEnd":179
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java",
+			"leftBegin":492,
+			"leftEnd":492,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java",
+			"rightBegin":492,
+			"rightEnd":492
+		}
+	]
+]

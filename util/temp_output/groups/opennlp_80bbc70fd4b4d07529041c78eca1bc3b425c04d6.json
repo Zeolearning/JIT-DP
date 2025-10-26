@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"leftBegin":189,
+			"leftEnd":192,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"rightBegin":189,
+			"rightEnd":192
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"leftBegin":184,
+			"leftEnd":187,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"rightBegin":184,
+			"rightEnd":187
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"leftBegin":169,
+			"leftEnd":170,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"rightBegin":169,
+			"rightEnd":170
+		}
+	]
+]

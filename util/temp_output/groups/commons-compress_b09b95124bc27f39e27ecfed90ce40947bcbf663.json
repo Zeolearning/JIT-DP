@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/FolderTest.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256DecoderTest.java",
+			"rightBegin":1,
+			"rightEnd":90
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"leftBegin":88,
+			"leftEnd":87,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"rightBegin":89,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPStmtPoolingBasicDataSource.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

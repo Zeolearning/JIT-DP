@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/internal/RuleSetCache.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/internal/RuleSetCache.java",
+			"rightBegin":56,
+			"rightEnd":58
+		}
+	]
+]

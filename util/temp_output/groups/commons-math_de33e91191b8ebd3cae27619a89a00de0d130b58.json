@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"leftBegin":244,
+			"leftEnd":244,
+			"rightPath":"src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+			"rightBegin":244,
+			"rightEnd":245
+		}
+	]
+]

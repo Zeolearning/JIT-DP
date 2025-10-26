@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java",
+			"leftBegin":307,
+			"leftEnd":306,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java",
+			"rightBegin":307,
+			"rightEnd":326
+		}
+	]
+]

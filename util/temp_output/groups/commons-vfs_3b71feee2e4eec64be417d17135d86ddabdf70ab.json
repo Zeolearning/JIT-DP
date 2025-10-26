@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/ThreadLocalHttpConnectionManager.java",
+			"leftBegin":1,
+			"leftEnd":278,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileSystem.java",
+			"leftBegin":72,
+			"leftEnd":75,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileSystem.java",
+			"rightBegin":72,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractRandomAccessContent.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractRandomAccessContent.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	]
+]

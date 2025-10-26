@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"rightBegin":68,
+			"rightEnd":68
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"leftBegin":2,
+			"leftEnd":2,
+			"rightPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"rightBegin":2,
+			"rightEnd":2
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/java/org/apache/commons/collections/PriorityQueueUtils.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

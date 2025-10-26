@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyInfoTest.java",
+			"leftBegin":61,
+			"leftEnd":60,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyInfoTest.java",
+			"rightBegin":61,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"leftBegin":536,
+			"leftEnd":536,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"rightBegin":536,
+			"rightEnd":536
+		}
+	]
+]

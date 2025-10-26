@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"leftBegin":36,
+			"leftEnd":82,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"rightBegin":78,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"leftBegin":20,
+			"leftEnd":32,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"rightBegin":20,
+			"rightEnd":32
+		},
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/formats/ad/ADChunkSampleStreamTest.java",
+			"rightBegin":36,
+			"rightEnd":77
+		}
+	]
+]

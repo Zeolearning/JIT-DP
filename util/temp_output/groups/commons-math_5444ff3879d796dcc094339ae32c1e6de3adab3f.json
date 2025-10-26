@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"rightBegin":43,
+			"rightEnd":43
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

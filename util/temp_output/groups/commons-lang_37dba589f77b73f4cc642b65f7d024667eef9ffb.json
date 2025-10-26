@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":285,
+			"leftEnd":285,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":284,
+			"rightEnd":287
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":275,
+			"leftEnd":275,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":274,
+			"rightEnd":274
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":271,
+			"leftEnd":272,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":271,
+			"rightEnd":271
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":268,
+			"leftEnd":269,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":268,
+			"rightEnd":269
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestCompositeConfiguration.java",
+			"leftBegin":134,
+			"leftEnd":133,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestCompositeConfiguration.java",
+			"rightBegin":149,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestCompositeConfiguration.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestCompositeConfiguration.java",
+			"rightBegin":115,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/CompositeConfiguration.java",
+			"leftBegin":217,
+			"leftEnd":216,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/CompositeConfiguration.java",
+			"rightBegin":217,
+			"rightEnd":268
+		}
+	]
+]

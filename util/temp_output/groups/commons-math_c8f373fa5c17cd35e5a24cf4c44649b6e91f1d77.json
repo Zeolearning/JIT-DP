@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/CircleProblem.java",
+			"rightBegin":1,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":593,
+			"leftEnd":592,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":593,
+			"rightEnd":641
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/RandomCirclePointGenerator.java",
+			"rightBegin":1,
+			"rightEnd":95
+		}
+	]
+]

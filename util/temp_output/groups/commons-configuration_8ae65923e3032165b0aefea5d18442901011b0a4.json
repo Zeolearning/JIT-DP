@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"leftBegin":896,
+			"leftEnd":897,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"rightBegin":897,
+			"rightEnd":898
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"rightBegin":86,
+			"rightEnd":88
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java",
+			"rightBegin":32,
+			"rightEnd":31
+		}
+	]
+]

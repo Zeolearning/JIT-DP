@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractSimpleBoundsScalarOptimizer.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractSimpleBoundsScalarOptimizer.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractSimpleBoundsScalarOptimizer.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractSimpleBoundsScalarOptimizer.java",
+			"rightBegin":52,
+			"rightEnd":67
+		}
+	]
+]

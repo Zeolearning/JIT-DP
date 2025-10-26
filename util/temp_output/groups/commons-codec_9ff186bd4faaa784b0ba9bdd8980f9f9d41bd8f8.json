@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"leftBegin":103,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/BaseNCodec.java",
+			"rightBegin":103,
+			"rightEnd":104
+		}
+	]
+]

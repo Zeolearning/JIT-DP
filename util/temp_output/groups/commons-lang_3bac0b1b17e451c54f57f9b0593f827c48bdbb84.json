@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"leftBegin":474,
+			"leftEnd":474,
+			"rightPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"rightBegin":474,
+			"rightEnd":474
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"leftBegin":471,
+			"leftEnd":471,
+			"rightPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"rightBegin":471,
+			"rightEnd":471
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"leftBegin":468,
+			"leftEnd":468,
+			"rightPath":"src/java/org/apache/commons/lang/text/VariableFormatter.java",
+			"rightBegin":468,
+			"rightEnd":468
+		}
+	]
+]

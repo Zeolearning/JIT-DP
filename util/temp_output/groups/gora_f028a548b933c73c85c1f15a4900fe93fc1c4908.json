@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/avro/store/DataFileAvroStore.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/avro/store/DataFileAvroStore.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/avro/mapreduce/package-info.java",
+			"leftBegin":1,
+			"leftEnd":20,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/avro/mapreduce/FsInput.java",
+			"leftBegin":1,
+			"leftEnd":70,
+			"rightPath":null
+		}
+	]
+]

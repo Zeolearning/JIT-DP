@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/AbstractRandomGenerator.java",
+			"rightBegin":1,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/AbstractRandomGeneratorTest.java",
+			"rightBegin":1,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/TestRandomGenerator.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	]
+]

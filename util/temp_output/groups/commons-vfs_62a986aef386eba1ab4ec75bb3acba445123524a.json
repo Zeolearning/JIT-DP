@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystem.java",
+			"leftBegin":264,
+			"leftEnd":264,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystem.java",
+			"rightBegin":266,
+			"rightEnd":266
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystem.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystem.java",
+			"rightBegin":45,
+			"rightEnd":46
+		}
+	]
+]

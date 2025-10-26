@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/test/java/parquet/pig/GenerateTPCH.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"parquet-pig/src/test/java/parquet/pig/GenerateTPCH.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	]
+]

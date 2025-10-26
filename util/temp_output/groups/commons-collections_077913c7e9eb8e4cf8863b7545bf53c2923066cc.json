@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/UniqueFilterIterator.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/UniqueFilterIterator.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

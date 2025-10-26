@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/rules/WithDefaultsRulesWrapperTestCase.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/rules/WithDefaultsRulesWrapper.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

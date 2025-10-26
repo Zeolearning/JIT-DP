@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/DisabledListDelimiterHandler.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/commons/configuration/DisabledListDelimiterHandler.java",
+			"rightBegin":47,
+			"rightEnd":54
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":173,
+			"rightEnd":173
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"leftBegin":129,
+			"leftEnd":132,
+			"rightPath":"src/main/java/org/apache/commons/configuration/AbstractConfiguration.java",
+			"rightBegin":129,
+			"rightEnd":128
+		}
+	]
+]

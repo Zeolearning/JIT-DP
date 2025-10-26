@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongSymLinkTest.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongSymLinkTest.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/ArchiveReadTest.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/test/java/org/apache/commons/compress/ArchiveReadTest.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/LongPathTest.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/ConstantCP.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/ConstantCP.java",
+			"rightBegin":40,
+			"rightEnd":41
+		}
+	]
+]

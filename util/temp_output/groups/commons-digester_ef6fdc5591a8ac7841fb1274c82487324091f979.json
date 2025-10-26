@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/LinkedRuleBuilderImpl.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/rulesbinder/LinkedRuleBuilderImpl.java",
+			"rightBegin":72,
+			"rightEnd":78
+		}
+	]
+]

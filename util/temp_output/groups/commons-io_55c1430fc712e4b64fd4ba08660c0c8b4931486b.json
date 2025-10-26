@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/ReaderInputStream.java",
+			"leftBegin":223,
+			"leftEnd":222,
+			"rightPath":"src/main/java/org/apache/commons/io/input/ReaderInputStream.java",
+			"rightBegin":223,
+			"rightEnd":229
+		}
+	]
+]

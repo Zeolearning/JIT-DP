@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":46,
+			"rightEnd":46
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/digester3/LocationTrackerTestCase.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

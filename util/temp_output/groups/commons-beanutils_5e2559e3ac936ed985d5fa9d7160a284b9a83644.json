@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils2/MethodUtils.java",
+			"leftBegin":795,
+			"leftEnd":794,
+			"rightPath":"src/main/java/org/apache/commons/beanutils2/MethodUtils.java",
+			"rightBegin":794,
+			"rightEnd":794
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils2/MethodUtils.java",
+			"leftBegin":790,
+			"leftEnd":790,
+			"rightPath":"src/main/java/org/apache/commons/beanutils2/MethodUtils.java",
+			"rightBegin":790,
+			"rightEnd":789
+		}
+	]
+]

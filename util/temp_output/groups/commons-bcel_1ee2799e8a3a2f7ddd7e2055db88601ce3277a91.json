@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/util/InstructionFinder.java",
+			"leftBegin":361,
+			"leftEnd":362,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/InstructionFinder.java",
+			"rightBegin":361,
+			"rightEnd":363
+		}
+	]
+]

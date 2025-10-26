@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheAttributes.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheAttributes.java",
+			"rightBegin":39,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheAttributes.java",
+			"leftBegin":274,
+			"leftEnd":273,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheAttributes.java",
+			"rightBegin":277,
+			"rightEnd":294
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"leftBegin":495,
+			"leftEnd":495,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/Scp.java",
+			"rightBegin":495,
+			"rightEnd":495
+		}
+	]
+]

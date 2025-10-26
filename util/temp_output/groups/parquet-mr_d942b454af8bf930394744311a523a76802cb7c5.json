@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/rle/RunLengthBitPackingHybridValuesReader.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

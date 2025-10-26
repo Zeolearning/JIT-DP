@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/RegexValidator.java",
+			"leftBegin":450,
+			"leftEnd":450,
+			"rightPath":"src/share/org/apache/commons/validator/routines/RegexValidator.java",
+			"rightBegin":453,
+			"rightEnd":453
+		}
+	],
+	[
+		{
+			"leftPath":"src/share/org/apache/commons/validator/routines/RegexValidator.java",
+			"leftBegin":435,
+			"leftEnd":435,
+			"rightPath":"src/share/org/apache/commons/validator/routines/RegexValidator.java",
+			"rightBegin":435,
+			"rightEnd":438
+		}
+	]
+]

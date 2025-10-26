@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"leftBegin":637,
+			"leftEnd":637,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"rightBegin":612,
+			"rightEnd":612
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"leftBegin":233,
+			"leftEnd":257,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"rightBegin":233,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":878,
+			"leftEnd":877,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":878,
+			"rightEnd":881
+		}
+	]
+]

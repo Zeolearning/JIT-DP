@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/collections4/functors/DefaultEquator.java",
+			"rightBegin":28,
+			"rightEnd":32
+		}
+	]
+]

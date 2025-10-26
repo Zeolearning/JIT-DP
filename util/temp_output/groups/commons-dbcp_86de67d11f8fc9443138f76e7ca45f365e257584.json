@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSourceFactory.java",
+			"leftBegin":260,
+			"leftEnd":261,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/datasources/InstanceKeyDataSourceFactory.java",
+			"rightBegin":260,
+			"rightEnd":261
+		}
+	]
+]

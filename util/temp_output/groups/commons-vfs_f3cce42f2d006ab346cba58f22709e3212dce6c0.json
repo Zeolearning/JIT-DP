@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileReplicator.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileReplicator.java",
+			"rightBegin":44,
+			"rightEnd":45
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileReplicator.java",
+			"leftBegin":195,
+			"leftEnd":195,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/impl/DefaultFileReplicator.java",
+			"rightBegin":197,
+			"rightEnd":197
+		}
+	]
+]

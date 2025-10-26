@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathArraysTest.java",
+			"leftBegin":147,
+			"leftEnd":183,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathArraysTest.java",
+			"rightBegin":145,
+			"rightEnd":197
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/util/MathArraysTest.java",
+			"leftBegin":125,
+			"leftEnd":143,
+			"rightPath":"src/test/java/org/apache/commons/math/util/MathArraysTest.java",
+			"rightBegin":125,
+			"rightEnd":141
+		}
+	]
+]

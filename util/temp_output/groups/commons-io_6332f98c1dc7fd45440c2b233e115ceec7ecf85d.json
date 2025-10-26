@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"leftBegin":335,
+			"leftEnd":334,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"rightBegin":285,
+			"rightEnd":333
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"leftBegin":171,
+			"leftEnd":220,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"rightBegin":171,
+			"rightEnd":170
+		}
+	]
+]

@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/DeferredFileOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":218
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/DeferredFileOutputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":248
+		}
+	]
+]

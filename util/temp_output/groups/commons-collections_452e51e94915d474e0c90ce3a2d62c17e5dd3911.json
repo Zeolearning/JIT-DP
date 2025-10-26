@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/collection/TransformedCollection.java",
+			"leftBegin":79,
+			"leftEnd":81,
+			"rightPath":"src/java/org/apache/commons/collections/collection/TransformedCollection.java",
+			"rightBegin":79,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/collection/TransformedCollection.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/java/org/apache/commons/collections/collection/TransformedCollection.java",
+			"rightBegin":82,
+			"rightEnd":83
+		}
+	]
+]

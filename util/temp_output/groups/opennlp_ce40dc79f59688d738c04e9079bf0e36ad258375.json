@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/NewlineSentenceDetector.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/NewlineSentenceDetector.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/sentdetect/NewlineSentenceDetectorTest.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

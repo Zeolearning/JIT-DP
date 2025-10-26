@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/commons/io/input/Tailer.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	]
+]

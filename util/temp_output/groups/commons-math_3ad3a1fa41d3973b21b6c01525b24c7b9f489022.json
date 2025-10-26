@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+			"leftBegin":321,
+			"leftEnd":321,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+			"rightBegin":321,
+			"rightEnd":321
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/VisitNode.java",
+			"leftBegin":217,
+			"leftEnd":221,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/VisitNode.java",
+			"rightBegin":217,
+			"rightEnd":235
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":749,
+			"leftEnd":750,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":749,
+			"rightEnd":749
+		}
+	]
+]

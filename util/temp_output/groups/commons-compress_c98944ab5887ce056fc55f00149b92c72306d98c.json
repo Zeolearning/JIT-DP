@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/Lister.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/Lister.java",
+			"rightBegin":42,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/Lister.java",
+			"leftBegin":63,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/Lister.java",
+			"rightBegin":67,
+			"rightEnd":71
+		}
+	]
+]

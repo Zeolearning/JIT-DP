@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPCommand.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPCommand.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTPCommand.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTPCommand.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/NNTP.java",
+			"leftBegin":310,
+			"leftEnd":310,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/NNTP.java",
+			"rightBegin":310,
+			"rightEnd":310
+		}
+	]
+]

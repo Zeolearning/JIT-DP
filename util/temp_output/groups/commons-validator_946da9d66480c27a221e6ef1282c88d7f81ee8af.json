@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/ISINValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/validator/routines/ISINValidator.java",
+			"rightBegin":1,
+			"rightEnd":124
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/ISINCheckDigitTest.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/ISINCheckDigitTest.java",
+			"rightBegin":52,
+			"rightEnd":54
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"leftBegin":145,
+			"leftEnd":148,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"rightBegin":143,
+			"rightEnd":144
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"leftBegin":122,
+			"leftEnd":123,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldEquationsMapper.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	]
+]

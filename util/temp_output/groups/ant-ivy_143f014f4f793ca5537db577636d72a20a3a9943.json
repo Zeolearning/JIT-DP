@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/event/IvyEvent.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/ivy/core/event/IvyEvent.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/event/resolve/ResolveDependencyEvent.java",
+			"leftBegin":44,
+			"leftEnd":43,
+			"rightPath":"src/java/org/apache/ivy/core/event/resolve/ResolveDependencyEvent.java",
+			"rightBegin":44,
+			"rightEnd":45
+		}
+	]
+]

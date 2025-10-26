@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java",
+			"leftBegin":28,
+			"leftEnd":30,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java",
+			"rightBegin":39,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java",
+			"rightBegin":19,
+			"rightEnd":31
+		}
+	]
+]

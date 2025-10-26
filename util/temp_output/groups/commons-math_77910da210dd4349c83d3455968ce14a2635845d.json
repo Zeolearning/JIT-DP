@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/optim/BaseMultiStartMultivariateOptimizer.java",
+			"leftBegin":167,
+			"leftEnd":168,
+			"rightPath":"src/main/java/org/apache/commons/math3/optim/BaseMultiStartMultivariateOptimizer.java",
+			"rightBegin":167,
+			"rightEnd":168
+		}
+	]
+]

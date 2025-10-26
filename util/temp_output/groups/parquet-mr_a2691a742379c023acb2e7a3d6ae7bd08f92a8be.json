@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/api/Converter.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"parquet-column/src/main/java/parquet/io/api/Converter.java",
+			"rightBegin":30,
+			"rightEnd":30
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/api/Converter.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"parquet-column/src/main/java/parquet/io/api/Converter.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

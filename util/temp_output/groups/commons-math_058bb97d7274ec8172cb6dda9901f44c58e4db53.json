@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/TestProblem4.java",
+			"leftBegin":87,
+			"leftEnd":86,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/TestProblem4.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

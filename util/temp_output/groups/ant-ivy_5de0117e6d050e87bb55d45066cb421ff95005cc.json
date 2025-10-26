@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":407,
+			"leftEnd":406,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":410,
+			"rightEnd":417
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":291,
+			"leftEnd":290,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":293,
+			"rightEnd":293
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":69,
+			"rightEnd":70
+		}
+	]
+]

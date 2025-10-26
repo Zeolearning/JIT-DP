@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/examples/plugins/pipeline/SubstituteTransform.java",
+			"leftBegin":54,
+			"leftEnd":56,
+			"rightPath":"src/examples/plugins/pipeline/SubstituteTransform.java",
+			"rightBegin":54,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/plugins/pipeline/CompoundTransform.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/examples/plugins/pipeline/CompoundTransform.java",
+			"rightBegin":47,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"src/examples/plugins/pipeline/CompoundTransform.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"src/examples/plugins/pipeline/CompoundTransform.java",
+			"rightBegin":49,
+			"rightEnd":50
+		}
+	]
+]

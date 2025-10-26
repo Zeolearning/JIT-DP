@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/rank/PercentileTest.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/rank/PercentileTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/rank/PercentileTest.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/rank/PercentileTest.java",
+			"rightBegin":69,
+			"rightEnd":88
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"leftBegin":57,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"rightBegin":57,
+			"rightEnd":58
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"leftBegin":52,
+			"leftEnd":53,
+			"rightPath":"src/java/org/apache/commons/digester/plugins/PluginContext.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

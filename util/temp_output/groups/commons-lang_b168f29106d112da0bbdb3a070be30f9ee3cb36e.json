@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/util/FormattableUtilsTest.java",
+			"leftBegin":17,
+			"leftEnd":17,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/FormattableUtilsTest.java",
+			"rightBegin":17,
+			"rightEnd":17
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/util/FormattableUtils.java",
+			"leftBegin":17,
+			"leftEnd":17,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/FormattableUtils.java",
+			"rightBegin":17,
+			"rightEnd":17
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"rightBegin":141,
+			"rightEnd":143
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/FileUtil.java",
+			"rightBegin":137,
+			"rightEnd":137
+		}
+	]
+]

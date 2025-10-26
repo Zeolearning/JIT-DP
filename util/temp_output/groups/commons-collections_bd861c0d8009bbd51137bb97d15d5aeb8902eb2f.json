@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/SingletonIterator.java",
+			"leftBegin":109,
+			"leftEnd":111,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/SingletonIterator.java",
+			"rightBegin":109,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/SingletonIterator.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/SingletonIterator.java",
+			"rightBegin":110,
+			"rightEnd":111
+		}
+	]
+]

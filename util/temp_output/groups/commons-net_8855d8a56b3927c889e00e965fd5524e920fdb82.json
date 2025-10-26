@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":95,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":95,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":103,
+			"leftEnd":104,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":107,
+			"rightEnd":106
+		}
+	]
+]

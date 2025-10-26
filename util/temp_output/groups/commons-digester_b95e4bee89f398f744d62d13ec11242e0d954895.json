@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RuleMatcher.java",
+			"leftBegin":3,
+			"leftEnd":4,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RuleMatcher.java",
+			"rightBegin":3,
+			"rightEnd":2
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RuleMatcher.java",
+			"leftBegin":24,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RuleMatcher.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	]
+]

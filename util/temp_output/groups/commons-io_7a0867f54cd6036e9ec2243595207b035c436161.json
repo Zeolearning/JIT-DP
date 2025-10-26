@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"leftBegin":131,
+			"leftEnd":132,
+			"rightPath":"src/test/org/apache/commons/io/filefilter/FileFilterTestCase.java",
+			"rightBegin":131,
+			"rightEnd":132
+		}
+	]
+]

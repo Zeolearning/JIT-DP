@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/IteratorEnumeration.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/IteratorEnumeration.java",
+			"rightBegin":39,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/IteratorEnumeration.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/IteratorEnumeration.java",
+			"rightBegin":48,
+			"rightEnd":47
+		}
+	]
+]

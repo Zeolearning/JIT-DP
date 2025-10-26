@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/BasicRPCCommunications.java",
+			"leftBegin":1094,
+			"leftEnd":1094,
+			"rightPath":"src/main/java/org/apache/giraph/comm/BasicRPCCommunications.java",
+			"rightBegin":1093,
+			"rightEnd":1093
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/comm/BasicRPCCommunications.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/giraph/comm/BasicRPCCommunications.java",
+			"rightBegin":27,
+			"rightEnd":26
+		}
+	]
+]

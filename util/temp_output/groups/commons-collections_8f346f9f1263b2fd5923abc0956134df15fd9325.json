@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/map/DefaultedMap.java",
+			"leftBegin":201,
+			"leftEnd":205,
+			"rightPath":"src/main/java/org/apache/commons/collections4/map/DefaultedMap.java",
+			"rightBegin":201,
+			"rightEnd":204
+		}
+	]
+]

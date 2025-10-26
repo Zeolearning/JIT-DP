@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+			"leftBegin":373,
+			"leftEnd":373,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+			"rightBegin":373,
+			"rightEnd":373
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"leftBegin":222,
+			"leftEnd":222,
+			"rightPath":"src/main/java/org/apache/commons/lang3/reflect/ConstructorUtils.java",
+			"rightBegin":222,
+			"rightEnd":222
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"leftBegin":45,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"rightBegin":45,
+			"rightEnd":47
+		}
+	]
+]

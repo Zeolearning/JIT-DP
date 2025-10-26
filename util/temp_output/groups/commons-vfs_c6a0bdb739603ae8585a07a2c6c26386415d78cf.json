@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"leftBegin":49,
+			"leftEnd":50,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"rightBegin":49,
+			"rightEnd":48
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ftp/test/FtpProviderTestCase.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"leftBegin":243,
+			"leftEnd":243,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java",
+			"rightBegin":243,
+			"rightEnd":243
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/DateLocaleConverter.java",
+			"leftBegin":305,
+			"leftEnd":305,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/DateLocaleConverter.java",
+			"rightBegin":305,
+			"rightEnd":305
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/locale/converters/StringLocaleConverter.java",
+			"leftBegin":282,
+			"leftEnd":282,
+			"rightPath":"src/java/org/apache/commons/beanutils/locale/converters/StringLocaleConverter.java",
+			"rightBegin":282,
+			"rightEnd":282
+		}
+	]
+]

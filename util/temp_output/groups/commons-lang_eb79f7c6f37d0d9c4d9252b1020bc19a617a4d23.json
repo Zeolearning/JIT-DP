@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/SystemUtilsTest.java",
+			"leftBegin":225,
+			"leftEnd":225,
+			"rightPath":"src/test/java/org/apache/commons/lang3/SystemUtilsTest.java",
+			"rightBegin":225,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/SystemUtilsTest.java",
+			"leftBegin":210,
+			"leftEnd":223,
+			"rightPath":"src/test/java/org/apache/commons/lang3/SystemUtilsTest.java",
+			"rightBegin":210,
+			"rightEnd":223
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"leftBegin":1672,
+			"leftEnd":1672,
+			"rightPath":"src/main/java/org/apache/commons/lang3/SystemUtils.java",
+			"rightBegin":1672,
+			"rightEnd":1672
+		}
+	]
+]

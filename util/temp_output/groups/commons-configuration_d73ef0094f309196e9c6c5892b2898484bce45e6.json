@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLPropertiesConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/XMLPropertiesConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":221
+		}
+	]
+]

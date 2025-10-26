@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestBasicDataSourceFactory.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestBasicDataSourceFactory.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

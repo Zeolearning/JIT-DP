@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiFileConfigurationBuilder.java",
+			"leftBegin":208,
+			"leftEnd":209,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiFileConfigurationBuilder.java",
+			"rightBegin":206,
+			"rightEnd":206
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiFileConfigurationBuilder.java",
+			"leftBegin":70,
+			"leftEnd":74,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestMultiFileConfigurationBuilder.java",
+			"rightBegin":70,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiFileConfigurationBuilder.java",
+			"leftBegin":161,
+			"leftEnd":160,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/MultiFileConfigurationBuilder.java",
+			"rightBegin":161,
+			"rightEnd":170
+		}
+	]
+]

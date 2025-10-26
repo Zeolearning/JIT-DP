@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"leftBegin":77,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"rightBegin":79,
+			"rightEnd":81
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"rightBegin":83,
+			"rightEnd":83
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java",
+			"rightBegin":76,
+			"rightEnd":77
+		}
+	]
+]

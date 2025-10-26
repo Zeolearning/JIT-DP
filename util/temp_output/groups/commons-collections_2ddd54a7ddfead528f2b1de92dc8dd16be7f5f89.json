@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/ComparatorUtils.java",
+			"leftBegin":103,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/collections4/ComparatorUtils.java",
+			"rightBegin":101,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/ComparatorUtils.java",
+			"leftBegin":77,
+			"leftEnd":79,
+			"rightPath":"src/main/java/org/apache/commons/collections4/ComparatorUtils.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

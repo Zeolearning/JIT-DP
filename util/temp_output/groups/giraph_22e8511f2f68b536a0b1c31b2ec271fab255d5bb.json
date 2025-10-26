@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java",
+			"leftBegin":795,
+			"leftEnd":795,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java",
+			"rightBegin":795,
+			"rightEnd":794
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java",
+			"leftBegin":792,
+			"leftEnd":793,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java",
+			"rightBegin":792,
+			"rightEnd":793
+		}
+	]
+]

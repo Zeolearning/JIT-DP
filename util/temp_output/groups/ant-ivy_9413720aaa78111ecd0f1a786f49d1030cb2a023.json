@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/TestFixture.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"test/java/org/apache/ivy/TestFixture.java",
+			"rightBegin":74,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/TestFixture.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"test/java/org/apache/ivy/TestFixture.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterCompute.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterCompute.java",
+			"rightBegin":132,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterCompute.java",
+			"leftBegin":140,
+			"leftEnd":139,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterCompute.java",
+			"rightBegin":149,
+			"rightEnd":157
+		}
+	]
+]

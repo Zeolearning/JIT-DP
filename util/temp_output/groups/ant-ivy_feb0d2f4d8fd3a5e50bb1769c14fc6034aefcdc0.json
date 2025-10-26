@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParserTest.java",
+			"leftBegin":687,
+			"leftEnd":686,
+			"rightPath":"test/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParserTest.java",
+			"rightBegin":687,
+			"rightEnd":696
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"leftBegin":345,
+			"leftEnd":344,
+			"rightPath":"src/java/org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor.java",
+			"rightBegin":345,
+			"rightEnd":352
+		}
+	]
+]

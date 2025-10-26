@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/stemmer/PorterStemmer.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/stemmer/PorterStemmer.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph/src/main/java/org/apache/giraph/benchmark/RandomMessageBenchmark.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"giraph/src/main/java/org/apache/giraph/benchmark/RandomMessageBenchmark.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	]
+]

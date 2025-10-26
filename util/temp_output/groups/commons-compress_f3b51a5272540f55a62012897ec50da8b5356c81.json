@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtilTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.java",
+			"leftBegin":111,
+			"leftEnd":114,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.java",
+			"rightBegin":111,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.java",
+			"leftBegin":128,
+			"leftEnd":129,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.java",
+			"rightBegin":128,
+			"rightEnd":129
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/trie/ByteArrayKeyAnalyzer.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/main/java/org/apache/commons/collections/trie/ByteArrayKeyAnalyzer.java",
+			"rightBegin":184,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/trie/AbstractKeyAnalyzer.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/collections/trie/AbstractKeyAnalyzer.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/trie/AbstractTrie.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/main/java/org/apache/commons/collections/trie/AbstractTrie.java",
+			"rightBegin":153,
+			"rightEnd":153
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"rightBegin":112,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"rightBegin":31,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"leftBegin":93,
+			"leftEnd":92,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/util/StringListTest.java",
+			"rightBegin":103,
+			"rightEnd":104
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestSpecificReadWrite.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	]
+]

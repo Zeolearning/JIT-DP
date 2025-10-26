@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"rightBegin":70,
+			"rightEnd":98
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base64InputStreamTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

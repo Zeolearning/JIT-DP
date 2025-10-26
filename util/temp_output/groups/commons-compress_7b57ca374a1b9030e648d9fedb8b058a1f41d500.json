@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/compress/bzip2/test/BzipTestCase.java",
+			"rightBegin":1,
+			"rightEnd":284
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/compress/bzip2/example/Bzip2Uncompress.java",
+			"rightBegin":1,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/compress/bzip2/example/Bzip2Compress.java",
+			"rightBegin":1,
+			"rightEnd":113
+		}
+	]
+]

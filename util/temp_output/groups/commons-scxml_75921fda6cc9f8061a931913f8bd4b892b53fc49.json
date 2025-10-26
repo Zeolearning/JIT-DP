@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"leftBegin":233,
+			"leftEnd":234,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"rightBegin":232,
+			"rightEnd":232
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"leftBegin":210,
+			"leftEnd":211,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/State.java",
+			"rightBegin":210,
+			"rightEnd":210
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/AssignTest.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/AssignTest.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"rightBegin":205,
+			"rightEnd":205
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"leftBegin":198,
+			"leftEnd":197,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"rightBegin":198,
+			"rightEnd":203
+		}
+	]
+]

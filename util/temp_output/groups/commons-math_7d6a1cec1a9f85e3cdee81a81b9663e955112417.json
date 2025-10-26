@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/java/org/apache/commons/math/linear/MatrixUtils.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/AbstractFieldMatrix.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/java/org/apache/commons/math/linear/AbstractFieldMatrix.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

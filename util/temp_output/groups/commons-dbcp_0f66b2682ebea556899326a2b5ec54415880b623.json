@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/SharedPoolDataSource.java",
+			"leftBegin":181,
+			"leftEnd":185,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/SharedPoolDataSource.java",
+			"rightBegin":181,
+			"rightEnd":183
+		}
+	]
+]

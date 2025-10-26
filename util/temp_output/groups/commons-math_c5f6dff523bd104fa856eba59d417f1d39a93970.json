@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":384
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/interpolation/LoessInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":272
+		}
+	]
+]

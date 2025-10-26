@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/utils/Annotations.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/utils/Annotations.java",
+			"rightBegin":40,
+			"rightEnd":44
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/utils/Annotations.java",
+			"leftBegin":71,
+			"leftEnd":70,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/utils/Annotations.java",
+			"rightBegin":76,
+			"rightEnd":89
+		}
+	]
+]

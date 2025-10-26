@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"rightBegin":18,
+			"rightEnd":17
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"leftBegin":16,
+			"leftEnd":17,
+			"rightPath":"src/test/org/apache/commons/io/output/LockableFileWriterTest.java",
+			"rightBegin":16,
+			"rightEnd":15
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"leftBegin":885,
+			"leftEnd":884,
+			"rightPath":"src/test/org/apache/commons/configuration/TestXMLConfiguration.java",
+			"rightBegin":885,
+			"rightEnd":940
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/AbstractHierarchicalFileConfiguration.java",
+			"leftBegin":302,
+			"leftEnd":301,
+			"rightPath":"src/java/org/apache/commons/configuration/AbstractHierarchicalFileConfiguration.java",
+			"rightBegin":303,
+			"rightEnd":315
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/AbstractHierarchicalFileConfiguration.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/java/org/apache/commons/configuration/AbstractHierarchicalFileConfiguration.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

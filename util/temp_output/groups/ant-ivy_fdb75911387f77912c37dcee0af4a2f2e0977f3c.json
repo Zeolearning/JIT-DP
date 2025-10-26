@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyPublishTest.java",
+			"leftBegin":250,
+			"leftEnd":249,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyPublishTest.java",
+			"rightBegin":250,
+			"rightEnd":298
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"leftBegin":443,
+			"leftEnd":443,
+			"rightPath":"src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java",
+			"rightBegin":443,
+			"rightEnd":443
+		}
+	]
+]

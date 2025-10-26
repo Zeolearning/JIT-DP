@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/TreeData.java",
+			"leftBegin":78,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/TreeData.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/tree/NodeHandler.java",
+			"leftBegin":157,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/NodeHandler.java",
+			"rightBegin":157,
+			"rightEnd":163
+		}
+	]
+]

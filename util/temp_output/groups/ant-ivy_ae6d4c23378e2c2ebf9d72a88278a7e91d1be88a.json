@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/version/VersionRangeMatcher.java",
+			"leftBegin":66,
+			"leftEnd":67,
+			"rightPath":"src/java/org/apache/ivy/plugins/version/VersionRangeMatcher.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/version/VersionRangeMatcher.java",
+			"leftBegin":61,
+			"leftEnd":62,
+			"rightPath":"src/java/org/apache/ivy/plugins/version/VersionRangeMatcher.java",
+			"rightBegin":61,
+			"rightEnd":61
+		}
+	]
+]

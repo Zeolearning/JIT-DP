@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderRenameTests.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderRenameTests.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractFileObject.java",
+			"leftBegin":1419,
+			"leftEnd":1419,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/AbstractFileObject.java",
+			"rightBegin":1419,
+			"rightEnd":1419
+		}
+	]
+]

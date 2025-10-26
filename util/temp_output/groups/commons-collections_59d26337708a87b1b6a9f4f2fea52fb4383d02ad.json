@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/collection/AbstractUntypedCollectionDecorator.java",
+			"leftBegin":60,
+			"leftEnd":59,
+			"rightPath":"src/main/java/org/apache/commons/collections4/collection/AbstractUntypedCollectionDecorator.java",
+			"rightBegin":60,
+			"rightEnd":72
+		}
+	]
+]

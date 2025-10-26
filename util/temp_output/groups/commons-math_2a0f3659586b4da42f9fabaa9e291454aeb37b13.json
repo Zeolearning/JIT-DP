@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/SinFunction.java",
+			"rightBegin":1,
+			"rightEnd":93
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/analysis/QuinticFunction.java",
+			"rightBegin":1,
+			"rightEnd":88
+		}
+	]
+]

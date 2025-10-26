@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/distribution/MultivariateNormalDistributionTest.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/math4/distribution/MultivariateNormalDistributionTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/model/Foreach.java",
+			"leftBegin":110,
+			"leftEnd":110,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/model/Foreach.java",
+			"rightBegin":110,
+			"rightEnd":112
+		}
+	]
+]

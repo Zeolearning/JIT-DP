@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/verifier/structurals/InstConstraintVisitor.java",
+			"leftBegin":2587,
+			"leftEnd":2588,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/verifier/structurals/InstConstraintVisitor.java",
+			"rightBegin":2587,
+			"rightEnd":2592
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ObjectType.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ObjectType.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/ObjectType.java",
+			"leftBegin":73,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/ObjectType.java",
+			"rightBegin":73,
+			"rightEnd":72
+		}
+	]
+]

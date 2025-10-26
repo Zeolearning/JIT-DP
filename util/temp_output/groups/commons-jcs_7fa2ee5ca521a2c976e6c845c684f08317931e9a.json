@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheServer.java",
+			"leftBegin":425,
+			"leftEnd":424,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheServer.java",
+			"rightBegin":425,
+			"rightEnd":425
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheService.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/remote/behavior/IRemoteCacheService.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

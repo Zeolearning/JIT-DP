@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/AddressBook.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/AddressBook.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

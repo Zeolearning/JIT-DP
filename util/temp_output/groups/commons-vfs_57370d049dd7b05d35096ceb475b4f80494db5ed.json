@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/sftp/test/SftpProviderTestCase.java",
+			"leftBegin":356,
+			"leftEnd":356,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/sftp/test/SftpProviderTestCase.java",
+			"rightBegin":356,
+			"rightEnd":356
+		}
+	],
+	[
+		{
+			"leftPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/sftp/test/SftpProviderTestCase.java",
+			"leftBegin":189,
+			"leftEnd":189,
+			"rightPath":"commons-vfs2/src/test/java/org/apache/commons/vfs2/provider/sftp/test/SftpProviderTestCase.java",
+			"rightBegin":189,
+			"rightEnd":189
+		}
+	]
+]

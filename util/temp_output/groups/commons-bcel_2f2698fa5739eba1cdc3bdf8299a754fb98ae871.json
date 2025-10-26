@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/bcel/generic/TypeTestCase.java",
+			"rightBegin":1,
+			"rightEnd":16
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/Type.java",
+			"leftBegin":217,
+			"leftEnd":223,
+			"rightPath":"src/main/java/org/apache/bcel/generic/Type.java",
+			"rightBegin":217,
+			"rightEnd":221
+		}
+	]
+]

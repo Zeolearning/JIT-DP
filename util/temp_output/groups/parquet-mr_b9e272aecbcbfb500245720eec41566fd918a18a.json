@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-scrooge/src/test/java/parquet/scrooge/ParquetScroogeSchemeTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"parquet-scrooge/src/test/java/parquet/scrooge/ParquetScroogeSchemeTest.java",
+			"rightBegin":75,
+			"rightEnd":75
+		}
+	]
+]

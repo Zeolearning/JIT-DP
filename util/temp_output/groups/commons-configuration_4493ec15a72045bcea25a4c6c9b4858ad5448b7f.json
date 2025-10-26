@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"leftBegin":576,
+			"leftEnd":575,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"rightBegin":580,
+			"rightEnd":581
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"leftBegin":564,
+			"leftEnd":563,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"rightBegin":566,
+			"rightEnd":567
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"leftBegin":543,
+			"leftEnd":542,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"rightBegin":543,
+			"rightEnd":544
+		}
+	]
+]

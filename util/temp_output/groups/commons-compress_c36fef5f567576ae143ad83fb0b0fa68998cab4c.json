@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"leftBegin":518,
+			"leftEnd":517,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java",
+			"rightBegin":518,
+			"rightEnd":518
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipMethod.java",
+			"leftBegin":136,
+			"leftEnd":135,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipMethod.java",
+			"rightBegin":136,
+			"rightEnd":142
+		}
+	]
+]

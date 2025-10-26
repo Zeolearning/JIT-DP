@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"leftBegin":268,
+			"leftEnd":267,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"rightBegin":269,
+			"rightEnd":273
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"leftBegin":265,
+			"leftEnd":264,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java",
+			"rightBegin":265,
+			"rightEnd":265
+		}
+	]
+]

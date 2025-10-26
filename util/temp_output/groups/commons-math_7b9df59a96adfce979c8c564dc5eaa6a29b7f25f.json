@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"leftBegin":613,
+			"leftEnd":613,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"rightBegin":613,
+			"rightEnd":613
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"leftBegin":611,
+			"leftEnd":611,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"rightBegin":611,
+			"rightEnd":611
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/math4/linear/EigenDecomposition.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	]
+]

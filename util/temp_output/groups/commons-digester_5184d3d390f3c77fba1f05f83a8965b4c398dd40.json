@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/Address.java",
+			"rightBegin":1,
+			"rightEnd":138
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/TestBean.java",
+			"rightBegin":1,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/Employee.java",
+			"rightBegin":1,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/RuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":302
+		}
+	]
+]

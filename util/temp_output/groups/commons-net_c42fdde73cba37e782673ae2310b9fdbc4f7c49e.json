@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/POP3Reply.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/POP3Reply.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/pop3/POP3Reply.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/net/pop3/POP3Reply.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/BoundedMap.java",
+			"leftBegin":19,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/collections/BoundedMap.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/BoundedMap.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/commons/collections/BoundedMap.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

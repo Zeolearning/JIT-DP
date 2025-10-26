@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math4/geometry/partitioning/CharacterizationTest.java",
+			"rightBegin":1,
+			"rightEnd":420
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/geometry/euclidean/oned/IntervalsSetTest.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/math4/geometry/euclidean/oned/IntervalsSetTest.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/geometry/partitioning/Characterization.java",
+			"leftBegin":104,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/math4/geometry/partitioning/Characterization.java",
+			"rightBegin":104,
+			"rightEnd":113
+		}
+	]
+]

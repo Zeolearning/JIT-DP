@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPCommand.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPCommand.java",
+			"rightBegin":79,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/FTPCommand.java",
+			"leftBegin":135,
+			"leftEnd":134,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/FTPCommand.java",
+			"rightBegin":137,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/FTPCommandTest.java",
+			"rightBegin":1,
+			"rightEnd":33
+		}
+	]
+]

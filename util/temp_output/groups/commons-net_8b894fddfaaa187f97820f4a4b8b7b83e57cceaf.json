@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ntp/NTPUDPClient.java",
+			"leftBegin":71,
+			"leftEnd":70,
+			"rightPath":"src/java/org/apache/commons/net/ntp/NTPUDPClient.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

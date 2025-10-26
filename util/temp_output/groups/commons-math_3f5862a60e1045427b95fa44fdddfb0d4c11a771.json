@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"rightBegin":157,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"rightBegin":33,
+			"rightEnd":33
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"leftBegin":136,
+			"leftEnd":135,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/moment/StandardDeviation.java",
+			"rightBegin":136,
+			"rightEnd":140
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+			"rightBegin":53,
+			"rightEnd":54
+		}
+	]
+]

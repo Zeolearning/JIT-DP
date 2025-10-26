@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/package-info.java",
+			"rightBegin":1,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"annotations-processor/src/main/java/org/apache/commons/digester3/annotations/processor/DigesterAnnotationsProcessor.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	]
+]

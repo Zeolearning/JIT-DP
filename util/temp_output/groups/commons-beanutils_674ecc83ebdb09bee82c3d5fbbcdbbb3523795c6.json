@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"leftBegin":260,
+			"leftEnd":260,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"rightBegin":260,
+			"rightEnd":260
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"leftBegin":360,
+			"leftEnd":360,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/ConvertUtils.java",
+			"rightBegin":360,
+			"rightEnd":359
+		}
+	]
+]

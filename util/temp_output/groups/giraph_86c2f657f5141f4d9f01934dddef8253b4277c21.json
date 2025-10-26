@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/job/GiraphJob.java",
+			"leftBegin":240,
+			"leftEnd":240,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/job/GiraphJob.java",
+			"rightBegin":240,
+			"rightEnd":240
+		}
+	]
+]

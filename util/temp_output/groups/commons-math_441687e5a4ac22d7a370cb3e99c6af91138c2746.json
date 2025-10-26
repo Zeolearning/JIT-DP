@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"leftBegin":297,
+			"leftEnd":297,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"rightBegin":300,
+			"rightEnd":300
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"leftBegin":295,
+			"leftEnd":294,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/AbstractIntegrator.java",
+			"rightBegin":295,
+			"rightEnd":297
+		}
+	]
+]

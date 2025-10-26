@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/sampling/DummyStepInterpolatorTest.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/sampling/DummyStepInterpolatorTest.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/sampling/DummyStepInterpolatorTest.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/sampling/DummyStepInterpolatorTest.java",
+			"rightBegin":145,
+			"rightEnd":144
+		}
+	]
+]

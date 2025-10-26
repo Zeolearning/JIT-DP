@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/CodecFactory.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/CodecFactory.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"leftBegin":43,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"rightBegin":38,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"rightBegin":33,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"leftBegin":35,
+			"leftEnd":41,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/javascript/JSContext.java",
+			"rightBegin":36,
+			"rightEnd":36
+		}
+	]
+]

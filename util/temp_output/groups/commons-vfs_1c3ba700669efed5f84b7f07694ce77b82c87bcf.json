@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/cache/LRUFilesCacheTests.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/cache/LRUFilesCacheTestCase.java",
+			"rightBegin":1,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/cache/LRUFilesCache.java",
+			"rightBegin":1,
+			"rightEnd":205
+		}
+	]
+]

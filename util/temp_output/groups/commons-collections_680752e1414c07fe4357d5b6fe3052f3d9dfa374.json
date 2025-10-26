@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/LoopingListIterator.java",
+			"leftBegin":238,
+			"leftEnd":237,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/LoopingListIterator.java",
+			"rightBegin":238,
+			"rightEnd":241
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/LoopingListIterator.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/LoopingListIterator.java",
+			"rightBegin":62,
+			"rightEnd":62
+		}
+	]
+]

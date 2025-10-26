@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/util/VersionRange.java",
+			"leftBegin":259,
+			"leftEnd":258,
+			"rightPath":"src/java/org/apache/ivy/osgi/util/VersionRange.java",
+			"rightBegin":259,
+			"rightEnd":265
+		}
+	]
+]

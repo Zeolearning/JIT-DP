@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/memory/lru/LRUMemoryCache.java",
+			"leftBegin":80,
+			"leftEnd":82,
+			"rightPath":"src/java/org/apache/jcs/engine/memory/lru/LRUMemoryCache.java",
+			"rightBegin":80,
+			"rightEnd":87
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Var.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Var.java",
+			"rightBegin":108,
+			"rightEnd":111
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"rightBegin":236,
+			"rightEnd":239
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"leftBegin":212,
+			"leftEnd":211,
+			"rightPath":"src/main/java/org/apache/commons/scxml/model/Assign.java",
+			"rightBegin":212,
+			"rightEnd":215
+		}
+	]
+]

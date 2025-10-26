@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/QuotedPrintableCodecTest.java",
+			"leftBegin":265,
+			"leftEnd":264,
+			"rightPath":"src/test/org/apache/commons/codec/net/QuotedPrintableCodecTest.java",
+			"rightBegin":266,
+			"rightEnd":293
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/net/QuotedPrintableCodecTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/codec/net/QuotedPrintableCodecTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

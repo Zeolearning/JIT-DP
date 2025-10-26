@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"leftBegin":271,
+			"leftEnd":271,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"rightBegin":273,
+			"rightEnd":273
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"rightBegin":267,
+			"rightEnd":267
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"leftBegin":257,
+			"leftEnd":256,
+			"rightPath":"src/main/java/org/apache/commons/lang3/CharRange.java",
+			"rightBegin":257,
+			"rightEnd":257
+		}
+	]
+]

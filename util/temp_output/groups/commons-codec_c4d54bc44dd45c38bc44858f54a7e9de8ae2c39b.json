@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/digest/DigestUtilsTest.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/test/org/apache/commons/codec/digest/DigestUtilsTest.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/binary/Base64Test.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base64Test.java",
+			"rightBegin":44,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/DoubleMetaphone.java",
+			"leftBegin":1034,
+			"leftEnd":1036,
+			"rightPath":"src/java/org/apache/commons/codec/language/DoubleMetaphone.java",
+			"rightBegin":1034,
+			"rightEnd":1036
+		}
+	]
+]

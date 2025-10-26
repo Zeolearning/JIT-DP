@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/FileURLStreamHandler.java",
+			"leftBegin":1,
+			"leftEnd":60,
+			"rightPath":"src/test/org/apache/commons/configuration/FileURLStreamHandler.java",
+			"rightBegin":1,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/ConfigurationAssert.java",
+			"leftBegin":1,
+			"leftEnd":49,
+			"rightPath":"src/test/org/apache/commons/configuration/ConfigurationAssert.java",
+			"rightBegin":1,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/store/MongoStore.java",
+			"leftBegin":419,
+			"leftEnd":418,
+			"rightPath":"gora-mongodb/src/main/java/org/apache/gora/mongodb/store/MongoStore.java",
+			"rightBegin":419,
+			"rightEnd":419
+		}
+	]
+]

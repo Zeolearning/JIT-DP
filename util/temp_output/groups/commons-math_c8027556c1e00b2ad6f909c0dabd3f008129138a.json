@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"leftBegin":97,
+			"leftEnd":96,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/MathUserException.java",
+			"rightBegin":99,
+			"rightEnd":108
+		}
+	]
+]

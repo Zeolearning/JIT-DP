@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"rightBegin":96,
+			"rightEnd":97
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"rightBegin":79,
+			"rightEnd":79
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"leftBegin":81,
+			"leftEnd":93,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java",
+			"rightBegin":82,
+			"rightEnd":94
+		}
+	]
+]

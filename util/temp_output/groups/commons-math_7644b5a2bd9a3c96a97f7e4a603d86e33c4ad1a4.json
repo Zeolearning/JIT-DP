@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldExpandableODE.java",
+			"leftBegin":82,
+			"leftEnd":82,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldExpandableODE.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ode/FieldExpandableODE.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/math4/ode/FieldExpandableODE.java",
+			"rightBegin":101,
+			"rightEnd":122
+		}
+	]
+]

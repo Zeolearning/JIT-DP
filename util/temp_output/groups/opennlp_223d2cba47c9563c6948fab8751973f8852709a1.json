@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderTest.java",
+			"rightBegin":50,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderTest.java",
+			"leftBegin":126,
+			"leftEnd":125,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderTest.java",
+			"rightBegin":130,
+			"rightEnd":139
+		}
+	]
+]

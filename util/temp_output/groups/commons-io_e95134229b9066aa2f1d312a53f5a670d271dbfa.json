@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"rightBegin":21,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"leftBegin":75,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"rightBegin":74,
+			"rightEnd":74
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"leftBegin":80,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/io/testtools/TestUtils.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	]
+]

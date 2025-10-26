@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/CallMethodRuleTestCase.java",
+			"leftBegin":278,
+			"leftEnd":283,
+			"rightPath":"src/test/java/org/apache/commons/digester3/CallMethodRuleTestCase.java",
+			"rightBegin":275,
+			"rightEnd":274
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/CallMethodRuleTestCase.java",
+			"leftBegin":271,
+			"leftEnd":276,
+			"rightPath":"src/test/java/org/apache/commons/digester3/CallMethodRuleTestCase.java",
+			"rightBegin":271,
+			"rightEnd":273
+		}
+	]
+]

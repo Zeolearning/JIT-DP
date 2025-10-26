@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/TestUniqueFilterIterator.java",
+			"rightBegin":1,
+			"rightEnd":161
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/UniqueFilterIterator.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/VFS.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/VFS.java",
+			"rightBegin":116,
+			"rightEnd":125
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/VFSTest.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":47,
+			"leftEnd":46,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":47,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"leftBegin":83,
+			"leftEnd":82,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java",
+			"rightBegin":84,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/muc/Muc6FullParseCorefSampleStreamFactory.java",
+			"rightBegin":1,
+			"rightEnd":125
+		}
+	]
+]

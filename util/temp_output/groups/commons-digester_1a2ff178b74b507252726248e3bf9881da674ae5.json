@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/SetPropertiesBuilder.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/SetPropertiesBuilder.java",
+			"rightBegin":62,
+			"rightEnd":80
+		}
+	]
+]

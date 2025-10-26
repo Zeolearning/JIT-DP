@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolver.java",
+			"leftBegin":76,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolver.java",
+			"rightBegin":76,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolver.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolver.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/util/FormattableUtils.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/lang3/util/FormattableUtils.java",
+			"rightBegin":25,
+			"rightEnd":25
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/util/FormattableUtils.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/lang3/util/FormattableUtils.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	]
+]

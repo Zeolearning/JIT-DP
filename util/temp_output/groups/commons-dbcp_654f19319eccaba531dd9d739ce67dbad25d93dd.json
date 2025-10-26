@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java",
+			"leftBegin":57,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java",
+			"rightBegin":57,
+			"rightEnd":67
+		}
+	]
+]

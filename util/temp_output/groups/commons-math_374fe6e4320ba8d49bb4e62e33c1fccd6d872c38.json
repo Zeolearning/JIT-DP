@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java",
+			"leftBegin":286,
+			"leftEnd":286,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java",
+			"rightBegin":289,
+			"rightEnd":288
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java",
+			"leftBegin":282,
+			"leftEnd":284,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java",
+			"rightBegin":282,
+			"rightEnd":287
+		}
+	]
+]

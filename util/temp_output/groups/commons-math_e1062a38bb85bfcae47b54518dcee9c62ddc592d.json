@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"rightBegin":110,
+			"rightEnd":163
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"leftBegin":176,
+			"leftEnd":175,
+			"rightPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"rightBegin":231,
+			"rightEnd":268
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"src/test/org/apache/commons/math/fraction/FractionFormatTest.java",
+			"rightBegin":19,
+			"rightEnd":19
+		}
+	]
+]

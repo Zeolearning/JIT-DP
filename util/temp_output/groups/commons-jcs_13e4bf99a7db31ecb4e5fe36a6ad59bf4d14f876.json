@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/engine/control/event/TestElementEventHandler.java",
+			"rightBegin":1,
+			"rightEnd":25
+		}
+	]
+]

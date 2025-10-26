@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"rightBegin":52,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"rightBegin":49,
+			"rightEnd":49
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"leftBegin":44,
+			"leftEnd":45,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"rightBegin":44,
+			"rightEnd":44
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

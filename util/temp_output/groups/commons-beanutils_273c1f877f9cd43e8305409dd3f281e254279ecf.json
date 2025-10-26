@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/IndexedTestBean.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/beanutils/IndexedTestBean.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

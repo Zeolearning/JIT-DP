@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationException.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationException.java",
+			"rightBegin":20,
+			"rightEnd":19
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/ConfigurationException.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/configuration/ConfigurationException.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/XmlRulesModule.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/XmlRulesModule.java",
+			"rightBegin":92,
+			"rightEnd":92
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/ObjectParamRule.java",
+			"rightBegin":1,
+			"rightEnd":81
+		}
+	]
+]

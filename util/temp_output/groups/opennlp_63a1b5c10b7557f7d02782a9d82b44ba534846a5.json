@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/QNTrainer.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/QNTrainer.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/QNTrainer.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/maxent/quasinewton/QNTrainer.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

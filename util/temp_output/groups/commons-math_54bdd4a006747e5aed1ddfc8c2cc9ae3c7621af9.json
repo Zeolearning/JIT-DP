@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/RectangularCholeskyDecomposition.java",
+			"leftBegin":20,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/RectangularCholeskyDecomposition.java",
+			"rightBegin":20,
+			"rightEnd":19
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/RectangularCholeskyDecomposition.java",
+			"leftBegin":35,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/RectangularCholeskyDecomposition.java",
+			"rightBegin":33,
+			"rightEnd":36
+		}
+	]
+]

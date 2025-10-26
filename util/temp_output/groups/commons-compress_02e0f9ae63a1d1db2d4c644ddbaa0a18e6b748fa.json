@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/tar/TarLister.java",
+			"rightBegin":1,
+			"rightEnd":79
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshRepository.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshRepository.java",
+			"rightBegin":255,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/sftp/SFTPRepository.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/sftp/SFTPRepository.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	]
+]

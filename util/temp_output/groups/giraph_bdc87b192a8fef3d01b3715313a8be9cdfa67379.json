@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/BasicVertex.java",
+			"leftBegin":177,
+			"leftEnd":177,
+			"rightPath":"src/main/java/org/apache/giraph/graph/BasicVertex.java",
+			"rightBegin":177,
+			"rightEnd":181
+		}
+	]
+]

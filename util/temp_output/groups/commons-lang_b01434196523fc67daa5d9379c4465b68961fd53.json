@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/RandomStringUtilsTest.java",
+			"leftBegin":318,
+			"leftEnd":318,
+			"rightPath":"src/test/org/apache/commons/lang/RandomStringUtilsTest.java",
+			"rightBegin":318,
+			"rightEnd":344
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/RandomStringUtils.java",
+			"leftBegin":246,
+			"leftEnd":247,
+			"rightPath":"src/java/org/apache/commons/lang/RandomStringUtils.java",
+			"rightBegin":254,
+			"rightEnd":279
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/RandomStringUtils.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/lang/RandomStringUtils.java",
+			"rightBegin":21,
+			"rightEnd":28
+		}
+	]
+]

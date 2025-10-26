@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/statistics/TestStatistics.java",
+			"rightBegin":1,
+			"rightEnd":449
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"leftBegin":152,
+			"leftEnd":153,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"rightBegin":152,
+			"rightEnd":153
+		},
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-hadoop/src/test/java/org/apache/parquet/statistics/RandomValues.java",
+			"rightBegin":1,
+			"rightEnd":271
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/env/AbstractStateMachine.java",
+			"leftBegin":165,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/scxml/env/AbstractStateMachine.java",
+			"rightBegin":165,
+			"rightEnd":165
+		}
+	]
+]

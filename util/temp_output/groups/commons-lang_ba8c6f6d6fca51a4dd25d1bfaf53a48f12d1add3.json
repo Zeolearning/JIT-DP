@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/ValidateTest.java",
+			"leftBegin":1049,
+			"leftEnd":1048,
+			"rightPath":"src/test/java/org/apache/commons/lang3/ValidateTest.java",
+			"rightBegin":1049,
+			"rightEnd":1072
+		}
+	]
+]

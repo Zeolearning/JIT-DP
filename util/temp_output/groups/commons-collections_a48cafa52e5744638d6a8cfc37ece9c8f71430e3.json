@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"leftBegin":964,
+			"leftEnd":963,
+			"rightPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"rightBegin":966,
+			"rightEnd":966
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"leftBegin":935,
+			"leftEnd":934,
+			"rightPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"rightBegin":936,
+			"rightEnd":936
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"leftBegin":913,
+			"leftEnd":912,
+			"rightPath":"src/main/java/org/apache/commons/collections4/MapUtils.java",
+			"rightBegin":913,
+			"rightEnd":913
+		}
+	]
+]

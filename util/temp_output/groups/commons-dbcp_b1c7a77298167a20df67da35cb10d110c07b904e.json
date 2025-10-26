@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/managed/TestManagedDataSource.java",
+			"leftBegin":253,
+			"leftEnd":253,
+			"rightPath":"src/test/org/apache/commons/dbcp2/managed/TestManagedDataSource.java",
+			"rightBegin":253,
+			"rightEnd":253
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestPoolingDataSource.java",
+			"leftBegin":173,
+			"leftEnd":173,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestPoolingDataSource.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	]
+]

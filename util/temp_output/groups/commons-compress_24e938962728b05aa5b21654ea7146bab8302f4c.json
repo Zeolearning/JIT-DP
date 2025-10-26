@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"rightBegin":288,
+			"rightEnd":288
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"leftBegin":273,
+			"leftEnd":272,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"rightBegin":273,
+			"rightEnd":273
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"leftBegin":301,
+			"leftEnd":300,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java",
+			"rightBegin":303,
+			"rightEnd":303
+		}
+	]
+]

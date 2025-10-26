@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java",
+			"leftBegin":115,
+			"leftEnd":116,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"leftBegin":227,
+			"leftEnd":226,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"rightBegin":227,
+			"rightEnd":228
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphMapper.java",
+			"leftBegin":58,
+			"leftEnd":61,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphMapper.java",
+			"rightBegin":58,
+			"rightEnd":57
+		}
+	]
+]

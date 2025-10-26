@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"leftBegin":49,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"rightBegin":56,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"leftBegin":41,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"leftBegin":28,
+			"leftEnd":30,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/UnicodeEscaper.java",
+			"rightBegin":28,
+			"rightEnd":40
+		}
+	]
+]

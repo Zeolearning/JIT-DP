@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"leftBegin":105,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"rightBegin":105,
+			"rightEnd":105
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"rightBegin":20,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"leftBegin":84,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/FieldOrMethod.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	]
+]

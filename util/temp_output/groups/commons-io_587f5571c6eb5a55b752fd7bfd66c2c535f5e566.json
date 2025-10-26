@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/input/TailerTest.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/TailerListenerAdapter.java",
+			"rightBegin":1,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/TailerListener.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/input/Tailer.java",
+			"rightBegin":1,
+			"rightEnd":232
+		}
+	]
+]

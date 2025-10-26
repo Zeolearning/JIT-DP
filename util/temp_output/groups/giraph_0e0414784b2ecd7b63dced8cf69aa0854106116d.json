@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-examples/src/test/java/org/apache/giraph/examples/ConnectedComponentsVertexTestInMemory.java",
+			"rightBegin":1,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/TestGraph.java",
+			"rightBegin":1,
+			"rightEnd":217
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/InMemoryVertexInputFormat.java",
+			"rightBegin":1,
+			"rightEnd":110
+		}
+	]
+]

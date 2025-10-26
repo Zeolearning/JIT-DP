@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"rightBegin":103,
+			"rightEnd":106
+		},
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"leftBegin":27,
+			"leftEnd":30,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/TestParquetFileWriter.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

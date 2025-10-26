@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"leftBegin":58,
+			"leftEnd":60,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"rightBegin":56,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"leftBegin":35,
+			"leftEnd":46,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"rightBegin":45,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/AbstractDoubleLinkedListMemoryCache.java",
+			"rightBegin":22,
+			"rightEnd":31
+		}
+	]
+]

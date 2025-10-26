@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/JsonToStringStyleTest.java",
+			"leftBegin":340,
+			"leftEnd":339,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/JsonToStringStyleTest.java",
+			"rightBegin":364,
+			"rightEnd":379
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/JsonToStringStyleTest.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/JsonToStringStyleTest.java",
+			"rightBegin":232,
+			"rightEnd":255
+		}
+	]
+]

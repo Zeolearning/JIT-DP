@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/postag/POSEvaluatorTest.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/postag/POSEvaluatorTest.java",
+			"rightBegin":94,
+			"rightEnd":103
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":168,
+			"rightEnd":168
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":165,
+			"leftEnd":167,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":163,
+			"rightEnd":165
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":63,
+			"rightEnd":62
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"leftBegin":162,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/commons/net/finger/FingerClient.java",
+			"rightBegin":161,
+			"rightEnd":161
+		}
+	]
+]

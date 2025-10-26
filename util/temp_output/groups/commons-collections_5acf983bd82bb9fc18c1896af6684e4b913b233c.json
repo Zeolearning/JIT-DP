@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestIndexedCollection.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/test/org/apache/commons/collections/TestIndexedCollection.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

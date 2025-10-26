@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderEvaluator.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/TokenNameFinderEvaluator.java",
+			"rightBegin":79,
+			"rightEnd":83
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/function/StepFunctionTest.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/function/StepFunctionTest.java",
+			"rightBegin":81,
+			"rightEnd":94
+		}
+	]
+]

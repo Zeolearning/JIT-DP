@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/RealConvergenceChecker.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/math/optimization/RealConvergenceChecker.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/optimization/SimpleRealPointChecker.java",
+			"rightBegin":1,
+			"rightEnd":89
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/optimization/SimpleVectorialPointChecker.java",
+			"rightBegin":1,
+			"rightEnd":92
+		}
+	]
+]

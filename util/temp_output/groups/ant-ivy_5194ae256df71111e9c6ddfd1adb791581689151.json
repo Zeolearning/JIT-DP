@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"rightBegin":24,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"leftBegin":11,
+			"leftEnd":11,
+			"rightPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"rightBegin":11,
+			"rightEnd":10
+		},
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"leftBegin":14,
+			"leftEnd":13,
+			"rightPath":"src/java/fr/jayasoft/ivy/report/ResolveReport.java",
+			"rightBegin":13,
+			"rightEnd":13
+		}
+	]
+]

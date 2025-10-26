@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"leftBegin":90,
+			"leftEnd":89,
+			"rightPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"rightBegin":95,
+			"rightEnd":101
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/java/org/apache/bcel/classfile/AccessFlags.java",
+			"rightBegin":83,
+			"rightEnd":88
+		}
+	]
+]

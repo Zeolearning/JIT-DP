@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/converters/BaseLocaleConverterTestCase.java",
+			"leftBegin":255,
+			"leftEnd":254,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/converters/BaseLocaleConverterTestCase.java",
+			"rightBegin":257,
+			"rightEnd":264
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/locale/converters/BaseLocaleConverterTestCase.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/org/apache/commons/beanutils/locale/converters/BaseLocaleConverterTestCase.java",
+			"rightBegin":25,
+			"rightEnd":27
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"leftBegin":208,
+			"leftEnd":209,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"rightBegin":208,
+			"rightEnd":209
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"rightBegin":91,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"leftBegin":177,
+			"leftEnd":180,
+			"rightPath":"src/java/org/apache/commons/math/ode/sampling/NordsieckStepInterpolator.java",
+			"rightBegin":177,
+			"rightEnd":180
+		}
+	]
+]

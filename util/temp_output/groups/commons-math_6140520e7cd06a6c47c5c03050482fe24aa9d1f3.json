@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/moment/VarianceTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/moment/VarianceTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/moment/VarianceTest.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/moment/VarianceTest.java",
+			"rightBegin":85,
+			"rightEnd":88
+		}
+	]
+]

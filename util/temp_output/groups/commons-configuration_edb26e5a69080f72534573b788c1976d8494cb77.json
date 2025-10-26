@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationMap.java",
+			"leftBegin":68,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationMap.java",
+			"rightBegin":68,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationMap.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationMap.java",
+			"rightBegin":79,
+			"rightEnd":79
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/handlers/SetPropertiesLoaderHandler.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/handlers/SetPropertiesLoaderHandler.java",
+			"rightBegin":38,
+			"rightEnd":39
+		}
+	]
+]

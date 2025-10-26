@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"doc/presentations/apache-con-2007/demo/3/ivy-demo-3B/src/demo3B/Demo3B.java",
+			"rightBegin":1,
+			"rightEnd":7
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"doc/presentations/apache-con-2007/demo/3/ivy-demo-3A/src/demo3A/Demo3A.java",
+			"rightBegin":1,
+			"rightEnd":7
+		}
+	]
+]

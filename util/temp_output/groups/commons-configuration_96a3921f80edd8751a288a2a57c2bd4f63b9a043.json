@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedBuilderParametersImpl.java",
+			"leftBegin":52,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedBuilderParametersImpl.java",
+			"rightBegin":51,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedBuilderParametersImpl.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedBuilderParametersImpl.java",
+			"rightBegin":25,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"leftBegin":52,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedBuilderParametersImpl.java",
+			"rightBegin":52,
+			"rightEnd":53
+		}
+	]
+]

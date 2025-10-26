@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PSquarePercentileTest.java",
+			"leftBegin":755,
+			"leftEnd":756,
+			"rightPath":"src/test/java/org/apache/commons/math3/stat/descriptive/rank/PSquarePercentileTest.java",
+			"rightBegin":755,
+			"rightEnd":756
+		}
+	]
+]

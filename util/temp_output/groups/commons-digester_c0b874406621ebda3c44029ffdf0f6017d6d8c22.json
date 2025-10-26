@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"leftBegin":129,
+			"leftEnd":128,
+			"rightPath":"examples/plugins/pipeline/src/main/java/org/apache/commons/digester3/examples/plugins/pipeline/Pipeline.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	]
+]

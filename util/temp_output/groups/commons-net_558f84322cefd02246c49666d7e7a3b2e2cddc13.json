@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/util/UtilTest.java",
+			"leftBegin":40,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/net/util/UtilTest.java",
+			"rightBegin":40,
+			"rightEnd":43
+		}
+	]
+]

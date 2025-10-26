@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"leftBegin":693,
+			"leftEnd":693,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"rightBegin":698,
+			"rightEnd":698
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"leftBegin":686,
+			"leftEnd":685,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"rightBegin":689,
+			"rightEnd":690
+		},
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"leftBegin":653,
+			"leftEnd":652,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/store/DataStoreTestUtil.java",
+			"rightBegin":653,
+			"rightEnd":655
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"leftBegin":701,
+			"leftEnd":700,
+			"rightPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"rightBegin":702,
+			"rightEnd":702
+		},
+		{
+			"leftPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"leftBegin":694,
+			"leftEnd":693,
+			"rightPath":"gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java",
+			"rightBegin":694,
+			"rightEnd":694
+		}
+	]
+]

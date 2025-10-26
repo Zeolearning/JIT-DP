@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+			"leftBegin":215,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+			"rightBegin":215,
+			"rightEnd":215
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+			"leftBegin":174,
+			"leftEnd":173,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+			"rightBegin":174,
+			"rightEnd":174
+		}
+	]
+]

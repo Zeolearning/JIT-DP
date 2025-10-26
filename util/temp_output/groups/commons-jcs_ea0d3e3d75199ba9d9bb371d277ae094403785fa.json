@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/jcs/auxiliary/lateral/socket/tcp/LateralTCPSender.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/java/org/apache/commons/jcs/auxiliary/lateral/socket/tcp/LateralTCPSender.java",
+			"rightBegin":133,
+			"rightEnd":136
+		}
+	]
+]

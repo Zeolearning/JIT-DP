@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/UTF8ZipFilesTest.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/UTF8ZipFilesTest.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":352,
+			"leftEnd":352,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":353,
+			"rightEnd":353
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"leftBegin":348,
+			"leftEnd":348,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java",
+			"rightBegin":348,
+			"rightEnd":349
+		}
+	]
+]

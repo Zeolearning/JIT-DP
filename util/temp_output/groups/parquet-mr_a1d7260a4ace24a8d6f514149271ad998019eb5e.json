@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"leftBegin":43,
+			"leftEnd":42,
+			"rightPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"rightBegin":43,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/schema/PrimitiveType.java",
+			"leftBegin":396,
+			"leftEnd":395,
+			"rightPath":"parquet-column/src/main/java/parquet/schema/PrimitiveType.java",
+			"rightBegin":396,
+			"rightEnd":399
+		}
+	]
+]

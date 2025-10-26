@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/function/GaussianTest.java",
+			"leftBegin":74,
+			"leftEnd":77,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/function/GaussianTest.java",
+			"rightBegin":74,
+			"rightEnd":77
+		}
+	]
+]

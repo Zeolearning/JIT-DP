@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/fr/jayasoft/ivy/conflict/RegexpConflictManagerTest.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/fr/jayasoft/ivy/conflict/RegexpConflictManager.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	]
+]

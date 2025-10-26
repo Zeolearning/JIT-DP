@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/ByteArrayEdges.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/ByteArrayEdges.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/edge/ByteArrayEdges.java",
+			"leftBegin":167,
+			"leftEnd":167,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/edge/ByteArrayEdges.java",
+			"rightBegin":168,
+			"rightEnd":172
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java",
+			"leftBegin":240,
+			"leftEnd":239,
+			"rightPath":"src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java",
+			"rightBegin":244,
+			"rightEnd":247
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java",
+			"rightBegin":220,
+			"rightEnd":223
+		}
+	]
+]

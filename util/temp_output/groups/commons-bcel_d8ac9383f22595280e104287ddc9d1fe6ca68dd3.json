@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/Verifier.java",
+			"leftBegin":200,
+			"leftEnd":200,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/Verifier.java",
+			"rightBegin":200,
+			"rightEnd":200
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/JasminVisitor.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"src/examples/JasminVisitor.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/VerifierAppFrame.java",
+			"leftBegin":388,
+			"leftEnd":388,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/VerifierAppFrame.java",
+			"rightBegin":388,
+			"rightEnd":388
+		}
+	]
+]

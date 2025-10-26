@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/format/hcatalog/package-info.java",
+			"rightBegin":1,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/format/hcatalog/HiveGiraphRunner.java",
+			"rightBegin":1,
+			"rightEnd":359
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/format/hcatalog/HCatalogVertexOutputFormat.java",
+			"rightBegin":1,
+			"rightEnd":199
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-formats-contrib/src/main/java/org/apache/giraph/format/hcatalog/HCatalogVertexInputFormat.java",
+			"rightBegin":1,
+			"rightEnd":281
+		}
+	]
+]

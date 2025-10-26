@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedRefCollector.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedRefCollector.java",
+			"rightBegin":23,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedRefCollector.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/lang/ref/KeyedRefCollector.java",
+			"rightBegin":63,
+			"rightEnd":67
+		}
+	]
+]

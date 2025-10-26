@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/fraction/FractionConversionException.java",
+			"rightBegin":1,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/fraction/Fraction.java",
+			"leftBegin":1,
+			"leftEnd":486,
+			"rightPath":"src/java/org/apache/commons/math/fraction/Fraction.java",
+			"rightBegin":1,
+			"rightEnd":485
+		}
+	]
+]

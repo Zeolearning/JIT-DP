@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/RegexNameFinder.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/namefind/RegexNameFinder.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/RegexNameFinderFactoryTest.java",
+			"rightBegin":1,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/WhitespaceTokenizer.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/WhitespaceTokenizer.java",
+			"rightBegin":48,
+			"rightEnd":48
+		}
+	]
+]

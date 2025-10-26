@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSetTest.java",
+			"leftBegin":288,
+			"leftEnd":287,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSetTest.java",
+			"rightBegin":288,
+			"rightEnd":309
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+			"leftBegin":193,
+			"leftEnd":192,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+			"rightBegin":203,
+			"rightEnd":206
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+			"leftBegin":62,
+			"leftEnd":61,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+			"rightBegin":62,
+			"rightEnd":71
+		}
+	]
+]

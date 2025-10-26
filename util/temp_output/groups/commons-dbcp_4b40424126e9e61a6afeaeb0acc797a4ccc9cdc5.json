@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/ConnectionImpl.java",
+			"rightBegin":63,
+			"rightEnd":63
+		}
+	]
+]

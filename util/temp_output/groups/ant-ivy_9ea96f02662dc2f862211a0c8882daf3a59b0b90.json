@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"rightBegin":114,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"leftBegin":82,
+			"leftEnd":83,
+			"rightPath":"src/java/org/apache/ivy/util/url/IvyAuthenticator.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"leftBegin":570,
+			"leftEnd":570,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"rightBegin":573,
+			"rightEnd":576
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"leftBegin":567,
+			"leftEnd":567,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+			"rightBegin":567,
+			"rightEnd":570
+		}
+	]
+]

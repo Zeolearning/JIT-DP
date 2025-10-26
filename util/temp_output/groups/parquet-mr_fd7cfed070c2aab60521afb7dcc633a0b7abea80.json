@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/Registry.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/Registry.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/RowCountCommand.java",
+			"rightBegin":1,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-tools/src/main/java/org/apache/parquet/tools/command/SizeCommand.java",
+			"rightBegin":1,
+			"rightEnd":140
+		}
+	]
+]

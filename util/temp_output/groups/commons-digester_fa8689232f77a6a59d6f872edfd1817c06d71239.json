@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/ObjectCreateHandler.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/digester3/annotations/handlers/ObjectCreateHandler.java",
+			"rightBegin":55,
+			"rightEnd":56
+		}
+	]
+]

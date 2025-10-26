@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/ValueServer.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/java/org/apache/commons/math/random/ValueServer.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/random/ValueServer.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/java/org/apache/commons/math/random/ValueServer.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	]
+]

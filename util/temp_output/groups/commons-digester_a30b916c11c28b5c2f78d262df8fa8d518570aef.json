@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"leftBegin":238,
+			"leftEnd":237,
+			"rightPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"rightBegin":244,
+			"rightEnd":339
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"rightBegin":36,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"rightBegin":33,
+			"rightEnd":34
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/digester3/DigesterLoader.java",
+			"rightBegin":28,
+			"rightEnd":29
+		}
+	]
+]

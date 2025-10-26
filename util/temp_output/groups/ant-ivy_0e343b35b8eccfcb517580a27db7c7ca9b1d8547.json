@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":218,
+			"leftEnd":218,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":218,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"rightBegin":155,
+			"rightEnd":155
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"rightBegin":118,
+			"rightEnd":120
+		}
+	]
+]

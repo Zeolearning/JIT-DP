@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/resources/Java8Example.java",
+			"rightBegin":1,
+			"rightEnd":13
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/bcel/util/Class2HTMLTestCase.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/URLResolverTest.java",
+			"leftBegin":141,
+			"leftEnd":140,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/URLResolverTest.java",
+			"rightBegin":141,
+			"rightEnd":161
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/url/URLRepository.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/url/URLRepository.java",
+			"rightBegin":112,
+			"rightEnd":117
+		}
+	]
+]

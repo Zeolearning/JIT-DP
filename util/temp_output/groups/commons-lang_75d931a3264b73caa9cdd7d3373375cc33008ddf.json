@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/LocaleUtilsTest.java",
+			"leftBegin":501,
+			"leftEnd":500,
+			"rightPath":"src/test/org/apache/commons/lang/LocaleUtilsTest.java",
+			"rightBegin":501,
+			"rightEnd":507
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/commons/lang/LocaleUtils.java",
+			"rightBegin":114,
+			"rightEnd":116
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-uima/src/test/java/opennlp/uima/AnnotatorsInitializationTest.java",
+			"rightBegin":1,
+			"rightEnd":65
+		}
+	]
+]

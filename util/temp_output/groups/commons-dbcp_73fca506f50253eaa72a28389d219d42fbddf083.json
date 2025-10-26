@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/SQLNestedException.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/java/org/apache/commons/dbcp/SQLNestedException.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/SQLNestedException.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/java/org/apache/commons/dbcp/SQLNestedException.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

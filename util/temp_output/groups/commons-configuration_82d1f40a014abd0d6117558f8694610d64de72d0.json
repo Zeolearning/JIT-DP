@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestINIConfiguration.java",
+			"leftBegin":896,
+			"leftEnd":895,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestINIConfiguration.java",
+			"rightBegin":896,
+			"rightEnd":897
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestINIConfiguration.java",
+			"leftBegin":893,
+			"leftEnd":893,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestINIConfiguration.java",
+			"rightBegin":893,
+			"rightEnd":893
+		}
+	]
+]

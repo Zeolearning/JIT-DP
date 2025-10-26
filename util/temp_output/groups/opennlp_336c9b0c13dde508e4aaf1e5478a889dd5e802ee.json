@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"leftBegin":333,
+			"leftEnd":332,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java",
+			"rightBegin":333,
+			"rightEnd":394
+		}
+	]
+]

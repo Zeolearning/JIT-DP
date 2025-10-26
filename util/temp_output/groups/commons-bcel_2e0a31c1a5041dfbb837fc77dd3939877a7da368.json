@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/EmptyVisitor.java",
+			"leftBegin":34,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/bcel/classfile/EmptyVisitor.java",
+			"rightBegin":34,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Visitor.java",
+			"leftBegin":32,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/bcel/classfile/Visitor.java",
+			"rightBegin":32,
+			"rightEnd":33
+		}
+	]
+]

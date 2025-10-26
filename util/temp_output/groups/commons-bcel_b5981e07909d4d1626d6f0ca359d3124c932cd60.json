@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":445,
+			"leftEnd":445,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":443,
+			"rightEnd":443
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"leftBegin":163,
+			"leftEnd":165,
+			"rightPath":"src/main/java/org/apache/bcel/classfile/Utility.java",
+			"rightBegin":163,
+			"rightEnd":163
+		}
+	]
+]

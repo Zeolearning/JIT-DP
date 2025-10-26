@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/Person.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/Person.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/Person.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/examples/api/addressbook/src/main/java/org/apache/commons/digester3/examples/api/addressbook/Person.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

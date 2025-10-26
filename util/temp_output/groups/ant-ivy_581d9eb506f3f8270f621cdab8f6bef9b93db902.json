@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshCache.java",
+			"leftBegin":307,
+			"leftEnd":306,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshCache.java",
+			"rightBegin":308,
+			"rightEnd":309
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshCache.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/SshCache.java",
+			"rightBegin":30,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/ssh/AbstractSshBasedRepository.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/ssh/AbstractSshBasedRepository.java",
+			"rightBegin":94,
+			"rightEnd":98
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"leftBegin":273,
+			"leftEnd":272,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"rightBegin":286,
+			"rightEnd":294
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"rightBegin":268,
+			"rightEnd":278
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"leftBegin":259,
+			"leftEnd":258,
+			"rightPath":"src/main/java/org/apache/commons/scxml/SCXMLExecutor.java",
+			"rightBegin":259,
+			"rightEnd":260
+		}
+	]
+]

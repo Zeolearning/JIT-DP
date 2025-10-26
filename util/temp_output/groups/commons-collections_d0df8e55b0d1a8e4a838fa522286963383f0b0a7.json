@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/FastTreeMap.java",
+			"leftBegin":583,
+			"leftEnd":583,
+			"rightPath":"src/java/org/apache/commons/collections/FastTreeMap.java",
+			"rightBegin":583,
+			"rightEnd":583
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/FastTreeMap.java",
+			"leftBegin":360,
+			"leftEnd":360,
+			"rightPath":"src/java/org/apache/commons/collections/FastTreeMap.java",
+			"rightBegin":360,
+			"rightEnd":360
+		}
+	]
+]

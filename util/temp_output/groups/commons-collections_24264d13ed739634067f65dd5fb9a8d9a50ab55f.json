@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/functors/TestAll.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/test/org/apache/commons/collections/functors/TestAll.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/functors/ComparatorPredicate.java",
+			"rightBegin":1,
+			"rightEnd":188
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/functors/TestComparatorPredicate.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	]
+]

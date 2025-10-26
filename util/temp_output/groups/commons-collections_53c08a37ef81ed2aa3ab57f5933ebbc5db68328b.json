@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/PeekingIterator.java",
+			"leftBegin":155,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/PeekingIterator.java",
+			"rightBegin":155,
+			"rightEnd":154
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/PeekingIterator.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/PeekingIterator.java",
+			"rightBegin":156,
+			"rightEnd":156
+		}
+	]
+]

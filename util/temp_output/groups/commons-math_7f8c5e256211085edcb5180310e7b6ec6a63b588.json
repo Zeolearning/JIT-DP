@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/MatrixIndexException.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/java/org/apache/commons/math/linear/MatrixIndexException.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/MatrixIndexExceptionTest.java",
+			"leftBegin":26,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/math/linear/MatrixIndexExceptionTest.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

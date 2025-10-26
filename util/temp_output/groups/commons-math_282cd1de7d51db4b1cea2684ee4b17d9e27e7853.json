@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/test/org/apache/commons/math/transform/FastFourierTransformerTest.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

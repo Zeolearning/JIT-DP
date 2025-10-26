@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"leftBegin":334,
+			"leftEnd":334,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"rightBegin":334,
+			"rightEnd":334
+		}
+	]
+]

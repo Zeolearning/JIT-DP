@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/share/org/apache/commons/validator/routines/RegexValidator.java",
+			"rightBegin":1,
+			"rightEnd":452
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/validator/routines/RegexValidatorTest.java",
+			"rightBegin":1,
+			"rightEnd":376
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/validator/routines/RoutinesTestSuite.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/org/apache/commons/validator/routines/RoutinesTestSuite.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

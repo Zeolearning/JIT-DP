@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"leftBegin":135,
+			"leftEnd":134,
+			"rightPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"rightBegin":136,
+			"rightEnd":136
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"src/test/java/org/apache/commons/io/IOUtilsTestCase.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"leftBegin":464,
+			"leftEnd":463,
+			"rightPath":"src/test/java/org/apache/commons/configuration/event/TestEventListenerList.java",
+			"rightBegin":464,
+			"rightEnd":476
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/event/EventListenerList.java",
+			"leftBegin":209,
+			"leftEnd":208,
+			"rightPath":"src/main/java/org/apache/commons/configuration/event/EventListenerList.java",
+			"rightBegin":209,
+			"rightEnd":216
+		}
+	]
+]

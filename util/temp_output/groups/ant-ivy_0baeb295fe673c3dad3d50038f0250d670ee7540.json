@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"leftBegin":54,
+			"leftEnd":55,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"leftBegin":45,
+			"leftEnd":51,
+			"rightPath":"src/java/fr/jayasoft/ivy/util/Message.java",
+			"rightBegin":47,
+			"rightEnd":57
+		}
+	]
+]

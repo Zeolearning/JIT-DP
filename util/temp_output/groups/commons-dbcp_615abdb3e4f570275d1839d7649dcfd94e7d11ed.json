@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"leftBegin":72,
+			"leftEnd":71,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"rightBegin":73,
+			"rightEnd":73
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"rightBegin":70,
+			"rightEnd":70
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"rightBegin":64,
+			"rightEnd":64
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestDelegatingConnection.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

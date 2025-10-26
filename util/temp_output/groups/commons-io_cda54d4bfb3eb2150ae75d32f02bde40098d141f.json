@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/commons/io/LineIterator.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

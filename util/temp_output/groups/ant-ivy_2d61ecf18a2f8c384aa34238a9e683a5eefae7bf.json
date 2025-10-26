@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"leftBegin":45,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"rightBegin":45,
+			"rightEnd":47
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"src/java/org/apache/ivy/util/url/BasicURLHandler.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/ivy/util/XMLHelper.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":461,
+			"leftEnd":460,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":460,
+			"rightEnd":476
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"leftBegin":105,
+			"leftEnd":106,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestampTest.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

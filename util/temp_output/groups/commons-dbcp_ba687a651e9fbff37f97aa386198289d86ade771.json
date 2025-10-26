@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestAll.java",
+			"leftBegin":55,
+			"leftEnd":54,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestAll.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

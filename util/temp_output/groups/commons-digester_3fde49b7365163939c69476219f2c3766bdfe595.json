@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"leftBegin":46,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"rightBegin":44,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"rightBegin":28,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"src/main/java/org/apache/commons/digester/parser/XercesParser.java",
+			"rightBegin":29,
+			"rightEnd":28
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/Frequency.java",
+			"leftBegin":265,
+			"leftEnd":266,
+			"rightPath":"src/java/org/apache/commons/math/stat/Frequency.java",
+			"rightBegin":265,
+			"rightEnd":265
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/Frequency.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/java/org/apache/commons/math/stat/Frequency.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

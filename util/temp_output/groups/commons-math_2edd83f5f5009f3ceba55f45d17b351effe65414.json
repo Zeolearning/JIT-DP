@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"leftBegin":49,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"rightBegin":55,
+			"rightEnd":89
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"leftBegin":24,
+			"leftEnd":23,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3DTest.java",
+			"rightBegin":20,
+			"rightEnd":24
+		}
+	]
+]

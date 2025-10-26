@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"leftBegin":184,
+			"leftEnd":195,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/env/javascript/JSEvaluatorTest.java",
+			"rightBegin":184,
+			"rightEnd":186
+		}
+	]
+]

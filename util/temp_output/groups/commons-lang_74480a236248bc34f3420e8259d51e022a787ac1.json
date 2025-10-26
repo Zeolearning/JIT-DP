@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/compare/FixedOrderComparator.java",
+			"leftBegin":91,
+			"leftEnd":92,
+			"rightPath":"src/main/java/org/apache/commons/lang3/compare/FixedOrderComparator.java",
+			"rightBegin":91,
+			"rightEnd":92
+		}
+	]
+]

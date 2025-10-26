@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/ConstantInvokeDynamic.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/ConstantInvokeDynamic.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/ConstantInvokeDynamic.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/ConstantInvokeDynamic.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	]
+]

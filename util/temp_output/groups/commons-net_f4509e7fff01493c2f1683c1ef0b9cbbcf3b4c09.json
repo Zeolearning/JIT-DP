@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/ftp/FTPFileEntryParserImpl.java",
+			"leftBegin":116,
+			"leftEnd":117,
+			"rightPath":"src/java/org/apache/commons/net/ftp/FTPFileEntryParserImpl.java",
+			"rightBegin":116,
+			"rightEnd":115
+		}
+	]
+]

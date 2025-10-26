@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira357TestCase.java",
+			"leftBegin":159,
+			"leftEnd":159,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira357TestCase.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

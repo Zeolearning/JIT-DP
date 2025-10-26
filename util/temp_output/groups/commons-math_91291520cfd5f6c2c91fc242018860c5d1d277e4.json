@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"rightBegin":55,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"leftBegin":47,
+			"leftEnd":47,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"rightBegin":46,
+			"rightEnd":46
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"rightBegin":37,
+			"rightEnd":37
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"leftBegin":42,
+			"leftEnd":43,
+			"rightPath":"src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

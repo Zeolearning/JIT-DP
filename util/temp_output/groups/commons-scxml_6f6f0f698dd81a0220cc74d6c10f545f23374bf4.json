@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/io/SCXMLReaderTest.java",
+			"leftBegin":281,
+			"leftEnd":280,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/io/SCXMLReaderTest.java",
+			"rightBegin":281,
+			"rightEnd":297
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/io/SCXMLReader.java",
+			"leftBegin":1097,
+			"leftEnd":1097,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/io/SCXMLReader.java",
+			"rightBegin":1097,
+			"rightEnd":1111
+		}
+	]
+]

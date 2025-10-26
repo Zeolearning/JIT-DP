@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/function/HarmonicOscillatorTest.java",
+			"rightBegin":1,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/HarmonicOscillator.java",
+			"rightBegin":1,
+			"rightEnd":155
+		}
+	]
+]

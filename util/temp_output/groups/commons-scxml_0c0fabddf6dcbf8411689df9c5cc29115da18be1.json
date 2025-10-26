@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"leftBegin":684,
+			"leftEnd":683,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"rightBegin":684,
+			"rightEnd":686
+		}
+	]
+]

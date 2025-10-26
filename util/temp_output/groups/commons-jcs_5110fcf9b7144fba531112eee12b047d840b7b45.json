@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/utils/struct/LRUMapUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/utils/struct/LRUMapPerformanceTest.java",
+			"rightBegin":1,
+			"rightEnd":185
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/utils/struct/LRUMapConcurrentUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":277
+		}
+	]
+]

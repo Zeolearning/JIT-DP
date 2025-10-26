@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/generic/Type.java",
+			"leftBegin":232,
+			"leftEnd":231,
+			"rightPath":"src/java/org/apache/bcel/generic/Type.java",
+			"rightBegin":232,
+			"rightEnd":270
+		}
+	]
+]

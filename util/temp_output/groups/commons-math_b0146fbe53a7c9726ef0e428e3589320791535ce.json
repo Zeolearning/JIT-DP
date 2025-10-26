@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":581,
+			"leftEnd":580,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":658,
+			"rightEnd":711
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"leftBegin":516,
+			"leftEnd":515,
+			"rightPath":"src/test/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizerTest.java",
+			"rightBegin":516,
+			"rightEnd":592
+		}
+	]
+]

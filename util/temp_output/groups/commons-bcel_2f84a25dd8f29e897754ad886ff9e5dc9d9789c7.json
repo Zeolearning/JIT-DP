@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"leftBegin":121,
+			"leftEnd":120,
+			"rightPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"rightBegin":146,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"leftBegin":111,
+			"leftEnd":111,
+			"rightPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"rightBegin":111,
+			"rightEnd":119
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"leftBegin":121,
+			"leftEnd":120,
+			"rightPath":"src/java/org/apache/bcel/classfile/LocalVariableTable.java",
+			"rightBegin":129,
+			"rightEnd":145
+		}
+	]
+]

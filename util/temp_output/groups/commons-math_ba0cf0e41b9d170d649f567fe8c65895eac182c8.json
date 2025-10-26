@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":398,
+			"leftEnd":397,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":399,
+			"rightEnd":399
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

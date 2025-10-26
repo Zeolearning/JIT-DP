@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/CollectionUtils.java",
+			"leftBegin":131,
+			"leftEnd":130,
+			"rightPath":"src/main/java/org/apache/commons/collections/CollectionUtils.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	]
+]

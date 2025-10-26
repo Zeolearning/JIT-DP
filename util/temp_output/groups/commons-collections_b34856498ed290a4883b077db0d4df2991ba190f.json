@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/functors/NullPredicateTest.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/test/java/org/apache/commons/collections4/functors/NullPredicateTest.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

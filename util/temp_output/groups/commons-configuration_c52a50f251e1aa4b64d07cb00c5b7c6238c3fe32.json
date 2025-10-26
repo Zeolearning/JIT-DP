@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/HierarchicalConfigurationXMLReader.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/configuration/HierarchicalConfigurationXMLReader.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/DynamicCombinedConfiguration.java",
+			"leftBegin":383,
+			"leftEnd":383,
+			"rightPath":"src/main/java/org/apache/commons/configuration/DynamicCombinedConfiguration.java",
+			"rightBegin":383,
+			"rightEnd":383
+		}
+	]
+]

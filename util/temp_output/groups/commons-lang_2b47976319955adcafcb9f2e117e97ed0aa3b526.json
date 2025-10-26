@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/mutable/MutableInteger.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/java/org/apache/commons/lang/mutable/MutableInteger.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/mutable/MutableInteger.java",
+			"leftBegin":58,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/commons/lang/mutable/MutableInteger.java",
+			"rightBegin":58,
+			"rightEnd":58
+		}
+	]
+]

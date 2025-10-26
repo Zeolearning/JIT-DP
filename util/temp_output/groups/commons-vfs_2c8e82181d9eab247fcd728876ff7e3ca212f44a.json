@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/cache/NullFilesCacheTestCase.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/cache/NullFilesCacheTestCase.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

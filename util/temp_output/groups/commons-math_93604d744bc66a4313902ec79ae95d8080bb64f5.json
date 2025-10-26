@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"leftBegin":274,
+			"leftEnd":273,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"rightBegin":274,
+			"rightEnd":275
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/random/StableRandomGeneratorTest.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/random/StableRandomGenerator.java",
+			"rightBegin":1,
+			"rightEnd":131
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/RegexValidatorTest.java",
+			"leftBegin":280,
+			"leftEnd":279,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/RegexValidatorTest.java",
+			"rightBegin":280,
+			"rightEnd":280
+		}
+	]
+]

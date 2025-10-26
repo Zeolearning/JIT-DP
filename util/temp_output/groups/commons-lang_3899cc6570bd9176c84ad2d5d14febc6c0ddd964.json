@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/RandomUtils.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/lang3/RandomUtils.java",
+			"rightBegin":52,
+			"rightEnd":62
+		}
+	]
+]

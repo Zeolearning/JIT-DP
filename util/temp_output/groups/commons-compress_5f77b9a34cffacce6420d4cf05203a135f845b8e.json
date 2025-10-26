@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ExceptionMessageTest.java",
+			"leftBegin":3,
+			"leftEnd":3,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ExceptionMessageTest.java",
+			"rightBegin":3,
+			"rightEnd":3
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/utils/CharsetsTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/compress/utils/CharsetsTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

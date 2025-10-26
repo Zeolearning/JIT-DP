@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"leftBegin":512,
+			"leftEnd":512,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"rightBegin":512,
+			"rightEnd":512
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"leftBegin":501,
+			"leftEnd":501,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"rightBegin":501,
+			"rightEnd":501
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"leftBegin":492,
+			"leftEnd":492,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java",
+			"rightBegin":492,
+			"rightEnd":492
+		}
+	]
+]

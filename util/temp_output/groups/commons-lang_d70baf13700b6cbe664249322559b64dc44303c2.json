@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaperTest.java",
+			"leftBegin":69,
+			"leftEnd":70,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaperTest.java",
+			"rightBegin":69,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

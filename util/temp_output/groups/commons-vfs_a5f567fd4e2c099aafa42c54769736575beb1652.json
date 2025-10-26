@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/vfs/test/AbstractFileSystemTestCase.java",
+			"leftBegin":144,
+			"leftEnd":145,
+			"rightPath":"src/test/org/apache/commons/vfs/test/AbstractFileSystemTestCase.java",
+			"rightBegin":144,
+			"rightEnd":144
+		}
+	]
+]

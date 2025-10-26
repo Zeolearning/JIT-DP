@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/retrieve/RetrieveOptions.java",
+			"leftBegin":30,
+			"leftEnd":33,
+			"rightPath":"src/java/org/apache/ivy/core/retrieve/RetrieveOptions.java",
+			"rightBegin":30,
+			"rightEnd":33
+		}
+	]
+]

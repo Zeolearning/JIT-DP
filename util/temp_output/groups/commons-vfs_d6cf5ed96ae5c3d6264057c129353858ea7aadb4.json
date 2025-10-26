@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/cache/FilesCacheTestsBase.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/cache/FilesCacheTestsBase.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/cache/FilesCacheTestsBase.java",
+			"leftBegin":27,
+			"leftEnd":28,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/cache/FilesCacheTestsBase.java",
+			"rightBegin":28,
+			"rightEnd":31
+		}
+	]
+]

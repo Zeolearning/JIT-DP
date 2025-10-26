@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"leftBegin":439,
+			"leftEnd":440,
+			"rightPath":"src/main/java/org/apache/commons/net/SocketClient.java",
+			"rightBegin":439,
+			"rightEnd":463
+		}
+	]
+]

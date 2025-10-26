@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"leftBegin":213,
+			"leftEnd":213,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"rightBegin":212,
+			"rightEnd":214
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"leftBegin":208,
+			"leftEnd":210,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"rightBegin":207,
+			"rightEnd":209
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"leftBegin":204,
+			"leftEnd":204,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/TestReloadingFileBasedConfigurationBuilder.java",
+			"rightBegin":204,
+			"rightEnd":203
+		}
+	]
+]

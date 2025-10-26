@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/TestBasicDataSourceFactory.java",
+			"leftBegin":85,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/TestBasicDataSourceFactory.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSourceFactory.java",
+			"leftBegin":185,
+			"leftEnd":185,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSourceFactory.java",
+			"rightBegin":184,
+			"rightEnd":184
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSourceFactory.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/dbcp2/BasicDataSourceFactory.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	]
+]

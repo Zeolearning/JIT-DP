@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"leftBegin":979,
+			"leftEnd":978,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanUtilsTestCase.java",
+			"rightBegin":979,
+			"rightEnd":999
+		}
+	]
+]

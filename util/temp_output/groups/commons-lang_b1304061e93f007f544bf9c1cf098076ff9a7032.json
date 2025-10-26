@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/JavaUnicodeEscaper.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/JavaUnicodeEscaper.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"leftBegin":2760,
+			"leftEnd":2759,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"rightBegin":2760,
+			"rightEnd":2760
+		}
+	]
+]

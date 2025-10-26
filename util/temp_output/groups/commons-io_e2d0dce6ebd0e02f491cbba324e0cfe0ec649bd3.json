@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/DefaultFileComparatorTest.java",
+			"leftBegin":63,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/io/comparator/DefaultFileComparatorTest.java",
+			"rightBegin":63,
+			"rightEnd":64
+		}
+	]
+]

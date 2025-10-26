@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/bugs/Jira349TestCase.java",
+			"rightBegin":1,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/BeanPropertyValueChangeClosureTestCase.java",
+			"leftBegin":220,
+			"leftEnd":220,
+			"rightPath":"src/test/org/apache/commons/beanutils/BeanPropertyValueChangeClosureTestCase.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"leftBegin":2172,
+			"leftEnd":2172,
+			"rightPath":"src/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+			"rightBegin":2172,
+			"rightEnd":2176
+		}
+	]
+]

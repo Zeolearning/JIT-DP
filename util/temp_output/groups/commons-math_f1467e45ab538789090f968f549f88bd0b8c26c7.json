@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/HypergeometricDistributionTest.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/HypergeometricDistributionTest.java",
+			"rightBegin":287,
+			"rightEnd":300
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+			"leftBegin":268,
+			"leftEnd":268,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+			"rightBegin":268,
+			"rightEnd":268
+		}
+	]
+]

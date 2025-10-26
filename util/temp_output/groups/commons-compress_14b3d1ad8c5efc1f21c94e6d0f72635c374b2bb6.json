@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	]
+]

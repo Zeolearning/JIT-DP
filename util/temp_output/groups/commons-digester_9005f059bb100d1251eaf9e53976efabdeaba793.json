@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/StackAction.java",
+			"leftBegin":62,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/digester3/StackAction.java",
+			"rightBegin":62,
+			"rightEnd":62
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/StackAction.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/digester3/StackAction.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/NetworkMetrics.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ThreadLocalProgressCounter.java",
+			"rightBegin":1,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java",
+			"rightBegin":1,
+			"rightEnd":886
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/utils/ProgressCounter.java",
+			"rightBegin":1,
+			"rightEnd":43
+		}
+	]
+]

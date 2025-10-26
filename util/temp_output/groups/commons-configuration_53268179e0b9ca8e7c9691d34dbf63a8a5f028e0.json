@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/beanutils/TestXMLBeanDeclaration.java",
+			"leftBegin":470,
+			"leftEnd":469,
+			"rightPath":"src/test/java/org/apache/commons/configuration/beanutils/TestXMLBeanDeclaration.java",
+			"rightBegin":470,
+			"rightEnd":486
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/beanutils/XMLBeanDeclaration.java",
+			"leftBegin":551,
+			"leftEnd":564,
+			"rightPath":"src/main/java/org/apache/commons/configuration/beanutils/XMLBeanDeclaration.java",
+			"rightBegin":565,
+			"rightEnd":564
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/beanutils/XMLBeanDeclaration.java",
+			"leftBegin":541,
+			"leftEnd":540,
+			"rightPath":"src/main/java/org/apache/commons/configuration/beanutils/XMLBeanDeclaration.java",
+			"rightBegin":541,
+			"rightEnd":554
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"rightBegin":191,
+			"rightEnd":191
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"leftBegin":145,
+			"leftEnd":144,
+			"rightPath":"src/test/org/apache/commons/digester/plugins/TestInline.java",
+			"rightBegin":145,
+			"rightEnd":190
+		}
+	]
+]

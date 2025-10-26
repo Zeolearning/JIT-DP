@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/TestRule.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/org/apache/commons/digester/TestRule.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/digester/TestRule.java",
+			"leftBegin":139,
+			"leftEnd":139,
+			"rightPath":"src/test/org/apache/commons/digester/TestRule.java",
+			"rightBegin":139,
+			"rightEnd":139
+		}
+	]
+]

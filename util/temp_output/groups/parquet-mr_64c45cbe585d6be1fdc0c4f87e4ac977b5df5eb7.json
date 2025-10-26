@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"leftBegin":34,
+			"leftEnd":36,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"rightBegin":34,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"leftBegin":47,
+			"leftEnd":48,
+			"rightPath":"parquet-avro/src/test/java/parquet/avro/TestReadWrite.java",
+			"rightBegin":47,
+			"rightEnd":47
+		}
+	]
+]

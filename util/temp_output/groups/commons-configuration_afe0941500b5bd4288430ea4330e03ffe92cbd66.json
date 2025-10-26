@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"leftBegin":527,
+			"leftEnd":528,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/combined/TestCombinedConfigurationBuilder.java",
+			"rightBegin":527,
+			"rightEnd":531
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedConfigurationBuilder.java",
+			"leftBegin":837,
+			"leftEnd":838,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/combined/CombinedConfigurationBuilder.java",
+			"rightBegin":837,
+			"rightEnd":837
+		}
+	]
+]

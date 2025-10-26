@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/managed/TestManagedDataSource.java",
+			"leftBegin":238,
+			"leftEnd":238,
+			"rightPath":"src/test/org/apache/commons/dbcp/managed/TestManagedDataSource.java",
+			"rightBegin":238,
+			"rightEnd":239
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestPoolingDataSource.java",
+			"leftBegin":160,
+			"leftEnd":161,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestPoolingDataSource.java",
+			"rightBegin":160,
+			"rightEnd":161
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestDelegatingConnection.java",
+			"leftBegin":144,
+			"leftEnd":144,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestDelegatingConnection.java",
+			"rightBegin":144,
+			"rightEnd":144
+		}
+	]
+]

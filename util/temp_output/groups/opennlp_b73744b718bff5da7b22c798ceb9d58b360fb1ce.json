@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/test/java/opennlp/tools/eval/OntoNotes4ParserEval.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/eval/OntoNotes4ParserEval.java",
+			"rightBegin":75,
+			"rightEnd":82
+		}
+	]
+]

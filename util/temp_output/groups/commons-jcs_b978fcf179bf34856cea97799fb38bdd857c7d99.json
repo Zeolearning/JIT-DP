@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/FileContentTypeTest.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"sandbox/yajcache/test/org/apache/jcs/yajcache/file/CacheFileDAOTest.java",
+			"rightBegin":1,
+			"rightEnd":127
+		}
+	]
+]

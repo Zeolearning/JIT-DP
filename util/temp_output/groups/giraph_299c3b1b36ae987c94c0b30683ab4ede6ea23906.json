@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/giraph/TestAutoCheckpoint.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/giraph/TestAutoCheckpoint.java",
+			"rightBegin":77,
+			"rightEnd":78
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"leftBegin":530,
+			"leftEnd":532,
+			"rightPath":"src/main/java/org/apache/giraph/zk/ZooKeeperManager.java",
+			"rightBegin":530,
+			"rightEnd":533
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/GiraphJob.java",
+			"leftBegin":478,
+			"leftEnd":477,
+			"rightPath":"src/main/java/org/apache/giraph/graph/GiraphJob.java",
+			"rightBegin":478,
+			"rightEnd":480
+		}
+	]
+]

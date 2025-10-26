@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"rightBegin":70,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"leftBegin":52,
+			"leftEnd":54,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ObjectParamBuilder.java",
+			"rightBegin":53,
+			"rightEnd":57
+		}
+	]
+]

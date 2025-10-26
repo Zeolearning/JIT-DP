@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginDeclarationRule.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginDeclarationRule.java",
+			"rightBegin":26,
+			"rightEnd":26
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginDeclarationRule.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginDeclarationRule.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

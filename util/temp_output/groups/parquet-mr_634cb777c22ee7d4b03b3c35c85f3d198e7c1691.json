@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"rightBegin":146,
+			"rightEnd":148
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"leftBegin":254,
+			"leftEnd":253,
+			"rightPath":"parquet-column/src/main/java/parquet/io/api/Binary.java",
+			"rightBegin":256,
+			"rightEnd":258
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyArtifactPropertyTest.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyArtifactPropertyTest.java",
+			"rightBegin":77,
+			"rightEnd":83
+		}
+	]
+]

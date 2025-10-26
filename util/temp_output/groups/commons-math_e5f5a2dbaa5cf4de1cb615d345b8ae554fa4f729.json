@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java",
+			"leftBegin":155,
+			"leftEnd":155,
+			"rightPath":"src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java",
+			"rightBegin":155,
+			"rightEnd":156
+		}
+	]
+]

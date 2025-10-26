@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/java/org/apache/commons/dbcp/datasources/PerUserPoolDataSource.java",
+			"rightBegin":54,
+			"rightEnd":56
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java",
+			"rightBegin":90,
+			"rightEnd":93
+		}
+	]
+]

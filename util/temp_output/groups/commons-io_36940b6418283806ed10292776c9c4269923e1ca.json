@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":59,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":61,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":61,
+			"rightEnd":61
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"leftBegin":65,
+			"leftEnd":68,
+			"rightPath":"src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":63,
+			"rightEnd":62
+		}
+	]
+]

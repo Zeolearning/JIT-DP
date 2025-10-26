@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/bag/CollectionBag.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"src/main/java/org/apache/commons/collections4/bag/CollectionBag.java",
+			"rightBegin":137,
+			"rightEnd":138
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/collections4/bag/CollectionSortedBag.java",
+			"rightBegin":1,
+			"rightEnd":169
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/bag/CollectionBag.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"src/main/java/org/apache/commons/collections4/bag/CollectionBag.java",
+			"rightBegin":155,
+			"rightEnd":156
+		}
+	]
+]

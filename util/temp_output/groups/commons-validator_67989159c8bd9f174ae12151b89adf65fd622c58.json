@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"leftBegin":253,
+			"leftEnd":254,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"rightBegin":256,
+			"rightEnd":257
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"leftBegin":240,
+			"leftEnd":239,
+			"rightPath":"src/test/java/org/apache/commons/validator/routines/checkdigit/AbstractCheckDigitTest.java",
+			"rightBegin":240,
+			"rightEnd":242
+		}
+	]
+]

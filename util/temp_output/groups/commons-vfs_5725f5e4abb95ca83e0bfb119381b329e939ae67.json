@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/url/UrlFileSystem.java",
+			"rightBegin":1,
+			"rightEnd":50
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/url/UrlFileProvider.java",
+			"rightBegin":1,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/url/UrlFileObject.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/AbstractFileProvider.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/AbstractFileProvider.java",
+			"rightBegin":38,
+			"rightEnd":44
+		}
+	]
+]

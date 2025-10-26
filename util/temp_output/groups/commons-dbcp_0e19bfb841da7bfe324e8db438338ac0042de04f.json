@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"leftBegin":162,
+			"leftEnd":161,
+			"rightPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"rightBegin":165,
+			"rightEnd":167
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"rightBegin":73,
+			"rightEnd":75
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/org/apache/commons/dbcp/TesterConnection.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

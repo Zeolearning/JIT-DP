@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/vfs/provider/url/test/UrlProviderHttpTestCase.java",
+			"rightBegin":1,
+			"rightEnd":98
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/DynaBeanMapDecoratorTestCase.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/DynaBeanMapDecoratorTestCase.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/DynaBeanMapDecorator.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/DynaBeanMapDecorator.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/beanutils/DynaBeanMapDecorator.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/commons/beanutils/DynaBeanMapDecorator.java",
+			"rightBegin":67,
+			"rightEnd":70
+		}
+	]
+]

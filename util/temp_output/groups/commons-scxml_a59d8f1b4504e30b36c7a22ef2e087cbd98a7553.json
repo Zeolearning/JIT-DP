@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml2/issues/Issue112Test.java",
+			"leftBegin":72,
+			"leftEnd":76,
+			"rightPath":"src/test/java/org/apache/commons/scxml2/issues/Issue112Test.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

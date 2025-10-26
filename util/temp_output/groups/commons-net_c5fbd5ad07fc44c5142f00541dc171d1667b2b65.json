@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/util/ListenerList.java",
+			"leftBegin":38,
+			"leftEnd":38,
+			"rightPath":"src/java/org/apache/commons/net/util/ListenerList.java",
+			"rightBegin":38,
+			"rightEnd":38
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/net/util/ListenerList.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/java/org/apache/commons/net/util/ListenerList.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

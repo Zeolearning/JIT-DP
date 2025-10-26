@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileObject.java",
+			"leftBegin":43,
+			"leftEnd":45,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileObject.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileObject.java",
+			"leftBegin":47,
+			"leftEnd":48,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileObject.java",
+			"rightBegin":45,
+			"rightEnd":47
+		}
+	]
+]

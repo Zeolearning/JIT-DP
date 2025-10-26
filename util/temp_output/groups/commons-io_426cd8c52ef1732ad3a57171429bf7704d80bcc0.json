@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/DemuxOutputStream.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/io/output/DemuxOutputStream.java",
+			"rightBegin":65,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/DemuxOutputStream.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/main/java/org/apache/commons/io/output/DemuxOutputStream.java",
+			"rightBegin":82,
+			"rightEnd":82
+		}
+	]
+]

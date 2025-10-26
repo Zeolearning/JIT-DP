@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"leftBegin":121,
+			"leftEnd":128,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"rightBegin":119,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"leftBegin":22,
+			"leftEnd":23,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"rightBegin":22,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"leftBegin":107,
+			"leftEnd":107,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	]
+]

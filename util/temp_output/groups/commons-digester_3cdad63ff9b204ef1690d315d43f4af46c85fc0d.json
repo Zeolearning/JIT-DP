@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"leftBegin":241,
+			"leftEnd":242,
+			"rightPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"rightBegin":246,
+			"rightEnd":249
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"leftBegin":202,
+			"leftEnd":203,
+			"rightPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"rightBegin":205,
+			"rightEnd":208
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"leftBegin":80,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"rightBegin":80,
+			"rightEnd":85
+		}
+	]
+]

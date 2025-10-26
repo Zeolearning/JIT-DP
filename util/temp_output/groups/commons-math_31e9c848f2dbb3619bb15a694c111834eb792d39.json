@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+			"leftBegin":186,
+			"leftEnd":185,
+			"rightPath":"src/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+			"rightBegin":186,
+			"rightEnd":186
+		}
+	]
+]

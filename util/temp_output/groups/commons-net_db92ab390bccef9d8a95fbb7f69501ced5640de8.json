@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"rightBegin":26,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"rightBegin":19,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/net/ftp/FTPClientConfigFunctionalTest.java",
+			"rightBegin":21,
+			"rightEnd":20
+		}
+	]
+]

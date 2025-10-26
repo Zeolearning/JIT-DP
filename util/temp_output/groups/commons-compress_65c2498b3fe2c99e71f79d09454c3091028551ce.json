@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java",
+			"rightBegin":81,
+			"rightEnd":81
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"leftBegin":511,
+			"leftEnd":511,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java",
+			"rightBegin":511,
+			"rightEnd":511
+		}
+	]
+]

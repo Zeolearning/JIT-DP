@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"leftBegin":220,
+			"leftEnd":220,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"leftBegin":189,
+			"leftEnd":189,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"rightBegin":189,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"leftBegin":95,
+			"leftEnd":95,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/block/BlockDiskCacheUnitTest.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

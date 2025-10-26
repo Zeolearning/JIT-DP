@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"leftBegin":21,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"rightBegin":21,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/GaussianRandomGenerator.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

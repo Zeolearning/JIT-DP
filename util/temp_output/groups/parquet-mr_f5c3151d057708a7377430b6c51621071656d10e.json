@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"parquet-tools/src/main/java/parquet/tools/read/SimpleRecord.java",
+			"rightBegin":36,
+			"rightEnd":39
+		}
+	]
+]

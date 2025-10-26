@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bag/SynchronizedBag.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/collections/bag/SynchronizedBag.java",
+			"rightBegin":23,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/bag/SynchronizedBag.java",
+			"leftBegin":116,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/collections/bag/SynchronizedBag.java",
+			"rightBegin":115,
+			"rightEnd":115
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"leftBegin":105,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/KalmanFilter.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/DefaultMeasurementModel.java",
+			"leftBegin":49,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/DefaultMeasurementModel.java",
+			"rightBegin":49,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/filter/DefaultMeasurementModel.java",
+			"leftBegin":62,
+			"leftEnd":63,
+			"rightPath":"src/main/java/org/apache/commons/math3/filter/DefaultMeasurementModel.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

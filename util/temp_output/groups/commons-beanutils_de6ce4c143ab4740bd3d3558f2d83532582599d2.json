@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/DateConverterTestBase.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/DateConverterTestBase.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/DateConverterTestBase.java",
+			"leftBegin":81,
+			"leftEnd":80,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/DateConverterTestBase.java",
+			"rightBegin":82,
+			"rightEnd":84
+		}
+	]
+]

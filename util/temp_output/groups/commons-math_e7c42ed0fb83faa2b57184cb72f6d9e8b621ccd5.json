@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/SynchronizedRandomGenerator.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/SynchronizedRandomGenerator.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/SynchronizedRandomGenerator.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/SynchronizedRandomGenerator.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

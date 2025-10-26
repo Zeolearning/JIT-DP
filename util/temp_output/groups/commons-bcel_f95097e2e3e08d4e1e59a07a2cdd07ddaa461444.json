@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"leftBegin":100,
+			"leftEnd":104,
+			"rightPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"rightBegin":101,
+			"rightEnd":102
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/bcel/verifier/PassVerifier.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

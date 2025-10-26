@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/model/OnePassRealValueDataIndexer.java",
+			"leftBegin":94,
+			"leftEnd":96,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/model/OnePassRealValueDataIndexer.java",
+			"rightBegin":94,
+			"rightEnd":95
+		}
+	]
+]

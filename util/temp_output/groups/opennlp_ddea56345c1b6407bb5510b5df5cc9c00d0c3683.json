@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"leftBegin":115,
+			"leftEnd":114,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java",
+			"rightBegin":116,
+			"rightEnd":120
+		}
+	]
+]

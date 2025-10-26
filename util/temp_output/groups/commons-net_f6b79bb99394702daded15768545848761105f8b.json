@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"leftBegin":114,
+			"leftEnd":113,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"rightBegin":114,
+			"rightEnd":114
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"leftBegin":335,
+			"leftEnd":334,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"rightBegin":336,
+			"rightEnd":341
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"leftBegin":244,
+			"leftEnd":246,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPServer.java",
+			"rightBegin":245,
+			"rightEnd":247
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreRuleFactory.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreRuleFactory.java",
+			"rightBegin":132,
+			"rightEnd":132
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java",
+			"leftBegin":196,
+			"leftEnd":196,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java",
+			"rightBegin":196,
+			"rightEnd":196
+		}
+	]
+]

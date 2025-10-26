@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderSetProperties.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderSetProperties.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderSetProperties.java",
+			"leftBegin":84,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderSetProperties.java",
+			"rightBegin":85,
+			"rightEnd":91
+		}
+	]
+]

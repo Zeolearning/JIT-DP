@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/util/InstructionFinderTest.java",
+			"leftBegin":1,
+			"leftEnd":28,
+			"rightPath":"src/test/java/org/apache/bcel/util/InstructionFinderTest.java",
+			"rightBegin":1,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/InstructionFinderTestCase.java",
+			"leftBegin":1,
+			"leftEnd":46,
+			"rightPath":"src/test/java/org/apache/bcel/InstructionFinderTestCase.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	]
+]

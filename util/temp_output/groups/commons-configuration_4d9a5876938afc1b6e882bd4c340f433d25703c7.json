@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestConfigurationLogger.java",
+			"rightBegin":1,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/ConfigurationLogger.java",
+			"rightBegin":1,
+			"rightEnd":243
+		}
+	]
+]

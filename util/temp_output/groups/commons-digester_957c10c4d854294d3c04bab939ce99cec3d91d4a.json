@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/substitution/VariableSubstitutor.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/digester3/substitution/VariableSubstitutor.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/substitution/VariableSubstitutor.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"src/main/java/org/apache/commons/digester3/substitution/VariableSubstitutor.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

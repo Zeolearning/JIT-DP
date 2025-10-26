@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/BeanPropertySetterRule.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/digester3/BeanPropertySetterRule.java",
+			"rightBegin":45,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/BeanPropertySetterRule.java",
+			"leftBegin":53,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/digester3/BeanPropertySetterRule.java",
+			"rightBegin":53,
+			"rightEnd":52
+		}
+	]
+]

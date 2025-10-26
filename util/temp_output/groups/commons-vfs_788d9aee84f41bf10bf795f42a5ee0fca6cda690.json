@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"leftBegin":172,
+			"leftEnd":172,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"rightBegin":173,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"leftBegin":178,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"rightBegin":179,
+			"rightEnd":180
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"leftBegin":70,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/commons/vfs/impl/DefaultFileSystemManager.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

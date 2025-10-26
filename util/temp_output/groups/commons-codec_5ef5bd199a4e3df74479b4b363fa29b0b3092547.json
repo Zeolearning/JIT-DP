@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"leftBegin":211,
+			"leftEnd":210,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java",
+			"rightBegin":211,
+			"rightEnd":239
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/main/java/org/apache/commons/codec/binary/StringUtils.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

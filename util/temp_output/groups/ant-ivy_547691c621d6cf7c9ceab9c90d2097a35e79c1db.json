@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/FileSystemResolver.java",
+			"leftBegin":175,
+			"leftEnd":178,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/FileSystemResolver.java",
+			"rightBegin":180,
+			"rightEnd":189
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/FileSystemResolver.java",
+			"leftBegin":139,
+			"leftEnd":138,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/FileSystemResolver.java",
+			"rightBegin":139,
+			"rightEnd":143
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/TriDiagonalTransformerTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/math/linear/TriDiagonalTransformerTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/TriDiagonalTransformerTest.java",
+			"leftBegin":69,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/math/linear/TriDiagonalTransformerTest.java",
+			"rightBegin":71,
+			"rightEnd":90
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"leftBegin":83,
+			"leftEnd":85,
+			"rightPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"rightBegin":83,
+			"rightEnd":82
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"leftBegin":87,
+			"leftEnd":86,
+			"rightPath":"src/main/java/org/apache/bcel/generic/TABLESWITCH.java",
+			"rightBegin":84,
+			"rightEnd":84
+		}
+	]
+]

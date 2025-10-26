@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/report/ResolveReport.java",
+			"leftBegin":342,
+			"leftEnd":343,
+			"rightPath":"src/java/org/apache/ivy/core/report/ResolveReport.java",
+			"rightBegin":342,
+			"rightEnd":342
+		}
+	]
+]

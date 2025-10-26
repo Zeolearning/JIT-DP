@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"leftBegin":236,
+			"leftEnd":236,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java",
+			"rightBegin":236,
+			"rightEnd":237
+		}
+	]
+]

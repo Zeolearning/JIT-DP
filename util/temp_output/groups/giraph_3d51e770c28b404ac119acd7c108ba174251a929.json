@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"giraph-block-app/src/main/java/org/apache/giraph/function/primitive/IntSupplier.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"giraph-block-app/src/main/java/org/apache/giraph/function/primitive/IntSupplier.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"giraph-block-app/src/main/java/org/apache/giraph/function/primitive/IntSupplier.java",
+			"leftBegin":24,
+			"leftEnd":24,
+			"rightPath":"giraph-block-app/src/main/java/org/apache/giraph/function/primitive/IntSupplier.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/ObjectParamRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":194
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/ObjectParamRule.java",
+			"rightBegin":1,
+			"rightEnd":164
+		}
+	]
+]

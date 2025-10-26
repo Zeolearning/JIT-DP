@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/StringUtilsTrimEmptyTest.java",
+			"leftBegin":276,
+			"leftEnd":275,
+			"rightPath":"src/test/java/org/apache/commons/lang3/StringUtilsTrimEmptyTest.java",
+			"rightBegin":276,
+			"rightEnd":277
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":756,
+			"leftEnd":756,
+			"rightPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":756,
+			"rightEnd":757
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"leftBegin":761,
+			"leftEnd":760,
+			"rightPath":"src/main/java/org/apache/commons/lang3/StringUtils.java",
+			"rightBegin":762,
+			"rightEnd":773
+		}
+	]
+]

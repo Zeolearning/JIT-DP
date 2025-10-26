@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/BatteryNISTTest.java",
+			"leftBegin":915,
+			"leftEnd":915,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/BatteryNISTTest.java",
+			"rightBegin":915,
+			"rightEnd":915
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/ode/events/EventStateTest.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/test/java/org/apache/commons/math/ode/events/EventStateTest.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+			"leftBegin":357,
+			"leftEnd":358,
+			"rightPath":"src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+			"rightBegin":357,
+			"rightEnd":358
+		}
+	]
+]

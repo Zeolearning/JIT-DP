@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/ftp/parser/AllTests.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/test/org/apache/commons/net/ftp/parser/AllTests.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

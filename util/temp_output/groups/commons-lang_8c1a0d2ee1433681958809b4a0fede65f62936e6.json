@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"rightBegin":28,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"rightBegin":42,
+			"rightEnd":42
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"leftBegin":51,
+			"leftEnd":51,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/AnnotationTestUtils.java",
+			"rightBegin":50,
+			"rightEnd":49
+		}
+	]
+]

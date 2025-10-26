@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"leftBegin":144,
+			"leftEnd":145,
+			"rightPath":"src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"rightBegin":144,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/distribution/FDistributionTest.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/test/org/apache/commons/math/distribution/FDistributionTest.java",
+			"rightBegin":108,
+			"rightEnd":122
+		}
+	]
+]

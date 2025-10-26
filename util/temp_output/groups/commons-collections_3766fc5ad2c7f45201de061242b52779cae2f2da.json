@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/MapUtils.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/java/org/apache/commons/collections/MapUtils.java",
+			"rightBegin":64,
+			"rightEnd":63
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/MapUtils.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/MapUtils.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

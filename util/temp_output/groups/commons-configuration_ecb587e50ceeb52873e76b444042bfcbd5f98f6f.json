@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/tree/xpath/TestConfigurationAttributePointer.java",
+			"rightBegin":1,
+			"rightEnd":201
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/tree/xpath/ConfigurationAttributePointer.java",
+			"rightBegin":1,
+			"rightEnd":225
+		}
+	]
+]

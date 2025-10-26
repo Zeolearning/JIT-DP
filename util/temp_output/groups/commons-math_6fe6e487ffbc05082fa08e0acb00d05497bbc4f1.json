@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/function/LogisticTest.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/function/SigmoidTest.java",
+			"rightBegin":1,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Sigmoid.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/function/Logistic.java",
+			"rightBegin":1,
+			"rightEnd":78
+		}
+	]
+]

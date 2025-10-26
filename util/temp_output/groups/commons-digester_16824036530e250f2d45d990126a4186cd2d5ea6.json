@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ByRuleBuilder.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ByRuleBuilder.java",
+			"rightBegin":27,
+			"rightEnd":27
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/ByRuleBuilder.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/ByRuleBuilder.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	]
+]

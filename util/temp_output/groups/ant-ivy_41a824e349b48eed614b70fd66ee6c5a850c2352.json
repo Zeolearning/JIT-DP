@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"rightBegin":27,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyResolveTest.java",
+			"rightBegin":77,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"rightBegin":142,
+			"rightEnd":145
+		}
+	]
+]

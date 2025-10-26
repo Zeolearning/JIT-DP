@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":837,
+			"leftEnd":836,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":838,
+			"rightEnd":841
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":825,
+			"leftEnd":824,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":825,
+			"rightEnd":825
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"leftBegin":149,
+			"leftEnd":149,
+			"rightPath":"src/java/org/apache/commons/lang/StringUtils.java",
+			"rightBegin":149,
+			"rightEnd":149
+		}
+	]
+]

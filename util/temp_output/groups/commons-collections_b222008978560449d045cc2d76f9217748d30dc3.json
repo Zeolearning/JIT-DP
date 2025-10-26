@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/ArrayListIterator.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/ArrayListIterator.java",
+			"rightBegin":53,
+			"rightEnd":53
+		}
+	]
+]

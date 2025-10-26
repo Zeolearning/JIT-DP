@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"src/test/org/apache/jcs/auxiliary/disk/file/FileDiskCacheUnitTest.java",
+			"rightBegin":304,
+			"rightEnd":306
+		}
+	]
+]

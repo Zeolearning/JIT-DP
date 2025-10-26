@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/requests/SendWorkerVerticesRequest.java",
+			"leftBegin":118,
+			"leftEnd":118,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/requests/SendWorkerVerticesRequest.java",
+			"rightBegin":118,
+			"rightEnd":119
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"leftBegin":229,
+			"leftEnd":232,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"rightBegin":227,
+			"rightEnd":226
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"leftBegin":221,
+			"leftEnd":224,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"rightBegin":220,
+			"rightEnd":222
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"leftBegin":209,
+			"leftEnd":209,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"rightBegin":209,
+			"rightEnd":208
+		}
+	]
+]

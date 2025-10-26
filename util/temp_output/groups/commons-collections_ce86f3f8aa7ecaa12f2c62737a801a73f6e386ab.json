@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java",
+			"leftBegin":259,
+			"leftEnd":259,
+			"rightPath":"src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java",
+			"rightBegin":259,
+			"rightEnd":259
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/PermutationIterator.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/PermutationIterator.java",
+			"rightBegin":145,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/PermutationIterator.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/PermutationIterator.java",
+			"rightBegin":87,
+			"rightEnd":87
+		}
+	]
+]

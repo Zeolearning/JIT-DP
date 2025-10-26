@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-cassandra/src/test/java/org/apache/gora/cassandra/GoraCassandraTestDriver.java",
+			"leftBegin":85,
+			"leftEnd":86,
+			"rightPath":"gora-cassandra/src/test/java/org/apache/gora/cassandra/GoraCassandraTestDriver.java",
+			"rightBegin":85,
+			"rightEnd":86
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/beanutils/TestBeanHelper.java",
+			"leftBegin":393,
+			"leftEnd":392,
+			"rightPath":"src/test/java/org/apache/commons/configuration/beanutils/TestBeanHelper.java",
+			"rightBegin":394,
+			"rightEnd":408
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/beanutils/TestBeanHelper.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/java/org/apache/commons/configuration/beanutils/TestBeanHelper.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"leftBegin":299,
+			"leftEnd":298,
+			"rightPath":"src/main/java/org/apache/commons/configuration/beanutils/BeanHelper.java",
+			"rightBegin":299,
+			"rightEnd":321
+		}
+	]
+]

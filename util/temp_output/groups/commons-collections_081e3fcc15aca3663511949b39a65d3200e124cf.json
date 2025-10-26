@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"leftBegin":127,
+			"leftEnd":127,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"rightBegin":127,
+			"rightEnd":127
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"rightBegin":2,
+			"rightEnd":4
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/java/org/apache/commons/collections/primitives/IntCollectionCollection.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

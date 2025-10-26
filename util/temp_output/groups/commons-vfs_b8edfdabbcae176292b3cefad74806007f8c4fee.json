@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"leftBegin":243,
+			"leftEnd":243,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"rightBegin":243,
+			"rightEnd":243
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"leftBegin":232,
+			"leftEnd":233,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/ram/test/CustomRamProviderTest.java",
+			"rightBegin":232,
+			"rightEnd":233
+		}
+	]
+]

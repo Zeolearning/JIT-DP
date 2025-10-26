@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BasicRPCCommunications.java",
+			"leftBegin":232,
+			"leftEnd":232,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BasicRPCCommunications.java",
+			"rightBegin":232,
+			"rightEnd":232
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BasicRPCCommunications.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BasicRPCCommunications.java",
+			"rightBegin":175,
+			"rightEnd":175
+		}
+	]
+]

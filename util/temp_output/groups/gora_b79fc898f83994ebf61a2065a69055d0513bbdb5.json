@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"rightBegin":113,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"leftBegin":105,
+			"leftEnd":105,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"rightBegin":105,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"rightBegin":109,
+			"rightEnd":112
+		}
+	]
+]

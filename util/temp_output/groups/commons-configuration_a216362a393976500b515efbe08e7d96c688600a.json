@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"leftBegin":723,
+			"leftEnd":722,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"rightBegin":738,
+			"rightEnd":747
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"leftBegin":664,
+			"leftEnd":663,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestPropertiesConfigurationLayout.java",
+			"rightBegin":664,
+			"rightEnd":678
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java",
+			"leftBegin":727,
+			"leftEnd":727,
+			"rightPath":"src/main/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java",
+			"rightBegin":727,
+			"rightEnd":727
+		}
+	]
+]

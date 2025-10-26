@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/MLSDComparison.java",
+			"rightBegin":1,
+			"rightEnd":225
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/DownloadListings.java",
+			"rightBegin":1,
+			"rightEnd":131
+		}
+	]
+]

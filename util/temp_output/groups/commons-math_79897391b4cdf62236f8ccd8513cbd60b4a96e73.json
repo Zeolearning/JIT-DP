@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/MaxIterationsExceededExceptionTest.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/test/org/apache/commons/math/MaxIterationsExceededExceptionTest.java",
+			"rightBegin":37,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/FunctionEvaluationExceptionTest.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/test/org/apache/commons/math/FunctionEvaluationExceptionTest.java",
+			"rightBegin":67,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/MaxIterationsExceededExceptionTest.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/test/org/apache/commons/math/MaxIterationsExceededExceptionTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/buffer/BoundedFifoBuffer.java",
+			"leftBegin":280,
+			"leftEnd":281,
+			"rightPath":"src/main/java/org/apache/commons/collections/buffer/BoundedFifoBuffer.java",
+			"rightBegin":280,
+			"rightEnd":284
+		}
+	]
+]

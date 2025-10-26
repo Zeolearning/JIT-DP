@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-tutorial/src/main/java/org/apache/gora/tutorial/log/LogAnalyticsSpark.java",
+			"rightBegin":1,
+			"rightEnd":69
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/spark/GoraSpark.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

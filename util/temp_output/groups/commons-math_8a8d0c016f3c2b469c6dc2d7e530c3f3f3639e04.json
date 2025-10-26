@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/MixedListUnivariateImplTest.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/MixedListUnivariateImplTest.java",
+			"rightBegin":199,
+			"rightEnd":199
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/random/RandomAdaptorTest.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/test/org/apache/commons/math/random/RandomAdaptorTest.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/descriptive/MixedListUnivariateImplTest.java",
+			"leftBegin":193,
+			"leftEnd":193,
+			"rightPath":"src/test/org/apache/commons/math/stat/descriptive/MixedListUnivariateImplTest.java",
+			"rightBegin":193,
+			"rightEnd":193
+		}
+	]
+]

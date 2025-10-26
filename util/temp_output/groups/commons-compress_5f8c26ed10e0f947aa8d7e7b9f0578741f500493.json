@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/test/java/org/apache/commons/compress/DetectArchiverTestCase.java",
+			"rightBegin":41,
+			"rightEnd":55
+		}
+	]
+]

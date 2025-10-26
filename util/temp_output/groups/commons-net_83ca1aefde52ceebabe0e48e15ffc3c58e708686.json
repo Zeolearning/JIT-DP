@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/parser/MVSFTPEntryParserTest.java",
+			"leftBegin":81,
+			"leftEnd":82,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/parser/MVSFTPEntryParserTest.java",
+			"rightBegin":81,
+			"rightEnd":81
+		}
+	]
+]

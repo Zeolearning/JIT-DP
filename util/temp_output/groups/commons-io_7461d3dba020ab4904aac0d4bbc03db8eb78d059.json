@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"rightBegin":225,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"leftBegin":220,
+			"leftEnd":219,
+			"rightPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"rightBegin":220,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"leftBegin":221,
+			"leftEnd":221,
+			"rightPath":"src/java/org/apache/commons/io/output/ThresholdingOutputStream.java",
+			"rightBegin":222,
+			"rightEnd":221
+		}
+	]
+]

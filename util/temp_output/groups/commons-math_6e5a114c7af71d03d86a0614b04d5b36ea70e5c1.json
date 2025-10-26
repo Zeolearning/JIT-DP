@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"leftBegin":342,
+			"leftEnd":341,
+			"rightPath":"src/java/org/apache/commons/math/MessagesResources_fr.java",
+			"rightBegin":342,
+			"rightEnd":345
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/transform/FastHadamardTransformerTest.java",
+			"rightBegin":1,
+			"rightEnd":68
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/transform/FastHadamardTransformer.java",
+			"rightBegin":1,
+			"rightEnd":171
+		}
+	]
+]

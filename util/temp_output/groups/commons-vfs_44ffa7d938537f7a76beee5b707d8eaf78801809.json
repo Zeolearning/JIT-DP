@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileUtil.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/java/org/apache/commons/vfs/FileUtil.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileUtil.java",
+			"leftBegin":130,
+			"leftEnd":129,
+			"rightPath":"src/java/org/apache/commons/vfs/FileUtil.java",
+			"rightBegin":130,
+			"rightEnd":149
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/BspServiceMaster.java",
+			"leftBegin":1838,
+			"leftEnd":1838,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/BspServiceMaster.java",
+			"rightBegin":1838,
+			"rightEnd":1838
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"leftBegin":628,
+			"leftEnd":627,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java",
+			"rightBegin":628,
+			"rightEnd":629
+		}
+	]
+]

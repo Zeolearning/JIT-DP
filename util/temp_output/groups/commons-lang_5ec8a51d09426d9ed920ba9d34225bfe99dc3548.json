@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/text/VariableFormat.java",
+			"rightBegin":1,
+			"rightEnd":518
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/text/VariableFormatTest.java",
+			"rightBegin":1,
+			"rightEnd":214
+		}
+	]
+]

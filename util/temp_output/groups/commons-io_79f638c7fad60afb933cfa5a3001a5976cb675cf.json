@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/output/NullOutputStream.java",
+			"leftBegin":1,
+			"leftEnd":97,
+			"rightPath":"src/java/org/apache/commons/io/output/NullOutputStream.java",
+			"rightBegin":1,
+			"rightEnd":95
+		}
+	]
+]

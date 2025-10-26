@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"leftBegin":441,
+			"leftEnd":441,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"rightBegin":431,
+			"rightEnd":431
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"leftBegin":420,
+			"leftEnd":429,
+			"rightPath":"src/java/org/apache/commons/configuration/HierarchicalConfiguration.java",
+			"rightBegin":420,
+			"rightEnd":419
+		}
+	]
+]

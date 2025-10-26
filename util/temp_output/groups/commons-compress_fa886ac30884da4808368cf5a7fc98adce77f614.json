@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.java",
+			"rightBegin":56,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	]
+]

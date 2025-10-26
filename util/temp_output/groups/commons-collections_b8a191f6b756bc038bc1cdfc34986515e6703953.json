@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/StaticBucketMap.java",
+			"leftBegin":388,
+			"leftEnd":389,
+			"rightPath":"src/java/org/apache/commons/collections/map/StaticBucketMap.java",
+			"rightBegin":388,
+			"rightEnd":389
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/map/StaticBucketMap.java",
+			"leftBegin":385,
+			"leftEnd":385,
+			"rightPath":"src/java/org/apache/commons/collections/map/StaticBucketMap.java",
+			"rightBegin":385,
+			"rightEnd":385
+		}
+	]
+]

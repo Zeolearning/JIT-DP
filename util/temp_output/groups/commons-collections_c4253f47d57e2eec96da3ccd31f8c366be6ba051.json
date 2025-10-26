@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestCollectionUtils.java",
+			"leftBegin":797,
+			"leftEnd":800,
+			"rightPath":"src/test/org/apache/commons/collections/TestCollectionUtils.java",
+			"rightBegin":799,
+			"rightEnd":798
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestCollectionUtils.java",
+			"leftBegin":742,
+			"leftEnd":742,
+			"rightPath":"src/test/org/apache/commons/collections/TestCollectionUtils.java",
+			"rightBegin":742,
+			"rightEnd":744
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/CollectionUtils.java",
+			"leftBegin":895,
+			"leftEnd":894,
+			"rightPath":"src/java/org/apache/commons/collections/CollectionUtils.java",
+			"rightBegin":895,
+			"rightEnd":897
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/util/url/HttpclientURLHandlerTest.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"test/java/org/apache/ivy/util/url/HttpclientURLHandlerTest.java",
+			"rightBegin":36,
+			"rightEnd":45
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/util/url/HttpclientURLHandlerTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"test/java/org/apache/ivy/util/url/HttpclientURLHandlerTest.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"leftBegin":129,
+			"leftEnd":128,
+			"rightPath":"src/java/org/apache/ivy/util/url/HttpClientHandler.java",
+			"rightBegin":129,
+			"rightEnd":131
+		}
+	]
+]

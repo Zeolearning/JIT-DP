@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumSqTest.java",
+			"leftBegin":25,
+			"leftEnd":26,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumSqTest.java",
+			"rightBegin":25,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumSqTest.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/test/org/apache/commons/math/stat/univariate/summary/SumSqTest.java",
+			"rightBegin":59,
+			"rightEnd":73
+		}
+	]
+]

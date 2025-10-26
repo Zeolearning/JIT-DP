@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"leftBegin":361,
+			"leftEnd":360,
+			"rightPath":"src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java",
+			"rightBegin":361,
+			"rightEnd":365
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/DetectCompressorTestCase.java",
+			"rightBegin":1,
+			"rightEnd":148
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/DetectCompressorTestCase.java",
+			"leftBegin":1,
+			"leftEnd":77,
+			"rightPath":null
+		}
+	]
+]

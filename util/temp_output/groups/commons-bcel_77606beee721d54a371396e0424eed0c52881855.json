@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/AttributeHTML.java",
+			"leftBegin":82,
+			"leftEnd":83,
+			"rightPath":"src/main/java/org/apache/bcel/util/AttributeHTML.java",
+			"rightBegin":82,
+			"rightEnd":82
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/util/AttributeHTML.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/bcel/util/AttributeHTML.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/core/module/id/ModuleIdTest.java",
+			"rightBegin":1,
+			"rightEnd":146
+		}
+	]
+]

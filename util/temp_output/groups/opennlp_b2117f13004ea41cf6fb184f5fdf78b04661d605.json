@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/test/java/opennlp/perceptron/PerceptronPrepAttachTest.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"opennlp-maxent/src/test/java/opennlp/perceptron/PerceptronPrepAttachTest.java",
+			"rightBegin":60,
+			"rightEnd":60
+		}
+	]
+]

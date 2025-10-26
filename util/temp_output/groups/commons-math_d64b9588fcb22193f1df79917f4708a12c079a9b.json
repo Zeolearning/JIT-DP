@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/math/util/MathUtils.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/UnivariateRealFunction.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/UnivariateRealFunction.java",
+			"rightBegin":30,
+			"rightEnd":45
+		}
+	]
+]

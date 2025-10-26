@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZFileTest.java",
+			"leftBegin":63,
+			"leftEnd":62,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZFileTest.java",
+			"rightBegin":63,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/PasswordRequiredException.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256Decoder.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/AES256SHA256Decoder.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

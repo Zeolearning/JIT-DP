@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/test/java/org/apache/parquet/hadoop/thrift/TestBinary.java",
+			"leftBegin":84,
+			"leftEnd":84,
+			"rightPath":"parquet-thrift/src/test/java/org/apache/parquet/hadoop/thrift/TestBinary.java",
+			"rightBegin":84,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"parquet-thrift/src/test/java/org/apache/parquet/hadoop/thrift/TestBinary.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"parquet-thrift/src/test/java/org/apache/parquet/hadoop/thrift/TestBinary.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	]
+]

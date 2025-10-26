@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/ProxyWriterTest.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"src/test/org/apache/commons/io/output/ProxyWriterTest.java",
+			"rightBegin":32,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/ProxyWriterTest.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/test/org/apache/commons/io/output/ProxyWriterTest.java",
+			"rightBegin":133,
+			"rightEnd":144
+		}
+	]
+]

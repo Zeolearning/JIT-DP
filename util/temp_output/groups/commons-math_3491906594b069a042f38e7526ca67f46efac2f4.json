@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+			"rightBegin":65,
+			"rightEnd":65
+		}
+	]
+]

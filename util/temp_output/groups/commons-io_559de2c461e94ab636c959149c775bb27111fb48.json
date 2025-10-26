@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/buffer/CircularBufferInputStream.java",
+			"rightBegin":1,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/buffer/CircularBufferInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":83
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/buffer/CircularByteBuffer.java",
+			"rightBegin":1,
+			"rightEnd":237
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/buffer/PeekableInputStream.java",
+			"rightBegin":1,
+			"rightEnd":87
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"leftBegin":525,
+			"leftEnd":524,
+			"rightPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"rightBegin":528,
+			"rightEnd":530
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"leftBegin":518,
+			"leftEnd":518,
+			"rightPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"rightBegin":521,
+			"rightEnd":521
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"leftBegin":512,
+			"leftEnd":511,
+			"rightPath":"src/java/org/apache/commons/io/IOUtils.java",
+			"rightBegin":512,
+			"rightEnd":514
+		}
+	]
+]

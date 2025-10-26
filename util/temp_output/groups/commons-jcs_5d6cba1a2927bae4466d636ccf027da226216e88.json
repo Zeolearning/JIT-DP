@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/event/CachePutEvent.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"sandbox/yajcache/src/org/apache/jcs/yajcache/event/CachePutEvent.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

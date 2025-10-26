@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicInterpolatingFunction.java",
+			"rightBegin":1,
+			"rightEnd":325
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicInterpolatorTest.java",
+			"rightBegin":1,
+			"rightEnd":175
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/interpolation/BicubicInterpolator.java",
+			"rightBegin":1,
+			"rightEnd":112
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/interpolation/BicubicInterpolatingFunctionTest.java",
+			"rightBegin":1,
+			"rightEnd":383
+		}
+	]
+]

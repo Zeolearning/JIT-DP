@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"leftBegin":270,
+			"leftEnd":280,
+			"rightPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"rightBegin":272,
+			"rightEnd":274
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"leftBegin":267,
+			"leftEnd":268,
+			"rightPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"rightBegin":268,
+			"rightEnd":270
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"leftBegin":264,
+			"leftEnd":265,
+			"rightPath":"src/main/java/org/apache/commons/math4/fitting/GaussianCurveFitter.java",
+			"rightBegin":264,
+			"rightEnd":266
+		}
+	]
+]

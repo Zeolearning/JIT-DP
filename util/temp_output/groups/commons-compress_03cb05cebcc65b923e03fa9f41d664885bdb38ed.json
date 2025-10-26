@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"leftBegin":96,
+			"leftEnd":95,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java",
+			"rightBegin":96,
+			"rightEnd":97
+		}
+	]
+]

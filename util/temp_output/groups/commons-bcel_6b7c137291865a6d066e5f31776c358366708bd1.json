@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"leftBegin":330,
+			"leftEnd":333,
+			"rightPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"rightBegin":334,
+			"rightEnd":333
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"leftBegin":328,
+			"leftEnd":328,
+			"rightPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"rightBegin":328,
+			"rightEnd":332
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"leftBegin":326,
+			"leftEnd":326,
+			"rightPath":"src/java/org/apache/bcel/classfile/ConstantPool.java",
+			"rightBegin":326,
+			"rightEnd":326
+		}
+	]
+]

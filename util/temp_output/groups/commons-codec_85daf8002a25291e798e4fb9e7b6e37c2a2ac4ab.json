@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"leftBegin":124,
+			"leftEnd":124,
+			"rightPath":"src/java/org/apache/commons/codec/net/RFC1522Codec.java",
+			"rightBegin":124,
+			"rightEnd":124
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/local/test/ConversionTestCase.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	]
+]

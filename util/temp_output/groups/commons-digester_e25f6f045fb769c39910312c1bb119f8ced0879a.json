@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/NestedPropertiesBuilder.java",
+			"leftBegin":80,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/NestedPropertiesBuilder.java",
+			"rightBegin":80,
+			"rightEnd":80
+		}
+	]
+]

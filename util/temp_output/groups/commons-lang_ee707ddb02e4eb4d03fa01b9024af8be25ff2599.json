@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializerTest.java",
+			"leftBegin":289,
+			"leftEnd":288,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializerTest.java",
+			"rightBegin":289,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializer.java",
+			"leftBegin":322,
+			"leftEnd":321,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/MultiBackgroundInitializer.java",
+			"rightBegin":322,
+			"rightEnd":331
+		}
+	]
+]

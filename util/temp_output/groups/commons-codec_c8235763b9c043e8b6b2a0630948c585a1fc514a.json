@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"leftBegin":353,
+			"leftEnd":353,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"rightBegin":353,
+			"rightEnd":353
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"leftBegin":350,
+			"leftEnd":350,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"rightBegin":350,
+			"rightEnd":350
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	]
+]

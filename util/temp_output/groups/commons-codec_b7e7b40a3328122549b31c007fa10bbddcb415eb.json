@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"rightBegin":70,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"leftBegin":63,
+			"leftEnd":64,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"rightBegin":63,
+			"rightEnd":62
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/proxy/ClassLoaderAwareCache.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/proxy/ClassLoaderAwareCache.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/engine/memory/util/DefaultMemoryElementDescriptor.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

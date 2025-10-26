@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"leftBegin":208,
+			"leftEnd":208,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"rightBegin":212,
+			"rightEnd":214
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"leftBegin":198,
+			"leftEnd":198,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"rightBegin":200,
+			"rightEnd":202
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"leftBegin":160,
+			"leftEnd":160,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"rightBegin":162,
+			"rightEnd":162
+		},
+		{
+			"leftPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"leftBegin":156,
+			"leftEnd":157,
+			"rightPath":"src/main/java/org/apache/bcel/verifier/structurals/Pass3bVerifier.java",
+			"rightBegin":156,
+			"rightEnd":159
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"leftBegin":709,
+			"leftEnd":709,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"rightBegin":709,
+			"rightEnd":709
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"leftBegin":693,
+			"leftEnd":693,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"rightBegin":693,
+			"rightEnd":693
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"leftBegin":674,
+			"leftEnd":674,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java",
+			"rightBegin":674,
+			"rightEnd":674
+		}
+	]
+]

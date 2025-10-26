@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"gora-compiler/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"leftBegin":179,
+			"leftEnd":179,
+			"rightPath":"gora-compiler/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"rightBegin":179,
+			"rightEnd":179
+		}
+	],
+	[
+		{
+			"leftPath":"gora-compiler/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"leftBegin":114,
+			"leftEnd":114,
+			"rightPath":"gora-compiler/src/main/java/org/apache/gora/compiler/GoraCompiler.java",
+			"rightBegin":114,
+			"rightEnd":114
+		}
+	],
+	[
+		{
+			"leftPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraClient.java",
+			"leftBegin":315,
+			"leftEnd":315,
+			"rightPath":"gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraClient.java",
+			"rightBegin":315,
+			"rightEnd":315
+		}
+	]
+]

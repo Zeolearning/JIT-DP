@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaperTest.java",
+			"rightBegin":1,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"leftBegin":63,
+			"leftEnd":64,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+			"rightBegin":63,
+			"rightEnd":69
+		}
+	]
+]

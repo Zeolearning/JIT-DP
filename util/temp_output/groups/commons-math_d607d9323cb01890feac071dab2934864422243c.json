@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java",
+			"rightBegin":100,
+			"rightEnd":117
+		}
+	]
+]

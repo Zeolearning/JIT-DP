@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"rightBegin":118,
+			"rightEnd":118
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"leftBegin":19,
+			"leftEnd":18,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"rightBegin":19,
+			"rightEnd":20
+		},
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"leftBegin":78,
+			"leftEnd":77,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorOutputStream.java",
+			"rightBegin":80,
+			"rightEnd":117
+		}
+	]
+]

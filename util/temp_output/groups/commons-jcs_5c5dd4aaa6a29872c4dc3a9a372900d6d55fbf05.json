@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/jcs/access/TestCacheAccess.java",
+			"leftBegin":612,
+			"leftEnd":616,
+			"rightPath":"src/test/org/apache/jcs/access/TestCacheAccess.java",
+			"rightBegin":612,
+			"rightEnd":612
+		}
+	]
+]

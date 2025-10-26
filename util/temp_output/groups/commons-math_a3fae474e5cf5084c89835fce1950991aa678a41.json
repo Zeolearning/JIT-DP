@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/events/EventFilterTest.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/events/EventFilterTest.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/ode/events/EventFilterTest.java",
+			"leftBegin":30,
+			"leftEnd":31,
+			"rightPath":"src/test/java/org/apache/commons/math4/ode/events/EventFilterTest.java",
+			"rightBegin":30,
+			"rightEnd":31
+		}
+	]
+]

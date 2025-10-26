@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"leftBegin":175,
+			"leftEnd":178,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"rightBegin":186,
+			"rightEnd":186
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"leftBegin":172,
+			"leftEnd":171,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"rightBegin":172,
+			"rightEnd":182
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"leftBegin":183,
+			"leftEnd":183,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java",
+			"rightBegin":191,
+			"rightEnd":191
+		}
+	]
+]

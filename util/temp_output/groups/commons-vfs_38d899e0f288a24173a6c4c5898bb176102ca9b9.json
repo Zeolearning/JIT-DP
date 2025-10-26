@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"leftBegin":88,
+			"leftEnd":89,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"rightBegin":92,
+			"rightEnd":91
+		}
+	],
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"leftBegin":77,
+			"leftEnd":85,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"rightBegin":77,
+			"rightEnd":87
+		}
+	],
+	[
+		{
+			"leftPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"leftBegin":87,
+			"leftEnd":86,
+			"rightPath":"commons-vfs2/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java",
+			"rightBegin":89,
+			"rightEnd":90
+		}
+	]
+]

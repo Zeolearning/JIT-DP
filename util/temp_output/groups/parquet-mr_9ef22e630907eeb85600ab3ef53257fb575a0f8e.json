@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"leftBegin":295,
+			"leftEnd":295,
+			"rightPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"rightBegin":295,
+			"rightEnd":295
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"leftBegin":290,
+			"leftEnd":290,
+			"rightPath":"parquet-column/src/test/java/parquet/schema/TestTypeBuilders.java",
+			"rightBegin":290,
+			"rightEnd":290
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/schema/Types.java",
+			"leftBegin":297,
+			"leftEnd":299,
+			"rightPath":"parquet-column/src/main/java/parquet/schema/Types.java",
+			"rightBegin":297,
+			"rightEnd":299
+		}
+	]
+]

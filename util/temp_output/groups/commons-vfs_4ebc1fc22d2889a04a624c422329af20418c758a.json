@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/FileName.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"src/java/org/apache/commons/vfs/FileName.java",
+			"rightBegin":98,
+			"rightEnd":105
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"leftBegin":206,
+			"leftEnd":205,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/DefaultFileName.java",
+			"rightBegin":206,
+			"rightEnd":223
+		}
+	]
+]

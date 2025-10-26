@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/compress/tar/TarTestSuite.java",
+			"leftBegin":8,
+			"leftEnd":8,
+			"rightPath":"src/test/org/apache/commons/io/compress/tar/TarTestSuite.java",
+			"rightBegin":8,
+			"rightEnd":8
+		}
+	]
+]

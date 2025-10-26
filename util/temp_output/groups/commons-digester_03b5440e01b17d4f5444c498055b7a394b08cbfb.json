@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/BeanUtilsConverterFacade.java",
+			"leftBegin":26,
+			"leftEnd":25,
+			"rightPath":"src/main/java/org/apache/commons/digester3/BeanUtilsConverterFacade.java",
+			"rightBegin":26,
+			"rightEnd":27
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/BeanUtilsConverterFacade.java",
+			"leftBegin":46,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/digester3/BeanUtilsConverterFacade.java",
+			"rightBegin":48,
+			"rightEnd":56
+		}
+	]
+]

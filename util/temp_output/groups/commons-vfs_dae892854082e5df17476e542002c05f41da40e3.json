@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorInputStream.java",
+			"leftBegin":41,
+			"leftEnd":41,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/util/MonitorInputStream.java",
+			"rightBegin":41,
+			"rightEnd":55
+		}
+	]
+]

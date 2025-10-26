@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"leftBegin":113,
+			"leftEnd":112,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"rightBegin":117,
+			"rightEnd":140
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"rightBegin":66,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"leftBegin":53,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/scxml/model/DatamodelTest.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

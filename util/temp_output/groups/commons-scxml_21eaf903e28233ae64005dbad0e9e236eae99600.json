@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/issues/Issue64Test.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/test/java/org/apache/commons/scxml/issues/Issue64Test.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/issues/Issue64Test.java",
+			"leftBegin":71,
+			"leftEnd":71,
+			"rightPath":"src/test/java/org/apache/commons/scxml/issues/Issue64Test.java",
+			"rightBegin":71,
+			"rightEnd":71
+		}
+	]
+]

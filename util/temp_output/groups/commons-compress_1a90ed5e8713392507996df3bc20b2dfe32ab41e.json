@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSampleTest.java",
+			"rightBegin":1,
+			"rightEnd":71
+		}
+	]
+]

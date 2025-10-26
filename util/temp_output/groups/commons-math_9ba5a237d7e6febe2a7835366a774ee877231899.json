@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"leftBegin":65,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"rightBegin":69,
+			"rightEnd":117
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"rightBegin":21,
+			"rightEnd":24
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/math/MathExceptionTest.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

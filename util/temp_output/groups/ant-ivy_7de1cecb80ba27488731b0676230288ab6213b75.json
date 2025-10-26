@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyAntSettingsBuildFileTest.java",
+			"leftBegin":44,
+			"leftEnd":44,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyAntSettingsBuildFileTest.java",
+			"rightBegin":44,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"leftBegin":291,
+			"leftEnd":290,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyPostResolveTask.java",
+			"rightBegin":291,
+			"rightEnd":291
+		}
+	]
+]

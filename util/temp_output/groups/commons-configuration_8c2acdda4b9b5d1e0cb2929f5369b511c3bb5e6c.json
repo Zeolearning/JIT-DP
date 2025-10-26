@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/reloading/ReloadingEvent.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/reloading/ReloadingEvent.java",
+			"rightBegin":37,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/reloading/ReloadingEvent.java",
+			"leftBegin":42,
+			"leftEnd":45,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/reloading/ReloadingEvent.java",
+			"rightBegin":46,
+			"rightEnd":45
+		}
+	]
+]

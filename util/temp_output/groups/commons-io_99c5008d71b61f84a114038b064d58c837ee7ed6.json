@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"leftBegin":100,
+			"leftEnd":101,
+			"rightPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"rightBegin":100,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"leftBegin":84,
+			"leftEnd":85,
+			"rightPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"rightBegin":84,
+			"rightEnd":85
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"leftBegin":92,
+			"leftEnd":93,
+			"rightPath":"src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java",
+			"rightBegin":92,
+			"rightEnd":93
+		}
+	]
+]

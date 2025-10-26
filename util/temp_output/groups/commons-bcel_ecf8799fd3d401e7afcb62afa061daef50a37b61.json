@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/bcel6/PerformanceTest.java",
+			"leftBegin":42,
+			"leftEnd":41,
+			"rightPath":"src/test/java/org/apache/commons/bcel6/PerformanceTest.java",
+			"rightBegin":42,
+			"rightEnd":43
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/bcel6/PerformanceTest.java",
+			"leftBegin":121,
+			"leftEnd":127,
+			"rightPath":"src/test/java/org/apache/commons/bcel6/PerformanceTest.java",
+			"rightBegin":123,
+			"rightEnd":131
+		}
+	]
+]

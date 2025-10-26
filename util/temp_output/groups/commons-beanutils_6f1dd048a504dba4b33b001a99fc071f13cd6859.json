@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"leftBegin":3829,
+			"leftEnd":3828,
+			"rightPath":"src/test/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"rightBegin":3830,
+			"rightEnd":3867
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"src/test/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	]
+]

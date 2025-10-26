@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/HashCodeBuilderTest.java",
+			"leftBegin":445,
+			"leftEnd":445,
+			"rightPath":"src/test/org/apache/commons/lang/builder/HashCodeBuilderTest.java",
+			"rightBegin":445,
+			"rightEnd":445
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/EqualsBuilderTest.java",
+			"leftBegin":969,
+			"leftEnd":969,
+			"rightPath":"src/test/org/apache/commons/lang/builder/EqualsBuilderTest.java",
+			"rightBegin":969,
+			"rightEnd":969
+		}
+	]
+]

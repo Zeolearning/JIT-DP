@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/exception/util/LocalizedFormatsTest.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/math3/exception/util/LocalizedFormatsTest.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java",
+			"leftBegin":100,
+			"leftEnd":99,
+			"rightPath":"src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

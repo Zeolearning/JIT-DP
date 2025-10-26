@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"rightBegin":160,
+			"rightEnd":160
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"leftBegin":130,
+			"leftEnd":130,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"rightBegin":130,
+			"rightEnd":132
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"leftBegin":132,
+			"leftEnd":140,
+			"rightPath":"src/main/java/org/apache/commons/digester3/RulesBase.java",
+			"rightBegin":134,
+			"rightEnd":136
+		}
+	]
+]

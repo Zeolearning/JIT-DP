@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp2/TestPoolingDataSource.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestPoolingDataSource.java",
+			"rightBegin":126,
+			"rightEnd":126
+		}
+	]
+]

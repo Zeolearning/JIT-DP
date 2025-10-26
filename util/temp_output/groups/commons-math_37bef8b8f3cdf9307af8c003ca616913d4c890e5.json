@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/analysis/polynomials/PolynomialFunctionTest.java",
+			"leftBegin":234,
+			"leftEnd":233,
+			"rightPath":"src/test/java/org/apache/commons/math/analysis/polynomials/PolynomialFunctionTest.java",
+			"rightBegin":234,
+			"rightEnd":261
+		}
+	]
+]

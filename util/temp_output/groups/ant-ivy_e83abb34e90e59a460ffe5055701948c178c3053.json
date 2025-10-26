@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveOptions.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveOptions.java",
+			"rightBegin":46,
+			"rightEnd":47
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveOptions.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveOptions.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/EnumUtils.java",
+			"leftBegin":169,
+			"leftEnd":169,
+			"rightPath":"src/main/java/org/apache/commons/lang3/EnumUtils.java",
+			"rightBegin":169,
+			"rightEnd":169
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/EnumUtils.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/lang3/EnumUtils.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	]
+]

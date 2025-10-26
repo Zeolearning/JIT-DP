@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ClassPropertiesConfiguration.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/java/org/apache/commons/configuration/ClassPropertiesConfiguration.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ClassPropertiesConfiguration.java",
+			"leftBegin":87,
+			"leftEnd":92,
+			"rightPath":"src/java/org/apache/commons/configuration/ClassPropertiesConfiguration.java",
+			"rightBegin":87,
+			"rightEnd":86
+		}
+	]
+]

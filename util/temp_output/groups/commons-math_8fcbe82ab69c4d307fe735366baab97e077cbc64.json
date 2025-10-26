@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":148,
+			"rightEnd":148
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":134,
+			"leftEnd":134,
+			"rightPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":135,
+			"rightEnd":135
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":24,
+			"leftEnd":23,
+			"rightPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":23,
+			"rightEnd":24
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math/random/ValueServerTest.java",
+			"rightBegin":19,
+			"rightEnd":18
+		}
+	]
+]

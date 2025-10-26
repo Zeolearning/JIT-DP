@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/BCELifier.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/bcel/util/BCELifier.java",
+			"rightBegin":75,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/AttributeHTML.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/bcel/util/AttributeHTML.java",
+			"rightBegin":121,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/CodeHTML.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/java/org/apache/bcel/util/CodeHTML.java",
+			"rightBegin":108,
+			"rightEnd":108
+		}
+	]
+]

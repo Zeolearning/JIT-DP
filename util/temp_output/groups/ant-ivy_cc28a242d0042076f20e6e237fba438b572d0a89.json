@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/util/ResourceMDParser.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/util/ResourceMDParser.java",
+			"rightBegin":23,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResourceResolver.java",
+			"leftBegin":161,
+			"leftEnd":160,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResourceResolver.java",
+			"rightBegin":161,
+			"rightEnd":166
+		}
+	]
+]

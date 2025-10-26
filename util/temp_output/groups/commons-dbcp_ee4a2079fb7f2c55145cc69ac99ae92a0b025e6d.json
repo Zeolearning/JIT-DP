@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/AbandonedObjectPool.java",
+			"leftBegin":100,
+			"leftEnd":100,
+			"rightPath":"src/java/org/apache/commons/dbcp2/AbandonedObjectPool.java",
+			"rightBegin":100,
+			"rightEnd":100
+		}
+	]
+]

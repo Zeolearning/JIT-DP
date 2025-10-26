@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"rightBegin":146,
+			"rightEnd":149
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/util/IOUtils.java",
+			"leftBegin":251,
+			"leftEnd":253,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/util/IOUtils.java",
+			"rightBegin":251,
+			"rightEnd":254
+		}
+	]
+]

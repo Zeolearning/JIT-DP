@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdamsNordsieckTransformer.java",
+			"leftBegin":292,
+			"leftEnd":293,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdamsNordsieckTransformer.java",
+			"rightBegin":293,
+			"rightEnd":294
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdamsNordsieckTransformer.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/nonstiff/AdamsNordsieckTransformer.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

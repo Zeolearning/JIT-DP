@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/digester3/binder/Entity.java",
+			"rightBegin":1,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"core/src/test/java/org/apache/commons/digester3/binder/Digester163TestCase.java",
+			"rightBegin":1,
+			"rightEnd":121
+		}
+	]
+]

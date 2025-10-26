@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"examples/TransitiveHull.java",
+			"rightBegin":1,
+			"rightEnd":150
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/util/ClassSet.java",
+			"rightBegin":1,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"rightBegin":56,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"src/java/org/apache/bcel/util/ClassQueue.java",
+			"rightBegin":68,
+			"rightEnd":68
+		}
+	]
+]

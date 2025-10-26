@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"leftBegin":66,
+			"leftEnd":67,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"rightBegin":75,
+			"rightEnd":77
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"rightBegin":35,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"leftBegin":53,
+			"leftEnd":54,
+			"rightPath":"src/test/java/org/apache/commons/math/distribution/PascalDistributionTest.java",
+			"rightBegin":61,
+			"rightEnd":63
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionFactory.java",
+			"leftBegin":108,
+			"leftEnd":108,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionFactory.java",
+			"rightBegin":110,
+			"rightEnd":110
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionFactory.java",
+			"leftBegin":107,
+			"leftEnd":106,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/InstructionFactory.java",
+			"rightBegin":107,
+			"rightEnd":108
+		}
+	]
+]

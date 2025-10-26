@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"leftBegin":125,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"rightBegin":155,
+			"rightEnd":156
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"rightBegin":52,
+			"rightEnd":57
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"leftBegin":116,
+			"leftEnd":115,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyDependency.java",
+			"rightBegin":122,
+			"rightEnd":145
+		}
+	]
+]

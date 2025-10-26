@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/IncludeRule.java",
+			"leftBegin":65,
+			"leftEnd":65,
+			"rightPath":"src/main/java/org/apache/commons/digester3/xmlrules/metaparser/IncludeRule.java",
+			"rightBegin":65,
+			"rightEnd":71
+		}
+	]
+]

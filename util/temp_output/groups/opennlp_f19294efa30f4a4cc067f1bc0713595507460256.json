@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"leftBegin":575,
+			"leftEnd":575,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"rightBegin":577,
+			"rightEnd":580
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"leftBegin":574,
+			"leftEnd":573,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"rightBegin":575,
+			"rightEnd":575
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"leftBegin":571,
+			"leftEnd":572,
+			"rightPath":"opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java",
+			"rightBegin":571,
+			"rightEnd":573
+		}
+	]
+]

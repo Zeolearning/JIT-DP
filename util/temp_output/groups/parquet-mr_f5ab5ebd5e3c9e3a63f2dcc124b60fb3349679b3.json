@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-pig/src/main/java/parquet/pig/ParquetStorer.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"parquet-pig/src/main/java/parquet/pig/ParquetStorer.java",
+			"rightBegin":68,
+			"rightEnd":72
+		}
+	]
+]

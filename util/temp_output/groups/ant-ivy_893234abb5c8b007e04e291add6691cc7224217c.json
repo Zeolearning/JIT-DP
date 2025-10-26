@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"rightBegin":146,
+			"rightEnd":146
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"leftBegin":95,
+			"leftEnd":96,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyTask.java",
+			"rightBegin":95,
+			"rightEnd":95
+		}
+	]
+]

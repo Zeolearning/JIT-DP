@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":348,
+			"leftEnd":347,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":351,
+			"rightEnd":351
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":316,
+			"leftEnd":315,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":317,
+			"rightEnd":317
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":340,
+			"leftEnd":339,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":342,
+			"rightEnd":342
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"leftBegin":308,
+			"leftEnd":307,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.java",
+			"rightBegin":308,
+			"rightEnd":308
+		}
+	]
+]

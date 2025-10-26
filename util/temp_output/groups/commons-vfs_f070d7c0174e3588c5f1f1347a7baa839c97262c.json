@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/hdfs/test/HdfsFileProviderTest.java",
+			"leftBegin":137,
+			"leftEnd":137,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/hdfs/test/HdfsFileProviderTest.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs2/provider/hdfs/test/HdfsFileProviderTest.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs2/provider/hdfs/test/HdfsFileProviderTest.java",
+			"rightBegin":78,
+			"rightEnd":77
+		}
+	]
+]

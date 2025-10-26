@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/io/input/InfiniteCircularInputStream.java",
+			"rightBegin":1,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/io/input/InfiniteCircularInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	]
+]

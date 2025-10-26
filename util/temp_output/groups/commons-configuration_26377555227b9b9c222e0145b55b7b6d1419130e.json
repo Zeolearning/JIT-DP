@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/builder/fluent/TestParameters.java",
+			"rightBegin":1,
+			"rightEnd":84
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/fluent/Parameters.java",
+			"rightBegin":1,
+			"rightEnd":163
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/fluent/FileBasedBuilderParameters.java",
+			"rightBegin":1,
+			"rightEnd":37
+		}
+	]
+]

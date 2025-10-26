@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/PersistentBase.java",
+			"leftBegin":40,
+			"leftEnd":40,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/PersistentBase.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	]
+]

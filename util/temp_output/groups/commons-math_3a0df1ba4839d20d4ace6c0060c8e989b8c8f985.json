@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/optimization/general/GaussNewtonOptimizerTest.java",
+			"rightBegin":1,
+			"rightEnd":573
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/optimization/general/GaussNewtonEstimatorTest.java",
+			"leftBegin":1,
+			"leftEnd":734,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+			"rightBegin":1,
+			"rightEnd":319
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/math/optimization/general/GaussNewtonOptimizer.java",
+			"rightBegin":1,
+			"rightEnd":135
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegrator.java",
+			"leftBegin":943,
+			"leftEnd":942,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/nonstiff/GraggBulirschStoerIntegrator.java",
+			"rightBegin":943,
+			"rightEnd":946
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/AbstractIntegerDistribution.java",
+			"leftBegin":159,
+			"leftEnd":160,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/AbstractIntegerDistribution.java",
+			"rightBegin":159,
+			"rightEnd":159
+		}
+	]
+]

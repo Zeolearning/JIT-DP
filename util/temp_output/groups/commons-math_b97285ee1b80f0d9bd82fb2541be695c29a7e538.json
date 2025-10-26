@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+			"leftBegin":136,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+			"rightBegin":136,
+			"rightEnd":137
+		}
+	]
+]

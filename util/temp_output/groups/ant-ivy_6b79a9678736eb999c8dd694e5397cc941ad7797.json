@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyDeliverTest.java",
+			"leftBegin":237,
+			"leftEnd":236,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyDeliverTest.java",
+			"rightBegin":237,
+			"rightEnd":261
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"leftBegin":250,
+			"leftEnd":250,
+			"rightPath":"src/java/org/apache/ivy/core/resolve/ResolveEngine.java",
+			"rightBegin":250,
+			"rightEnd":250
+		}
+	]
+]

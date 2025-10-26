@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"leftBegin":214,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/io/FileSystem.java",
+			"rightBegin":214,
+			"rightEnd":215
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileSystemTestCase.java",
+			"leftBegin":66,
+			"leftEnd":65,
+			"rightPath":"src/test/java/org/apache/commons/io/FileSystemTestCase.java",
+			"rightBegin":66,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileSystemTestCase.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"src/test/java/org/apache/commons/io/FileSystemTestCase.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java",
+			"leftBegin":438,
+			"leftEnd":438,
+			"rightPath":"src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java",
+			"rightBegin":438,
+			"rightEnd":438
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java",
+			"leftBegin":436,
+			"leftEnd":436,
+			"rightPath":"src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java",
+			"rightBegin":436,
+			"rightEnd":436
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/bag/TestTreeBag.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"src/test/org/apache/commons/collections/bag/TestTreeBag.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

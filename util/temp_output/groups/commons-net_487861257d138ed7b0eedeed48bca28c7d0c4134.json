@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":53,
+			"leftEnd":62,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":53,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/main/java/org/apache/commons/net/ftp/parser/EnterpriseUnixFTPEntryParser.java",
+			"rightBegin":130,
+			"rightEnd":130
+		}
+	]
+]

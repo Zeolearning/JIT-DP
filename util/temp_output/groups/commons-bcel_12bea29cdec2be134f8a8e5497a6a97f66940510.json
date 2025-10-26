@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/LocalVariableInstruction.java",
+			"leftBegin":156,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/LocalVariableInstruction.java",
+			"rightBegin":156,
+			"rightEnd":159
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/LocalVariableInstruction.java",
+			"leftBegin":216,
+			"leftEnd":215,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/LocalVariableInstruction.java",
+			"rightBegin":219,
+			"rightEnd":227
+		}
+	]
+]

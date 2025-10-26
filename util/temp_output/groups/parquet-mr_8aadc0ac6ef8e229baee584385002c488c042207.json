@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/projection/amend/ProtocolEventsGenerator.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/projection/amend/ProtocolEventsGenerator.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"leftBegin":805,
+			"leftEnd":806,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftRecordConverter.java",
+			"rightBegin":805,
+			"rightEnd":806
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/projection/amend/DummyCreatorVisitor.java",
+			"leftBegin":32,
+			"leftEnd":32,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/projection/amend/DefaultEventsVisitor.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/GraphMapper.java",
+			"leftBegin":67,
+			"leftEnd":66,
+			"rightPath":"src/main/java/org/apache/giraph/graph/GraphMapper.java",
+			"rightBegin":67,
+			"rightEnd":70
+		}
+	]
+]

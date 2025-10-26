@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/ZooKeeperManager.java",
+			"leftBegin":421,
+			"leftEnd":420,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/ZooKeeperManager.java",
+			"rightBegin":424,
+			"rightEnd":429
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/ZooKeeperManager.java",
+			"leftBegin":380,
+			"leftEnd":379,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/ZooKeeperManager.java",
+			"rightBegin":380,
+			"rightEnd":382
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"leftBegin":122,
+			"leftEnd":122,
+			"rightPath":"src/main/java/com/yahoo/hadoop_bsp/BspJob.java",
+			"rightBegin":122,
+			"rightEnd":122
+		}
+	]
+]

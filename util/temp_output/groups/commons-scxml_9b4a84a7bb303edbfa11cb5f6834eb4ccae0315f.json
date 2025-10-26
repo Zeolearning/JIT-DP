@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/semantics/TransitionTargetComparator.java",
+			"leftBegin":18,
+			"leftEnd":18,
+			"rightPath":"src/main/java/org/apache/commons/scxml/semantics/TransitionTargetComparator.java",
+			"rightBegin":18,
+			"rightEnd":18
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/semantics/TransitionTargetComparator.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/scxml/semantics/TransitionTargetComparator.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

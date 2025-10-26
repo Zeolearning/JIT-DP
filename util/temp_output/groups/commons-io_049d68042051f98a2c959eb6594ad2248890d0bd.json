@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"leftBegin":696,
+			"leftEnd":696,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"rightBegin":698,
+			"rightEnd":698
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"leftBegin":396,
+			"leftEnd":395,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"rightBegin":397,
+			"rightEnd":397
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"leftBegin":384,
+			"leftEnd":383,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/FileFilterUtils.java",
+			"rightBegin":384,
+			"rightEnd":384
+		}
+	]
+]

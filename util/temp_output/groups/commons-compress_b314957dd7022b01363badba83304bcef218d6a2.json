@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStreamTest.java",
+			"leftBegin":59,
+			"leftEnd":60,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStreamTest.java",
+			"rightBegin":59,
+			"rightEnd":60
+		}
+	]
+]

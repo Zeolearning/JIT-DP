@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"leftBegin":239,
+			"leftEnd":239,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"rightBegin":243,
+			"rightEnd":245
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"leftBegin":237,
+			"leftEnd":237,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"rightBegin":241,
+			"rightEnd":241
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"leftBegin":231,
+			"leftEnd":235,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"rightBegin":238,
+			"rightEnd":239
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"leftBegin":228,
+			"leftEnd":229,
+			"rightPath":"src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+			"rightBegin":228,
+			"rightEnd":236
+		}
+	]
+]

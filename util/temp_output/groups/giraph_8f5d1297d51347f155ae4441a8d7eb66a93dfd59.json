@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":158,
+			"leftEnd":158,
+			"rightPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":160,
+			"rightEnd":161
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":161,
+			"leftEnd":161,
+			"rightPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":164,
+			"rightEnd":165
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"leftBegin":155,
+			"leftEnd":156,
+			"rightPath":"src/main/java/org/apache/giraph/GiraphRunner.java",
+			"rightBegin":155,
+			"rightEnd":158
+		}
+	]
+]

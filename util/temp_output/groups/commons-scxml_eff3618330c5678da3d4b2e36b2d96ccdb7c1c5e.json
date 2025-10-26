@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"leftBegin":103,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"rightBegin":102,
+			"rightEnd":103
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"rightBegin":22,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"leftBegin":86,
+			"leftEnd":86,
+			"rightPath":"src/main/java/org/apache/commons/scxml/invoke/SimpleSCXMLInvoker.java",
+			"rightBegin":85,
+			"rightEnd":85
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/JCS.java",
+			"leftBegin":133,
+			"leftEnd":132,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/JCS.java",
+			"rightBegin":133,
+			"rightEnd":148
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"leftBegin":32,
+			"leftEnd":38,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"rightBegin":33,
+			"rightEnd":34
+		},
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"leftBegin":8,
+			"leftEnd":7,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"rightBegin":8,
+			"rightEnd":8
+		},
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"leftBegin":23,
+			"leftEnd":28,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/TupleReadSupport.java",
+			"rightBegin":24,
+			"rightEnd":29
+		}
+	]
+]

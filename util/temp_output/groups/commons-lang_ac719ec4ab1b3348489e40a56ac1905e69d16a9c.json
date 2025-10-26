@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"leftBegin":349,
+			"leftEnd":350,
+			"rightPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"rightBegin":350,
+			"rightEnd":349
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"leftBegin":319,
+			"leftEnd":348,
+			"rightPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"rightBegin":350,
+			"rightEnd":349
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"rightBegin":94,
+			"rightEnd":124
+		}
+	]
+]

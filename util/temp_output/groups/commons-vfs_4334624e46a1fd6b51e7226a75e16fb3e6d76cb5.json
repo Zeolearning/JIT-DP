@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/DelegateFileObject.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/DelegateFileObject.java",
+			"rightBegin":49,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs/provider/DelegateFileObject.java",
+			"leftBegin":341,
+			"leftEnd":340,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs/provider/DelegateFileObject.java",
+			"rightBegin":341,
+			"rightEnd":352
+		}
+	]
+]

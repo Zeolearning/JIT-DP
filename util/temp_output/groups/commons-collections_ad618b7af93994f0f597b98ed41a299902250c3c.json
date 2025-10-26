@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/MultiValueMapTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/MultiValueMapTest.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

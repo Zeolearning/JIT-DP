@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"leftBegin":126,
+			"leftEnd":130,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"rightBegin":140,
+			"rightEnd":145
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"leftBegin":75,
+			"leftEnd":76,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"rightBegin":75,
+			"rightEnd":80
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"leftBegin":80,
+			"leftEnd":79,
+			"rightPath":"src/java/org/apache/commons/beanutils/converters/AbstractArrayConverter.java",
+			"rightBegin":84,
+			"rightEnd":93
+		}
+	]
+]

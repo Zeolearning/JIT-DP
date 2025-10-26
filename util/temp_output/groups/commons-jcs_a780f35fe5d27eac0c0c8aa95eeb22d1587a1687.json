@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/utils/config/PropertySetterUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/config/PropertySetter.java",
+			"leftBegin":266,
+			"leftEnd":265,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/utils/config/PropertySetter.java",
+			"rightBegin":266,
+			"rightEnd":271
+		}
+	]
+]

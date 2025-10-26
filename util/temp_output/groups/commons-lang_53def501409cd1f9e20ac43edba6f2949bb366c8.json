@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyleTest.java",
+			"leftBegin":20,
+			"leftEnd":20,
+			"rightPath":"src/test/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyleTest.java",
+			"rightBegin":20,
+			"rightEnd":20
+		}
+	]
+]

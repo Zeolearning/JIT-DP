@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheDispatcherUniTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"commons-jcs-core/src/test/java/org/apache/commons/jcs/auxiliary/remote/http/client/RemoteHttpCacheDispatcherUnitTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

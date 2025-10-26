@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/RealVectorTest.java",
+			"leftBegin":216,
+			"leftEnd":215,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/RealVectorTest.java",
+			"rightBegin":216,
+			"rightEnd":222
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java",
+			"leftBegin":309,
+			"leftEnd":311,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java",
+			"rightBegin":321,
+			"rightEnd":320
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java",
+			"leftBegin":303,
+			"leftEnd":302,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java",
+			"rightBegin":303,
+			"rightEnd":314
+		}
+	]
+]

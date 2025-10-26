@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"rightBegin":75,
+			"rightEnd":75
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"leftBegin":68,
+			"leftEnd":68,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"rightBegin":70,
+			"rightEnd":73
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java",
+			"rightBegin":31,
+			"rightEnd":31
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterAggregatorHandler.java",
+			"leftBegin":340,
+			"leftEnd":340,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/master/MasterAggregatorHandler.java",
+			"rightBegin":340,
+			"rightEnd":341
+		}
+	]
+]

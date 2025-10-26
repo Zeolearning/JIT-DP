@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/SimpleContext.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/SimpleContext.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/env/SimpleContext.java",
+			"leftBegin":110,
+			"leftEnd":111,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/env/SimpleContext.java",
+			"rightBegin":111,
+			"rightEnd":113
+		}
+	]
+]

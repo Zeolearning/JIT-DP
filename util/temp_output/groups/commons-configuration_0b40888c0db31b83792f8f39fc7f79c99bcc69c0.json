@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestXMLPropertiesConfiguration.java",
+			"leftBegin":35,
+			"leftEnd":36,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestXMLPropertiesConfiguration.java",
+			"rightBegin":35,
+			"rightEnd":34
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration/TestXMLPropertiesConfiguration.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"src/test/java/org/apache/commons/configuration/TestXMLPropertiesConfiguration.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	]
+]

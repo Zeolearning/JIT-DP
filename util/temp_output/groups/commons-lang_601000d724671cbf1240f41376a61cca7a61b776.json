@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"leftBegin":1,
+			"leftEnd":166,
+			"rightPath":"src/test/org/apache/commons/lang/time/FastDateFormatTest.java",
+			"rightBegin":1,
+			"rightEnd":167
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/time/FastDateFormat.java",
+			"leftBegin":1,
+			"leftEnd":1179,
+			"rightPath":"src/java/org/apache/commons/lang/time/FastDateFormat.java",
+			"rightBegin":1,
+			"rightEnd":1180
+		}
+	]
+]

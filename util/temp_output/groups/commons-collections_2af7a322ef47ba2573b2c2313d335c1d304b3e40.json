@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/SequencedHashMap.java",
+			"leftBegin":732,
+			"leftEnd":732,
+			"rightPath":"src/java/org/apache/commons/collections/SequencedHashMap.java",
+			"rightBegin":732,
+			"rightEnd":732
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/SequencedHashMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/SequencedHashMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"leftBegin":82,
+			"leftEnd":81,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"rightBegin":25,
+			"rightEnd":26
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/persistency/impl/BeanFactoryImpl.java",
+			"rightBegin":79,
+			"rightEnd":90
+		}
+	]
+]

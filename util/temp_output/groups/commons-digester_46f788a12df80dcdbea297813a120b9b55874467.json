@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"leftBegin":137,
+			"leftEnd":138,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"rightBegin":138,
+			"rightEnd":140
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"rightBegin":133,
+			"rightEnd":134
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/main/java/org/apache/commons/digester3/binder/DefaultRulesBinder.java",
+			"rightBegin":136,
+			"rightEnd":136
+		}
+	]
+]

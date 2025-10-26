@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/output/ByteArrayOutputStream.java",
+			"leftBegin":378,
+			"leftEnd":377,
+			"rightPath":"src/main/java/org/apache/commons/io/output/ByteArrayOutputStream.java",
+			"rightBegin":378,
+			"rightEnd":390
+		}
+	]
+]

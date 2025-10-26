@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMapEntry.java",
+			"leftBegin":407,
+			"leftEnd":406,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMapEntry.java",
+			"rightBegin":407,
+			"rightEnd":407
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMapEntry.java",
+			"leftBegin":34,
+			"leftEnd":34,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/StackMapEntry.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

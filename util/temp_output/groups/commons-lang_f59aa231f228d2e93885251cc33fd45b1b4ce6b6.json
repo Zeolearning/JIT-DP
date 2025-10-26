@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/AbstractMessageFormatTest.java",
+			"leftBegin":53,
+			"leftEnd":52,
+			"rightPath":"src/test/org/apache/commons/lang/text/AbstractMessageFormatTest.java",
+			"rightBegin":53,
+			"rightEnd":54
+		}
+	]
+]

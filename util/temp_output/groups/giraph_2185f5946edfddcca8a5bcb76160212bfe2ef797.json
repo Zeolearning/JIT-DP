@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"leftBegin":99,
+			"leftEnd":100,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"rightBegin":106,
+			"rightEnd":106
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"rightBegin":91,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/zk/InProcessZooKeeperRunner.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/MultistepIntegrator.java",
+			"leftBegin":39,
+			"leftEnd":40,
+			"rightPath":"src/java/org/apache/commons/math/ode/MultistepIntegrator.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/ode/MultistepIntegrator.java",
+			"leftBegin":26,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/math/ode/MultistepIntegrator.java",
+			"rightBegin":26,
+			"rightEnd":25
+		}
+	]
+]

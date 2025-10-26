@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"leftBegin":161,
+			"leftEnd":161,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"rightBegin":169,
+			"rightEnd":169
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"leftBegin":158,
+			"leftEnd":159,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"rightBegin":162,
+			"rightEnd":167
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"leftBegin":154,
+			"leftEnd":154,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"rightBegin":154,
+			"rightEnd":154
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"leftBegin":156,
+			"leftEnd":156,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java",
+			"rightBegin":156,
+			"rightEnd":160
+		}
+	]
+]

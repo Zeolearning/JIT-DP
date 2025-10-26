@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/net/ftp/ListingFunctionalTest.java",
+			"leftBegin":154,
+			"leftEnd":153,
+			"rightPath":"src/test/org/apache/commons/net/ftp/ListingFunctionalTest.java",
+			"rightBegin":154,
+			"rightEnd":154
+		}
+	]
+]

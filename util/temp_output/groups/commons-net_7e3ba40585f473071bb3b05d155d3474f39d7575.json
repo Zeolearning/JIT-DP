@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"leftBegin":217,
+			"leftEnd":218,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"rightBegin":218,
+			"rightEnd":219
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"leftBegin":214,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"rightBegin":215,
+			"rightEnd":215
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"leftBegin":33,
+			"leftEnd":32,
+			"rightPath":"src/main/java/org/apache/commons/net/nntp/Threader.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

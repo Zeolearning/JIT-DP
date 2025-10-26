@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/Type.java",
+			"leftBegin":399,
+			"leftEnd":399,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/Type.java",
+			"rightBegin":401,
+			"rightEnd":401
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/Type.java",
+			"leftBegin":396,
+			"leftEnd":397,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/Type.java",
+			"rightBegin":396,
+			"rightEnd":399
+		}
+	]
+]

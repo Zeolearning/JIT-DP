@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/linear/RRQRDecompositionTest.java",
+			"leftBegin":240,
+			"leftEnd":239,
+			"rightPath":"src/test/java/org/apache/commons/math4/linear/RRQRDecompositionTest.java",
+			"rightBegin":240,
+			"rightEnd":246
+		}
+	]
+]

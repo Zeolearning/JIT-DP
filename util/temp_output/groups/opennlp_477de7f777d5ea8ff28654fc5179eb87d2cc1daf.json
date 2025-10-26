@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionaryWriter.java",
+			"leftBegin":1,
+			"leftEnd":138,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/CountedSet.java",
+			"leftBegin":35,
+			"leftEnd":34,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/CountedSet.java",
+			"rightBegin":35,
+			"rightEnd":36
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/util/CountedSet.java",
+			"leftBegin":36,
+			"leftEnd":35,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/util/CountedSet.java",
+			"rightBegin":38,
+			"rightEnd":38
+		}
+	]
+]

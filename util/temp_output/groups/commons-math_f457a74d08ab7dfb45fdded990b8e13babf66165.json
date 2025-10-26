@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/analysis/PolynomialSplineFunctionTest.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/test/org/apache/commons/math/analysis/PolynomialSplineFunctionTest.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/analysis/PolynomialSplineFunctionTest.java",
+			"leftBegin":64,
+			"leftEnd":63,
+			"rightPath":"src/test/org/apache/commons/math/analysis/PolynomialSplineFunctionTest.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

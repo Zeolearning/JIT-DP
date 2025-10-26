@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/FileSystemResolverTest.java",
+			"leftBegin":217,
+			"leftEnd":217,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/FileSystemResolverTest.java",
+			"rightBegin":217,
+			"rightEnd":217
+		}
+	]
+]

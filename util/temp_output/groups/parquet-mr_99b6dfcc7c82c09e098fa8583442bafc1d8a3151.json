@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"leftBegin":252,
+			"leftEnd":252,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"rightBegin":251,
+			"rightEnd":251
+		},
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"leftBegin":242,
+			"leftEnd":242,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"rightBegin":242,
+			"rightEnd":242
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"leftBegin":245,
+			"leftEnd":245,
+			"rightPath":"parquet-thrift/src/main/java/parquet/thrift/ThriftSchemaConvertVisitor.java",
+			"rightBegin":245,
+			"rightEnd":244
+		}
+	]
+]

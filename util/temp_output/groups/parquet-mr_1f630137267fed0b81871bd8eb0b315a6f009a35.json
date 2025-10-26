@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-column/src/main/java/parquet/filter/OrRecordFilter.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-column/src/main/java/parquet/filter/NotRecordFilter.java",
+			"rightBegin":1,
+			"rightEnd":55
+		}
+	]
+]

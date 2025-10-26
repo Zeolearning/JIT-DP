@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/DigesterImpl.java",
+			"leftBegin":1050,
+			"leftEnd":1050,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/DigesterImpl.java",
+			"rightBegin":1049,
+			"rightEnd":1052
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/internal/DigesterImpl.java",
+			"leftBegin":1036,
+			"leftEnd":1036,
+			"rightPath":"src/main/java/org/apache/commons/digester3/internal/DigesterImpl.java",
+			"rightBegin":1036,
+			"rightEnd":1035
+		}
+	]
+]

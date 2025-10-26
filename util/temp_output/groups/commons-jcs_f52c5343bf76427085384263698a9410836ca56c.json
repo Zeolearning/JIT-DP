@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/CacheEventQueue.java",
+			"leftBegin":274,
+			"leftEnd":273,
+			"rightPath":"src/java/org/apache/jcs/engine/CacheEventQueue.java",
+			"rightBegin":285,
+			"rightEnd":290
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/engine/CacheEventQueue.java",
+			"leftBegin":227,
+			"leftEnd":227,
+			"rightPath":"src/java/org/apache/jcs/engine/CacheEventQueue.java",
+			"rightBegin":227,
+			"rightEnd":238
+		}
+	]
+]

@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/core/deliver/DeliverTest.java",
+			"rightBegin":1,
+			"rightEnd":102
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"leftBegin":277,
+			"leftEnd":277,
+			"rightPath":"src/java/org/apache/ivy/core/module/id/ModuleRevisionId.java",
+			"rightBegin":277,
+			"rightEnd":280
+		}
+	]
+]

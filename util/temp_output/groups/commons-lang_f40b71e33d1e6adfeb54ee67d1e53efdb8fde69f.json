@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"leftBegin":280,
+			"leftEnd":327,
+			"rightPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"rightBegin":324,
+			"rightEnd":324
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"leftBegin":240,
+			"leftEnd":239,
+			"rightPath":"src/java/org/apache/commons/lang/ObjectUtils.java",
+			"rightBegin":240,
+			"rightEnd":283
+		}
+	]
+]

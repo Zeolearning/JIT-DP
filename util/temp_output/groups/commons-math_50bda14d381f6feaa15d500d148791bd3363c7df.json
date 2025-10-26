@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/TTestTest.java",
+			"rightBegin":1,
+			"rightEnd":228
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/math/stat/inference/ChiSquareTestTest.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

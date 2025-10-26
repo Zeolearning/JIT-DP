@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/updatesite/UpdateSiteLoaderTest.java",
+			"leftBegin":37,
+			"leftEnd":41,
+			"rightPath":"test/java/org/apache/ivy/osgi/updatesite/UpdateSiteLoaderTest.java",
+			"rightBegin":36,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/osgi/updatesite/UpdateSiteLoaderTest.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"test/java/org/apache/ivy/osgi/updatesite/UpdateSiteLoaderTest.java",
+			"rightBegin":35,
+			"rightEnd":34
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/updatesite/xml/EclipseUpdateSiteParser.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/java/org/apache/ivy/osgi/updatesite/xml/EclipseUpdateSiteParser.java",
+			"rightBegin":85,
+			"rightEnd":86
+		}
+	]
+]

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/iterators/TestAll.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/TestAll.java",
+			"rightBegin":51,
+			"rightEnd":51
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/iterators/ReverseListIterator.java",
+			"rightBegin":1,
+			"rightEnd":174
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/collections/iterators/TestReverseListIterator.java",
+			"rightBegin":1,
+			"rightEnd":170
+		}
+	]
+]

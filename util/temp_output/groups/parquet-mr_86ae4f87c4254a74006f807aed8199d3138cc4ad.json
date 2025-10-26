@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-cascading/src/test/java/parquet/cascading/ParquetTBaseSchemeTest.java",
+			"rightBegin":1,
+			"rightEnd":44
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTBaseScheme.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTBaseScheme.java",
+			"rightBegin":28,
+			"rightEnd":28
+		},
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTBaseScheme.java",
+			"leftBegin":57,
+			"leftEnd":57,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/ParquetTBaseScheme.java",
+			"rightBegin":57,
+			"rightEnd":57
+		}
+	]
+]

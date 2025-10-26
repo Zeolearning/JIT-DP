@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/configuration/beanutils/CombinedBeanDeclaration.java",
+			"rightBegin":1,
+			"rightEnd":187
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/configuration/beanutils/TestCombinedBeanDeclaration.java",
+			"rightBegin":1,
+			"rightEnd":295
+		}
+	]
+]

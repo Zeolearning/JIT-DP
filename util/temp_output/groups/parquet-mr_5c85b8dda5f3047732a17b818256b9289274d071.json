@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/ColumnChunkPageReadStore.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"parquet-hadoop/src/main/java/org/apache/parquet/hadoop/ColumnChunkPageReadStore.java",
+			"rightBegin":67,
+			"rightEnd":67
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"leftBegin":355,
+			"leftEnd":356,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"rightBegin":355,
+			"rightEnd":356
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"leftBegin":153,
+			"leftEnd":153,
+			"rightPath":"parquet-column/src/main/java/org/apache/parquet/column/impl/ColumnReaderImpl.java",
+			"rightBegin":153,
+			"rightEnd":153
+		}
+	]
+]

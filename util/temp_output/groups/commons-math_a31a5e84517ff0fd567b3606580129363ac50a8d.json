@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/RealLinearOperator.java",
+			"rightBegin":1,
+			"rightEnd":113
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"leftBegin":190,
+			"leftEnd":189,
+			"rightPath":"src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+			"rightBegin":190,
+			"rightEnd":191
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/NonSelfAdjointLinearOperatorException.java",
+			"rightBegin":1,
+			"rightEnd":128
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/NonPositiveDefiniteLinearOperatorException.java",
+			"rightBegin":1,
+			"rightEnd":86
+		}
+	]
+]

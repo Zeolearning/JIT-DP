@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/ClassConverterTestCase.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ClassConverterTestCase.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/converters/ClassConverterTestCase.java",
+			"leftBegin":131,
+			"leftEnd":130,
+			"rightPath":"src/test/org/apache/commons/beanutils/converters/ClassConverterTestCase.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/beanutils/DynaBeanUtilsTestCase.java",
+			"leftBegin":109,
+			"leftEnd":108,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaBeanUtilsTestCase.java",
+			"rightBegin":109,
+			"rightEnd":110
+		}
+	]
+]

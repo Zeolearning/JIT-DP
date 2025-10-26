@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/splitmap/TransformedMap.java",
+			"rightBegin":1,
+			"rightEnd":223
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/splitmap/SplitMapUtils.java",
+			"rightBegin":1,
+			"rightEnd":233
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/collections/splitmap/AbstractIterableGetMapDecorator.java",
+			"rightBegin":1,
+			"rightEnd":154
+		}
+	]
+]

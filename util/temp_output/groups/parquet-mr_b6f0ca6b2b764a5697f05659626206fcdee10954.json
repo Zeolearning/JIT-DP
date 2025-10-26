@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"leftBegin":56,
+			"leftEnd":59,
+			"rightPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"rightBegin":56,
+			"rightEnd":59
+		},
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"redelm-column/src/main/java/redelm/io/RecordReader.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"redelm-column/src/main/java/redelm/io/MessageColumnIO.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"redelm-column/src/main/java/redelm/io/MessageColumnIO.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	]
+]

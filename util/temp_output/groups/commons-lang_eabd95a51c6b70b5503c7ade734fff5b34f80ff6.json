@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/BooleanUtilsTest.java",
+			"leftBegin":287,
+			"leftEnd":286,
+			"rightPath":"src/test/java/org/apache/commons/lang3/BooleanUtilsTest.java",
+			"rightBegin":287,
+			"rightEnd":288
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+			"leftBegin":540,
+			"leftEnd":539,
+			"rightPath":"src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+			"rightBegin":540,
+			"rightEnd":541
+		}
+	]
+]

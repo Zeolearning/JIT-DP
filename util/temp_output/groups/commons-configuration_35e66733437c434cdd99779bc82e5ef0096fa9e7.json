@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"leftBegin":143,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/configuration/builder/FileBasedConfigurationBuilder.java",
+			"rightBegin":143,
+			"rightEnd":143
+		}
+	]
+]

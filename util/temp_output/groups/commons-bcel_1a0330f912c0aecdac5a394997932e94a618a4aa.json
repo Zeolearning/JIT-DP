@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/bcel/ElementValueGenTestCase.java",
+			"leftBegin":212,
+			"leftEnd":239,
+			"rightPath":"src/test/java/org/apache/bcel/ElementValueGenTestCase.java",
+			"rightBegin":212,
+			"rightEnd":231
+		}
+	]
+]

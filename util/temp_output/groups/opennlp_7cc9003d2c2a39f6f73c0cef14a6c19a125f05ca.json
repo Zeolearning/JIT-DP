@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java",
+			"rightBegin":41,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java",
+			"leftBegin":56,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java",
+			"rightBegin":65,
+			"rightEnd":64
+		}
+	]
+]

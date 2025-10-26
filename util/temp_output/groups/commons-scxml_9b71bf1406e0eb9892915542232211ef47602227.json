@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"leftBegin":502,
+			"leftEnd":501,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"rightBegin":506,
+			"rightEnd":507
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"leftBegin":479,
+			"leftEnd":478,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"rightBegin":479,
+			"rightEnd":480
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"leftBegin":484,
+			"leftEnd":483,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/semantics/SCXMLSemanticsImpl.java",
+			"rightBegin":486,
+			"rightEnd":487
+		}
+	]
+]

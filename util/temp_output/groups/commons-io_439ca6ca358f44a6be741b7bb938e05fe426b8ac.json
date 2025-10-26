@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/DemuxTestCase.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"src/test/org/apache/commons/io/DemuxTestCase.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

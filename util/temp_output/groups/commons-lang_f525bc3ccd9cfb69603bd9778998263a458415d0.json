@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"leftBegin":412,
+			"leftEnd":412,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java",
+			"rightBegin":412,
+			"rightEnd":412
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"leftBegin":326,
+			"leftEnd":326,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/CompareToBuilder.java",
+			"rightBegin":326,
+			"rightEnd":326
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"leftBegin":193,
+			"leftEnd":193,
+			"rightPath":"src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java",
+			"rightBegin":193,
+			"rightEnd":193
+		}
+	]
+]

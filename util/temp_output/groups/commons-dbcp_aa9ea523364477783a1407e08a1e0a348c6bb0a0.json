@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/TestDriverManagerConnectionFactory.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/test/org/apache/commons/dbcp/TestDriverManagerConnectionFactory.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/datasources/TestCPDSConnectionFactory.java",
+			"leftBegin":67,
+			"leftEnd":69,
+			"rightPath":"src/test/org/apache/commons/dbcp/datasources/TestCPDSConnectionFactory.java",
+			"rightBegin":67,
+			"rightEnd":69
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/AggregateTranslator.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/AggregateTranslator.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/translate/AggregateTranslator.java",
+			"leftBegin":37,
+			"leftEnd":36,
+			"rightPath":"src/java/org/apache/commons/lang/text/translate/AggregateTranslator.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

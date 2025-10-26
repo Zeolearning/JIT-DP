@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/distribution/AbtractIntegerDistributionTest.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/test/java/org/apache/commons/math3/distribution/AbstractIntegerDistributionTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

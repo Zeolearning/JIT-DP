@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"leftBegin":146,
+			"leftEnd":146,
+			"rightPath":"src/test/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"rightBegin":146,
+			"rightEnd":146
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"leftBegin":135,
+			"leftEnd":135,
+			"rightPath":"src/test/org/apache/commons/codec/language/ColognePhoneticTest.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/codec/language/ColognePhonetic.java",
+			"leftBegin":393,
+			"leftEnd":393,
+			"rightPath":"src/java/org/apache/commons/codec/language/ColognePhonetic.java",
+			"rightBegin":393,
+			"rightEnd":393
+		}
+	]
+]

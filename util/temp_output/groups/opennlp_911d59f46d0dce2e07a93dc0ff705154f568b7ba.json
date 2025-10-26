@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-morfologik-addon/src/main/java/opennlp/morfologik/lemmatizer/MorfologikLemmatizer.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"opennlp-morfologik-addon/src/main/java/opennlp/morfologik/lemmatizer/MorfologikLemmatizer.java",
+			"rightBegin":42,
+			"rightEnd":47
+		}
+	]
+]

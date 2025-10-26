@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/memory/store/MemStoreTest.java",
+			"rightBegin":1,
+			"rightEnd":31
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java",
+			"leftBegin":142,
+			"leftEnd":141,
+			"rightPath":"gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java",
+			"rightBegin":142,
+			"rightEnd":144
+		}
+	]
+]

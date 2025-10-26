@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportOutputter.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportOutputter.java",
+			"rightBegin":69,
+			"rightEnd":69
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/report/XmlReportOutputter.java",
+			"leftBegin":73,
+			"leftEnd":73,
+			"rightPath":"src/java/org/apache/ivy/plugins/report/XmlReportOutputter.java",
+			"rightBegin":73,
+			"rightEnd":73
+		}
+	]
+]

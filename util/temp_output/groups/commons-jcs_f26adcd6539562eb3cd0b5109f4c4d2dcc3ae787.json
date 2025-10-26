@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"leftBegin":234,
+			"leftEnd":234,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"rightBegin":230,
+			"rightEnd":230
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"leftBegin":168,
+			"leftEnd":168,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"leftBegin":135,
+			"leftEnd":139,
+			"rightPath":"src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java",
+			"rightBegin":135,
+			"rightEnd":135
+		}
+	]
+]

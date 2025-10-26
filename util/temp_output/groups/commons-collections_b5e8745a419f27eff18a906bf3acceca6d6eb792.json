@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"leftBegin":410,
+			"leftEnd":410,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"rightBegin":410,
+			"rightEnd":410
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"leftBegin":407,
+			"leftEnd":408,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"rightBegin":407,
+			"rightEnd":408
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"leftBegin":402,
+			"leftEnd":403,
+			"rightPath":"src/test/org/apache/commons/collections/map/TestMultiValueMap.java",
+			"rightBegin":402,
+			"rightEnd":403
+		}
+	]
+]

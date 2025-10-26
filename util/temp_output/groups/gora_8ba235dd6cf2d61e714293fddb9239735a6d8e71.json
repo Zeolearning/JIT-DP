@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/mock/persistency/MockPersistent.java",
+			"leftBegin":28,
+			"leftEnd":27,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/mock/persistency/MockPersistent.java",
+			"rightBegin":28,
+			"rightEnd":30
+		}
+	],
+	[
+		{
+			"leftPath":"gora-core/src/test/java/org/apache/gora/mock/persistency/MockPersistent.java",
+			"leftBegin":96,
+			"leftEnd":99,
+			"rightPath":"gora-core/src/test/java/org/apache/gora/mock/persistency/MockPersistent.java",
+			"rightBegin":99,
+			"rightEnd":102
+		}
+	]
+]

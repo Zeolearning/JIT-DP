@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"rightBegin":42,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"rightBegin":21,
+			"rightEnd":21
+		},
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"leftBegin":30,
+			"leftEnd":30,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/worker/WorkerContext.java",
+			"rightBegin":31,
+			"rightEnd":33
+		}
+	]
+]

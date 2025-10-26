@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/random/EmpiricalDistributionTest.java",
+			"leftBegin":101,
+			"leftEnd":101,
+			"rightPath":"src/test/java/org/apache/commons/math3/random/EmpiricalDistributionTest.java",
+			"rightBegin":101,
+			"rightEnd":101
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/InitializableRule.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/InitializableRule.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

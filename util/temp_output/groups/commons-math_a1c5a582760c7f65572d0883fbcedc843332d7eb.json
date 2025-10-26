@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"leftBegin":211,
+			"leftEnd":211,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"rightBegin":208,
+			"rightEnd":208
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"leftBegin":50,
+			"leftEnd":52,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"rightBegin":50,
+			"rightEnd":49
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/AbstractRealDistribution.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

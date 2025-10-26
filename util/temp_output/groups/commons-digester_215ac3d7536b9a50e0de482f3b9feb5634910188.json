@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"leftBegin":362,
+			"leftEnd":365,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"rightBegin":364,
+			"rightEnd":368
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"leftBegin":347,
+			"leftEnd":349,
+			"rightPath":"src/main/java/org/apache/commons/digester3/ObjectCreateRule.java",
+			"rightBegin":347,
+			"rightEnd":351
+		}
+	]
+]

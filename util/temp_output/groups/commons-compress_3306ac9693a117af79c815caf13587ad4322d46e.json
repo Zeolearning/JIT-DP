@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/BitStream.java",
+			"leftBegin":102,
+			"leftEnd":105,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/BitStream.java",
+			"rightBegin":100,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/BitStream.java",
+			"leftBegin":81,
+			"leftEnd":84,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/BitStream.java",
+			"rightBegin":81,
+			"rightEnd":82
+		}
+	]
+]

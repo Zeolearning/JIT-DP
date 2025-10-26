@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/Base64Test.java",
+			"leftBegin":1257,
+			"leftEnd":1257,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/Base64Test.java",
+			"rightBegin":1257,
+			"rightEnd":1257
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/binary/Base64Test.java",
+			"leftBegin":1233,
+			"leftEnd":1233,
+			"rightPath":"src/test/java/org/apache/commons/codec/binary/Base64Test.java",
+			"rightBegin":1233,
+			"rightEnd":1233
+		}
+	]
+]

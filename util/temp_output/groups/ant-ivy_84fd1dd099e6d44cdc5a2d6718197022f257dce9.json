@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyPublishTest.java",
+			"leftBegin":311,
+			"leftEnd":310,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyPublishTest.java",
+			"rightBegin":311,
+			"rightEnd":438
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/ivy/core/deliver/DeliverEngine.java",
+			"rightBegin":121,
+			"rightEnd":121
+		}
+	]
+]

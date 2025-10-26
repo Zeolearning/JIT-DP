@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/jcs/auxiliary/remote/server/TimeoutConfigurableRMIScoketFactoryUnitTest.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/test/java/org/apache/commons/jcs/auxiliary/remote/server/TimeoutConfigurableRMISocketFactoryUnitTest.java",
+			"rightBegin":29,
+			"rightEnd":29
+		}
+	]
+]

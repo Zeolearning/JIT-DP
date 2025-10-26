@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/model/Transition.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/model/Transition.java",
+			"rightBegin":131,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml2/model/Transition.java",
+			"leftBegin":133,
+			"leftEnd":133,
+			"rightPath":"src/main/java/org/apache/commons/scxml2/model/Transition.java",
+			"rightBegin":133,
+			"rightEnd":133
+		}
+	]
+]

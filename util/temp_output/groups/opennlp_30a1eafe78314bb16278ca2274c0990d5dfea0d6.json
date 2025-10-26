@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmatizerMETest.java",
+			"rightBegin":1,
+			"rightEnd":94
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"opennlp-tools/src/test/java/opennlp/tools/lemmatizer/LemmaSampleTest.java",
+			"rightBegin":1,
+			"rightEnd":126
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/LemmaSample.java",
+			"leftBegin":94,
+			"leftEnd":94,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/LemmaSample.java",
+			"rightBegin":94,
+			"rightEnd":94
+		}
+	]
+]

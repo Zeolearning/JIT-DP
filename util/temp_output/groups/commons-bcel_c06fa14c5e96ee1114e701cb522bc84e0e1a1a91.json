@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"rightBegin":101,
+			"rightEnd":100
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"leftBegin":94,
+			"leftEnd":93,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"rightBegin":96,
+			"rightEnd":97
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/Select.java",
+			"rightBegin":92,
+			"rightEnd":94
+		}
+	]
+]

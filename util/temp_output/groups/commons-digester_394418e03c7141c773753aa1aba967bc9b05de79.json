@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/digester3/BeanPropertySetterRuleTestCase.java",
+			"rightBegin":1,
+			"rightEnd":300
+		}
+	]
+]

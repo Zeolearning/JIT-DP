@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"test/java/fr/jayasoft/ivy/ant/IvyRetrieveTest.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"test/java/fr/jayasoft/ivy/ant/IvyRetrieveTest.java",
+			"rightBegin":152,
+			"rightEnd":174
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":2503,
+			"leftEnd":2503,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":2513,
+			"rightEnd":2514
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"leftBegin":1931,
+			"leftEnd":1931,
+			"rightPath":"src/java/fr/jayasoft/ivy/Ivy.java",
+			"rightBegin":1931,
+			"rightEnd":1941
+		}
+	]
+]

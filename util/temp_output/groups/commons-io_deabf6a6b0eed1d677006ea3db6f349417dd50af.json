@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/io/output/FileWriterWithEncoding.java",
+			"rightBegin":1,
+			"rightEnd":288
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/io/output/FileWriterWithEncodingTest.java",
+			"rightBegin":1,
+			"rightEnd":221
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/PackageTestSuite.java",
+			"leftBegin":41,
+			"leftEnd":40,
+			"rightPath":"src/test/org/apache/commons/io/output/PackageTestSuite.java",
+			"rightBegin":41,
+			"rightEnd":41
+		}
+	]
+]

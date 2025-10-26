@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/DefaultLemmatizerContextGenerator.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/lemmatizer/DefaultLemmatizerContextGenerator.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/DefaultPOSSequenceValidator.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/DefaultPOSSequenceValidator.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	]
+]

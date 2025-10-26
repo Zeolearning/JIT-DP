@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+			"leftBegin":101,
+			"leftEnd":100,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+			"rightBegin":101,
+			"rightEnd":115
+		}
+	]
+]

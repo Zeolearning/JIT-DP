@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/AklToussaintHeuristicTest.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/hull/AklToussaintHeuristic.java",
+			"rightBegin":1,
+			"rightEnd":173
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"leftBegin":48,
+			"leftEnd":47,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"rightBegin":48,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"leftBegin":92,
+			"leftEnd":92,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/hull/ConvexHullGenerator2DAbstractTest.java",
+			"rightBegin":97,
+			"rightEnd":97
+		}
+	]
+]

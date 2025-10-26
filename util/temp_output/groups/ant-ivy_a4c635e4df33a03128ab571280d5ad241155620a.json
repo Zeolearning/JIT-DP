@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"leftBegin":417,
+			"leftEnd":417,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/BasicResolver.java",
+			"rightBegin":417,
+			"rightEnd":417
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/repo/RepoDescriptorBasedResolver.java",
+			"leftBegin":228,
+			"leftEnd":227,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/RepoDescriptorBasedResolver.java",
+			"rightBegin":228,
+			"rightEnd":236
+		}
+	]
+]

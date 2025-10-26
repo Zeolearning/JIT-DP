@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+			"leftBegin":332,
+			"leftEnd":331,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+			"rightBegin":332,
+			"rightEnd":359
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2DTest.java",
+			"rightBegin":1,
+			"rightEnd":40
+		}
+	]
+]

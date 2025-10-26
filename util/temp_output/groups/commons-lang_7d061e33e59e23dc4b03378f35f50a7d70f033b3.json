@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreakerTest.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreakerTest.java",
+			"rightBegin":158,
+			"rightEnd":172
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+			"leftBegin":274,
+			"leftEnd":274,
+			"rightPath":"src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+			"rightBegin":274,
+			"rightEnd":274
+		}
+	]
+]

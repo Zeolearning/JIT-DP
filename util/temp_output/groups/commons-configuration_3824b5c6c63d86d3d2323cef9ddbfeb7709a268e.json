@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"leftBegin":570,
+			"leftEnd":570,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"rightBegin":573,
+			"rightEnd":574
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"leftBegin":538,
+			"leftEnd":538,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"rightBegin":540,
+			"rightEnd":541
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"leftBegin":515,
+			"leftEnd":515,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"rightBegin":516,
+			"rightEnd":517
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"leftBegin":401,
+			"leftEnd":401,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java",
+			"rightBegin":401,
+			"rightEnd":402
+		}
+	]
+]

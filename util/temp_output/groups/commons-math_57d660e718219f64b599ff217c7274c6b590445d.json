@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"leftBegin":323,
+			"leftEnd":322,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"rightBegin":326,
+			"rightEnd":328
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"leftBegin":311,
+			"leftEnd":312,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"rightBegin":311,
+			"rightEnd":312
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"leftBegin":318,
+			"leftEnd":317,
+			"rightPath":"src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+			"rightBegin":318,
+			"rightEnd":320
+		}
+	]
+]

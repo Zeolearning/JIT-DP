@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"leftBegin":87,
+			"leftEnd":86,
+			"rightPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"rightBegin":89,
+			"rightEnd":101
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"leftBegin":63,
+			"leftEnd":63,
+			"rightPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"rightBegin":65,
+			"rightEnd":65
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"leftBegin":48,
+			"leftEnd":48,
+			"rightPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"rightBegin":48,
+			"rightEnd":48
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/test/java/org/apache/commons/scxml/WildcardTest.java",
+			"rightBegin":57,
+			"rightEnd":58
+		}
+	]
+]

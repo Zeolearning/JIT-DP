@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64BugTest.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	]
+]

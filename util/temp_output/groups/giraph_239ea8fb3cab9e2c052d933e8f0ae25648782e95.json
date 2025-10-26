@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"leftBegin":255,
+			"leftEnd":255,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java",
+			"rightBegin":255,
+			"rightEnd":255
+		}
+	]
+]

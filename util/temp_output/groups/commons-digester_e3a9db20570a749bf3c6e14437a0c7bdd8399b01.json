@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/examples/api/document-markup/src/main/java/org/apache/commons/digester3/examples/api/documentmarkup/MarkupDigester.java",
+			"leftBegin":143,
+			"leftEnd":143,
+			"rightPath":"src/examples/api/document-markup/src/main/java/org/apache/commons/digester3/examples/api/documentmarkup/MarkupDigester.java",
+			"rightBegin":143,
+			"rightEnd":143
+		},
+		{
+			"leftPath":"src/examples/api/document-markup/src/main/java/org/apache/commons/digester3/examples/api/documentmarkup/MarkupDigester.java",
+			"leftBegin":147,
+			"leftEnd":147,
+			"rightPath":"src/examples/api/document-markup/src/main/java/org/apache/commons/digester3/examples/api/documentmarkup/MarkupDigester.java",
+			"rightBegin":147,
+			"rightEnd":147
+		}
+	]
+]

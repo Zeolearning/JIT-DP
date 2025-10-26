@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"leftBegin":726,
+			"leftEnd":725,
+			"rightPath":"src/java/org/apache/ivy/core/settings/IvySettings.java",
+			"rightBegin":726,
+			"rightEnd":728
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"test/java/org/apache/ivy/core/settings/IvySettingsTest.java",
+			"rightBegin":1,
+			"rightEnd":48
+		}
+	]
+]

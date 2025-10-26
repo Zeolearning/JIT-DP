@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"leftBegin":37,
+			"leftEnd":37,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"rightBegin":37,
+			"rightEnd":37
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ScatterSample.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

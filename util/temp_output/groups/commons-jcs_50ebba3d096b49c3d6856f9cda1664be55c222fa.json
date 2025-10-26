@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheFactory.java",
+			"leftBegin":119,
+			"leftEnd":118,
+			"rightPath":"commons-jcs-core/src/main/java/org/apache/commons/jcs/auxiliary/remote/RemoteCacheFactory.java",
+			"rightBegin":119,
+			"rightEnd":119
+		}
+	]
+]

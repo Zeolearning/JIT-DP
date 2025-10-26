@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/engine/TestEventQueueConcurrent.java",
+			"rightBegin":1,
+			"rightEnd":353
+		}
+	]
+]

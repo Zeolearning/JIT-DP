@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"leftBegin":161,
+			"leftEnd":160,
+			"rightPath":"src/main/java/org/apache/commons/net/io/DotTerminatedMessageReader.java",
+			"rightBegin":161,
+			"rightEnd":163
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"leftBegin":76,
+			"leftEnd":75,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"rightBegin":76,
+			"rightEnd":86
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"leftBegin":27,
+			"leftEnd":27,
+			"rightPath":"src/java/org/apache/commons/math/stat/univariate/SummaryStatistics.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

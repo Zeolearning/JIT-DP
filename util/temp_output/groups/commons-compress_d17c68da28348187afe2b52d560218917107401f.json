@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"leftBegin":111,
+			"leftEnd":110,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"rightBegin":111,
+			"rightEnd":174
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"leftBegin":105,
+			"leftEnd":106,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/ArchiveOutputStreamTest.java",
+			"rightBegin":106,
+			"rightEnd":106
+		}
+	]
+]

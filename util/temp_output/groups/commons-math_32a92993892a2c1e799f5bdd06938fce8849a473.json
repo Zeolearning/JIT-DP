@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+			"leftBegin":694,
+			"leftEnd":693,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+			"rightBegin":695,
+			"rightEnd":698
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+			"leftBegin":693,
+			"leftEnd":692,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+			"rightBegin":693,
+			"rightEnd":693
+		}
+	]
+]

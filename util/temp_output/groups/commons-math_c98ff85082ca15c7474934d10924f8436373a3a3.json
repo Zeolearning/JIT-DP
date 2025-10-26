@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":270,
+			"leftEnd":270,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":270,
+			"rightEnd":271
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":267,
+			"leftEnd":268,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":267,
+			"rightEnd":268
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":263,
+			"leftEnd":263,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":263,
+			"rightEnd":263
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"leftBegin":199,
+			"leftEnd":199,
+			"rightPath":"src/test/java/org/apache/commons/math/random/RandomDataTest.java",
+			"rightBegin":199,
+			"rightEnd":199
+		}
+	]
+]

@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStreamTest.java",
+			"rightBegin":1,
+			"rightEnd":39
+		}
+	]
+]

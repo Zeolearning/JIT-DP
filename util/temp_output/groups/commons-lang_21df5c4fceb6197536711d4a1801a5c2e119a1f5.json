@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/concurrent/CallableBackgroundInitializerTest.java",
+			"rightBegin":1,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/lang/concurrent/CallableBackgroundInitializer.java",
+			"rightBegin":1,
+			"rightEnd":127
+		}
+	]
+]

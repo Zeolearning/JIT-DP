@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"leftBegin":118,
+			"leftEnd":117,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"rightBegin":122,
+			"rightEnd":125
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"leftBegin":89,
+			"leftEnd":88,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/util/ResolverHelper.java",
+			"rightBegin":89,
+			"rightEnd":92
+		}
+	]
+]

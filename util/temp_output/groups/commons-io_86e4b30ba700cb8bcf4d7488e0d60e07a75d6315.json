@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/input/SwappedDataInputStreamTest.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/io/input/SwappedDataInputStreamTest.java",
+			"rightBegin":64,
+			"rightEnd":73
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"leftBegin":51,
+			"leftEnd":52,
+			"rightPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"rightBegin":51,
+			"rightEnd":52
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"leftBegin":59,
+			"leftEnd":59,
+			"rightPath":"src/java/org/apache/commons/io/input/SwappedDataInputStream.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	]
+]

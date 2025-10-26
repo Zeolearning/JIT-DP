@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-cascading/src/main/java/parquet/cascading/SchemaIntersection.java",
+			"leftBegin":17,
+			"leftEnd":16,
+			"rightPath":"parquet-cascading/src/main/java/parquet/cascading/SchemaIntersection.java",
+			"rightBegin":17,
+			"rightEnd":19
+		}
+	]
+]

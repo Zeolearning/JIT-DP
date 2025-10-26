@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/LogNormalDistribution.java",
+			"leftBegin":302,
+			"leftEnd":302,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/LogNormalDistribution.java",
+			"rightBegin":303,
+			"rightEnd":303
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/distribution/LogNormalDistribution.java",
+			"leftBegin":28,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/math4/distribution/LogNormalDistribution.java",
+			"rightBegin":28,
+			"rightEnd":29
+		}
+	]
+]

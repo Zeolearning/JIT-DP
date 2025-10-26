@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/lang/builder/HashCodeBuilderAndEqualsBuilderTest.java",
+			"rightBegin":1,
+			"rightEnd":200
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"leftBegin":91,
+			"leftEnd":90,
+			"rightPath":"src/test/org/apache/commons/lang/builder/BuilderTestSuite.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

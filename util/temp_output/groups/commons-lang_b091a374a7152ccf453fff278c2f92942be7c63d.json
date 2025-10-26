@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/NestableException.java",
+			"leftBegin":184,
+			"leftEnd":185,
+			"rightPath":"src/java/org/apache/commons/lang/exception/NestableException.java",
+			"rightBegin":184,
+			"rightEnd":183
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/exception/NestableException.java",
+			"leftBegin":187,
+			"leftEnd":186,
+			"rightPath":"src/java/org/apache/commons/lang/exception/NestableException.java",
+			"rightBegin":185,
+			"rightEnd":185
+		}
+	]
+]

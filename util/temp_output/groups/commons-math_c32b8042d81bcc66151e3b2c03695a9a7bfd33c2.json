@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java",
+			"leftBegin":163,
+			"leftEnd":162,
+			"rightPath":"src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java",
+			"rightBegin":163,
+			"rightEnd":184
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValuesTest.java",
+			"leftBegin":68,
+			"leftEnd":67,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValuesTest.java",
+			"rightBegin":70,
+			"rightEnd":84
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValuesTest.java",
+			"leftBegin":20,
+			"leftEnd":19,
+			"rightPath":"src/test/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValuesTest.java",
+			"rightBegin":20,
+			"rightEnd":21
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"rightBegin":228,
+			"rightEnd":229
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"leftBegin":218,
+			"leftEnd":217,
+			"rightPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"rightBegin":216,
+			"rightEnd":220
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"leftBegin":215,
+			"leftEnd":216,
+			"rightPath":"src/java/org/apache/ivy/ant/AntWorkspaceResolver.java",
+			"rightBegin":215,
+			"rightEnd":214
+		}
+	]
+]

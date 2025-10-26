@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java",
+			"leftBegin":142,
+			"leftEnd":145,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java",
+			"rightBegin":143,
+			"rightEnd":144
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java",
+			"leftBegin":137,
+			"leftEnd":136,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java",
+			"rightBegin":137,
+			"rightEnd":137
+		}
+	]
+]

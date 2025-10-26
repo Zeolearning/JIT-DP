@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+			"leftBegin":262,
+			"leftEnd":263,
+			"rightPath":"src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+			"rightBegin":262,
+			"rightEnd":262
+		}
+	]
+]

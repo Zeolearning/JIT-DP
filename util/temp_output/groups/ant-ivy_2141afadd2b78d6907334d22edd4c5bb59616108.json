@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/file/FileRepository.java",
+			"leftBegin":140,
+			"leftEnd":140,
+			"rightPath":"src/java/org/apache/ivy/plugins/repository/file/FileRepository.java",
+			"rightBegin":140,
+			"rightEnd":144
+		}
+	]
+]

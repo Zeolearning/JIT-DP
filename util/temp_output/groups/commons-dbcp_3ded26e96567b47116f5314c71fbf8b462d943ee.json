@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/dbcp2/TestUtils.java",
+			"rightBegin":1,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/Utils.java",
+			"leftBegin":32,
+			"leftEnd":44,
+			"rightPath":"src/java/org/apache/commons/dbcp2/Utils.java",
+			"rightBegin":32,
+			"rightEnd":33
+		}
+	]
+]

@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/digester/ExtendedBaseRules.java",
+			"rightBegin":1,
+			"rightEnd":434
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/EBRTestCase.java",
+			"rightBegin":1,
+			"rightEnd":336
+		}
+	]
+]

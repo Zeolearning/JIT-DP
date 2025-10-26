@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"leftBegin":170,
+			"leftEnd":170,
+			"rightPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"rightBegin":184,
+			"rightEnd":190
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"leftBegin":131,
+			"leftEnd":130,
+			"rightPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"rightBegin":136,
+			"rightEnd":144
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/commons/beanutils/JDBCDynaClass.java",
+			"rightBegin":50,
+			"rightEnd":54
+		}
+	]
+]

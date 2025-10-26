@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestCombinedConfiguration.java",
+			"leftBegin":515,
+			"leftEnd":514,
+			"rightPath":"src/test/org/apache/commons/configuration/TestCombinedConfiguration.java",
+			"rightBegin":515,
+			"rightEnd":540
+		}
+	]
+]

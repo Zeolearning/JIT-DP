@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/ftp/TestConnectTimeout.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/test/java/org/apache/commons/net/ftp/TestConnectTimeout.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"leftBegin":198,
+			"leftEnd":198,
+			"rightPath":"src/main/java/examples/mail/IMAPExportMbox.java",
+			"rightBegin":198,
+			"rightEnd":198
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"rightBegin":78,
+			"rightEnd":78
+		}
+	]
+]

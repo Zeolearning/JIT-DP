@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/AndFileFilter.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/AndFileFilter.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/io/filefilter/OrFileFilter.java",
+			"leftBegin":39,
+			"leftEnd":39,
+			"rightPath":"src/java/org/apache/commons/io/filefilter/OrFileFilter.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

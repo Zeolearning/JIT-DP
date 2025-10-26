@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/codec/binary/Base32Test.java",
+			"rightBegin":1,
+			"rightEnd":58
+		}
+	]
+]

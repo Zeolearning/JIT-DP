@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/mutable/MutableBoolean.java",
+			"leftBegin":92,
+			"leftEnd":91,
+			"rightPath":"src/main/java/org/apache/commons/lang3/mutable/MutableBoolean.java",
+			"rightBegin":92,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/lang3/mutable/MutableBooleanTest.java",
+			"leftBegin":108,
+			"leftEnd":107,
+			"rightPath":"src/test/java/org/apache/commons/lang3/mutable/MutableBooleanTest.java",
+			"rightBegin":108,
+			"rightEnd":113
+		}
+	]
+]

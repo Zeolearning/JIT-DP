@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/CharUtilsTest.java",
+			"leftBegin":216,
+			"leftEnd":215,
+			"rightPath":"src/test/org/apache/commons/lang/CharUtilsTest.java",
+			"rightBegin":216,
+			"rightEnd":217
+		}
+	]
+]

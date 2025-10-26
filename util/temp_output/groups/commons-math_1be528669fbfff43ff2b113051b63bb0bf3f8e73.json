@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MathRuntimeException.java",
+			"leftBegin":40,
+			"leftEnd":39,
+			"rightPath":"src/main/java/org/apache/commons/math/MathRuntimeException.java",
+			"rightBegin":40,
+			"rightEnd":40
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/MathException.java",
+			"leftBegin":39,
+			"leftEnd":38,
+			"rightPath":"src/main/java/org/apache/commons/math/MathException.java",
+			"rightBegin":39,
+			"rightEnd":39
+		}
+	]
+]

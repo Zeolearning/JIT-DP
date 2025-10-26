@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java",
+			"rightBegin":22,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java",
+			"rightBegin":26,
+			"rightEnd":27
+		}
+	]
+]

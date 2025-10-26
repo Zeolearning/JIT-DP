@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileObject.java",
+			"leftBegin":383,
+			"leftEnd":384,
+			"rightPath":"core/src/main/java/org/apache/commons/vfs2/provider/sftp/SftpFileObject.java",
+			"rightBegin":383,
+			"rightEnd":383
+		}
+	]
+]

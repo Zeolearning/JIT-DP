@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"leftBegin":121,
+			"leftEnd":121,
+			"rightPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"rightBegin":121,
+			"rightEnd":121
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"leftBegin":109,
+			"leftEnd":109,
+			"rightPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"rightBegin":109,
+			"rightEnd":109
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"leftBegin":112,
+			"leftEnd":112,
+			"rightPath":"src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java",
+			"rightBegin":112,
+			"rightEnd":112
+		}
+	]
+]

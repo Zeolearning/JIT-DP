@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"leftBegin":218,
+			"leftEnd":218,
+			"rightPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"rightBegin":212,
+			"rightEnd":212
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"leftBegin":72,
+			"leftEnd":72,
+			"rightPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"rightBegin":72,
+			"rightEnd":72
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"leftBegin":206,
+			"leftEnd":212,
+			"rightPath":"src/test/org/apache/commons/math/stat/CertifiedDataTest.java",
+			"rightBegin":206,
+			"rightEnd":206
+		}
+	]
+]

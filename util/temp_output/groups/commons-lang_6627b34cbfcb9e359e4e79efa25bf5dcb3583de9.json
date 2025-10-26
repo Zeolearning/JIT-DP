@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/concurrent/ConcurrentUtilsTest.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/test/org/apache/commons/lang/concurrent/ConcurrentUtilsTest.java",
+			"rightBegin":145,
+			"rightEnd":145
+		}
+	]
+]

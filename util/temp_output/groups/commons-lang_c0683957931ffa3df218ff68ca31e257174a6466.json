@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"leftBegin":418,
+			"leftEnd":417,
+			"rightPath":"src/test/org/apache/commons/lang/StringEscapeUtilsTest.java",
+			"rightBegin":418,
+			"rightEnd":431
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":831,
+			"leftEnd":831,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":831,
+			"rightEnd":836
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/lang/Entities.java",
+			"leftBegin":828,
+			"leftEnd":828,
+			"rightPath":"src/java/org/apache/commons/lang/Entities.java",
+			"rightBegin":828,
+			"rightEnd":828
+		}
+	]
+]

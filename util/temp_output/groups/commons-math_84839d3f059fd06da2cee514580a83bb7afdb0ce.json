@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"rightBegin":54,
+			"rightEnd":56
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"leftBegin":38,
+			"leftEnd":37,
+			"rightPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"rightBegin":38,
+			"rightEnd":53
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"leftBegin":22,
+			"leftEnd":22,
+			"rightPath":"src/test/org/apache/commons/math/util/ContractableDoubleArrayTest.java",
+			"rightBegin":22,
+			"rightEnd":22
+		}
+	]
+]

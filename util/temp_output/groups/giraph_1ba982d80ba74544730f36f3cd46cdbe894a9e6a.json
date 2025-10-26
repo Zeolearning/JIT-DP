@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"leftBegin":321,
+			"leftEnd":333,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java",
+			"rightBegin":321,
+			"rightEnd":330
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/TestRepeatUntilBlock.java",
+			"leftBegin":91,
+			"leftEnd":91,
+			"rightPath":"giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/TestRepeatUntilBlock.java",
+			"rightBegin":91,
+			"rightEnd":91
+		}
+	]
+]

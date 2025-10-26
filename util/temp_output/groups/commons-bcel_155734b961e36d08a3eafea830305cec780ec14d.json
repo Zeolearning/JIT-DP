@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/bcel/classfile/AttributeReader.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"leftBegin":158,
+			"leftEnd":158,
+			"rightPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"rightBegin":180,
+			"rightEnd":185
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"leftBegin":113,
+			"leftEnd":113,
+			"rightPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"rightBegin":114,
+			"rightEnd":135
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"leftBegin":57,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/bcel/classfile/Attribute.java",
+			"rightBegin":57,
+			"rightEnd":59
+		}
+	]
+]

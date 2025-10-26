@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateAction.java",
+			"leftBegin":98,
+			"leftEnd":98,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateAction.java",
+			"rightBegin":98,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateAction.java",
+			"leftBegin":77,
+			"leftEnd":77,
+			"rightPath":"src/main/java/org/apache/commons/math4/ml/neuralnet/sofm/KohonenUpdateAction.java",
+			"rightBegin":77,
+			"rightEnd":77
+		}
+	]
+]

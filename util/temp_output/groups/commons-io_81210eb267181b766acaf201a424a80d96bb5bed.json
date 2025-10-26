@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/io/input/BoundedReader.java",
+			"leftBegin":142,
+			"leftEnd":142,
+			"rightPath":"src/main/java/org/apache/commons/io/input/BoundedReader.java",
+			"rightBegin":142,
+			"rightEnd":142
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/input/BoundedReaderTest.java",
+			"leftBegin":184,
+			"leftEnd":184,
+			"rightPath":"src/test/java/org/apache/commons/io/input/BoundedReaderTest.java",
+			"rightBegin":184,
+			"rightEnd":192
+		}
+	]
+]

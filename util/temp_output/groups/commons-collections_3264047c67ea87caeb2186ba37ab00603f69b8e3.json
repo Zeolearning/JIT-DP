@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"rightBegin":142,
+			"rightEnd":143
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"leftBegin":66,
+			"leftEnd":66,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"rightBegin":66,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"leftBegin":105,
+			"leftEnd":104,
+			"rightPath":"src/java/org/apache/commons/collections/comparators/ReverseComparator.java",
+			"rightBegin":105,
+			"rightEnd":141
+		}
+	]
+]

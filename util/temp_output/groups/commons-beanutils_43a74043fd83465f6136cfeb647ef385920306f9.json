@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"leftBegin":192,
+			"leftEnd":212,
+			"rightPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"rightBegin":192,
+			"rightEnd":191
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"leftBegin":126,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"rightBegin":126,
+			"rightEnd":126
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/beanutils/ResultSetDynaClass.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

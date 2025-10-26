@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"leftBegin":216,
+			"leftEnd":215,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"rightBegin":217,
+			"rightEnd":217
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"leftBegin":219,
+			"leftEnd":218,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"rightBegin":221,
+			"rightEnd":224
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/math/ode/sampling/StepNormalizer.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

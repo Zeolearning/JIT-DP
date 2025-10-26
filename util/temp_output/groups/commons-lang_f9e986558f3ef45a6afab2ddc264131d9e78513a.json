@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/test/org/apache/commons/lang/text/TextTestSuite.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/stat/regression/SimpleRegression.java",
+			"leftBegin":773,
+			"leftEnd":814,
+			"rightPath":"src/main/java/org/apache/commons/math3/stat/regression/SimpleRegression.java",
+			"rightBegin":773,
+			"rightEnd":804
+		}
+	]
+]

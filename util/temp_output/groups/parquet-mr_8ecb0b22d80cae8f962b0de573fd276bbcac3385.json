@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/ConfigurationUtil.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/util/ConfigurationUtil.java",
+			"rightBegin":29,
+			"rightEnd":33
+		}
+	]
+]

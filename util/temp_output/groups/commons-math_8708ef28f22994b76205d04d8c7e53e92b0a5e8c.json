@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SparseFieldMatrix.java",
+			"leftBegin":29,
+			"leftEnd":28,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SparseFieldMatrix.java",
+			"rightBegin":29,
+			"rightEnd":33
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/SparseFieldMatrix.java",
+			"leftBegin":30,
+			"leftEnd":29,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/SparseFieldMatrix.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

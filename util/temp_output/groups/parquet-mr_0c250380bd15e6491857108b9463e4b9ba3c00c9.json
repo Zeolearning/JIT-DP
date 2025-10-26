@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"parquet-column/src/main/java/parquet/Version.java",
+			"rightBegin":1,
+			"rightEnd":66
+		}
+	]
+]

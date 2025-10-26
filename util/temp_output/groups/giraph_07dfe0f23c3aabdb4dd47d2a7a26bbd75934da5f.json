@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/test/java/org/apache/giraph/types/TestCollections.java",
+			"leftBegin":56,
+			"leftEnd":55,
+			"rightPath":"giraph-core/src/test/java/org/apache/giraph/types/TestCollections.java",
+			"rightBegin":56,
+			"rightEnd":56
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"leftBegin":682,
+			"leftEnd":682,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"rightBegin":682,
+			"rightEnd":682
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"leftBegin":379,
+			"leftEnd":379,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java",
+			"rightBegin":379,
+			"rightEnd":379
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java",
+			"leftBegin":437,
+			"leftEnd":436,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java",
+			"rightBegin":437,
+			"rightEnd":437
+		}
+	]
+]

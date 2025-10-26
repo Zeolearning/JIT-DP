@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/DriverAdapterCPDS.java",
+			"leftBegin":338,
+			"leftEnd":337,
+			"rightPath":"src/java/org/apache/commons/dbcp2/cpdsadapter/DriverAdapterCPDS.java",
+			"rightBegin":338,
+			"rightEnd":343
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"leftBegin":97,
+			"leftEnd":97,
+			"rightPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"rightBegin":97,
+			"rightEnd":98
+		}
+	],
+	[
+		{
+			"leftPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"leftBegin":78,
+			"leftEnd":78,
+			"rightPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"rightBegin":78,
+			"rightEnd":78
+		},
+		{
+			"leftPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/example/org/apache/commons/validator/example/ValidateExample.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

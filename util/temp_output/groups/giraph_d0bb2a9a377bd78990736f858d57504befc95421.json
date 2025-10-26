@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"leftBegin":163,
+			"leftEnd":163,
+			"rightPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"rightBegin":163,
+			"rightEnd":163
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"leftBegin":145,
+			"leftEnd":145,
+			"rightPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"rightBegin":145,
+			"rightEnd":145
+		},
+		{
+			"leftPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/main/java/org/apache/giraph/graph/Vertex.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	]
+]

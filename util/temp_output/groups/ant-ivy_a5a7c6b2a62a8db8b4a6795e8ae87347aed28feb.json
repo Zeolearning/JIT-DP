@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyBuildListTest.java",
+			"leftBegin":524,
+			"leftEnd":527,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyBuildListTest.java",
+			"rightBegin":527,
+			"rightEnd":535
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/ant/IvyBuildListTest.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"test/java/org/apache/ivy/ant/IvyBuildListTest.java",
+			"rightBegin":21,
+			"rightEnd":23
+		}
+	]
+]

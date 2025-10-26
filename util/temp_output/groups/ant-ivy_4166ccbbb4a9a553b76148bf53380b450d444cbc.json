@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/Credentials.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/java/org/apache/ivy/util/Credentials.java",
+			"rightBegin":59,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/util/Credentials.java",
+			"leftBegin":60,
+			"leftEnd":60,
+			"rightPath":"src/java/org/apache/ivy/util/Credentials.java",
+			"rightBegin":63,
+			"rightEnd":74
+		}
+	]
+]

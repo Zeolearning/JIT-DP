@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java",
+			"rightBegin":1,
+			"rightEnd":300
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/SkippingIterator.java",
+			"leftBegin":67,
+			"leftEnd":67,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/SkippingIterator.java",
+			"rightBegin":67,
+			"rightEnd":66
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/iterators/SkippingIterator.java",
+			"leftBegin":26,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/collections4/iterators/SkippingIterator.java",
+			"rightBegin":26,
+			"rightEnd":26
+		}
+	]
+]

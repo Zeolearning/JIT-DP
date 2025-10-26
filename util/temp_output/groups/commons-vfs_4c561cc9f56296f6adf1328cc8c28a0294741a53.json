@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileSystem.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileProvider.java",
+			"rightBegin":1,
+			"rightEnd":90
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/vfs/provider/http/HttpFileObject.java",
+			"rightBegin":1,
+			"rightEnd":226
+		}
+	]
+]

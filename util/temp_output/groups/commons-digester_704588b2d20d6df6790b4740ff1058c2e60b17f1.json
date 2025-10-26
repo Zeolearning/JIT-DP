@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"leftBegin":177,
+			"leftEnd":176,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"rightBegin":178,
+			"rightEnd":179
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"rightBegin":23,
+			"rightEnd":23
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"leftBegin":175,
+			"leftEnd":175,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/PluginManager.java",
+			"rightBegin":176,
+			"rightEnd":176
+		}
+	]
+]

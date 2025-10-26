@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"leftBegin":435,
+			"leftEnd":435,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"rightBegin":436,
+			"rightEnd":436
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"leftBegin":431,
+			"leftEnd":432,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"rightBegin":431,
+			"rightEnd":433
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"leftBegin":74,
+			"leftEnd":74,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	]
+]

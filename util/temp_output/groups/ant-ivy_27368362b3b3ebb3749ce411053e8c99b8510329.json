@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/repo/RelativeURLRepository.java",
+			"leftBegin":21,
+			"leftEnd":20,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/RelativeURLRepository.java",
+			"rightBegin":21,
+			"rightEnd":22
+		},
+		{
+			"leftPath":"src/java/org/apache/ivy/osgi/repo/RelativeURLRepository.java",
+			"leftBegin":49,
+			"leftEnd":49,
+			"rightPath":"src/java/org/apache/ivy/osgi/repo/RelativeURLRepository.java",
+			"rightBegin":51,
+			"rightEnd":58
+		}
+	]
+]

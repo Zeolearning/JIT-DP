@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/EndianUtilsTest.java",
+			"leftBegin":35,
+			"leftEnd":35,
+			"rightPath":"src/test/java/org/apache/commons/io/EndianUtilsTest.java",
+			"rightBegin":35,
+			"rightEnd":35
+		}
+	]
+]

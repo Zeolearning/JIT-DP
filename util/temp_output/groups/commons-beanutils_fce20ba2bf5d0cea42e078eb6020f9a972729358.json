@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/LazyDynaBean.java",
+			"leftBegin":634,
+			"leftEnd":633,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaBean.java",
+			"rightBegin":639,
+			"rightEnd":641
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/LazyDynaBean.java",
+			"leftBegin":601,
+			"leftEnd":601,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaBean.java",
+			"rightBegin":601,
+			"rightEnd":606
+		}
+	]
+]

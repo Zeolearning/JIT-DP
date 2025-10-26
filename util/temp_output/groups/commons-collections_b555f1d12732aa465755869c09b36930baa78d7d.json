@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/PermutationIteratorTest.java",
+			"leftBegin":50,
+			"leftEnd":49,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/PermutationIteratorTest.java",
+			"rightBegin":50,
+			"rightEnd":50
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/iterators/PermutationIteratorTest.java",
+			"leftBegin":54,
+			"leftEnd":53,
+			"rightPath":"src/test/java/org/apache/commons/collections4/iterators/PermutationIteratorTest.java",
+			"rightBegin":55,
+			"rightEnd":55
+		}
+	]
+]

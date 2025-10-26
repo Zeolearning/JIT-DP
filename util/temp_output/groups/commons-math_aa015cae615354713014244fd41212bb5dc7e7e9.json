@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"leftBegin":622,
+			"leftEnd":621,
+			"rightPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"rightBegin":622,
+			"rightEnd":631
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"leftBegin":25,
+			"leftEnd":25,
+			"rightPath":"src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

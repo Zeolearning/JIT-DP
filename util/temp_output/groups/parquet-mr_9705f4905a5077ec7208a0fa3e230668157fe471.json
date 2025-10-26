@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/metadata/BlockMetaData.java",
+			"leftBegin":98,
+			"leftEnd":97,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/metadata/BlockMetaData.java",
+			"rightBegin":98,
+			"rightEnd":104
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java",
+			"leftBegin":316,
+			"leftEnd":315,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java",
+			"rightBegin":317,
+			"rightEnd":325
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java",
+			"leftBegin":291,
+			"leftEnd":291,
+			"rightPath":"parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java",
+			"rightBegin":291,
+			"rightEnd":292
+		}
+	]
+]

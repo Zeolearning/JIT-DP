@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/DynaProperty.java",
+			"leftBegin":204,
+			"leftEnd":203,
+			"rightPath":"src/java/org/apache/commons/beanutils/DynaProperty.java",
+			"rightBegin":204,
+			"rightEnd":237
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/beanutils/DynaPropertyTestCase.java",
+			"rightBegin":1,
+			"rightEnd":111
+		}
+	]
+]

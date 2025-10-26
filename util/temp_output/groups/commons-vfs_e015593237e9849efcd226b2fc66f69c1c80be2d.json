@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"leftBegin":95,
+			"leftEnd":94,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"rightBegin":95,
+			"rightEnd":121
+		}
+	],
+	[
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"leftBegin":55,
+			"leftEnd":55,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"rightBegin":55,
+			"rightEnd":55
+		},
+		{
+			"leftPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"leftBegin":70,
+			"leftEnd":70,
+			"rightPath":"core/src/test/java/org/apache/commons/vfs/impl/test/DefaultFileMonitorTests.java",
+			"rightBegin":70,
+			"rightEnd":70
+		}
+	]
+]

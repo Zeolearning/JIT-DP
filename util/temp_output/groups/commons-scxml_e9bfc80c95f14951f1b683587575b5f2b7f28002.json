@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"leftBegin":88,
+			"leftEnd":88,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"rightBegin":91,
+			"rightEnd":91
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"leftBegin":77,
+			"leftEnd":76,
+			"rightPath":"src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java",
+			"rightBegin":77,
+			"rightEnd":79
+		}
+	]
+]

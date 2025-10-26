@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/ContractTest.java",
+			"rightBegin":1,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/commons/lang3/concurrent/annotation/ContractTestFixture.java",
+			"rightBegin":1,
+			"rightEnd":25
+		}
+	]
+]

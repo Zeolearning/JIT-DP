@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"leftBegin":389,
+			"leftEnd":391,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"rightBegin":388,
+			"rightEnd":391
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"leftBegin":386,
+			"leftEnd":386,
+			"rightPath":"src/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java",
+			"rightBegin":386,
+			"rightEnd":385
+		}
+	]
+]

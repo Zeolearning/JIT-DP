@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/BiDiagonalTransformerTest.java",
+			"leftBegin":134,
+			"leftEnd":136,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/BiDiagonalTransformerTest.java",
+			"rightBegin":133,
+			"rightEnd":135
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/linear/BiDiagonalTransformerTest.java",
+			"leftBegin":131,
+			"leftEnd":131,
+			"rightPath":"src/test/java/org/apache/commons/math/linear/BiDiagonalTransformerTest.java",
+			"rightBegin":131,
+			"rightEnd":130
+		}
+	]
+]

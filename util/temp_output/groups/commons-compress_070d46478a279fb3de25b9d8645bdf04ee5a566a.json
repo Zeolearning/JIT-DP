@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/StreamingNotSupportedException.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/StreamingNotSupportedException.java",
+			"rightBegin":27,
+			"rightEnd":29
+		}
+	]
+]

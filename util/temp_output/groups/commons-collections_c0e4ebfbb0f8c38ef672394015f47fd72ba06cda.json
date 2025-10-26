@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractListValuedMap.java",
+			"leftBegin":42,
+			"leftEnd":42,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractListValuedMap.java",
+			"rightBegin":41,
+			"rightEnd":41
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractListValuedMap.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/main/java/org/apache/commons/collections4/multimap/AbstractListValuedMap.java",
+			"rightBegin":19,
+			"rightEnd":18
+		}
+	]
+]

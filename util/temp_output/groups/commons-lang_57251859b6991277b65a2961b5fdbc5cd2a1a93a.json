@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"leftBegin":1067,
+			"leftEnd":1067,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"rightBegin":1068,
+			"rightEnd":1068
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"leftBegin":1043,
+			"leftEnd":1043,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"rightBegin":1044,
+			"rightEnd":1044
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"leftBegin":1021,
+			"leftEnd":1021,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"rightBegin":1022,
+			"rightEnd":1022
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"leftBegin":25,
+			"leftEnd":24,
+			"rightPath":"src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+			"rightBegin":25,
+			"rightEnd":25
+		}
+	]
+]

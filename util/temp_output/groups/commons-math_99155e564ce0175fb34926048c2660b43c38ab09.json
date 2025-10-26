@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/ValueServer.java",
+			"leftBegin":295,
+			"leftEnd":295,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/ValueServer.java",
+			"rightBegin":295,
+			"rightEnd":295
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/EmpiricalDistribution.java",
+			"leftBegin":304,
+			"leftEnd":304,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/EmpiricalDistribution.java",
+			"rightBegin":304,
+			"rightEnd":304
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/random/EmpiricalDistribution.java",
+			"leftBegin":272,
+			"leftEnd":272,
+			"rightPath":"src/main/java/org/apache/commons/math3/random/EmpiricalDistribution.java",
+			"rightBegin":272,
+			"rightEnd":272
+		}
+	]
+]

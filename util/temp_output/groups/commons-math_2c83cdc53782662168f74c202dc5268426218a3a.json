@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"leftBegin":820,
+			"leftEnd":819,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"rightBegin":822,
+			"rightEnd":829
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"leftBegin":819,
+			"leftEnd":818,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"rightBegin":820,
+			"rightEnd":820
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"leftBegin":818,
+			"leftEnd":817,
+			"rightPath":"src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+			"rightBegin":818,
+			"rightEnd":818
+		}
+	]
+]

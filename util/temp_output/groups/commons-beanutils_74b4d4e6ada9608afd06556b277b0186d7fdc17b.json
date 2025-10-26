@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/LazyDynaList.java",
+			"leftBegin":420,
+			"leftEnd":420,
+			"rightPath":"src/java/org/apache/commons/beanutils/LazyDynaList.java",
+			"rightBegin":420,
+			"rightEnd":420
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"leftBegin":434,
+			"leftEnd":434,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"rightBegin":434,
+			"rightEnd":434
+		},
+		{
+			"leftPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"leftBegin":427,
+			"leftEnd":427,
+			"rightPath":"src/java/org/apache/commons/beanutils/ConvertUtilsBean.java",
+			"rightBegin":427,
+			"rightEnd":427
+		}
+	]
+]

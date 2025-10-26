@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"leftBegin":127,
+			"leftEnd":126,
+			"rightPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"rightBegin":127,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/java/org/apache/commons/collections/ReferenceMap.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

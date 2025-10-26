@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"leftBegin":217,
+			"leftEnd":218,
+			"rightPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"rightBegin":226,
+			"rightEnd":228
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"leftBegin":213,
+			"leftEnd":215,
+			"rightPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"rightBegin":216,
+			"rightEnd":224
+		},
+		{
+			"leftPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"leftBegin":209,
+			"leftEnd":210,
+			"rightPath":"src/java/org/apache/bcel/util/Class2HTML.java",
+			"rightBegin":209,
+			"rightEnd":213
+		}
+	]
+]

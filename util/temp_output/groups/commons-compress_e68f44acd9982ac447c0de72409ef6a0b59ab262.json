@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"leftBegin":58,
+			"leftEnd":57,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"rightBegin":69,
+			"rightEnd":71
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"leftBegin":57,
+			"leftEnd":56,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"rightBegin":61,
+			"rightEnd":67
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"leftBegin":52,
+			"leftEnd":51,
+			"rightPath":"src/main/java/org/apache/commons/compress/utils/BitInputStream.java",
+			"rightBegin":52,
+			"rightEnd":55
+		}
+	]
+]

@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/tftp/TFTPTests.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPTest.java",
+			"rightBegin":21,
+			"rightEnd":21
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/net/tftp/TFTPServerPathTests.java",
+			"leftBegin":33,
+			"leftEnd":33,
+			"rightPath":"src/test/java/org/apache/commons/net/tftp/TFTPServerPathTest.java",
+			"rightBegin":33,
+			"rightEnd":33
+		}
+	]
+]

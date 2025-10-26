@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/LineTest.java",
+			"leftBegin":132,
+			"leftEnd":131,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/threed/LineTest.java",
+			"rightBegin":132,
+			"rightEnd":147
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+			"leftBegin":87,
+			"leftEnd":87,
+			"rightPath":"src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+			"rightBegin":87,
+			"rightEnd":89
+		}
+	]
+]

@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/MockResolver.java",
+			"leftBegin":75,
+			"leftEnd":75,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/MockResolver.java",
+			"rightBegin":76,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/MockResolver.java",
+			"leftBegin":32,
+			"leftEnd":31,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/MockResolver.java",
+			"rightBegin":32,
+			"rightEnd":32
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java",
+			"leftBegin":202,
+			"leftEnd":202,
+			"rightPath":"src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java",
+			"rightBegin":202,
+			"rightEnd":202
+		}
+	]
+]

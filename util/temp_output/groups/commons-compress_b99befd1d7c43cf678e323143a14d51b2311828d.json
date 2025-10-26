@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/FallbackZipEncoding.java",
+			"leftBegin":90,
+			"leftEnd":90,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/FallbackZipEncoding.java",
+			"rightBegin":90,
+			"rightEnd":90
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"leftBegin":442,
+			"leftEnd":444,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/PropertyUtilsTestCase.java",
+			"rightBegin":442,
+			"rightEnd":444
+		}
+	]
+]

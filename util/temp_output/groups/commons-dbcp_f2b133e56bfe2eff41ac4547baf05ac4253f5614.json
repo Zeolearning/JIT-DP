@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/managed/TesterBasicXAConnection.java",
+			"leftBegin":217,
+			"leftEnd":217,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/managed/TesterBasicXAConnection.java",
+			"rightBegin":217,
+			"rightEnd":218
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/managed/TestDataSourceXAConnectionFactory.java",
+			"leftBegin":109,
+			"leftEnd":109,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/managed/TestDataSourceXAConnectionFactory.java",
+			"rightBegin":109,
+			"rightEnd":110
+		}
+	]
+]

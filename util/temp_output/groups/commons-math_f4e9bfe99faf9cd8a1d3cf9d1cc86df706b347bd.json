@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/dfp/DfpTest.java",
+			"leftBegin":1637,
+			"leftEnd":1636,
+			"rightPath":"src/test/java/org/apache/commons/math3/dfp/DfpTest.java",
+			"rightBegin":1637,
+			"rightEnd":1646
+		}
+	]
+]

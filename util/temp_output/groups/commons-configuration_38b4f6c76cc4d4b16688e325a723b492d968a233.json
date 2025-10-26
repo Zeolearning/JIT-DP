@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"leftBegin":228,
+			"leftEnd":227,
+			"rightPath":"src/test/org/apache/commons/configuration/TestSubsetConfiguration.java",
+			"rightBegin":228,
+			"rightEnd":255
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"leftBegin":285,
+			"leftEnd":284,
+			"rightPath":"src/java/org/apache/commons/configuration/SubsetConfiguration.java",
+			"rightBegin":285,
+			"rightEnd":317
+		}
+	]
+]

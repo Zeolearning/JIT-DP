@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"leftBegin":64,
+			"leftEnd":64,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/ml/TrainerFactory.java",
+			"rightBegin":64,
+			"rightEnd":64
+		}
+	]
+]

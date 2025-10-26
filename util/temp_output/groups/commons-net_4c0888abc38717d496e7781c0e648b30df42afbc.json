@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/Main.java",
+			"leftBegin":56,
+			"leftEnd":56,
+			"rightPath":"src/main/java/examples/Main.java",
+			"rightBegin":56,
+			"rightEnd":55
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/examples/Main.java",
+			"leftBegin":75,
+			"leftEnd":74,
+			"rightPath":"src/main/java/examples/Main.java",
+			"rightBegin":74,
+			"rightEnd":74
+		}
+	]
+]

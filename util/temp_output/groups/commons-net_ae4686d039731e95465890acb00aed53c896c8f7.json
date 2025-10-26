@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"leftBegin":74,
+			"leftEnd":73,
+			"rightPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"rightBegin":74,
+			"rightEnd":74
+		},
+		{
+			"leftPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"leftBegin":85,
+			"leftEnd":84,
+			"rightPath":"src/main/java/examples/nntp/ArticleReader.java",
+			"rightBegin":86,
+			"rightEnd":86
+		}
+	]
+]

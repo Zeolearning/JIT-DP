@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/SparseGradientTest.java",
+			"leftBegin":129,
+			"leftEnd":129,
+			"rightPath":"src/test/java/org/apache/commons/math3/analysis/differentiation/SparseGradientTest.java",
+			"rightBegin":129,
+			"rightEnd":129
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/SparseGradient.java",
+			"leftBegin":875,
+			"leftEnd":875,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/SparseGradient.java",
+			"rightBegin":875,
+			"rightEnd":875
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/SparseGradient.java",
+			"leftBegin":238,
+			"leftEnd":238,
+			"rightPath":"src/main/java/org/apache/commons/math3/analysis/differentiation/SparseGradient.java",
+			"rightBegin":238,
+			"rightEnd":238
+		}
+	]
+]

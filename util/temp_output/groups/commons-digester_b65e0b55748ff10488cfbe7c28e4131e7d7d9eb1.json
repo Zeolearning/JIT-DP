@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"leftBegin":132,
+			"leftEnd":132,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"rightBegin":133,
+			"rightEnd":133
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"leftBegin":22,
+			"leftEnd":21,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"rightBegin":22,
+			"rightEnd":23
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/main/java/org/apache/commons/digester3/plugins/strategies/FinderFromResource.java",
+			"rightBegin":25,
+			"rightEnd":24
+		}
+	]
+]

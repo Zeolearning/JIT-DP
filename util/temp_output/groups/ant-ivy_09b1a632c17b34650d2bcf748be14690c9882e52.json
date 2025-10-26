@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"leftBegin":37,
+			"leftEnd":40,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"rightBegin":37,
+			"rightEnd":38
+		}
+	],
+	[
+		{
+			"leftPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"leftBegin":45,
+			"leftEnd":45,
+			"rightPath":"test/java/org/apache/ivy/plugins/resolver/IBiblioHelper.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

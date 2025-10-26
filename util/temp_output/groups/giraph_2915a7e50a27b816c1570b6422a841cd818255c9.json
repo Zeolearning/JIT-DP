@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/giraph/lib/AdjacencyListTextVertexOutputFormat.java",
+			"leftBegin":46,
+			"leftEnd":46,
+			"rightPath":"src/main/java/org/apache/giraph/lib/AdjacencyListTextVertexOutputFormat.java",
+			"rightBegin":46,
+			"rightEnd":46
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/giraph/lib/IdWithValueTextOutputFormat.java",
+			"rightBegin":1,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/java/org/apache/giraph/lib/TestIdWithValueTextOutputFormat.java",
+			"rightBegin":1,
+			"rightEnd":70
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"leftBegin":184,
+			"leftEnd":183,
+			"rightPath":"src/test/java/org/apache/commons/io/FileSystemUtilsTestCase.java",
+			"rightBegin":184,
+			"rightEnd":223
+		}
+	]
+]

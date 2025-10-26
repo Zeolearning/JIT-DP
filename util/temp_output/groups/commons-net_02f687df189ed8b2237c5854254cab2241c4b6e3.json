@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/NNTPClient.java",
+			"leftBegin":1272,
+			"leftEnd":1274,
+			"rightPath":"src/java/org/apache/commons/net/nntp/NNTPClient.java",
+			"rightBegin":1271,
+			"rightEnd":1271
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/nntp/NNTPClient.java",
+			"leftBegin":1218,
+			"leftEnd":1219,
+			"rightPath":"src/java/org/apache/commons/net/nntp/NNTPClient.java",
+			"rightBegin":1218,
+			"rightEnd":1218
+		}
+	]
+]

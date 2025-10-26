@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/optimization/direct/CMAESOptimizerTest.java",
+			"leftBegin":99,
+			"leftEnd":99,
+			"rightPath":"src/test/java/org/apache/commons/math/optimization/direct/CMAESOptimizerTest.java",
+			"rightBegin":99,
+			"rightEnd":99
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+			"leftBegin":538,
+			"leftEnd":538,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+			"rightBegin":538,
+			"rightEnd":539
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+			"leftBegin":518,
+			"leftEnd":519,
+			"rightPath":"src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+			"rightBegin":518,
+			"rightEnd":519
+		}
+	]
+]

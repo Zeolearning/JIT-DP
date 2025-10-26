@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"leftBegin":150,
+			"leftEnd":149,
+			"rightPath":"src/test/org/apache/commons/collections/TestSequencedHashMap.java",
+			"rightBegin":150,
+			"rightEnd":173
+		}
+	]
+]

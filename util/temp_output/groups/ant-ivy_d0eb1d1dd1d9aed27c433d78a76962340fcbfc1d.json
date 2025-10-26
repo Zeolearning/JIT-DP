@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyFindRevision.java",
+			"leftBegin":96,
+			"leftEnd":96,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyFindRevision.java",
+			"rightBegin":96,
+			"rightEnd":96
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/ant/IvyBuildNumber.java",
+			"leftBegin":150,
+			"leftEnd":150,
+			"rightPath":"src/java/org/apache/ivy/ant/IvyBuildNumber.java",
+			"rightBegin":150,
+			"rightEnd":150
+		}
+	]
+]

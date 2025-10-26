@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-hadoop/src/test/java/parquet/hadoop/example/TestInputOutputFormat.java",
+			"leftBegin":50,
+			"leftEnd":50,
+			"rightPath":"parquet-hadoop/src/test/java/parquet/hadoop/example/TestInputOutputFormat.java",
+			"rightBegin":50,
+			"rightEnd":50
+		}
+	]
+]

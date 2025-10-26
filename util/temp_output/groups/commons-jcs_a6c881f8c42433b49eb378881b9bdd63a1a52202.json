@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"commons-jcs-tck-tests/src/test/java/org/apache/commons/jcs/jcache/EnsureCDIIsTestedWhenTCKsRunTest.java",
+			"leftBegin":38,
+			"leftEnd":40,
+			"rightPath":"commons-jcs-tck-tests/src/test/java/org/apache/commons/jcs/jcache/EnsureCDIIsTestedWhenTCKsRunTest.java",
+			"rightBegin":38,
+			"rightEnd":44
+		}
+	]
+]

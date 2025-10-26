@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/MethodGen.java",
+			"leftBegin":1171,
+			"leftEnd":1171,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/MethodGen.java",
+			"rightBegin":1173,
+			"rightEnd":1175
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/generic/MethodGen.java",
+			"leftBegin":1122,
+			"leftEnd":1122,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/generic/MethodGen.java",
+			"rightBegin":1122,
+			"rightEnd":1124
+		}
+	]
+]

@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/digester/annotations/providers/AttributeCallParamRuleProvider.java",
+			"leftBegin":31,
+			"leftEnd":31,
+			"rightPath":"src/main/java/org/apache/commons/digester/annotations/providers/AttributeCallParamRuleProvider.java",
+			"rightBegin":31,
+			"rightEnd":32
+		}
+	]
+]

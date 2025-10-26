@@ -1,0 +1,26 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/ftp/FTPSTrustManager.java",
+			"rightBegin":1,
+			"rightEnd":42
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/ftp/FTPSSocketFactory.java",
+			"rightBegin":1,
+			"rightEnd":87
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/net/ftp/FTPSClient.java",
+			"rightBegin":1,
+			"rightEnd":130
+		}
+	]
+]

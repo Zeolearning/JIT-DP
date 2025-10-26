@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"leftBegin":251,
+			"leftEnd":251,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"rightBegin":253,
+			"rightEnd":256
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"leftBegin":249,
+			"leftEnd":249,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/examples/Expander.java",
+			"rightBegin":249,
+			"rightEnd":251
+		}
+	]
+]

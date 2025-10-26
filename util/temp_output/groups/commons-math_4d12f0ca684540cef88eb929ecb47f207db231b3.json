@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java",
+			"leftBegin":366,
+			"leftEnd":365,
+			"rightPath":"src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java",
+			"rightBegin":366,
+			"rightEnd":435
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+			"leftBegin":378,
+			"leftEnd":377,
+			"rightPath":"src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+			"rightBegin":378,
+			"rightEnd":441
+		}
+	]
+]

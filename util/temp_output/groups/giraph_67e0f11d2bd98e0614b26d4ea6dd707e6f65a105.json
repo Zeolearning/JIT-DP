@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/partition/ByteArrayPartition.java",
+			"leftBegin":73,
+			"leftEnd":72,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/partition/ByteArrayPartition.java",
+			"rightBegin":73,
+			"rightEnd":76
+		}
+	],
+	[
+		{
+			"leftPath":"giraph-core/src/main/java/org/apache/giraph/graph/Vertex.java",
+			"leftBegin":43,
+			"leftEnd":43,
+			"rightPath":"giraph-core/src/main/java/org/apache/giraph/graph/Vertex.java",
+			"rightBegin":43,
+			"rightEnd":43
+		}
+	]
+]

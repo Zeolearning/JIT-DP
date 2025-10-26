@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BytePacker.java",
+			"leftBegin":83,
+			"leftEnd":83,
+			"rightPath":"parquet-column/src/main/java/parquet/column/values/bitpacking/BytePacker.java",
+			"rightBegin":83,
+			"rightEnd":83
+		}
+	]
+]

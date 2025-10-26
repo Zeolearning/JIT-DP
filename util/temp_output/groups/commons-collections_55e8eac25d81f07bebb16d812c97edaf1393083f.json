@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/list/TreeList.java",
+			"leftBegin":625,
+			"leftEnd":625,
+			"rightPath":"src/main/java/org/apache/commons/collections4/list/TreeList.java",
+			"rightBegin":625,
+			"rightEnd":625
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections4/ListUtils.java",
+			"leftBegin":676,
+			"leftEnd":678,
+			"rightPath":"src/main/java/org/apache/commons/collections4/ListUtils.java",
+			"rightBegin":676,
+			"rightEnd":675
+		}
+	]
+]

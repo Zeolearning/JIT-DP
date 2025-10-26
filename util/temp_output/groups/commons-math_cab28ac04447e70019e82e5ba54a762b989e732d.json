@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestBinary.java",
+			"leftBegin":51,
+			"leftEnd":50,
+			"rightPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestBinary.java",
+			"rightBegin":51,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestBinary.java",
+			"leftBegin":70,
+			"leftEnd":72,
+			"rightPath":"src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestBinary.java",
+			"rightBegin":72,
+			"rightEnd":73
+		}
+	]
+]

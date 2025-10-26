@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"leftBegin":158,
+			"leftEnd":157,
+			"rightPath":"opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java",
+			"rightBegin":158,
+			"rightEnd":161
+		}
+	]
+]

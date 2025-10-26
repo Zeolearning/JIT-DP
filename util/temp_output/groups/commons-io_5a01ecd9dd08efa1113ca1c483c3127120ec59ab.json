@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/output/StringBuilderWriterTest.java",
+			"leftBegin":52,
+			"leftEnd":52,
+			"rightPath":"src/test/org/apache/commons/io/output/StringBuilderWriterTest.java",
+			"rightBegin":52,
+			"rightEnd":52
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"leftBegin":111,
+			"leftEnd":113,
+			"rightPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"rightBegin":111,
+			"rightEnd":113
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"leftBegin":125,
+			"leftEnd":127,
+			"rightPath":"src/test/org/apache/commons/io/comparator/ComparatorAbstractTestCase.java",
+			"rightBegin":125,
+			"rightEnd":127
+		}
+	]
+]

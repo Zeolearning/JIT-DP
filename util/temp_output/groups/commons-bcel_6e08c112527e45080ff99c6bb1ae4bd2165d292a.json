@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/ClassVector.java",
+			"rightBegin":1,
+			"rightEnd":61
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/bcel6/classfile/Attribute.java",
+			"leftBegin":117,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/Attribute.java",
+			"rightBegin":117,
+			"rightEnd":131
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/util/ClassLoader.java",
+			"rightBegin":1,
+			"rightEnd":192
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/main/java/org/apache/commons/bcel6/classfile/AttributeReader.java",
+			"rightBegin":1,
+			"rightEnd":59
+		}
+	]
+]

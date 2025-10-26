@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/org/apache/parquet/column/statistics/TestStatistics.java",
+			"leftBegin":296,
+			"leftEnd":296,
+			"rightPath":"parquet-column/src/test/java/org/apache/parquet/column/statistics/TestStatistics.java",
+			"rightBegin":296,
+			"rightEnd":296
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-column/src/test/java/org/apache/parquet/column/statistics/TestStatistics.java",
+			"leftBegin":235,
+			"leftEnd":235,
+			"rightPath":"parquet-column/src/test/java/org/apache/parquet/column/statistics/TestStatistics.java",
+			"rightBegin":235,
+			"rightEnd":235
+		}
+	]
+]

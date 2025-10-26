@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedConnection.java",
+			"leftBegin":164,
+			"leftEnd":164,
+			"rightPath":"src/test/java/org/apache/commons/dbcp2/managed/TestManagedConnection.java",
+			"rightBegin":164,
+			"rightEnd":164
+		}
+	]
+]

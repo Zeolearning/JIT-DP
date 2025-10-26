@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/net/tftp/TFTPRequestPacket.java",
+			"leftBegin":195,
+			"leftEnd":196,
+			"rightPath":"src/java/org/apache/commons/net/tftp/TFTPRequestPacket.java",
+			"rightBegin":195,
+			"rightEnd":196
+		}
+	]
+]

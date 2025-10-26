@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"leftBegin":32,
+			"leftEnd":79,
+			"rightPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"rightBegin":50,
+			"rightEnd":49
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"leftBegin":31,
+			"leftEnd":30,
+			"rightPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"rightBegin":33,
+			"rightEnd":48
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"leftBegin":19,
+			"leftEnd":19,
+			"rightPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"rightBegin":19,
+			"rightEnd":18
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"leftBegin":21,
+			"leftEnd":21,
+			"rightPath":"src/test/org/apache/commons/collections/TestAll.java",
+			"rightBegin":20,
+			"rightEnd":23
+		}
+	]
+]

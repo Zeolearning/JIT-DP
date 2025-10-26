@@ -1,0 +1,30 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"leftBegin":338,
+			"leftEnd":337,
+			"rightPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"rightBegin":339,
+			"rightEnd":387
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"leftBegin":79,
+			"leftEnd":79,
+			"rightPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"rightBegin":79,
+			"rightEnd":80
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"leftBegin":2,
+			"leftEnd":4,
+			"rightPath":"src/test/org/apache/commons/dbcp/jdbc2pool/TestJdbc2PoolDataSource.java",
+			"rightBegin":2,
+			"rightEnd":4
+		}
+	]
+]

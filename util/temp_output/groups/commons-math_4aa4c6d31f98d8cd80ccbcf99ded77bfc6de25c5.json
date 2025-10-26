@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math4/random/EmpiricalDistributionTest.java",
+			"leftBegin":434,
+			"leftEnd":433,
+			"rightPath":"src/test/java/org/apache/commons/math4/random/EmpiricalDistributionTest.java",
+			"rightBegin":434,
+			"rightEnd":448
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/math4/random/EmpiricalDistribution.java",
+			"leftBegin":802,
+			"leftEnd":802,
+			"rightPath":"src/main/java/org/apache/commons/math4/random/EmpiricalDistribution.java",
+			"rightBegin":802,
+			"rightEnd":802
+		}
+	]
+]

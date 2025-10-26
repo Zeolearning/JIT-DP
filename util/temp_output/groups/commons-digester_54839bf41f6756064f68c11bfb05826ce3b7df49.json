@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"leftBegin":34,
+			"leftEnd":33,
+			"rightPath":"src/examples/xmlrules/addressbook/src/main/java/org/apache/commons/digester3/examples/xmlrules/addressbook/Address.java",
+			"rightBegin":34,
+			"rightEnd":34
+		}
+	]
+]

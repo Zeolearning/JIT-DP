@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/configuration/TestConfigurationKey.java",
+			"leftBegin":225,
+			"leftEnd":224,
+			"rightPath":"src/test/org/apache/commons/configuration/TestConfigurationKey.java",
+			"rightBegin":225,
+			"rightEnd":243
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"leftBegin":509,
+			"leftEnd":517,
+			"rightPath":"src/java/org/apache/commons/configuration/ConfigurationKey.java",
+			"rightBegin":509,
+			"rightEnd":511
+		}
+	]
+]

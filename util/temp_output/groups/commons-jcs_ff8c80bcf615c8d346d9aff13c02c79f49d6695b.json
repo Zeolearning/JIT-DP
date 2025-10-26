@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/engine/memory/mru/MRUMemoryCacheUnitTest.java",
+			"rightBegin":1,
+			"rightEnd":281
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/jcs/engine/memory/mru/LRUvsMRUPerformanceTest.java",
+			"rightBegin":1,
+			"rightEnd":163
+		}
+	]
+]

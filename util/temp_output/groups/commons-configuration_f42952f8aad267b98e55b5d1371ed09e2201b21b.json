@@ -1,0 +1,18 @@
+[
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/java/org/apache/commons/configuration/SubnodeConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":201
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/configuration/TestSubnodeConfiguration.java",
+			"rightBegin":1,
+			"rightEnd":313
+		}
+	]
+]

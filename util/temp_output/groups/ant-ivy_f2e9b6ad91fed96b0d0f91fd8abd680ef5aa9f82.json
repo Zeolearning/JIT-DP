@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/vfs/IvyWebdavConnectionManager.java",
+			"leftBegin":1,
+			"leftEnd":225,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/vfs/IvyWebdavFileSystem.java",
+			"leftBegin":1,
+			"leftEnd":34,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/vfs/IvyWebdavFileProvider.java",
+			"leftBegin":1,
+			"leftEnd":48,
+			"rightPath":null
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/ivy/plugins/repository/vfs/IvyWebdavClientFactory.java",
+			"leftBegin":1,
+			"leftEnd":87,
+			"rightPath":null
+		}
+	]
+]

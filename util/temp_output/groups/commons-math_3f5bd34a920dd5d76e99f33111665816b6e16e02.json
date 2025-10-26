@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/math/ode/ContinuousOutputModelTest.java",
+			"leftBegin":79,
+			"leftEnd":78,
+			"rightPath":"src/test/org/apache/commons/math/ode/ContinuousOutputModelTest.java",
+			"rightBegin":79,
+			"rightEnd":171
+		}
+	]
+]

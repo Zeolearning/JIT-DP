@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSetTest.java",
+			"leftBegin":1110,
+			"leftEnd":1109,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSetTest.java",
+			"rightBegin":1111,
+			"rightEnd":1146
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSetTest.java",
+			"leftBegin":27,
+			"leftEnd":26,
+			"rightPath":"src/test/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSetTest.java",
+			"rightBegin":27,
+			"rightEnd":27
+		}
+	]
+]

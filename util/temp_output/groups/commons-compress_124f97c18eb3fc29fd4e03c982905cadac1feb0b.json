@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"leftBegin":115,
+			"leftEnd":116,
+			"rightPath":"src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java",
+			"rightBegin":115,
+			"rightEnd":120
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtilsTest.java",
+			"leftBegin":81,
+			"leftEnd":81,
+			"rightPath":"src/test/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtilsTest.java",
+			"rightBegin":81,
+			"rightEnd":82
+		}
+	]
+]

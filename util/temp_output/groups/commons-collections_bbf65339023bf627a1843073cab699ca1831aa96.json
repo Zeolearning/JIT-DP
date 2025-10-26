@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java",
+			"leftBegin":446,
+			"leftEnd":445,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java",
+			"rightBegin":447,
+			"rightEnd":807
+		},
+		{
+			"leftPath":"src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java",
+			"leftBegin":23,
+			"leftEnd":22,
+			"rightPath":"src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java",
+			"rightBegin":23,
+			"rightEnd":23
+		}
+	]
+]

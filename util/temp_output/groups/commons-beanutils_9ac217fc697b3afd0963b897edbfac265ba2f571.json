@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira422TestCase.java",
+			"leftBegin":59,
+			"leftEnd":58,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/bugs/Jira422TestCase.java",
+			"rightBegin":59,
+			"rightEnd":59
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/beanutils/IndexedPropertyTestCase.java",
+			"leftBegin":231,
+			"leftEnd":230,
+			"rightPath":"src/test/java/org/apache/commons/beanutils/IndexedPropertyTestCase.java",
+			"rightBegin":231,
+			"rightEnd":231
+		}
+	]
+]

@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"leftBegin":1199,
+			"leftEnd":1198,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"rightBegin":1198,
+			"rightEnd":1198
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"leftBegin":1197,
+			"leftEnd":1197,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"rightBegin":1196,
+			"rightEnd":1196
+		}
+	],
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"leftBegin":1193,
+			"leftEnd":1193,
+			"rightPath":"src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java",
+			"rightBegin":1193,
+			"rightEnd":1192
+		}
+	]
+]

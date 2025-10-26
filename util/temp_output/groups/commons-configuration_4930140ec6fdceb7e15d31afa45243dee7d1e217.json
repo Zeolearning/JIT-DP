@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"src/test/java/org/apache/commons/configuration2/TestINIConfiguration.java",
+			"leftBegin":1227,
+			"leftEnd":1226,
+			"rightPath":"src/test/java/org/apache/commons/configuration2/TestINIConfiguration.java",
+			"rightBegin":1227,
+			"rightEnd":1247
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/INIConfiguration.java",
+			"leftBegin":945,
+			"leftEnd":945,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/INIConfiguration.java",
+			"rightBegin":949,
+			"rightEnd":949
+		}
+	],
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/configuration2/INIConfiguration.java",
+			"leftBegin":215,
+			"leftEnd":214,
+			"rightPath":"src/main/java/org/apache/commons/configuration2/INIConfiguration.java",
+			"rightBegin":215,
+			"rightEnd":218
+		}
+	]
+]

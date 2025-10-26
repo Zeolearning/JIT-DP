@@ -1,0 +1,22 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/Configuration.java",
+			"leftBegin":29,
+			"leftEnd":29,
+			"rightPath":"src/java/org/apache/commons/configuration/Configuration.java",
+			"rightBegin":28,
+			"rightEnd":28
+		}
+	],
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/configuration/Configuration.java",
+			"leftBegin":23,
+			"leftEnd":23,
+			"rightPath":"src/java/org/apache/commons/configuration/Configuration.java",
+			"rightBegin":23,
+			"rightEnd":22
+		}
+	]
+]

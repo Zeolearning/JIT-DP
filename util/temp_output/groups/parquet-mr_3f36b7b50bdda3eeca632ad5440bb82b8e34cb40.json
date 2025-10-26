@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"leftPath":"parquet-thrift/src/test/java/org/apache/parquet/thrift/TestProtocolReadToWrite.java",
+			"leftBegin":223,
+			"leftEnd":222,
+			"rightPath":"parquet-thrift/src/test/java/org/apache/parquet/thrift/TestProtocolReadToWrite.java",
+			"rightBegin":223,
+			"rightEnd":259
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"leftBegin":389,
+			"leftEnd":393,
+			"rightPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"rightBegin":392,
+			"rightEnd":392
+		}
+	],
+	[
+		{
+			"leftPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"leftBegin":378,
+			"leftEnd":377,
+			"rightPath":"parquet-thrift/src/main/java/org/apache/parquet/thrift/BufferedProtocolReadToWrite.java",
+			"rightBegin":378,
+			"rightEnd":380
+		}
+	]
+]

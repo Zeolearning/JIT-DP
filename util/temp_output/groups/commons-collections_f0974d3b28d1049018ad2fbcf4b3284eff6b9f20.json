@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":186,
+			"leftEnd":188,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":188,
+			"rightEnd":190
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":175,
+			"leftEnd":174,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":176,
+			"rightEnd":176
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":163,
+			"leftEnd":165,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":164,
+			"rightEnd":166
+		},
+		{
+			"leftPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"leftBegin":152,
+			"leftEnd":151,
+			"rightPath":"src/main/java/org/apache/commons/collections/ListUtils.java",
+			"rightBegin":152,
+			"rightEnd":152
+		}
+	]
+]

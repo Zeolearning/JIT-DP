@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"leftPath":"src/java/org/apache/commons/digester/Digester.java",
+			"leftBegin":1041,
+			"leftEnd":1040,
+			"rightPath":"src/java/org/apache/commons/digester/Digester.java",
+			"rightBegin":1041,
+			"rightEnd":1068
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/NamespacedBox.java",
+			"rightBegin":1,
+			"rightEnd":45
+		}
+	],
+	[
+		{
+			"leftPath":null,
+			"rightPath":"src/test/org/apache/commons/digester/NamespaceSnapshotTestCase.java",
+			"rightBegin":1,
+			"rightEnd":126
+		}
+	]
+]

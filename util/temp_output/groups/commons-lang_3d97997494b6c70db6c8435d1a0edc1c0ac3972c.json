@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/NestableDelegateTestCase.java",
+			"leftBegin":576,
+			"leftEnd":577,
+			"rightPath":"src/test/org/apache/commons/lang/exception/NestableDelegateTestCase.java",
+			"rightBegin":576,
+			"rightEnd":578
+		},
+		{
+			"leftPath":"src/test/org/apache/commons/lang/exception/NestableDelegateTestCase.java",
+			"leftBegin":69,
+			"leftEnd":69,
+			"rightPath":"src/test/org/apache/commons/lang/exception/NestableDelegateTestCase.java",
+			"rightBegin":69,
+			"rightEnd":69
+		}
+	]
+]
