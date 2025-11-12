@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from networkx.readwrite import json_graph
 import networkx as nx
 
@@ -32,3 +33,14 @@ def graph_to_json(obj: nx.MultiDiGraph):
     return json.dumps(json_graph.node_link_data(obj, link="edges"), default=set_default)
 
 
+def preprocess_code_line(code):
+    code = code.replace('(', ' ').replace(')', ' ').replace('{', ' ').replace('}', ' ').replace('[', ' ').replace(']',
+                                                                                                                  ' ').replace(
+        '.', ' ').replace(':', ' ').replace(';', ' ').replace(',', ' ').replace(' _ ', '_')
+
+    code = re.sub('``.*``', '<STR>', code)
+    code = re.sub("'.*'", '<STR>', code)
+    code = re.sub('".*"', '<STR>', code)
+    code = re.sub('\d+', '<NUM>', code)
+    code = re.sub(r'\s+', ' ', code)
+    return code.strip()
